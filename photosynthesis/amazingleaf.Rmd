@@ -1,0 +1,280 @@
+---
+title: "The Amazing Leaf"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+##
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:400px; HEIGHT:600px" SRC="images/plantbiomass.png">
+
+<div style="float: right; width: 45%;">
+
+https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas
+</div>
+
+## Leaf structure and why it matters
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/leaf_structure2.jpg">
+
+## Leaves exchange gases via stomata
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/stomata.png">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:425px; WIDTH:625px; HEIGHT:325px" SRC="images/stomata6.jpg">
+
+## How stomata work...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/stomata4b.jpg">
+
+## Leaf gas exchange impacts global ecology
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/maunaloa.png">
+
+## Vascular tissues in leaves are confined to veins
+<hr>
+<br/>
+
+<div style="float: right; width: 65%;">
+* **_Transpiration_ is a by‐product of opening stomatal pores**
+<br/>
+
+* **H~2~O transport needs to be sufficient to keep stomata open** 
+<br/>
+
+* **Venation represents investment in H~2~O supply**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:80px; WIDTH:250px; HEIGHT:350px" SRC="images/leafveins.jpg">
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:395px; WIDTH:600px; HEIGHT:300px" SRC="images/venation.jpg">
+
+## How leaf veins changed the world....
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
+
+## Are plants intelligent? Leaf economic theory
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafecon.png">
+
+## Photosynthesis is complicated....
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:185px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/scholar.jpg">
+
+<!-- ## What do we do when we are hungry? -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:350px; HEIGHT:250x" SRC="images/hangry.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/fastfood.jpg"> -->
+
+## What do plants do when they are hungry?
+<hr>
+    
+<IMG STYLE="position:absolute; TOP:185px; LEFT:75px; WIDTH:950px; HEIGHT:350px" SRC="images/candy.png">
+
+<IMG STYLE="position:absolute; TOP:555px; LEFT:250px; WIDTH:600px; HEIGHT:100px" SRC="images/equation.jpg">
+
+## Photosynthesis is the basis for most life on Earth
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Greek = “building with light”**
+* **Autotroph = “self nourishing”**
+* **Photoautotroph = “self nourishing with light”**
+
+<br/>
+
+* **Photosynthesis is an energy pathway**
+    + 2 linked reactions
+    + light reaction + Calvin cycle
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/reactions.jpg">
+
+## Chloroplasts: Where the magic happens
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/chlroplasts4.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/chlroplasts3.png">
+
+## The nature of light
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/light_spectrum.jpg">
+
+## When light hits chlorophyll a few things can happen
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/chlroplasts_light.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/pigments.jpg">
+
+## When pigments absorb photons an election gets excited
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/excite.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/resonance.jpg">
+
+## Photosystems (2) convert light energy to chemical energy
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:425px; HEIGHT:450px" SRC="images/photosystem.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:450px; WIDTH:650px; HEIGHT:325px" SRC="images/lightreaction3.png">
+
+## Light reactions: make ATP + NADPH for Calvin cycle
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/photosystems2.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg">
+
+## Dark Reactions (aka Calvin cycle)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/calvin3.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.png">
+
+## Calvin cycle is a 3-step process
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
+
+
+<div style="float: right; width: 50%;">
+
+* **1. Fixation: CO~2~ reacts with 5C molecule (RUBP)**
+    + new 6C split into 2 acids (3C each)
+    + catalyzed by Rubisco enzyme
+
+<br/>
+
+* **2. ATP and NADPH turn 3C acids into sugars**
+    + reduction of acids
+
+<br/>
+
+* **3. Some 3C sugars recycled to make RUBP (5C)**
+    + one 3C sugar leaves to make glucose
+    + recycling needs ATP
+    
+ </div>
+
+## Making sugars requires several cycles
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin2.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
+
+<!-- ## Rubisco - the enzyme that dominates carbon fixation -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:425px; HEIGHT:400px" SRC="images/rubisco.jpg"> -->
+
+<!-- <div style="float: right; width: 55%;"> -->
+
+<!-- * **Most abundant enzyme in the world** -->
+
+<!-- <br/> -->
+
+<!-- * **Most CO~2~ converted into biomass is fixed by Rubisco** -->
+
+<!-- <br/> -->
+
+<!-- * **Large molecule : 16 polypeptides : 8 active sites** -->
+
+<!-- </div> -->
+
+<!-- ## Rubisco: the clunky and slow carbon fixer -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+
+<!-- <div style="float: left; width: 55%;"> -->
+
+<!-- * **Only 3-10 reactions per second** -->
+
+<!-- <br/> -->
+
+<!-- * **20% error rate** -->
+<!--     * gets worse at high temperatures -->
+
+<!-- <br/> -->
+
+<!-- * **Performs carboxylation and OXYGENATION** -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:500px; WIDTH:500px; HEIGHT:250px" SRC="images/photorespiration.jpeg"> -->
+
+<!-- ## C3 photosynthesis how did we get here... -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+
+<!-- <div style="float: left; width: 55%;"> -->
+
+<!-- * **Evolution doesn't necessarily create the best solution** -->
+
+<!-- <br/> -->
+
+<!-- * **Oxygenation products are completely wasteful** -->
+
+<!-- <br/> -->
+
+<!-- * **2x energy to produce the same amount of sugar than if Rubisco just reacted with CO~2~** -->
+
+<!--  </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:325px; HEIGHT:450px" SRC="images/atmosphere.png"> -->
+
+<!-- ## Calvin Benson won a Nobel prize, his TA won best practical joke -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bensonwilson.png"> -->

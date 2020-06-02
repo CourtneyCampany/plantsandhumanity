@@ -1,0 +1,128 @@
+---
+title: "Why should we care about the study of plants?"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Without plants, most life would not exist!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/voc.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:550px; HEIGHT:300px" SRC="images/voc2.png">
+
+## Photosynthesis has provided O~2~ for billions of years
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/lifeevolve.jpg">
+
+## Photosynthesis has provided O~2~ for billions of years
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 65%;">
+
+* **&uarr; [O~2~]  provided a new metabolic opportunity for biological diversification**
+
+<br/>
+
+* **&uarr; [O~2~] promotes changes in chemical interactions between rocks, sand, clay, air, oceans, etc.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/bif.jpg">
+
+## Plants conditioned the land for animals
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:5px; WIDTH:650px; HEIGHT:250px" SRC="images/planttime.jpg">
+
+<div style="float: right; width: 37%;">
+
+* **400 MYA: oldest know insects**
+
+<br/>
+
+* **397 MYA: tetrapods evolve in shallow water**
+
+<br/>
+
+* **340 MYA: amphibians evolve**
+
+<br/>
+
+* **310 MYA: reptiles evolve**
+
+<br/>
+
+* **Then... a bunch of mass extinctions**
+</div>
+
+## Almost every living thing interacts with plants in some way
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/symbiosis.jpg">
+
+## Plants are responsible for the products *WE* rely on
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Vegetable and animal matter via agriculture and pasture lands**
+
+<br/>
+
+* **Textiles, lumber and medicine provide us quality of life**
+
+<br/>
+
+* **Spices, perfumes, dyes,  food stabilizers, emulsifiers, Starbuck's, etc. allow us to live our best life**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/coffee.png">
+
+## Plants may be respsible for the *future* products we rely on
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:450px; HEIGHT:325px" SRC="images/biofuel.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:275px" SRC="images/ethanol.jpg">
+
+## Plants may be respsible for the *future* products we rely on
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/jobs.png">
+
+## This semester, we will.....
+<hr>
+<br/>
+<br/>
+
+* **Learn to identify plants in the wild**
+    + build real and virtual plant collections
+    + learn the value of plants in the wild
+
+<br/>
+
+* **Understand how plants function**
+    + identify how these processes affect humans
+
+<br/>
+
+* **Explore the past, present and future of agriculture**
+
+<br/>
+
+* **Dig into the various ways plants define our culture**
