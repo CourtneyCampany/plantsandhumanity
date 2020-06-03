@@ -123,6 +123,19 @@ output:
 
 * **Explore the past, present and future of agriculture**
 
-<br/>
+c
 
 * **Dig into the various ways plants define our culture**
+
+
+<div style="float: right; width: 40%;">
+* **Start downloading some cool APPS**
+    + inaturalist
+    + seek (by inaturlist)
+    + itree
+
+<br/>
+
+* **We will embrace tech, and use them all semseter!**
+
+</div>
