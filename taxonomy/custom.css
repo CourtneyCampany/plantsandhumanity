@@ -2,9 +2,9 @@
 .title-slide {
   background-color: #FFFFFF;
    /*background-color: #CBE7A5; #EDE0CF; ; #CA9F9D*/
-  background-image:url("images/quote.jpg");
+  background-image:url("images/botany.jpg");
   background-size: 60% 60%;
-  background-position: 225px 40px;
+  background-position: 225px 50px;
   background-repeat: no-repeat;
 }
 
@@ -27,8 +27,8 @@ hr {
 height: 4px;
 margin-left: auto;
 margin-right: auto;
-background-color:#09AD0E;
-color:#09AD0E ;
+background-color:#157818;
+color:#157818 ;
 border: 0 none;
 }
 

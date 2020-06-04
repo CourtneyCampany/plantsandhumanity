@@ -1,6 +1,10 @@
 ---
 title: "Plant Taxonomy"
-output: ioslides_presentation
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
 ---
 
 ```{r setup, include=FALSE}
@@ -23,12 +27,12 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Diversity: There are many kinds of plants and hundreds of thousands of species**
-    + But the basic lineages of plants are farily easy
-    + new characters define the evolution of these lineages
+    + But the basic lineages of plants are fairly easy
+    + new characters define evolution of lineages
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/phylogeny.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:535px; WIDTH:550px; HEIGHT:425px" SRC="images/phylogeny.png">
     
 ## Taxonomy
 <hr>
@@ -41,13 +45,15 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Linnaeus founded binomial system and classification hierarchy**  
-    + King Phillip Came Over From Germany Stones
+    + *King Phillip Came Over From Germany Stoned*
     + each level or unit is called a taxon w/ standardized endings
 
 <br/>
 
 * **Kingdom is most inclusive group, species is least inclusive** 
     + in your generation these hierarchy may become obsolute via molecular markers
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:725px; WIDTH:325px; HEIGHT:300px" SRC="images/taxlevels.jpg">
 
 ## Taxonomy has predictive value...
 <hr>
@@ -58,45 +64,23 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Case Study: Pacific yew (*Taxus brevifolia*)**
-    + Taxol: alkaloid first isolated from the bark and used to treat breast cancer. 
-    + FDA approval in 1994 but the bark of 3 trees is needed for 1 patient. 
-    + 16,000 pounds of bark is used to produce 2.2 pounds of taxol. 
+    + Taxol: alkaloid first isolated from the bark and used to treat breast cancer 
+    + FDA approval in 1994 but the bark of 3 trees is needed for 1 patient 
+    + 16,000 pounds of bark is used to produce 2.2 pounds of taxol 
 
 <br/>
 
 * **Search for taxol was successul in other members of the genus**
     + has made drug more available
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:300px; HEIGHT:450px" SRC="images/yew.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:815px; WIDTH:225px; HEIGHT:425px" SRC="images/yew.jpg">
 
 ## Nomenclature
 <hr>
-<br/>
 
-<div style="float: left; width: 50%;">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:600px; HEIGHT:400px" SRC="images/alice2.jpg">
 
-**"Must a name mean something?
-"Of course it must," Humpty Dumpty said with a short laugh.
-"My name means the shape I am - and a good handsome shape it is, too. With a name like yours, you might be any shape, almost."
-
-Through the Looking Glass - Lewis Carroll
-
-</div>
-
-<div style="float: right; width: 50%;">
-
-"tis but thy name this is my enemy;
-Thou art thyself, though not a Montague.
-What's a Montague? it is nor hand, nor foot,
-Nor arm, nor face, nor any other part
-Belonging to a man. O! be some other name:
-What's in a name? that which we call a rose
-By any other name would smell as sweet;
-So Romeo would, were he not Romeo call'd.
-
-William Shakespeare
-
-</div>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:250px; HEIGHT:400px" SRC="images/alice.jpg">
 
 ## Common names vs Scienitific nomenclature
 <hr>
@@ -117,13 +101,13 @@ William Shakespeare
     + may reflect language barriers
     + may be botanically incorrect (e.g. Jerusalem artichoke)
     
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:300px; HEIGHT:450px" SRC="images/anise.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:625px; WIDTH:375px; HEIGHT:225px" SRC="images/anise.jpg">
 
 ## Common names vs Scienitific nomenclature
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 60%;">
 
 * **The rule book for botanical nomenclature is the International Code of Botanical Nomenclature (ICBN)**
     + every plant gets 1 binomial name
@@ -140,29 +124,31 @@ William Shakespeare
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:250px" SRC="images/suffix.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/suffix.png">
 
 ## Identifying a species usually requires a dichotmous key
 <hr>
 <br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/keyanimals.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:500px; HEIGHT:375px" SRC="images/keyanimals.png">
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 55%;">
 
 * **Keys consists of paired questions ('couplets')**
-    + resembles a choose your own adventure book!
-    + choose the statement that fits your specimin, guiding you forward
+    + resembles choose your own adventure books
+    + choose the statement that fits your specimen
+    + guides you forward through selection steps
 
 <br/>
 
 * **We will need to bypass this process in this class**
-    + we will utilize online tools that cut out the work
+    + we will utilize online tools that help
     + phone apps and interactive keys
     
 <br/>
     
-* **I still want you to learn the major diagnostic characters!!**
+* **I want you to learn major diagnostic characters**
 
 </div>
 
@@ -172,6 +158,307 @@ William Shakespeare
 
 https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 
+## We must learn vegetative terminology!!
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **The amount of terminology used in Plant Taxonomy may, at times, seem overwhelming**
+
+<br/>
+
+* **A feature of a plant is called a *character* and the specific form of the character is  a *state*.**
+
+<br/>
+
+* **First, we focus on vegetative (non-reproductive) parts**
+    + includes the 3 primary organs - leaf, root, stem
+    + you will need many states to ID a plant!
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:300px; HEIGHT:450px" SRC="images/organs.jpg">
+
+## Life span/Duration: 
+<hr>
+<br/>
+
+<div style="float: left; width: 53%;">
+
+* **Annual: completes life cycle in a single year**
+* **Biennial: completes life cycle in two years**
+* **Perennial: lives more than two seasons**
+
+<br/>
+
+* **Evergreen: keeps its leaves year-round**
+* **Deciduous: looses its leaves at the end of growing season**
+
+<br/>
+
+* **Hard to determine what a herbaceous plant is...**
+    + annuals have small slender taproots, while biennials/perennials are larger. 
+    + biennials & perennials often have storage structures (bulbs)
+    + plants with woody stems are perennials
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:520px; HEIGHT:400px" SRC="images/lifecycle.jpg">
+
+## Plant vegetative organs (only 3! plants are easy!)
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:325px; HEIGHT:450px" SRC="images/organs2.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Root:  anchor and absorbs, underground, develop from radicle in seed**
+
+<br/>
+
+* **Leaf:  photosynthetic organ, attached to stem, has a bud at its base**
+
+<br/>
+
+* **Stem - leaf-bearing organ, with buds**
+
+<br/>
+
+* **Some plants lack one or more of these structures**
+    + aquatic plants often lack roots and cacti lack leaves.
+
+</div>
+
+## Leaf parts
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Blade - main photosynthetic part**
+
+<br/>
+
+
+* **Petiole - a fancy term for the stalk**
+
+<br/>
+
+* **Stipules - appendage at base of petiole in some leaves**
+    + Stipules can be glandular, leafy, spiny, or scale-like
+    + Often,  stipules fall off  after the leaf expands
+ 
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/leaf.jpg">
+
+##  Leaf structure
+<hr>
+<br/>
+
+* **simple - leaf blade all one section**
+
+<br/>
+
+* **compound - leaf blade divided into smaller sections called leaflets**
+    + leaflet - section of a compound leaf
+<br/>
+
+* **rachis - stalk that supports leaflets in a compound leaf; central axis**
+    + rachilla - stalk that supports lateral leaflets
+
+<br/>
+
+* **pinnately compound - like a feather**
+
+<br/>
+
+* **palmately compound - like the fingers on your hand**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/compund.jpg">
+
+## Leaf Arrangement
+<hr>
+<br/>  
+<br/> 
+
+<div style="float: left; width: 50%;">
+
+* **Leaves may be found at  base(e.g. dandelion), along the stem, or both**  
+
+<br/>
+
+* **Leaves are attached at nodes:**
+1. alternate - one leaf per node
+2. opposite - two leaves per node
+3. whorled - more than two leaves per node; not common in temperate woody plants
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:525px; WIDTH:500px; HEIGHT:300px" SRC="images/arrange.gif">
+
+## Trees with opposite leaves = MADCAP HORSE
+<hr>
+<br/>  
+<br/> 
+<br/> 
+
+* **M=maple; A=ash; D=dogwood** 
+
+<br/>  
+
+* **CAP=Caprifoliaceae or Honeysuckle family**
+
+<br/>  
+
+* **Horse = Horsechestnut and buckeye**
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:600px; WIDTH:300px; HEIGHT:200px" SRC="images/maple.jpg">
+
+## Leaf Venation
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 40%;">
+
+* **pinnate: single main vein with secondary veins branching**
+    + like a feather
+
+<br/>
+
+* **palmate: several primary veins arising from a one point**
+
+<br/>
+
+* **parallel:  primary & secondary veins parallel**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:470px; WIDTH:600px; HEIGHT:400px" SRC="images/venation.jpg">
+
+## Leaf margin
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **entire: margin smooth**
+
+<br/>
+
+* **lobed: margin with indentations**
+
+<br/>
+
+* **serrate: margin toothed**
+    + Singly or doubly toothed
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/margin.jpg">
+
+## Surface features
+<hr>
+<br/>
+<br/>
+<br/>
+
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/surface.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **glabrous - no hairs, smooth surface**
+
+<br/>
+
+* **pubescent - hairy; due to trichomes**
+
+<br/>
+
+* **glaucous - powdery covering**
+
+<br/>
+
+* **scabrous - rough to the touch like sandpaper**
+
+</div>
+
+## Leaf shape: There are sooooo many
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/shape.jpg">
+
+## Quiz: Diagnose the characters of these leaves
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/quiz.png">
+
+## Stem features
+<hr>
+
+<div style="float: left; width: 57%;">
+
+* **Node:  region where leaf is attached**
+    + internode - region between nodes
+    + axil - junction of leaf and stem
+
+<br/>
+
+* **Bud - embryonic shoot and/or flowers**
+    + found in the leaf axil; at the base of leaf
+    + axillary/lateral:  buds along stem
+    + terminal: buds at the end of the stem
+    + scales: protective covering over bud
+
+<br/>
+
+* **Terminal bud scale scar: left on stem where the terminal bud scales fell off**
+    + count to determine age of twig
+
+<br/>
+
+* **Leaf scar: left on stem where leaf detached**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:475px; HEIGHT:450px" SRC="images/nodes.jpg">
+
+## Know your bark!
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/bark.png">
+
+## Get collecting!!
+<hr>
+<br/>
+
+* **20 pressed specimens**
+    + plant presses must stay in SS 303
+    
+<br/>
+
+* **30 digital collections**
+    + use.....
+    
+<br/>
+
+* **30 field guide drawings in your sketchbook**
+    + sketch each leaf and other characters
+    + list the diagnostic characters
+    + 2-3 ecological/cultural facts
+    + add diagnostic characters (this lecture) in your sketchbook
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:325px; HEIGHT:450px" SRC="images/sketch.jpg">
+    
 ## Web Resources and Plant ID apps
 <hr>
 <br/>
@@ -197,269 +484,3 @@ https://www.inaturalist.org/pages/seek_app
 <br/>
 
 https://www.inaturalist.org/
-
-## We must learn vegetative terminology!!
-<hr>
-<br/>
-
-* **The amount of terminology used in Plant Taxonomy may, at times, seem overwhelming**
-
-<br/>
-
-* **A feature of a plant is called a *character* and the specific form of the character is  a *state*.**
-
-<br/>
-
-* **First, we focus on vegetative (non-reproductive) parts**
-    + includes the 3 primary organs - leaf, root, stem
-    + you will need many states to ID a plant!
-    
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:400px; HEIGHT:450px" SRC="images/organs.jpg">
-
-## Life span/Duration: 
-<hr>
-<br/>
-
-<div style="float: left; width: 50%;"
-
-* **annual: completes life cycle in a single year**
-* **biennial: completes life cycle in two years**
-* **perennial: lives more than two seasons**
-
-<br/>
-
-* **evergreen: keeps its leaves year-round**
-* **deciduous: looses its leaves at the end of the growing season**
-
-<br/>
-
-* **It is difficult to determine if a herbaceous plant is an annual, perennial or biennial**
-    + annuals have small slender taproots, while biennials/perennials are larger. 
-    + biennials and perennials often have storage structures (bulbs)
-    + plants with woody stems are perennials
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:400px; HEIGHT:450px" SRC="images/lifecycle.jpg">
-
-## Plant vegetative organs (only 3! plants are easy!)
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:400px; HEIGHT:450px" SRC="images/organs2.jpg">
-
-<div style="float: right; width: 50%;"
-
-* **Root:  anchor and absorbs, underground, develop from radicle in seed**
-
-<br/>
-
-* **Leaf:  photosynthetic organ, attached to stem, has a bud at its base**
-
-<br/>
-
-* **Stem - leaf-bearing organ, with buds**
-
-<br/>
-
-* **Some plants lack one or more of these structures**
-    + aquatic plants often lack roots and cacti lack leaves.
-
-</div>
-
-## Leaf parts
-<hr>
-<br/>
-
-* **Blade - main photosynthetic part**
-
-<br/>
-
-
-* **Petiole - a fancy term for the stalk**
-
-<br/>
-
-* **Stipules - appendage at base of petiole in some leaves**
-    + Stipules can be glandular, leafy, spiny, or scale-like
-    + Often,  stipules fall off  after the leaf expands
-    
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:400px; HEIGHT:450px" SRC="images/leaf.jpg">
-
-##  Leaf structure
-<hr>
-<br/>
-
-* **simple - leaf blade all one section**
-
-<br/>
-
-* **compound - leaf blade divided into smaller sections called leaflets**
-    + leaflet - section of a compound leaf
-<br/>
-
-* **rachis - stalk that supports leaflets in a compound leaf; central axis**
-    + rachilla - stalk that supports lateral leaflets
-
-<br/>
-
-* **pinnately compound - like a feather**
-
-<br/>
-
-* **palmately compound - like the fingers on your hand**
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:400px; HEIGHT:450px" SRC="images/compund.jpg">
-
-## Leaf Arrangement
-<hr>
-<br/>  
-    
-* **Leaves may be found at  base(e.g. dandelion), along the stem, or both**  
-
-<br/>
-
-* **Leaves are attached at nodes:**
-1. alternate - one leaf per node
-2. opposite - two leaves per node
-3. whorled - more than two leaves per node; not common in temperate woody plants
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:400px; HEIGHT:450px" SRC="images/arrange.gif">
-
-## Trees with opposite leaves = MADCAP HORSE
-<hr>
-<br/>  
-
-* **M=maple; A=ash; D=dogwood** 
-
-<br/>  
-
-* **CAP=Caprifoliaceae or Honeysuckle family**
-
-<br/>  
-
-* **Horse = Horsechestnut and buckeye**
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:400px; HEIGHT:450px" SRC="images/maple.jpg">
-
-## Leaf Venation
-<hr>
-<br/>
-
-* **pinnate: single main vein with secondary veins branching from it like a feather**
-
-<br/>
-
-* **palmate: several primary veins arising from a common point**
-
-<br/>
-
-* **parallel:  primary and secondary veins parallel to one another**
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:425px; WIDTH:600px; HEIGHT:400px" SRC="images/venation.jpg">
-
-## Leaf margin
-<hr>
-<br/>
-
-* **entire: margin smooth**
-
-<br/>
-
-* **lobed: margin with indentations**
-
-<br/>
-
-* **serrate: margin toothed**
-    + Singly or doubly (each tooth has a tooth) toothed
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:425px; WIDTH:600px; HEIGHT:400px" SRC="images/margin.jpg">
-
-## Surface features
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/surface.jpg">
-
-<div style="float: right; width: 50%;"
-
-* **glabrous - no hairs, smooth surface**
-
-<br/>
-
-* **pubescent - hairy; due to trichomes**
-
-<br/>
-
-* **glaucous - powdery covering**
-
-<br/>
-
-* **scabrous - rough to the touch like sandpaper**
-
-</div>
-
-## Leaf shape: There are sooooo many
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:700px; HEIGHT:450px" SRC="images/shape">
-
-
-## Quiz: Diagnose the characters of these leaves
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:700px; HEIGHT:450px" SRC="images/quiz.png">
-
-## Stem features
-<hr>
-<br/>
-
-* **node:  region to which a leaf is attached**
-    + internode - region between nodes
-    + axil - junction of leaf and stem
-
-<br/>
-
-* **bud - embryonic shoot and/or flowers**
-    + found in the leaf axil; at the base of leaf
-    + axillary/lateral:  buds along stem
-    + terminal: buds at the end of the stem
-    + scales:  protective covering over bud
-
-<br/>
-
-* **terminal bud scale scar: left on stem where the terminal bud scales fell off**
-    + count to determine age of twig)
-
-<br/>
-
-* **leaf scar: left on stem where leaf detached**
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:700px; HEIGHT:450px" SRC="images/nodes.jpg">
-
-## Know your bark!
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:700px; HEIGHT:450px" SRC="images/bark.png">
-
-## Get collecting!!
-<hr>
-<br/>
-
-* **20 pressed specimens**
-    + plant presses must stay in SS 303
-    
-<br/>
-
-* **30 digital collections**
-    + use.....
-    
-<br/>
-
-* **30 field guide drawings in your sketchbook**
-    + sketch each leaf and other characters
-    + list the diagnostic characters
-    + 2-3 ecological/cultural facts
