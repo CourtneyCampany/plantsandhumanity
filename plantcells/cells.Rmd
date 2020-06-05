@@ -1,0 +1,101 @@
+---
+title: "Plant Cells"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+##  Plant form and function is ruled by cells
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Cell walls maintain physical framework*
+    + maintain turosity of cells
+
+<br/>
+
+* **Root cells start the uptake and transport of water**
+
+<br/>
+
+* **Specific leaf cells are specilzaed for photosynthesis**
+
+<br/>
+* **Cell biology of flowers controls reproduction**
+    + cells producing pigments and nectar 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:535px; WIDTH:550px; HEIGHT:425px" SRC="images/phylogeny.png">
+
+## PLant cell walls
+<hr>
+<br/>
+
+* **mostly made of cellulose**
+    + strength and protection of cytoplasm
+    
+* **metabolism does occur (so not inert)**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:535px; WIDTH:500px; HEIGHT:400px" SRC="images/cellwall.jpg">
+
+<div style="float: right; width: 50%;">
+
+
+</div>
+
+## Plant cell membranes
+<hr>
+<br/>
+
+* **Membrane covers the surface of the protoplasm**
+    + proteins differ on in/outside
+
+* **Impermeable to bad stuff, permeable to beneficial stuff**
+
+* **Molecular pumps transport molecules in and out**
+
+
+## Anatomy of a plant cell
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:535px; WIDTH:500px; HEIGHT:400px" SRC="images/plantcell.jpg">
+
+* **Virtually all plant cells, although diverse, have conserved organelles**
+    + roots, wood, barks, leaves, flowers
+    + certain organeels can become modified
+
+<br/>
+
+* **Contain *protoplasm*: water + proteins, lipids & nucleic acids**
+
+<br/>
+
+* **Nucleus, ribsomes and endoplasmic reticulum**
+
+<br/>
+
+* **Golgi apparatus: transport, modify, and package proteins & lipids for delivery**
+
+<br/>
+
+* **Peroxisomes: organelle that produces or uses peroxide**
+    + detoxify product of photosynthesis
+    
+</div>
+
+## plastids
+    
+## Does calcium make strong bones in plants?
+
+## cell division
+
+## cancerous growth in plants?
+
+## Basic cell types
+
