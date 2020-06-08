@@ -23,8 +23,6 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 65%;">
 
@@ -33,6 +31,11 @@ output:
 <br/>
 
 * **&uarr; [O~2~] promotes changes in chemical interactions between rocks, sand, clay, air, oceans, etc.**
+
+<br/>
+
+* **Allows plants to be the base of every food chain**
+    + starch storage in plants is major human food source
 
 </div>
 
@@ -104,6 +107,30 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/jobs.png">
+
+## Angiosperms are most important for humans
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Flowering plants are most diverse and abundant group**
+    + ~350,000 species
+    + relatively new in terms of evolution
+    
+<br/>
+
+* **Most plant products utilized by society from angiosperms**
+    + nearly all food staples
+    
+<br/>
+
+* **Spices, perfumes, dyes,  food stabilizers, emulsifiers, Starbuck's, etc. allow us to live our best life**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/potato.jpg">
+
 
 ## This semester, we will.....
 <hr>

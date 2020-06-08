@@ -13,6 +13,11 @@ output:
 
 <div style="float: left; width: 50%;">
 
+* **Plant cells range from 10-100um in length**
+    + 250-2500 to an inch
+
+<br/>
+
 * **Cell walls maintain physical framework*
     + maintain turosity of cells
 
@@ -22,53 +27,101 @@ output:
 
 <br/>
 
-* **Specific leaf cells are specilzaed for photosynthesis**
+* **Specific leaf cells are specialzed for photosynthesis**
 
 <br/>
+
 * **Cell biology of flowers controls reproduction**
     + cells producing pigments and nectar 
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:535px; WIDTH:550px; HEIGHT:425px" SRC="images/phylogeny.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/cellsize.jpg">
 
-## PLant cell walls
+## Plant cell walls
 <hr>
 <br/>
 
-* **mostly made of cellulose**
-    + strength and protection of cytoplasm
-    
-* **metabolism does occur (so not inert)**
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:535px; WIDTH:500px; HEIGHT:400px" SRC="images/cellwall.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:500px; HEIGHT:370px" SRC="images/fibrils.jpg">
 
 <div style="float: right; width: 50%;">
 
+* **Mostly made of cellulose**
+    + strength and protection of protoplast
+    + chains of cellulose molecules (*fibrils*)
 
+<br/>
+
+* **Metabolism does occur (so not inert)
+
+<br/>
+
+* **Consists or 1 *or* 2 layers**
+    + primary wall (1^st^ layer) = cellulse fibers
+    + secondary wall (internal) = lignin
+
+<br/>
+
+* **Sticky layer (*lamella*) between walls
+    + made of pectin (jelly!)
+    
 </div>
 
-## Plant cell membranes
+## Support or water conducting cells have secondary walls
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:540px; HEIGHT:400px" SRC="images/lignin.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/jelly.jpg">
+
+## Why dont plants have strong bones made of Calcium?
 <hr>
 <br/>
 
+* **Animals with shells use calcium carbonate**
+    + carbonate comes from seawater, so pH not affected
+
+<br/>
+
+* **Animals with internal skeleton use calcium phosphate**
+    + cant handle carbonate
+    + phosphate has litte effect on cell acidity
+
+<br/>
+
+* **Plants must also be careful with Calcium and its salts**
+    + plants need phosphate badly
+    + lignin and cellulose are inert
+    + lignin and cellulose carbs from photosynthesis
+
+## Plant cells are not solid structures
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:450px" SRC="images/pits.jpg">
+
+## Plant cell membrane structure fits fluid mosiac model
+<hr>
+
+<div style="float: right; width: 50%;">
+
 * **Membrane covers the surface of the protoplasm**
-    + proteins differ on in/outside
+    + Molecular pumps transport molecules in and out
+    
+<br/>
 
 * **Impermeable to bad stuff, permeable to beneficial stuff**
 
-* **Molecular pumps transport molecules in and out**
+</div>
 
+<IMG STYLE="position:absolute; TOP:400px; LEFT:200px; WIDTH:500px; HEIGHT:350px" SRC="images/fluidmos.jpg">
 
 ## Anatomy of a plant cell
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:535px; WIDTH:500px; HEIGHT:400px" SRC="images/plantcell.jpg">
-
 * **Virtually all plant cells, although diverse, have conserved organelles**
     + roots, wood, barks, leaves, flowers
-    + certain organeels can become modified
+    + certain organelles can become modified
 
 <br/>
 
@@ -89,8 +142,34 @@ output:
     
 </div>
 
-## plastids
-    
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/plantcell.jpg">
+
+## Plastids: membrane bound organelles in plants & algae
+<hr>
+
+* **Choloroplast: double membrane organells in leaf cells**
+    + key for photosynthesis
+    + interesting evolutionary history
+
+<br/>
+
+* **Leucoplast: colorless organelles storing starch**
+
+<br/>
+
+* **Chromoplasts: organelles containing pigments for colored plant parts**
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/chromo.png">
+
+## Central vacuole makes up most volume in mature cells
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:425px" SRC="images/sac.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/acidic.png">
+
 ## Does calcium make strong bones in plants?
 
 ## cell division
