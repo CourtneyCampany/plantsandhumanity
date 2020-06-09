@@ -1,5 +1,5 @@
 ---
-title: "Plant Cells"
+title: "Plant Cells and Growth"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -9,60 +9,60 @@ output:
 
 ##  Plant form and function is ruled by cells
 <hr>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Plant cells range from 10-100um in length**
-    + 250-2500 to an inch
 
 <br/>
 
-* **Cell walls maintain physical framework*
-    + maintain turosity of cells
+* **Cell walls maintain physical framework**
+    + maintain cell turgidity
 
 <br/>
 
-* **Root cells start the uptake and transport of water**
-
-<br/>
-
-* **Specific leaf cells are specialzed for photosynthesis**
-
-<br/>
-
-* **Cell biology of flowers controls reproduction**
-    + cells producing pigments and nectar 
+* **Root cells start uptake & transport of H_2_O**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/cellsize.jpg">
+<div style="float: left; width: 50%;">
+
+* **Leaf cells are specialized for photosynthesis**
+
+<br/>
+
+* **Cells of flowers control reproduction**
+    + produce pigments and nectar 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:425px; LEFT:225px; WIDTH:700px; HEIGHT:325px" SRC="images/cellsize.jpg">
 
 ## Plant cell walls
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:500px; HEIGHT:370px" SRC="images/fibrils.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:5px; WIDTH:600px; HEIGHT:400px" SRC="images/fibrils.jpg">
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 45%;">
 
 * **Mostly made of cellulose**
     + strength and protection of protoplast
-    + chains of cellulose molecules (*fibrils*)
+    + chains of cellulose molecules = *fibrils*
 
 <br/>
 
-* **Metabolism does occur (so not inert)
+* **Metabolism does occur (not inert)**
 
 <br/>
 
 * **Consists or 1 *or* 2 layers**
-    + primary wall (1^st^ layer) = cellulse fibers
+    + primary wall (1^st^ layer) = cellulose fibers
     + secondary wall (internal) = lignin
 
 <br/>
 
-* **Sticky layer (*lamella*) between walls
+* **Sticky layer (*lamella*) between walls**
     + made of pectin (jelly!)
     
 </div>
@@ -70,9 +70,12 @@ output:
 ## Support or water conducting cells have secondary walls
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:540px; HEIGHT:400px" SRC="images/lignin.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/lamella.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/jelly.jpg">
+## Cellulose and lignin extremely abudant on Earth
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/lignin.png">
 
 ## Why dont plants have strong bones made of Calcium?
 <hr>
@@ -85,7 +88,7 @@ output:
 
 * **Animals with internal skeleton use calcium phosphate**
     + cant handle carbonate
-    + phosphate has litte effect on cell acidity
+    + phosphate has little effect on cell acidity
 
 <br/>
 
@@ -93,16 +96,42 @@ output:
     + plants need phosphate badly
     + lignin and cellulose are inert
     + lignin and cellulose carbs from photosynthesis
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="images/bones.jpg">
 
-## Plant cells are not solid structures
+## Plant cells are not solid structures (cytoplasm channels)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:450px" SRC="images/pits.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/pits.jpg">
 
-## Plant cell membrane structure fits fluid mosiac model
+## Plant cells are not quite individuals
 <hr>
+<br/>
+<br/>
+<br/>
 
-<div style="float: right; width: 50%;">
+* **Plasmodesmata diminish individuality of cells**
+    + *symplast*: interconnections of protoplasm
+    + living region, transport & communication
+    
+<br/>
+
+* **Cell walls do separate cells, just not cleanly**
+    + lots of intercellular air spaces (@ corners)
+    + *apoplast*: cells walls + intercellular spaces
+    + gas diffusion occurs via apoplast
+    + water through cell wall via capillary action
+    
+<IMG STYLE="position:absolute; TOP:250px; LEFT:540px; WIDTH:575px; HEIGHT:300px" SRC="images/apoplast.png">
+
+## Plant cell membrane structure fits *fluid mosaic model*
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 40%;">
 
 * **Membrane covers the surface of the protoplasm**
     + Molecular pumps transport molecules in and out
@@ -113,7 +142,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:200px; WIDTH:500px; HEIGHT:350px" SRC="images/fluidmos.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:5px; WIDTH:600px; HEIGHT:350px" SRC="images/fluidmos.jpg">
 
 ## Anatomy of a plant cell
 <hr>
@@ -129,7 +158,7 @@ output:
 
 <br/>
 
-* **Nucleus, ribsomes and endoplasmic reticulum**
+* **Nucleus, ribosomes and endoplasmic reticulum**
 
 <br/>
 
@@ -139,17 +168,22 @@ output:
 
 * **Peroxisomes: organelle that produces or uses peroxide**
     + detoxify product of photosynthesis
-    
-</div>
 
-##
+<IMG STYLE="position:absolute; TOP:200px; LEFT:725px; WIDTH:300px; HEIGHT:300px" SRC="images/basic.jpg">
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/plantcell.jpg">
+## 
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/plantcell.jpg">
 
 ## Plastids: membrane bound organelles in plants & algae
 <hr>
+<br/>
+<br/>
+<br/>
 
-* **Choloroplast: double membrane organells in leaf cells**
+<div style="float: left; width: 58%;">
+
+* **Chloroplast: double membrane organelles in leaf cells**
     + key for photosynthesis
     + interesting evolutionary history
 
@@ -161,20 +195,92 @@ output:
 
 * **Chromoplasts: organelles containing pigments for colored plant parts**
 
-<IMG STYLE="position:absolute; TOP:450px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/chromo.png">
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:620px; WIDTH:450px; HEIGHT:450px" SRC="images/chromo2.png">
 
 ## Central vacuole makes up most volume in mature cells
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:425px" SRC="images/sac.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:450px; HEIGHT:425px" SRC="images/sac.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/acidic.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:475px; WIDTH:625px; HEIGHT:250px" SRC="images/acidic.png">
 
-## Does calcium make strong bones in plants?
+## New cells orginate from meristems
+<hr>
+<br/>
 
-## cell division
+<div style="float: left; width: 50%;">
 
-## cancerous growth in plants?
+* **All plants are multicellular with active regions of cell division**
+    + cells mostly divide my mitosis
+    + meiosis in parts of reproductive cycle
 
-## Basic cell types
+<br/>
 
+* **Growth is localized in the active regions: meristems**
+    + meristem cells are undifferentiated
+
+<br/>
+
+* **Apical meristems: @ tips of roots and stems**
+    + cell division propels tissues 'out'
+    + primary growth of leaves, stem & roots
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/apical.png">
+
+## New cells orginate from meristems
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **All plants are multicellular with active regions of cell division**
+    + cells mostly divide my mitosis
+    + meiosis in parts of reproductive cycle
+
+<br/>
+
+* **Growth is localized in the active regions: meristems**
+    + meristem cells are undifferentiated
+
+<br/>
+
+* **Lateral meristems: secondary growth**
+    + cell division adds diameter
+    + support, xylem, phloem cells
+    + tissues called 'cambium'
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/cambium.gif">
+
+## Cancerous growth in plants?
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 65%;">
+
+* **Release of cell cycle arrest in humans can be fatal**
+    + cigarette smoke can cause lung cancer
+    + UV triggers skin cancer
+
+<br/>
+
+* **Galls: abnormal growth causes by reaction to insects/microbes**
+
+<br/>
+
+* **Irregular cell growth in plants not a big deal**
+    + cells cannot migrate in plants
+    + no single plant organ is indispensable
+</div>
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:225px; HEIGHT:450px" SRC="images/gall.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/cell_concept.png">
