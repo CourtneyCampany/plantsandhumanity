@@ -1,0 +1,337 @@
+---
+title: "The Plant Body"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/cell_concept.png">
+
+## Themes in plant form
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 38%;">
+
+* **Plants gather materials to grow**
+    * soil
+    * atmosphere
+    * materials can be limiting
+
+<br/> 
+
+* **Above and belowground body plan**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:500px; HEIGHT:450px" SRC="images/plantbody.jpg">
+
+## Themes in plant form
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 38%;">
+
+* **Plants gather materials to grow**
+    * soil
+    * atmosphere
+    * materials can be limiting
+
+<br/> 
+
+* **Above and belowground body plan**
+  
+<br/> 
+
+* **Plants exhibit indeterminate growth**
+    * "foragers"
+    * diversity of size & shape
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/raunkiaer.jpg">
+
+## Plants do all this without moving!
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Mostly defined by their total inability to move**
+
+<br/>
+
+* **Is this a good thing or a bad thing?**
+
+<br/>
+
+* *Their Darwinian struggle for growth, survival and reproduction in very different arenas has resulted in an extremely wide variety of form and function (Diaz et al 2016)*
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/plantscool.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:400px; HEIGHT:600px" SRC="images/tissues.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/tissue_structure2.jpg">
+
+## Dermal (1) tissue (aka 'Skin')
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Outer layer in young/non-woody plants = epidermis**
+    + single layer of flattened cells
+
+<br/>
+
+* **Woody plants epidermis cracks and is replaced**
+    + occurs from ____________
+    + new layer is called *periderm*
+    + whole thing called 'bark'
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:500px; WIDTH:575px; HEIGHT:400px" SRC="images/periderm.jpg">
+
+## Wine cork = periderm from *Quercus suber*
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/corkoak.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:450px" SRC="images/corkoak2.jpg">
+    
+## Epidermal cells secrete 'cutin'
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Wax-like substances that forms the 'cuticle'**
+    + prevents evaporative water loss
+    + makes the plant water proof
+
+<br/>
+
+* **Often thick enough to make leaf shiny**
+    + succulents & tropical plants
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:300px; HEIGHT:450px" SRC="images/wax.jpg">
+    
+## Epidermal cells secrete 'cutin'
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Wax-like substances that forms the 'cuticle'**
+    + prevents evaporative water loss
+    + makes the plant water proof
+
+<br/>
+
+* **Often thick enough to make leaf shiny**
+    + succulents & tropical plants
+
+<br/>
+
+* **Trichomes may also be present on epidermis**
+    + hairs (sometimes glandular)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:350px; HEIGHT:450px" SRC="images/hair.jpg">
+
+## Stomata are scattered within leaf epidermis
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/stomata_scope.png">
+
+<div style="float: right; width: 50%;">
+
+* **Pores that allow gas exchange**
+    + CO_2_, O_2_, water vapor
+
+<br/>
+
+* **Essential since plant is 'water proof'**
+
+<br/>
+
+* **Pair of guard cells shrink/swell to open/close**
+    + *much more later...*
+
+</div>
+
+## How stomata work...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/stomata4b.jpg">
+
+## Ground (2) Tissues make up bulk of plant organs
+<hr>
+<br/>
+
+* **Parenchyma = thin walled & most versatile**
+    + photosynthetic cells in green tissues
+    + storage cells in other organs
+
+<br/>
+
+* **Collencyhma = primary support cells**
+    + elongated & thick
+    + living
+    + 'strings' in celery
+
+<br/>
+
+* **Schlerenchyma = mechanical support & protection**
+    + elongate & very thick
+    + dead @ maturity
+    + used to make cloth and rope
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/ground.png">
+
+## Parenchyma cells: living, dividing with metabolic function
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/parenchyma.jpg">
+
+## Collenchyma (flexible) & Sclerenchyma (rigid) for support
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/celery.png">
+
+## Vascular (3) Tissues
+<hr>
+<br/>
+
+* **Conducting tissues in plants**
+    + visible in leaves = veins!
+
+<br/>
+
+* **Two tissues systems allow unrestricted movement of materials**
+    + created from apical and lateral meristems
+
+<br/>
+
+* **Xylem = water and minerals from roots upward**
+
+<br/>
+
+* **Phloem = organic materials from source leaf to rest of plant**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:695px; WIDTH:375px; HEIGHT:450px" SRC="images/vascular.jpg">
+
+## Pipe Theory works to visual continuum
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/pipe2.jpg">
+
+## Tracheids and vessels are conducting xylem cells
+<hr>
+<br/>
+<br/>
+
+* **Both are dead at maturity, with just cell walls**
+
+<br/>
+
+* **Tracheids = long, thin & tapered**
+    + many pits in cell walls
+    + pits are not holes
+
+<br/>
+
+* **Vessels = short, wide & end to end**
+    + made pits in cells walls
+    + unique to angiosperms
+  
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/xylem.jpg">
+
+## Sieve tube members make up phloem
+<hr>   
+<br/>
+<br/>
+
+* **Living cells with only primary cell wall**
+    + nucleus/organelles eventually disappear
+
+<br/>
+
+* **Sieve plates = end walls with large pores**
+
+<br/>
+
+* **Each seive tube has a companion cell**
+    + developmentally tied together
+    + lots of plasmodesmata connect 2 cells
+    + loads and unloads
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/phloem.jpg">
+
+## Vascular tissues often wrapped in *bundle sheath* cells
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/bundle.jpg">
+
+## Plant organs are so easy: Stems, roots & leaves
+<hr>
+
+* **Roots: tap and fibrous root systems**
+    + tap = one large root with small branches
+    + fibrous = no central main root (grasses)
+
+<br/>
+
+* **Stems: mostly ground tissue**
+    + mostly xylem in woody plants
+    + inner cambium = xylem = tree ring
+    + when tree grows quick = xylem are large
+
+<br/>
+
+* **Leaves: photosynthetic machines**
+    + flat blade (mostly)
+    + many shapes and sizes
+
+<br/>
+
+* **Flower = modified 'shoot'**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/plant.jpg">
+
+## Test yourself....this image is not a leaf....
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/test.jpg">
+
+## Test yourself....this image is a leaf....
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/c3_cs.gif">
