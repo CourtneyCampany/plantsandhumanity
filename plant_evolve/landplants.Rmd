@@ -1,0 +1,257 @@
+---
+title: "Plant Evolution"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## The big picture: Plants evolved from green algae
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Cyanobacteria & protist made landfall ~1.2 bya**
+    + plants, fungi and animals ~500 mya
+    + first forests 385 mya
+
+<br/>
+
+* **Plants evolved from green algae**
+    + Several key *'shared traits'*
+    + **WHAT DO YOU THINK THEY ARE?**
+
+<br/>
+
+* **Plants support all life on earth**
+    + Oxygen to breath
+    + food to eat
+    + new habitats
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/basicplants.png">
+
+## Green Algae (Oedogonium)
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Sister group to land plants**
+    + marine and freshwater
+    + single and multi-cellular
+    + broad, thick filaments
+    + some have AoG
+    + evolved around ~750mya
+    
+<br/>
+
+* **Reproductive features:**
+    + *Oogonia* = egg containing cell
+    + *Antheridium* = sperm containing cell
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:575px; WIDTH:350px; HEIGHT:300px" SRC="images/sister.jpg">
+
+<IMG STYLE="position:absolute; TOP:470px; LEFT:700px; WIDTH:250px; HEIGHT:200px" SRC="images/greenalgae.jpg">
+
+## Molecular evidence points at charophytes as plant ancestors
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/stonewort.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/chara2.jpg">
+
+## Charophytes (freshwater green algae)
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Freshwater species**
+
+<br/>
+
+* **Transition from water to land starts with Charophytes**
+    + freshwater habitats may have dried
+    + a population eventually lived above water line
+
+<br/>
+
+* **More shared traits with land plants:**
+    + circular protein rings in plasma membrane; make cellulose fibers in cell wall
+    + swimming sperm with similar structure
+    + phragmoplast (something with cell division)
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/chara.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/transition.jpg">
+
+## Land plants are a monophyletic group
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:460px" SRC="images/phlyo.jpg"> 
+
+## All land plants are embryophytes
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:500px; HEIGHT:400px" SRC="images/embryophytes.png">
+
+<div style="float: right; width: 48%;">
+
+ * **10 divisions of land plants**
+    + does not include algae
+
+<br/>
+
+* **Zygote develops into multicellular embyro, while enclosed in reproductive structure**
+    + algae do not retain embryo
+
+<br/>
+
+* **Land plant & embryophyte terms used interchangeably**
+</div>
+
+## Multi-cellular, Dependent embryos (placental transfer)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/embryo.jpg">
+
+## Shared Traits further define plant evolution
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/basicplantphylo.jpg">
+
+<IMG STYLE="position:absolute; TOP:245px; LEFT:535px; WIDTH:500px; HEIGHT:400px" SRC="images/allplants.jpg">
+
+## Waxy cuticle and stomata
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/waxystomata.png">
+
+## Multi-cellular Gametangia
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/game.jpg">
+
+## Photosynthesis with unique pigments (chlorophyll A & B)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/pigments.png">
+
+## Unique cell walls
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Cells walls made of cellulose** 
+    + not unique to plants
+    
+<br/>
+
+* **Pectin to fortify cell walls **
+    + unique to plants
+
+<br/>
+
+* **Produce cells walls in unique way**
+    + at end of mitosis
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/cellwall.jpg">
+
+## Alternation of generations
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/aog.jpg">
+
+<div style="float: right; width: 60%;">
+
+* **Land plants alterate between diplod (2N) and haploid (1N) generations**
+    + diploid = *sporophyte*
+    + haploid = *gametophyte*
+
+<br/>
+
+* **sex cells (1N) make zygote (2N)**
+* **zygote &rarr; embryo &rarr; sporophyte (all mitosis)**
+* **sporophyte makes spores (1N) by meosis**
+* **spores germinate into gametophyte (1N) by mitosis**
+* **gametophyte makes sex cells (sperm and egg)**
+
+<br/>
+
+* **dominance of different generations key for evolution**
+
+## First plant group: non-vascular bryophytes (mosses)
+<hr>
+<br/>
+
+* **Mosses, hornworts and liverworts**
+    + Fossils of bryophyte spores ~470mya
+    
+<br/>
+
+* **Non-vascular; ground hugging carpets**
+    + bodies to thin to support height growth
+
+<br/>
+
+* **Have a rhizoid but not a root**
+    + anchors plant
+    + does not uptake water
+
+<br/>
+
+* **Resistant spores**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:800px; WIDTH:200px; HEIGHT:450px" SRC="images/bryo.png">
+
+<IMG STYLE="position:absolute; TOP:390px; LEFT:435px; WIDTH:300px; HEIGHT:250px" SRC="images/moss.jpg">
+
+## Bryophytes have gametophyte dominated life cycle
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png">
+
+## Bryophyte diversity and stomatal evolution
+<hr>
+<br/>
+
+* **Not all mosses (early lineages) have stomata**
+    + some moss stomata are not functional
+
+<br/>
+
+* **Stomata only on capsule of sporophyte**
+    + small strucutre on stalk that makes spores
+
+<br/>
+
+* **Liverworts do not have stomata!**
+    + what does this mean?
+
+<br/>
+
+* **Hornworts look like liverworts but have stomata**
+    + once open, stomata never close
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:425px; HEIGHT:450px" SRC="images/moss_stomata.png">
+
+## Byrophyte stomatal evolution (Renzaglia et al. 2017)
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:700px; HEIGHT:350px" SRC="images/moss_stomata.png">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/horn_stomata.png">

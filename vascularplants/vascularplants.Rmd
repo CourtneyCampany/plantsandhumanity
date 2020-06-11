@@ -1,0 +1,517 @@
+---
+title: "Vascular Plant Evolution"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## The big picture: Vascular plants now dominate Earth
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Bryophytes ruled for <100 million years**
+    + vascular plants show up ~425mya
+
+<br/>
+
+* **First vascular plants lacked seeds**
+    + sperm still needed to swim 
+    + ferns and lycophytes
+
+<br/>
+
+* **Developed a vascular system**
+    + grow taller than bryophytes
+    + leaves & roots
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/manyangio.jpg">
+
+## The big picture: We now live in a seed plant world
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Seeds changed the course of plant evolution**
+    + Seed plants show up ~360 mya
+    + climate became drier
+    
+<br/>
+
+* **Seeds consists of embryo & nutrients**
+    + surrounded by protective coat
+    + seeds can be dispersed long distances
+    + less dependence on water
+
+<br/>
+
+* **2 living seed lineages**
+    + gymnosperms (naked seed)
+    + angiosperms (covered seed = fruits)
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:250px; HEIGHT:350px" SRC="images/elkplant.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:800px; WIDTH:250px; HEIGHT:350px" SRC="images/elkplant2.jpg">
+
+## Vascular system: the basics
+<hr>
+<br/>
+<br/>
+
+* **Vascular tissue allows establishment without freestanding water**	
+    + xylem, phleom
+    + evolved independently several times
+
+<br/>
+
+* **Conducting cells evolved structural support**
+    + *lignin* in cell walls
+    + does not rot easily
+    + does not collapse easily
+    + think bundles of rigid straws or pipes
+    
+<br/>
+
+* **First 2 groups are spore-bearing plants, then came seed plants**	
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="images/vascular.png">
+
+## Evolution of roots
+<hr>
+<br/>
+
+* **Vascular tissues belowground**
+    + bryophytes have no 'true' roots
+
+<br/>
+
+* **Absorb water and nutrients**
+    + explore
+
+<br/>
+
+* **Anchor the plant in place**
+    + support vertical growth
+
+<br/>
+
+* **Fossils show roots in lycophytes ~400mya**
+    + possible convergent evolution
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/earlyroots.jpg">
+
+## Evolution of leaves
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Microphylls: single unbranched vein**
+    + unique to lycophytes
+
+<br/>
+
+* **Megaphylls: leaves with branched veins**
+    + almost all existing plants
+  
+<br/>
+
+* **Why does this matter?** 
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/leaves.jpg">
+
+## Evolution of leaves: sporophylls
+<hr>
+<br/>
+
+* **Sporophyll: modified leaf with sporangium**
+    + vastly different looks
+    + seed plants have male/female versions
+
+<br/>
+
+* **Sporagnium:  spore container**
+    + ferns: clusters of sporagnia called 'sori'
+    + lycophytes: stobilus holds many sporogania (like a cone)
+
+<br/>
+
+* **Spore mother cell: cell inside sporagnium**
+    + undergoes meiosis to make spores
+
+<br/>
+
+* **What is the ploidy of each cell type?**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/sporophyll.jpg">
+
+## Lycophytes: First vascular plants
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:200px; HEIGHT:450px" SRC="images/lyco.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Independent,	branched	sporophyte**
+    + sporophyte dominant
+    
+<br/>
+
+* **Lignified	vascular	tissue,	tracheids & roots**
+
+<br/>
+
+* **Leaves are microphylls**
+    + Some	with	strobili	(evolved	multiple times)
+
+<br/>
+
+* **Homosporous or Heterosporous**
+    
+</div>
+
+## Ferns
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 40%;">
+
+* **Whisk Ferns, Equisetum & Ferns**
+    + mostly homosporous
+    + sporophyte dominant (**Why?**)
+    
+<br/>
+
+* **Leaves are megaphylls**
+    + whisk ferns lost leaf
+    + Equistem has simplified megaphylls
+
+<br/> 
+
+* **Independent gametophyte**
+    + heart-shaped, small
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:410px; WIDTH:625px; HEIGHT:475px" SRC="images/ferns.png">
+
+## Homosphorous life cycle (mostly) with dominant sporophytes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/fernlife.jpg">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/fernstages.jpg">
+
+## The consequences of homospory
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **One	spore	&rarr; one	gametophyte	&rarr; bisexual gametophyte**
+    + everything is haploid (1N)
+
+<br/>
+
+* **Produces	both	sperm	and	egg	via mitosis**
+
+<br/>
+
+* **A lot of self fertilization**
+    + What is good/bad about this?
+
+<br/>
+
+* **Antheridiogens used to manipulate sex**
+    + girl power rocks!
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/homospory.jpg">
+
+## Seed plants were the next evolutionary step
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:500px" SRC="images/phylo.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/fossil.jpg">
+
+## Why seeds matter so much...
+<hr>
+<br/>
+
+* **Before seeds, spore was only protective structure** 
+    + super small so spread all over Earth
+
+<br/>
+
+* **Seeds are multi-cellular**
+    + what does this add?
+
+<br/>
+
+* **Seeds can remain dormant for a long time**
+
+<br/>
+
+* **Gymnosperms: seeds exposed on sporophylls, form cones**
+* **Angiosperms: seeds enclosed inside fruits**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:250px; HEIGHT:450px" SRC="images/cones.jpg">
+
+## Seed plants further adapt to life on land
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Reduction of gametophyte**
+    + mosses &rarr; ferns &rarr; seed plants
+    + gametophytes become microscopic
+
+<br/>
+
+* **Heterosporous life cycle**
+    + *2 kinds of spores*
+    + form male/female gametopytes
+
+<br/>
+
+* **Ovules**
+    + megasporangium kept inside sporophyte
+    + ovule contains megaspore
+    
+<br/>
+
+* **Pollen**
+    + microspore develops into pollen grain
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/ovules.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:225px; WIDTH:650px; HEIGHT:600px" SRC="images/hetero2.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/gamspor.jpg">
+
+## Gymnosperms take over in Carboniferous period
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **~300-250 mya climate become drier**
+    + Carboniferous &rarr; Permian
+    + gymnosperms replaced lycophytes
+    + seed plant ancestors now extinct
+
+<br/>
+
+* **Gymnosperms w/ needles thrived till ~60 mya**
+
+<br/>
+
+* **4 living lineages of gymnosperms: **
+    + *Cycads**: 300 living species
+    + *Gnteophytes*: small group w/ flowering traits
+    + *Ginkos*: *Ginkgo biloba* is only species left!
+    + *Conifers*: ~600 species w/ needle/scale leaves
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:565px; WIDTH:500px; HEIGHT:450px" SRC="images/gymnos.jpg">
+
+## Gymnosperm reproduction: basics
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Male and female cones on same plant**
+    + sporophyll &rarr; sporangia &rarr; spores
+    + scales &rarr; modified leaves &rarr; sporophyll
+    + pollen and ovulate cones
+
+<br/>
+
+* **Male cones house microsporangium**
+    + microsporangium produces microspores
+    + microspores develop into pollen grains
+    + male gametophyte inside pollen grain
+    + pollen dispersed by wind
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:560px; WIDTH:500px; HEIGHT:350px" SRC="images/malecone.png">
+
+## Gymnosperm reproduction: basics
+<hr>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Female cones have 2 ovules per scale**
+    + each ovule has megasproangium
+    + megasporangium produce 4 megaspores
+    + 1 megaspore survives
+
+<br/>
+
+* **Pollen grain reaches ovule and germinates**
+    + pollen tube grows toward megaspore
+    + megaspore develops gametophyte with egg
+    + sperm &rarr; pollen tube &rarr; egg
+    + seed forms, dispersed by wind
+    
+<br/>
+
+* **Draw the basics on a heterospory life cycle**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:520px; WIDTH:550px; HEIGHT:350px" SRC="images/femalecone.jpg">
+
+<!-- ## Gymnosperms seeds -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/pinesex.jpg"> -->
+
+## Flowering plant diversity
+<hr>
+
+<div style="float: left; width: 49%;">
+
+* **Most diverse living group of plants**
+    + 14,000 genera, 250,000 species
+    + newest group (~100 mya)
+
+</div>
+
+<div style="float: right; width: 49%;">
+
+* **2 classes: Moncots and Dicots**
+    + monocots = one seed leaf in embryo
+    + dicots = two seed leaf in embryo
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:310px; LEFT:200px; WIDTH:700px; HEIGHT:375px" SRC="images/angios.jpg">
+
+<!-- ## Angiosperm evolution: Bugs and animals -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/butterfly.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/ants.jpg"> -->
+
+## Angiosperm reproduction: Flowers
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Flower is a modified stem for reproduction**
+    + with 4 types of modified leaves
+
+<br/>
+
+* **Sepals: leaves at base which enclose flower**
+    + usually green
+
+<br/>
+
+* **Petals: colored leaves to attract pollinators**
+    + less colored if wind pollinated
+    
+<br/>
+
+* **Two types of fertile organs to make spores**
+    + sporophylls
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/flower.jpg">
+
+## Flowers - Male
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Stamens: microsporophylls**
+    + produce microspores that develop into pollen
+    
+<br/>    
+
+* **Anther: where microsporangia develop**
+    + microspores produced
+    + microspores &rarr; pollen
+    + pollen &rarr; male gametophyte
+
+<br/>
+    
+* **Filament: stalk that holds the anther**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:375px; HEIGHT:450px" SRC="images/flower4.jpg">
+
+## Flowers - Female
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:375px; HEIGHT:450px" SRC="images/flower4.jpg">
+
+
+<div style="float: right; width: 60%;">
+
+* **Carpel: megasporophyll**
+
+<br/>
+
+* **Stigma: receives pollen**
+    + sticky
+
+<br/>
+
+* **Style: leads from stigma to ovary**
+    + where pollen tube forms
+    
+<br/>
+
+* **Ovary: contains ovules**
+    + megasporangium inside ovule produce 4 megaspores
+    + 1 megaspore survives to make female gametophyte
+
+</div>
+
+## Angiosperm reproduction: double fertilization
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/doublefert.png">
+
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/angiolife.jpg"> -->
+
+## Comparing seed plant reproduction
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/seedsex.jpg">

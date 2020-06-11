@@ -1,0 +1,12 @@
+name: landplants
+title: landplants
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1799254
+bundleId: 2794887
+url: https://courtneycampany.shinyapps.io/landplants/
+when: 1581516270.88572
+asMultiple: FALSE
+asStatic: FALSE
