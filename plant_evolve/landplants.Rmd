@@ -243,15 +243,35 @@ runtime: shiny
 * **Liverworts do not have stomata!**
     + what does this mean?
 
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:425px; HEIGHT:450px" SRC="images/moss_stomata.png">
+
+## Bryophyte diversity and stomatal evolution
+<hr>
+<br/>
+
+* **Not all mosses (early lineages) have stomata**
+    + some moss stomata are not functional
+
+<br/>
+
+* **Stomata only on capsule of sporophyte**
+    + small strucutre on stalk that makes spores
+
+<br/>
+
+* **Liverworts do not have stomata!**
+    + what does this mean?
+
 <br/>
 
 * **Hornworts look like liverworts but have stomata**
     + once open, stomata never close
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:425px; HEIGHT:450px" SRC="images/moss_stomata.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/horn_stomata.png">
 
 ## Byrophyte stomatal evolution (Renzaglia et al. 2017)
+<hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:700px; HEIGHT:350px" SRC="images/moss_stomata.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/moss_stomata2.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/horn_stomata.png">
+
