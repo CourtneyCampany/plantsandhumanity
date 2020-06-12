@@ -1,0 +1,398 @@
+---
+title: "Plants and Fungi"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## The big picture: Fungi play a role in plant function
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **100,000 species described**
+    + estimated 1.5 millions species
+    + diverse size, morphology and habitats
+
+<br/>
+
+* **Heterotrophic: eat via absorption**
+    + parasites, decomposers, mutualists
+    + cycle nutrients via decomposition
+
+<br/>
+
+* **Cell walls made of chitin**
+    + mushrooms are only a part of the body
+    + filaments belowground absorb things
+
+<br/>
+
+* **Wild reproduction**
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:525px; HEIGHT:400px" SRC="images/body.jpg">
+
+## All Fungi share traits related to nutrition
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 58%;">
+
+* **Use enzymes to break down compounds**
+    + diverse enzymes for diverse food sources
+    
+<br/>
+<br/>
+<br/>
+
+* **Heterotrophs: absorb nutrients from environment**
+    + decomposers: break down dead things
+    + parasites: absorb from host
+    + mutualist: absorb/share with host
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/fungienzymes.png">
+
+## Fungal body plan: Not-motile
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/body.jpg">
+
+## Most *hyphae* divided into cells by *septa*
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hypae.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:625px; WIDTH:350px; HEIGHT:300px" SRC="images/hypae2.jpg">
+
+## Mycelium: huge surface and volume for absorption
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mycelium.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/popart.jpg">
+
+## Specialized hypae in many types of fungi
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Specialized hyphae for feeding on live animals**
+    + hoops
+ </div>   
+
+<div style="float: left; width: 50%;">
+
+* **Specialized hyphae that allow them to extract nutrients from plants**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:70px; WIDTH:400px; HEIGHT:400px" SRC="images/mycorrscope.png">
+
+<IMG STYLE="position:absolute; TOP:325px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/nematode.jpg">
+
+## Mycorrhizal fungi: sharing with plants
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **~80-90% of plants have association with fungus**
+    + fungi grown in/around plant roots
+    + share resources
+    + one of the most widespread mutualisms
+
+<br/>
+
+* **2 main types:**
+    + Ecto- and Endo- mycorrhizae
+    + diverse array of species for each
+
+<br/>
+
+* **Association now key for plants to thrive**
+    + fungi more efficient @ nutrient uptake
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr.png">
+
+## 
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:400px; HEIGHT:600px" SRC="images/am_em.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Branching hyphae used to exchange nutrients with plant hosts**
+
+<br/>
+
+* **Ectomycorrhizal fungi sheath cell walls**
+    + *Hartig net* surrounds epidermal cells
+
+<br/>
+
+* **Endomycorrhizal fungi invade cell walls**
+    + *Arbuscules*: highly branched hypae inside cells
+    + often called 'arbuscular' mycorrhizae
+
+</div>
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/fungiroot.png">
+
+## Nutrient Exchange: Sharing is caring
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:700px; HEIGHT:450px" SRC="images/root_plant.jpg">
+
+<div style="float: right; width: 35%;">
+
+* **Inorganic nutrients imported to plant**
+    + N, P and amino acids
+    
+<br/>
+
+* **Carbon imported to fungus**
+    + sugars from photosynthesis
+
+<br/>
+
+* **Possibly active & passive transport**
+
+</div>
+
+## Soil Life: Plant Roots, Fungi & *Microbes*
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Free-living microbial communities in soils breakdown organic matter**
+    + plants cannot uptake organic compounds
+    + fungi lost breakdown enzymes via evolution
+
+<br/>
+
+* **Microbial communities are carbon limited**
+    + plants exude carbon (simple sugars) from root tips
+    + exudates increases microbial activity
+
+<br/>
+
+* **Fungi are great at uptake and transport**
+    + decomposers of *some* things
+    + carbon limited
+ 
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/exudate.jpg">
+
+## Timing matters: Land plant evolution & fungi
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Fungal phyla associated with MS diverged prior to the divergence of land plants**
+    + Oldest fungal fossils appear ~900 mya
+    + First terrestrial fungus ~ 460 mya
+    
+<br/>
+
+* **What was the land like for first plants?**
+* **What were early plants like?**
+
+<br/>
+
+* **Plant land colonization likely facilitated by interactions with symbiotic fungi**
+    + fossil evidence shows similarity in timing
+    + needs of both groups still relevant
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:655px; WIDTH:400px; HEIGHT:450px" SRC="images/liverword.jpg">
+
+## Early lineage plant experiments with fungi: byrophytes
+<hr>
+**Humphreys et al. 2010**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/landliver.jpg">
+
+## Timing matters: Fossil forests and fungi
+<hr>
+<br/>
+
+<div style="float: right; width: 70%;">
+
+* **Vascular plants evolved secondary growth (wood), with lots of lignin**
+    + lignin is hard to break down
+
+<br/>
+
+* **About 100 million years of trees sinking into swamps and not decaying**
+    + carboniferous period = coal deposits
+
+<br/>
+
+* **Specialized phyla of fungi evolved as wood decay specialist**
+    + ~295 mya (aka 'white rot' fungus)
+    + lignin and cellulose
+
+<br/>
+
+* **What what the world look like today, without this key cog in the carbon cycle?**
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:300px; HEIGHT:450px" SRC="images/coalswamp.jpg">
+
+## The current state of agriculture: Role of fungi
+<hr>
+
+* **Dramatic increases in agricultural productivity in 20^th^ century**
+    + development + application of pesticides, fertilisers
+    + advances in plant breeding and genetic technologies
+
+<br/>
+
+* **Now, crop yields have plateaued & fertilizer production unsustainable**
+    + Climate change, over population, nutrient depletion, energy prices
+
+<br/>
+
+* **These are all sizeable challenges to global food security**
+
+## Role of mycorrhizae in agrosystems: Nutrients
+<hr>
+
+<div style="float: right; width: 60%;">
+
+* **Crop species are breed to be hyper productive**
+    + fast growing with high yields
+
+<br/>
+
+* **Roots will rapidly deplete soil nutrients**
+    + creates depletion zones around root
+
+<br/>
+
+* **Mycorrhizae extend the reach of roots for nutrients**
+    + widening the depletion zone
+
+<br/>
+
+* **Mycorrhizae can also extract nutrients in forms plants cannot**
+    + phosphorus from DNA or bound to minerals
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:400px; LEFT:20px; WIDTH:400px; HEIGHT:450px" SRC="images/depletion.jpg">
+    
+## Should we also innoculate our crops?
+<hr>
+
+<div style="float: left; width: 60%;">
+
+* **Commercial fertilizers (NPK) are water-soluble**
+    + short term availability
+    + leaching occurs (aka washes away)
+    + results in heavy fertilizer application
+
+<br/>
+
+* **There are natural abundances of soil nutrients, just not readily or easily accessable to plants**
+    + bacteria & fungi can help
+
+<br/>
+
+* **Commerical innoculates add fungal spores, which are activated by root exudates**
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:400px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/innoculate.png">
+    
+## Role of mycorrhizae in agrosystems: Stress, Disease & Soil Health
+<hr>
+
+* **The use of pesticides does not aid in a plant's natural immune response**
+
+* **Fungi colonising roots physically exclude and protect from pathogens**
+    + fungi release antibiotic substances
+
+<br/>
+
+* **Communication through fungi allows neighboring plants to know of pest attacks**
+
+<br/>
+
+* **Fungal hypae release polysaccrides that bind soil particles**
+    + reduces  erosion & leaching
+    + improves soil organic matter & microbial biodiversity**
+
+## Crop experiments (1 disease & 1 stress) 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/tomtatoinoc.jpg">
+
+Mycorrhizal pre-inoculation significantly enhanced activities of the four enzymes in the leaves upon pathogen infection (early blight disease, Song et al. 2015)
+
+## Sustainable agricultre with mycorrhizae
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:20px; WIDTH:400px; HEIGHT:450px" SRC="images/agrisummary.jpg">
+
+* **Plant herbivory signals through funagl network between plants**
+    + neighbors can turn on chemical defenses
+    + fungi help induce these chemical defenses (VOC's)**
+
+<br/>
+
+* **Nutrients benefits of symbiosis mean more flowers & nectar**
+    + increases pollination
+
+<br/>
+
+* **Soil with fungi is more stablity**
+    + holds more water
+    + stores more carbon
+
+<br/>
+
+* **Heavy metal uptake reduced in plants with fungi symbiosis**
+    
+## Are fungi always a good thing?
+<hr>
+
+* **Management practices that recognize soil health have potential to improve water conservation, nutrient use efficiency and yields**
+
+* **However**
+
+The exceptions are many members of the Cruciferae family (e.g., broccoli, mustard), and the Chenopodiaceae family (e.g. lambsquarters, spinach, beets), which do not form mycorrhizal associations. The level of dependency on mycorrhizae varies greatly among varieties of some crops, including wheat and corn.
+
+* **Tilling soul reduces mycorrhizal associations**
+* **Broad spectrum fungicides are toxic to mycorrhizal fungi**
+* **High levels of fertilizer reduces inoculation of roots**
+
+## Lab experiment:
+
+1) mycorr innoculation
+2) corn, spinach
+3) clear containers
+4) fertilizer (none, regular, high)
