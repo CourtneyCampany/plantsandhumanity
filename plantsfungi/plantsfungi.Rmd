@@ -263,26 +263,45 @@ output:
 
 ## The current state of agriculture: Role of fungi
 <hr>
+<br/>
 
-* **Dramatic increases in agricultural productivity in 20^th^ century**
-    + development + application of pesticides, fertilisers
-    + advances in plant breeding and genetic technologies
+<div style="float: left; width: 51%;">
+
+* **Dramatic &uarr; in crop productivity last century**
+    + development of pesticides, fertilizers
+    + plant breeding and genetic technologies
 
 <br/>
 
 * **Now, crop yields have plateaued & fertilizer production unsustainable**
-    + Climate change, over population, nutrient depletion, energy prices
+    + climate change
+    + over population
+    + nutrient depletion
+    + energy prices
 
 <br/>
 
-* **These are all sizeable challenges to global food security**
+* **High levels of fertilizer reduces fungal-root association**
+
+<br/>
+
+* **Big challenges to global food security**
+
+ </div>
+ 
+ <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/fert.jpg">
+ 
+## 
+ 
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/yeildissues.png">
 
 ## Role of mycorrhizae in agrosystems: Nutrients
 <hr>
+<br/>
 
 <div style="float: right; width: 60%;">
 
-* **Crop species are breed to be hyper productive**
+* **Crop species are breed to be hyper-productive**
     + fast growing with high yields
 
 <br/>
@@ -292,47 +311,30 @@ output:
 
 <br/>
 
-* **Mycorrhizae extend the reach of roots for nutrients**
+* **Mycorrhizae extend the reach of roots**
     + widening the depletion zone
 
 <br/>
 
-* **Mycorrhizae can also extract nutrients in forms plants cannot**
+* **Mycorrhizae access nutrients in forms plants cannot**
     + phosphorus from DNA or bound to minerals
 
  </div>
  
-<IMG STYLE="position:absolute; TOP:400px; LEFT:20px; WIDTH:400px; HEIGHT:450px" SRC="images/depletion.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:30px; WIDTH:400px; HEIGHT:450px" SRC="images/depletion.png">
     
-## Should we also innoculate our crops?
+## Role of fungi in agrosystems: Stress, Disease
 <hr>
-
-<div style="float: left; width: 60%;">
-
-* **Commercial fertilizers (NPK) are water-soluble**
-    + short term availability
-    + leaching occurs (aka washes away)
-    + results in heavy fertilizer application
-
 <br/>
 
-* **There are natural abundances of soil nutrients, just not readily or easily accessable to plants**
-    + bacteria & fungi can help
+<div style="float: left; width: 50%;">
 
+* **Pesticides hinder plant's natural immune response**
+    + fungicides are toxic to mycorrhizal fungi
+    
 <br/>
 
-* **Commerical innoculates add fungal spores, which are activated by root exudates**
-
- </div>
- 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/innoculate.png">
-    
-## Role of mycorrhizae in agrosystems: Stress, Disease & Soil Health
-<hr>
-
-* **The use of pesticides does not aid in a plant's natural immune response**
-
-* **Fungi colonising roots physically exclude and protect from pathogens**
+* **Fungi colonizing roots physically exclude and protect from pathogens**
     + fungi release antibiotic substances
 
 <br/>
@@ -341,26 +343,22 @@ output:
 
 <br/>
 
-* **Fungal hypae release polysaccrides that bind soil particles**
-    + reduces  erosion & leaching
-    + improves soil organic matter & microbial biodiversity**
+* **Mycorrhizal inoculation enhanced enzyme response to tomato blight infection**
+    + Song et al. 2015
 
-## Crop experiments (1 disease & 1 stress) 
-<hr>
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:520px; HEIGHT:350px" SRC="images/tomatoinoc.jpg">
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/tomtatoinoc.jpg">
-
-Mycorrhizal pre-inoculation significantly enhanced activities of the four enzymes in the leaves upon pathogen infection (early blight disease, Song et al. 2015)
+</div>
 
 ## Sustainable agricultre with mycorrhizae
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:20px; WIDTH:400px; HEIGHT:450px" SRC="images/agrisummary.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/book.jpg">
 
-* **Plant herbivory signals through funagl network between plants**
+* **Plant herbivory signals through fungal network between plants**
     + neighbors can turn on chemical defenses
-    + fungi help induce these chemical defenses (VOC's)**
+    + fungi help induce these chemical defenses (VOC's)
 
 <br/>
 
@@ -369,30 +367,60 @@ Mycorrhizal pre-inoculation significantly enhanced activities of the four enzyme
 
 <br/>
 
-* **Soil with fungi is more stablity**
+* **Fungal hypae release polysaccrides that bind soil particles**
     + holds more water
     + stores more carbon
+    + reduces  erosion & leaching
+    + improves microbial biodiversity
+    
+## Should we also innoculate crops?
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Commercial fertilizers (NPK) are water-soluble**
+    + short term availability
+    + requires heavy fertilizer application
 
 <br/>
 
-* **Heavy metal uptake reduced in plants with fungi symbiosis**
+* **Natural abundances of soil nutrients exist, just not readily/easily accessible to plants**
+
+<br/>
+
+* **Tilling soil reduces natural mycorrhizal associations**
+
+<br/>
+
+* **Commercial inoculates add fungal spores, which are activated by root exudates**
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/innoculate.png">
+
     
 ## Are fungi always a good thing?
 <hr>
+<br/>
 
-* **Management practices that recognize soil health have potential to improve water conservation, nutrient use efficiency and yields**
+* **Fungal pathogens exist (non-mycorrhizal)**
 
-* **However**
+<br/>
 
-The exceptions are many members of the Cruciferae family (e.g., broccoli, mustard), and the Chenopodiaceae family (e.g. lambsquarters, spinach, beets), which do not form mycorrhizal associations. The level of dependency on mycorrhizae varies greatly among varieties of some crops, including wheat and corn.
+* **Not all crops have fungal symbioses**
+    + broccoli, mustard,  spinach, beets
+    + does this create competition?
 
-* **Tilling soul reduces mycorrhizal associations**
-* **Broad spectrum fungicides are toxic to mycorrhizal fungi**
-* **High levels of fertilizer reduces inoculation of roots**
+<br/>    
 
-## Lab experiment:
+* **Dependency on mycorrhizae varies greatly**
+    +  wheat and corn varieties
 
-1) mycorr innoculation
-2) corn, spinach
-3) clear containers
-4) fertilizer (none, regular, high)
+<br/>
+
+* **How far does 'sharing is caring' go?**
+    + can the relationship become parasitic?
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/fungisoil.png">
+
