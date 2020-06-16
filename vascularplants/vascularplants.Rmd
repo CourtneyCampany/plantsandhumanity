@@ -448,70 +448,10 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/flower.jpg">
 
-## Flowers - Male
-<hr>
-<br/>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-* **Stamens: microsporophylls**
-    + produce microspores that develop into pollen
-    
-<br/>    
-
-* **Anther: where microsporangia develop**
-    + microspores produced
-    + microspores &rarr; pollen
-    + pollen &rarr; male gametophyte
-
-<br/>
-    
-* **Filament: stalk that holds the anther**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:375px; HEIGHT:450px" SRC="images/flower4.jpg">
-
-## Flowers - Female
+## Angiosperm and insect evolution tied together
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:375px; HEIGHT:450px" SRC="images/flower4.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:400px; HEIGHT:450px" SRC="images/insects.jpg">
 
-
-<div style="float: right; width: 60%;">
-
-* **Carpel: megasporophyll**
-
-<br/>
-
-* **Stigma: receives pollen**
-    + sticky
-
-<br/>
-
-* **Style: leads from stigma to ovary**
-    + where pollen tube forms
-    
-<br/>
-
-* **Ovary: contains ovules**
-    + megasporangium inside ovule produce 4 megaspores
-    + 1 megaspore survives to make female gametophyte
-
-</div>
-
-## Angiosperm reproduction: double fertilization
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/doublefert.png">
-
-<!-- ## -->
-
-<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/angiolife.jpg"> -->
-
-## Comparing seed plant reproduction
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/seedsex.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/beetle.gif">

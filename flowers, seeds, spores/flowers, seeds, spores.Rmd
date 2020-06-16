@@ -1,0 +1,360 @@
+---
+title: "Flowers & Seeds "
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Angiosperms flowers: The big picture
+<hr>
+
+<div style="float: left; width: 58%;">
+
+* **Sites of sexual reproduction**
+    + double fertilization
+
+<br/>
+
+* **Event leading to flowering are complex**
+    + hormones
+    + biological clocks
+    + temperature
+    + photoperiod
+
+<br/>
+
+* **Flower production is coordinated with the environment**
+    + necessary for pollination
+
+<br/>
+
+* **Dispersal of seeds is the avenue of plant distributions**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:425px; HEIGHT:450px" SRC="images/firstflower.png">
+
+## Angiosperm reproduction: Flowers
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Flower is a modified stem for reproduction**
+    + 4 types of modified leaves
+    + groped in *whorls* (outer &rarr; inner)
+
+<br/>
+
+* **Sepals: leaves at base which enclose flower**
+    + *calyx* = all sepals together
+
+<br/>
+
+* **Petals: colored leaves to attract pollinators**
+    + *corolla* = all petals together
+    
+<br/>
+
+* **Two types of fertile organs to make spores**
+    + *androcieum*  = male whorl
+    + *gynociem* = female whorl
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/whorl.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:25px; WIDTH:600px; HEIGHT:600px" SRC="images/flower.png">
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/lilly2.jpg">
+
+## Flowers - Male structures - *androcieum*
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Whorl composed of *stamens* **
+    + anther + stalk
+    + 
+    
+<br/>    
+
+* **Anther: where pollen produced**
+    + each anther has 4 chambers
+
+<br/>
+    
+* **Filament: stalk that holds the anther**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:625px; WIDTH:300px; HEIGHT:300px" SRC="images/stamen.jpg">
+
+<IMG STYLE="position:absolute; TOP:495px; LEFT:225px; WIDTH:600px; HEIGHT:200px" SRC="images/anther2.png">
+
+## Flowers - Female structures - *gynociem*
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:375px; HEIGHT:450px" SRC="images/flower4.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **Whorl composed of *carpels* **
+    + middle of flower
+    + 1 &rarr; many carpels
+    
+<br/>
+
+* **Stigma: receives pollen**
+    + sticky
+<br/>
+
+* **Style: leads from stigma to ovary**
+    + where pollen tube forms
+<br/>
+
+* **Ovary: contains ovules**
+    + *ovules becomes seeds*
+    + 1 &rarr; many
+
+</div>
+
+## Flowers - Female structures - *gynociem*
+<hr>
+<br/>
+
+* **Pistil also refers to 1 unit**
+    + carpels can be separate or fused
+
+<br/>
+
+* **Complexity leads to diverse flowers**
+    + also leads to diverse fruits
+    
+<IMG STYLE="position:absolute; TOP:400px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/fused2.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/fused3.jpg">
+
+## Variation in flower strucutre
+<hr>
+<br/>
+
+* **Complete flower: all four whorls**
+* **Incomplete flower: missing at least one whorl**
+
+<br/>
+
+* **Perfect flower: both stamens and pistils**
+* **Imperfect flower: missing one or the other**
+
+<br/>
+
+* **One plant w/ male & female flowers = moneocious**
+* **If male & female flowers on separate plants = dioecious**
+
+<br/>
+
+* **Regular flower = radial symmetry (rose)**
+* **Irregular flower has bilateral symmetry (iris)**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:325px; HEIGHT:450px" SRC="images/perfect.jpg">
+
+## When to flower? Arabidpopsis has many known pathways
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/flowerpower.gif">
+
+<div style="float: right; width: 50%;">
+
+* **Photoperiod: long days trigger flowering genes**
+    + photoreceptor pigments
+    
+<br/>
+
+* **Vernalization: prolonged cold induces flowering**
+
+<br/>
+
+* **GA hormone: internal hormonal signals**
+    + independent of environemnt
+
+<br/>
+
+* **Why so many?**
+
+</div>
+
+## Flowering in marijuana
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Flowering periods triggered by photoperiodism**
+    + 6hrs or more of darkness
+    + vegetative growth synced w/ summer daylight
+
+<br/>
+
+* **Longer darkness cause hormonal change**
+    + triggered by 2 photocrome pigments
+    + PR (660-700nm) & PFR (760-800nm)
+    + darkness switches PFR to PR
+    + tipping point of PFR:PR
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:560px; WIDTH:525px; HEIGHT:425px" SRC="images/cannabis.jpg">
+
+## Pollination
+<hr>
+
+* **Sex cells must travel from one plant to another**
+    + sexual partners may be widely scattered
+
+<br/>
+
+* **Seed plants: pollen carried by wind, insects & birds**
+    + inevitable pollen loss
+    + may also require nectar production
+
+<br/>
+
+* **Pollination = transfer of pollen from anther to stigma**
+    + not fertilization!
+    
+<br/>
+
+* **Some flowering plants can self-pollinate**
+    + stamen & anther mature @ same time
+    + large genetic consequences
+    + no nectar necessary
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:450px; HEIGHT:450px" SRC="images/pollen.jpg">
+
+## Mechanisnms against self-pollination
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Many flowers have both male & female structures**
+    + hermaphrodism
+
+<br/>
+
+* **Pollen and the ovary mature at different times**
+
+<br/>
+
+* **Physical flower features that prevent self-pollination**
+    + styles length relative to the stamens = *heterostyly*
+
+<br/>
+
+* **Biochemical blockers to reject closely related pollen**
+    + e.g. enzymatic destruction of RNA
+    + chemical tests (proteins) on pollen tube
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/hetero.jpg">
+
+## Evolution of flower color and smell
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/colorsmell.jpg">
+
+## Alternation of generations: Where is the gametophyte?
+<hr>
+<br/>
+<br/>
+<div style="float: left; width: 45%;">
+
+* **Male: microspore inside pollen grain**
+    + microgametophyte = max 3 cells
+    + generative cell &rarr; mitosis &rarr; 2 sperm
+    + vegetative cell makes pollen tube
+
+<br/>
+
+* **Female: 7 cell embryo sac, inside ovule**
+    + megaspore develops into megagametophyte
+    + mitosis 3x
+    + one cell has 2 nuclei
+    + one cell = egg
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/megaspores.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/gametophyte.png">
+
+## Angiosperm reproduction: double fertilization
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/doublefert.png">
+
+## Comparing seed plant reproduction
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/seedsex.jpg">
+
+## Fruits develop from ovaries
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Ovule develop into seeds**
+
+<br/>
+
+* **Stigma, style, sepals & petals wither away**
+
+<br/>
+
+* **3 layers develop during growth**
+    + exocarp = outer skin
+    + mesocarp = flesh
+    + endocarp = stone, pit or thin inner layer
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:300px; HEIGHT:450px" SRC="images/fruit4.png">
+
+## Type of *gynociem* determines fruit type    
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:950px; HEIGHT:450px" SRC="images/fruits2.jpg">
+
+## Seeds as agents of dispersal
+<hr>
+<br/>
+
+<div style="float: left; width: 52%;">
+
+* **Seeds capable of long-distance dispersal**
+    + pros: promotes sexual reproduction
+    + cons: diverse landing sites
+
+<br/>
+
+* **1 plant = 1,000s of seeds (possible)**
+    + each a genetic experiment
+    + significant cost to plant
+
+<br/>
+
+* **Fruits/seeds by wind = light, wings or parachutes**
+* **Fruits/seeds by water = buoyant & anti-rot**
+* **Mechanisms to stick to animals**
+* **Edible but not digested**
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:560px; WIDTH:525px; HEIGHT:450px" SRC="images/dispersal.png">
