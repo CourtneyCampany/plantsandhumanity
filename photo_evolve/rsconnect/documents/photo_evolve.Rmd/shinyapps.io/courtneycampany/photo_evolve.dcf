@@ -1,0 +1,12 @@
+name: photo_evolve
+title: photo_evolve
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 530507
+bundleId: 2831407
+url: https://courtneycampany.shinyapps.io/photo_evolve/
+when: 1582725355.10131
+asMultiple: FALSE
+asStatic: FALSE

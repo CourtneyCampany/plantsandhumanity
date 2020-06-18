@@ -1,0 +1,209 @@
+---
+title: "The future of photosynthesis"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Evolution of C4 photosynthesis
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/c4cell.jpg">
+
+<div style="float: right; width: 45%;">
+
+* **Calvin cycle moved to *Bundle Sheath Cells* surrounding leaf veins**
+    * chloroplasts now present
+
+<br/>
+<br/>
+
+* **BSC cells are less permeable to gases**
+    * what does this mean for photorespiration?
+
+</div>
+
+## 
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c3_cs.gif">
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c4_cs.gif">
+
+## C4 plants concentrate CO~2~ around Rubisco *spatially*
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+* **C4 mechanism separates Calvin cycle from high O~2~**
+
+<br/>
+
+* **New enzyme, phosphoenolpyruvate carboxlylase (PEPC)**
+    * fixes CO~2~ to PEP (no affinity for O~2~)
+    * new 4C malate pumped to bundle sheath cells
+    * malate broken down to release CO~2~
+
+<br/>
+
+* **Hyper efficient with use of CO~2~**
+    * How does this impact stomata behavior?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
+
+## Why is C4 photosynthesis not dominant?
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Regeneration of PEP expensive (ATP)**
+    + in addition to ATP needed for Calvin cycle
+ 
+<br/>
+ 
+* **Where is needed ATP generated?**
+
+<br/>
+
+* **Where should C4 plants live**
+    * efficiency vs dehydration
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:550px; HEIGHT:450px" SRC="images/c4khan.png">
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
+
+<div class="item-absolute2"> In hot conditions, the benefits of reduced photorespiration likely exceed the ATP cost of moving CO~2~ from the mesophyll cell to the bundle-sheath cell </div>
+
+## C4 photosynthesis: Evolved many times
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/c4map.png">
+
+## Evolution of CAM photosynthesis (C4 pathway w/out BSC)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
+
+## CAM concentrates CO~2~ around Rubisco *temporally*
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 47%;">
+
+* **Stomata open at night only**
+ 
+<br/>
+ 
+* **4C compounds produced in large quantities**
+    + stored when Rubisco is inactive
+
+<br/>
+
+* **C4 vs CAM**
+    * substitute BSC for "night shift"
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cam5.jpg">
+
+## Yes we CAM!!
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/cam_plants.jpeg">
+
+
+<div style="float: left; width: 50%;">
+* **CAM evolved independently several times**
+    + ~16,000 species
+
+<br/>
+
+* **Exist in arid environments or habitats**
+    * cacti
+    * epiphytes
+
+<br/>
+
+* **Are CAM plants fast or slow growing?**
+</div>
+
+## C3 vs C4 vs CAM: Know advantages/disadvantages of each
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/c3c4cam.jpeg">
+
+## Why does this matter to you...
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+* **C4 plants are economically important**
+    * corn, sugarcane, sorghum & switchgrass
+
+<br/>
+
+* **So are C3 crops**
+    * beans, rice, wheat, potatoes (temperate crops)
+
+<br/>
+
+* **Global water use is set to triple by 2050**
+    * 70%  to the agriculture sector
+    * 50% transpired through stomatal pores
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:285px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/dry_corn.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/crops.jpg">
+
+
+## Can science TUNE photosynthesis?
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:500px; HEIGHT:300px" SRC="images/rubsico_fix.jpg">
+
+<div style="float: left; width: 40%;">
+
+* **↑ efficiency of Rubisco in crops**
+
+<br/>
+
+* **Redesign to mask photorespiration**
+
+<br/>
+
+* **Turning C3 crops to C4...**
+    * https://c4rice.com/
+
+</div>

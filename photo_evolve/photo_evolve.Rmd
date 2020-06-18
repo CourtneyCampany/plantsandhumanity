@@ -1,0 +1,228 @@
+---
+title: "Photosynthesis: past, present and future"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+<!-- ## Review: Light energy to chemical energy -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:265px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/chlorophyll.jpeg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/photosystem.jpeg"> -->
+
+<!-- ## Review: Calvin cycle -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/calvin.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:185px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/calvin2.png"> -->
+
+## Light reactions: make ATP + NADPH for Calvin cycle
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/photosystems2.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg">
+
+## Calvin cycle
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/calvin3.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.png">
+
+## Calvin cycle is a 3-step process
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
+
+
+<div style="float: right; width: 50%;">
+
+* **1. Fixation: CO~2~ reacts with 5C molecule (RuBP)**
+    + catalyzed by Rubisco enzyme
+    + new 6C split into 2 acids (3C each)
+
+
+<br/>
+
+* **2. ATP and NADPH turn 3C acids into sugars**
+    + reduction of acids
+
+<br/>
+
+* **3. Some 3C sugars recycled to make RuBP (5C)**
+    + one 3C sugar leaves to make glucose
+    + recycling needs ATP
+    
+ </div>
+
+## Making sugars requires several cycles
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin2.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
+
+## Rubisco - the enzyme that dominates carbon fixation
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:425px; HEIGHT:400px" SRC="images/rubisco.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Most abundant enzyme in the world**
+
+<br/>
+
+* **Most CO~2~ converted into biomass is fixed by Rubisco**
+
+<br/>
+
+* **Large molecule : 16 polypeptides : 8 active sites**
+
+</div>
+
+## Rubisco: the clunky and slow carbon fixer
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 59%;">
+
+* **Only 3-10 reactions per second**
+    + limits photosynthesis
+    
+<br/>
+
+* **20% error rate**
+    + gets worse at high temperatures
+
+<br/>
+
+* **Also reacts with O~2~**
+    + O~2~ reaction called *Photorespiration*
+    + uses ATP and NADPH to make CO~2~
+
+  
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:225px" SRC="images/photorespiration.jpeg">
+
+## C3 photosynthesis how did we get here...
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Evolution doesn't always create the best solution**
+
+<br/>
+
+* **Photorespiration is completely wasteful**
+    + 2x energy to produce the same amount of sugar than if Rubisco only reacted with CO~2~
+
+<br/>
+
+* **Rubisco evolved high affinity for CO~2~ (80x > O~2~)** 
+    + compare to the composition of the atmosphere...
+    + compare to global warming...
+
+ </div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:275px; HEIGHT:380px" SRC="images/atmosphere.png">
+
+## Rubisco substrate choice
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:700px; HEIGHT:350px" SRC="images/rubisco_temp.png">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:225px; HEIGHT:450px" SRC="images/atmosphere.png">
+
+## Photorespiration inpacts food security
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/crop-yield-map.png">
+
+## Rubisco and plant evolution: How did we get here?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco3.jpg">
+
+## Plant evolution tied to atmospheric shifts in CO~2~:O~2~
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco2.jpg">
+
+## Why has Rubisco not been replaced?
+<hr>
+<br/>
+ 
+<div style="float: left; width: 55%;">
+
+* **Evolution of enzymes difficult**
+    * trade-offs between activity and stability
+ 
+ <br/>
+ 
+* **Removing the oxygenation capability breaks Rubisco**
+    * selection against modifying mutations
+
+<br/>
+
+* **RubisCO → RubisC???**
+    + requires a decrease in fitness 
+    + plants are stuck with Rubisco
+    
+ <br/>
+ 
+* **Natural selection increased affinity for CO~2~**
+    + makes it slow
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:595px; WIDTH:475px; HEIGHT:450px" SRC="images/calvin2.jpg">
+
+## Evolution tinkers with other parts of photosynthesis
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:400px; HEIGHT:225px" SRC="images/c3c4cam.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Improved and recombined existing parts and pieces**
+    + work around the photorespiration issue
+ 
+<br/>
+
+* **In response to environmental change**
+    + lower [CO~2~] & higher [O~2~]
+    + high temperatures 
+    + water limitations 
+
+<br/>
+
+* **Evolution of new photosynthesis pathways**
+    + Allowed plants to exploit new habitats
+</div>
+

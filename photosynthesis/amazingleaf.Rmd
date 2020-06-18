@@ -36,12 +36,10 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:425px; WIDTH:625px; HEIGHT:325px" SRC="images/stomata6.jpg">
 
-## How stomata work...
+## How stomata work (advanced)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/stomata4b.jpg">
+* **add active vs passive
 
 ## Leaf gas exchange impacts global ecology
 <hr>
@@ -71,24 +69,15 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
 
-## Are plants intelligent? Leaf economic theory
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafecon.png">
-
 ## Photosynthesis is complicated....
 <hr>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:185px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/scholar.jpg">
 
-<!-- ## What do we do when we are hungry? -->
-<!-- <hr> -->
-<!-- <br/> -->
+## 
 
-<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:350px; HEIGHT:250x" SRC="images/hangry.png"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/fastfood.jpg"> -->
+* **something new here**
 
 ## What do plants do when they are hungry?
 <hr>
@@ -203,78 +192,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
 
-<!-- ## Rubisco - the enzyme that dominates carbon fixation -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
+## Calvin Benson won a Nobel prize, his TA won best practical joke
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:425px; HEIGHT:400px" SRC="images/rubisco.jpg"> -->
-
-<!-- <div style="float: right; width: 55%;"> -->
-
-<!-- * **Most abundant enzyme in the world** -->
-
-<!-- <br/> -->
-
-<!-- * **Most CO~2~ converted into biomass is fixed by Rubisco** -->
-
-<!-- <br/> -->
-
-<!-- * **Large molecule : 16 polypeptides : 8 active sites** -->
-
-<!-- </div> -->
-
-<!-- ## Rubisco: the clunky and slow carbon fixer -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-
-<!-- <div style="float: left; width: 55%;"> -->
-
-<!-- * **Only 3-10 reactions per second** -->
-
-<!-- <br/> -->
-
-<!-- * **20% error rate** -->
-<!--     * gets worse at high temperatures -->
-
-<!-- <br/> -->
-
-<!-- * **Performs carboxylation and OXYGENATION** -->
-
-<!-- </div> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:500px; WIDTH:500px; HEIGHT:250px" SRC="images/photorespiration.jpeg"> -->
-
-<!-- ## C3 photosynthesis how did we get here... -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-
-<!-- <div style="float: left; width: 55%;"> -->
-
-<!-- * **Evolution doesn't necessarily create the best solution** -->
-
-<!-- <br/> -->
-
-<!-- * **Oxygenation products are completely wasteful** -->
-
-<!-- <br/> -->
-
-<!-- * **2x energy to produce the same amount of sugar than if Rubisco just reacted with CO~2~** -->
-
-<!--  </div> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:325px; HEIGHT:450px" SRC="images/atmosphere.png"> -->
-
-<!-- ## Calvin Benson won a Nobel prize, his TA won best practical joke -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bensonwilson.png"> -->
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bensonwilson.png">
