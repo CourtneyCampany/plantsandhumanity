@@ -1,0 +1,12 @@
+name: plant_sensing
+title: plant_sensing
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 534420
+bundleId: 2837270
+url: https://courtneycampany.shinyapps.io/plant_sensing/
+when: 1582898297.85966
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,356 @@
+---
+title: "Plant Transport Processes"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Plant Transport: The big picture
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; left: 50%;">
+
+* **Moving substances to target sites is fundamental**
+    + often against diffusion gradient
+    + processes consume energy (ATP)
+
+
+<br/>
+
+* **Diffusion processes also occur**
+    + proceed far slower
+
+<br/>
+
+* **Question: Can plants sense the environment?**
+    + does this impact transport processes
+    
+  </div>
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:450px; HEIGHT:350px" SRC="images/transport.jpg">
+
+## Basic transport processes
+<hr>
+<br/>
+
+* **Short distance: few cell diameters (or less)**
+    + interior cells no in contact with environment
+    + involves transfer of basic nutrients
+    + outside &rarr; inside neighbor cells
+
+<br/>
+
+* **Long distance: between cells that are now close neighbors**
+    + adaptive for large land plants
+    + evolution of vascular tissues
+    + can be target-specific
+    + results in non-transport advantages
+    
+## Moving water through the plant is vital
+<hr>
+<br/>
+
+* **Most transport materials dissolve in H_2_0**
+
+<br/>
+
+* **Water is weird and cool**
+    + heavy
+    + viscous (thick & *sticky*)
+    
+<br/>
+
+* **Water is component of photosynthesis**  
+
+<br/>
+
+* **Water keeps cells turgid**
+    + manipulated in guard cells
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/water.jpg">
+
+## Plants also have mechanisms to inhibit movement
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/epidermis.png">
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/casparian.jpg">
+
+<div style="float: right; left: 40%;">
+
+* **Cutin-lined epidermis**
+    + keeps water in
+
+<br/>
+
+* **Casparian strip in roots*
+    + surround cells cirlcing vascular bundle
+    + forces selective diffusion through root cells
+    
+</div>
+
+## Simple Transport: Diffusion through a membrane
+<hr>
+<br/>
+
+* **Membranes can be free, impermeable or selective**
+
+<br/>
+
+* **Some membranes have aqua-porins (proteins) to speed things up**
+
+<br/>
+
+* **Membranes have *molecular pumps* for active transport**
+    + use ATP to force molecules across membranes
+    
+## Water has the capacity to do work: Water Potential
+<hr>
+<br/>
+
+* **Water has free energy (chemical potential)**
+    + in botany = water poential
+    + \psi of free water = 0 (no solutes)
+ 
+<br/>
+
+* **Water potential can be increased/decreased**
+    + heated
+    + pressure
+    + elevated
+    
+* **\psi detemined by pressure, solutes & stickness**
+
+<br/>
+
+* **Movement of water is related to water poential**
+    + moves from positive to negative
+    + cells interconnected = plant one big pond
+    
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/beaker.jpg">
+
+## Plant Water Transport: Soil - Root - Stem - Leaf - **Air**
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/spad_water.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
+
+## How do plants know? Sensory cell systems
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/signals2.jpg">
+
+<div style="float: right; left: 55%;">
+
+* **Cell to cell signal networks**
+
+<br/>
+
+* **Ca^2+^ based signals are common**
+
+</div>
+
+## Plants grow towards light:  Phototropism via Auxin
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:550px; HEIGHT:350px" SRC="images/auxin2.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:650px; WIDTH:400px; HEIGHT:250px" SRC="images/auxin.png">
+
+<!-- ## Sunflowers in the light -->
+<!-- <hr> -->
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/GCRNHdGXTi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
+
+## Plants competing for light can grow really tall
+<hr>
+<br/>
+<br/>
+<br/>
+
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:600px; HEIGHT:460px" SRC="images/redwood.jpg">
+
+<div style="float: right; width: 40%;">
+
+* **Primary and secondary growth allow trees to be giants**
+
+<br/>
+
+* **Are their limitations to plant height?**
+    + Redwoods = 116 m
+      
+<br/>
+
+* **What resource most limits growth?** 
+
+</div> 
+
+
+## Are there limits to moving water?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/vessels.jpg">
+
+<div style="float: left; width: 45%;">
+
+* **Large trees move hundreds of gallons of water a day**
+
+<br/>
+
+* **Gravity**
+    + harder and harder to move water
+    + xylem less efficient @ top
+    + theoretically, limits growth to 122-130 m
+
+<br/>
+
+* **Drying soil adds tension**
+
+</div> 
+
+## How long a straw could Superman use?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:400px; WIDTH:300px; HEIGHT:450px" SRC="images/straw.jpg">
+ 
+## How can redwood trees grow so tall?
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Cohesion tension theory**
+    + plants use water properties to cheat gravity
+
+<br/>
+
+* **Cohesion: H~2~0 stick to other H~2~0 molecules**
+    + via H bonds
+
+<br/>
+
+* **Adhesion: water sticks to non water molecules**
+    + stick to sides of xylem tissues
+    + is not pulled straight up!
+
+<br/>
+
+* **Transpiration pulls water under tension**
+</div> 
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
+
+## How can redwood trees grow so tall?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **H~2~O also pulled in zig zag motion**
+    + pits and perforations
+    + tracheids are twisted
+
+<br/>
+
+* **Vascular tissue is tough**
+    + high resistance of lignified walls
+    + built not to collapse
+  
+<br/>
+
+* **Redwoods near theoretical limit!** 
+  
+</div> 
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/vessels_pits.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/heart_attack.png">
+
+## Cavitation: When water breaks 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/embolism2.jpg">
+ 
+## Do plants sense cavitation events and repair them? 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism3.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/xylemdead.jpg">
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/studying_caviatation.jpg"> -->
+
+## How do plants avoid water problems #1
+<hr>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/closed_stomata.jpg">
+
+## Risky stomatal behavior
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.jpg">
+
+## How do plants avoid water problems #2
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:750px; HEIGHT:450px" SRC="images/soil_refilling.png">
+
+## How do plants avoid water problems #3
+<hr>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art2.jpg">
+
+## Don't mess with the acacia tree!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/acacia.jpg">
+
+## Plant herbivore defenses: Ethylene 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/acacia2.png">
+ 
+## Signalling herbivory
+<hr>
+<br/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Wounding triggers transmission of Ca^2+^ to start defense
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/science_paper.jpg">
+
+## Protective perfumes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/protective_perfumes.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/plant_smart.png">

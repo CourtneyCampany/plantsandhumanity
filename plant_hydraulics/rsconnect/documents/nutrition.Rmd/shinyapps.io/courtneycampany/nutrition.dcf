@@ -1,0 +1,12 @@
+name: nutrition
+title: nutrition
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 530662
+bundleId: 1658528
+url: https://courtneycampany.shinyapps.io/nutrition/
+when: 1540318614.04055
+asMultiple: FALSE
+asStatic: FALSE
