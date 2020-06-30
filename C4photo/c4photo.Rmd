@@ -62,6 +62,23 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
 
+## C4 is turbo-charged from of photosynthesis
+<hr>
+<br/>
+
+* **Most productive C4 plants have rates ~50% higher than C3 plants**
+    + evolved independently ~70 times
+
+<br/>
+    
+* **Of ~435,000 plant species, only 2% are C4**
+    + 3 of top 10 crop plants are C4
+    + extremely rare in trees (1 family)
+    
+<br/>
+
+* **C4 plants still account for 25% of productivity**
+
 ## Why is C4 photosynthesis not dominant?
 <hr>
 <br/>
@@ -97,63 +114,67 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/c4map.png">
 
-## Evolution of CAM photosynthesis (C4 pathway w/out BSC)
-<hr>
+## Why are there no C4 trees?
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
+## 
 
-## CAM concentrates CO~2~ around Rubisco *temporally*
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- ## Evolution of CAM photosynthesis (C4 pathway w/out BSC) -->
+<!-- <hr> -->
 
-<div style="float: right; width: 47%;">
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png"> -->
 
-* **Stomata open at night only**
- 
-<br/>
- 
-* **4C compounds produced in large quantities**
-    + stored when Rubisco is inactive
+<!-- ## CAM concentrates CO~2~ around Rubisco *temporally* -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<br/>
+<!-- <div style="float: right; width: 47%;"> -->
 
-* **C4 vs CAM**
-    * substitute BSC for "night shift"
-    
-</div>
+<!-- * **Stomata open at night only** -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cam5.jpg">
+<!-- <br/> -->
 
-## Yes we CAM!!
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- * **4C compounds produced in large quantities** -->
+<!--     + stored when Rubisco is inactive -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/cam_plants.jpeg">
+<!-- <br/> -->
+
+<!-- * **C4 vs CAM** -->
+<!--     * substitute BSC for "night shift" -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cam5.jpg"> -->
+
+<!-- ## Yes we CAM!! -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/cam_plants.jpeg"> -->
 
 
-<div style="float: left; width: 50%;">
-* **CAM evolved independently several times**
-    + ~16,000 species
+<!-- <div style="float: left; width: 50%;"> -->
+<!-- * **CAM evolved independently several times** -->
+<!--     + ~16,000 species -->
 
-<br/>
+<!-- <br/> -->
 
-* **Exist in arid environments or habitats**
-    * cacti
-    * epiphytes
+<!-- * **Exist in arid environments or habitats** -->
+<!--     * cacti -->
+<!--     * epiphytes -->
 
-<br/>
+<!-- <br/> -->
 
-* **Are CAM plants fast or slow growing?**
-</div>
+<!-- * **Are CAM plants fast or slow growing?** -->
+<!-- </div> -->
 
-## C3 vs C4 vs CAM: Know advantages/disadvantages of each
-<hr>
+<!-- ## C3 vs C4 vs CAM: Know advantages/disadvantages of each -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/c3c4cam.jpeg">
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/c3c4cam.jpeg"> -->
 
 ## Why does this matter to you...
 <hr>
@@ -194,6 +215,10 @@ output:
 <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:500px; HEIGHT:300px" SRC="images/rubsico_fix.jpg">
 
 <div style="float: left; width: 40%;">
+
+Although it is unrealistic to expect an engineering solution to entirely eliminate the wastes of photorespiration indicated above, the scale of these wastes indicates that even a marginal improvement could translate to significant gains in productivity and crop value Walker et al. 2016
+
+iciency of photorespiration could be improved in a way that reduces total loss by only 5%, the result would be an additional 68 million bushels of soybean and 23 million bushels of wheat annually under current atmospheric conditions. These additional bushels of soybean and wheat would have a value of almost $540 million
 
 * **↑ efficiency of Rubisco in crops**
 

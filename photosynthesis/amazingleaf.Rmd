@@ -196,3 +196,25 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bensonwilson.png">
+
+## The brillance of photosynthesis
+<hr>
+
+* **Light energy to synthesize something...**
+    + is light limiting?
+
+<br/>
+
+* **Chemical energy made includes ATP**
+    + high energy
+    + movable
+    + recyclable
+
+<br/>
+
+* **Carbon dioxide & H_2_ are everywhere**
+    + easily diffuse into plant
+    + contain little chemical energy
+    + non-toxic
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/endergonic.jpg">

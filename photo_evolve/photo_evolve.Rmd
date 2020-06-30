@@ -226,3 +226,22 @@ output:
     + Allowed plants to exploit new habitats
 </div>
 
+
+## Plants and humanity: Why does photorespiration matter?
+<hr>
+<br/>
+
+ photorespiration consumes 32% of total ATP and 28% of total NADH equivalents in an illuminated C3 leaf under current atmospheric conditions at 25°C
+
+current rate of crop productivity improvement is not sufficient to meet the need to double food production by 2050, 
+
+photorespiration currently decreases US soybean and wheat yields by 36% and 20%, respectively, and a 5% decrease in the losses due to photorespiration would be worth approximately $500 million annually in the United States.
+
+interactions with cliamte change
+
+
+
+This decrease in production translates to a total loss of 148 trillion calories, or enough to meet the daily dietary requirements of an additional 203 million people for a year." Walker et al. 2016
+
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:400px; HEIGHT:225px" SRC="images/walker_photoresp.gif">
