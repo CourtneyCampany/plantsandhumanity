@@ -165,25 +165,29 @@ output:
 ## Rubisco and plant evolution: How did we get here?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco3.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/evolution_rubisco3.jpg">
 
 ## Plant evolution tied to atmospheric shifts in CO~2~:O~2~
 <hr>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco2.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:925px; HEIGHT:450px" SRC="images/evolution_rubisco2.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:50px; WIDTH:1000px; HEIGHT:550px" SRC="images/evol_rubisco.jpg">
 
 ## Why has Rubisco not been replaced?
 <hr>
 <br/>
  
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 50%;">
 
 * **Evolution of enzymes difficult**
     * trade-offs between activity and stability
  
  <br/>
  
-* **Removing the oxygenation capability breaks Rubisco**
+* **Removing oxygen reaction breaks Rubisco**
     * selection against modifying mutations
 
 <br/>
@@ -199,7 +203,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:595px; WIDTH:475px; HEIGHT:450px" SRC="images/calvin2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:520px; WIDTH:580px; HEIGHT:450px" SRC="images/rubisco_mutations.jpg">
 
 ## Evolution tinkers with other parts of photosynthesis
 <hr>
@@ -223,6 +227,7 @@ output:
 <br/>
 
 * **Evolution of new photosynthesis pathways**
+    + C4 pathway and CAM
     + Allowed plants to exploit new habitats
 </div>
 
@@ -230,18 +235,24 @@ output:
 ## Plants and humanity: Why does photorespiration matter?
 <hr>
 <br/>
+<br/>
+<br/>
 
- photorespiration consumes 32% of total ATP and 28% of total NADH equivalents in an illuminated C3 leaf under current atmospheric conditions at 25°C
+<div style="float: left; width: 55%;">
 
-current rate of crop productivity improvement is not sufficient to meet the need to double food production by 2050, 
+* **Consumes 32% of ATP and 28% of NADH in C3 leaves**
+    + under current conditions
 
-photorespiration currently decreases US soybean and wheat yields by 36% and 20%, respectively, and a 5% decrease in the losses due to photorespiration would be worth approximately $500 million annually in the United States.
+<br/>
 
-interactions with cliamte change
+* **Crop productivity improvement not sufficient to meet 2x food production by 2050**
 
+<br/>
 
+* **Photorespiration decreases US soybean and wheat yields by 36% and 20%**
+    + loss of 148 trillion potential calories
+    + would feed 203 million people for a year
 
-This decrease in production translates to a total loss of 148 trillion calories, or enough to meet the daily dietary requirements of an additional 203 million people for a year." Walker et al. 2016
+</div>
 
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:400px; HEIGHT:225px" SRC="images/walker_photoresp.gif">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/photo_costs.png">

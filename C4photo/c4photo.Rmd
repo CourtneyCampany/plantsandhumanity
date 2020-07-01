@@ -8,6 +8,30 @@ output:
     smaller: true
 ---
 
+## Atmospheric CO~2~ varies across geologic time
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:500px; HEIGHT:450px" SRC="images/co2_atmos.png">
+
+<div style="float: right; width: 55%;">
+
+* **CO~2~ ranged 180 - 4000 ppm in last 500 million years**
+
+<br/>
+
+* **CO~2~ changes impact living things via photosynthesis**
+    + primary source of energy in food chain
+    + large evolutionary selection pressure
+
+<br/>
+
+* **Large decline in CO~2~ last 30 million years**
+
+<br/>
+
+* **What does this mean for the current efficiency of C3 photosynthesis?**
+
 ## Evolution of C4 photosynthesis
 <hr>
 <br/>
@@ -40,11 +64,11 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: right; width: 55%;">
 
 * **C4 mechanism separates Calvin cycle from high O~2~**
+    + 2 compartments
 
 <br/>
 
@@ -65,19 +89,27 @@ output:
 ## C4 is turbo-charged from of photosynthesis
 <hr>
 <br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
 
 * **Most productive C4 plants have rates ~50% higher than C3 plants**
     + evolved independently ~70 times
 
 <br/>
     
-* **Of ~435,000 plant species, only 2% are C4**
+* **~435,000 plant species, only *2%* are C4**
     + 3 of top 10 crop plants are C4
     + extremely rare in trees (1 family)
     
 <br/>
 
 * **C4 plants still account for 25% of productivity**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/c4_super.png">
 
 ## Why is C4 photosynthesis not dominant?
 <hr>
@@ -105,18 +137,170 @@ output:
 <IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:550px; HEIGHT:450px" SRC="images/c4khan.png">
 
 ##
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
 
 <div class="item-absolute2"> In hot conditions, the benefits of reduced photorespiration likely exceed the ATP cost of moving CO~2~ from the mesophyll cell to the bundle-sheath cell </div>
 
-## C4 photosynthesis: Evolved many times
+## C4 photosynthesis: Evolved independently 60-70 times
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/c4map.png">
 
-## Why are there no C4 trees?
+## C4 vs C3 vs principles of evolution
+<hr>
+<br/>
+<br/>
 
-## 
+<div style="float: left; width: 48%;">
+
+* **Recruitment of enzymes into new functions**
+
+<br/>
+
+* **Massive shifts in distribution of parts**
+    + proteins and organelles
+
+<br/>
+
+* **Anatomical modifications to cell structure**
+    + vein structure
+
+<br/>
+
+* **Predict: In what type of plants would this most likely occur?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/anatomy_diff.png">
+
+## Why are there virtually no C4 trees?
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Is it difficult for trees to transition from C4&rarr;C4?**
+    + long generation times
+
+<br/>
+
+* **Why do C4 shrubs not evolve into C4 trees?**
+    + they should have improved growth...
+
+<br/>
+
+* **Was shade a problem?**
+    + some Hawaiian C4 trees live in understory
+
+<br/>
+
+* **C4 plants seem to have an issue growing tall...**
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:525px; HEIGHT:300px" SRC="images/hawaii_trees.png">
+
+## Why C4 matters to you: Water-use-efficiency
+<hr>
+<br/>
+
+<div style="float: left; width: 58%;">
+
+* **Climate change impacts photosynthesis:**
+    + &uarr; CO_2_
+    + &uarr; temperatures
+    + variable precipitation
+    + variations in humidity
+
+<br/>
+
+* **C4 plants can make the same amount of sugars as C3, with less water usage**
+    + *more CO_2_ assimilated per molecule of water loss*
+    + ability to keep stomata closed more often
+    
+<br/>
+
+* **C3 & C4 plants should both benefit from extra CO_2_**
+    + only works in C3 if enough H_2_0
+    + huge advantage for C4 crops
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:645px; WIDTH:400px; HEIGHT:400px" SRC="images/cica.gif">
+
+## Why C4 matters to you: Crops
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+* **C4 plants are economically important**
+    * corn, sugarcane, sorghum & switchgrass
+
+<br/>
+
+* **So are C3 crops**
+    * beans, rice, wheat, potatoes (temperate crops)
+
+<br/>
+
+* **Global water use is set to triple by 2050**
+    * 70%  to the agriculture sector
+    * 50% transpired through stomata
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/dry_corn.jpg">
+
+<IMG STYLE="position:absolute; TOP:430px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/wheat.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/crops.jpg">
+
+## Can science TUNE photosynthesis?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Eliminating photorespirtion is unrealistic** 
+    + can we *tweak* Rubisco?
+    
+<br/>
+
+* **Small improvement = huge gains in crop yield**
+
+<br/>
+
+* **5% reduction = extra 68 million bushels of soybean**
+    + 23 million bushels of wheat       
+    + $540 million value (Walker et al. 2016)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/yield_loss.jpg">
+
+## Can science TUNE photosynthesis?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:900px; HEIGHT:450px" SRC="images/rubsico_fix.jpg">
+
+## Genome work on C4 plants already underway
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/c4_gene.png">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/gene2.jpg">
+
+## Special Topics lecture: C4 rice project
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:475px" SRC="images/timeline.jpg">
 
 <!-- ## Evolution of CAM photosynthesis (C4 pathway w/out BSC) -->
 <!-- <hr> -->
@@ -175,60 +359,3 @@ output:
 <!-- <hr> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/c3c4cam.jpeg"> -->
-
-## Why does this matter to you...
-<hr>
-<br/>
-<br/>
-
-<div style="float: right; width: 55%;">
-* **C4 plants are economically important**
-    * corn, sugarcane, sorghum & switchgrass
-
-<br/>
-
-* **So are C3 crops**
-    * beans, rice, wheat, potatoes (temperate crops)
-
-<br/>
-
-* **Global water use is set to triple by 2050**
-    * 70%  to the agriculture sector
-    * 50% transpired through stomatal pores
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:285px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/dry_corn.jpg">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/crops.jpg">
-
-
-## Can science TUNE photosynthesis?
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:500px; HEIGHT:300px" SRC="images/rubsico_fix.jpg">
-
-<div style="float: left; width: 40%;">
-
-Although it is unrealistic to expect an engineering solution to entirely eliminate the wastes of photorespiration indicated above, the scale of these wastes indicates that even a marginal improvement could translate to significant gains in productivity and crop value Walker et al. 2016
-
-iciency of photorespiration could be improved in a way that reduces total loss by only 5%, the result would be an additional 68 million bushels of soybean and 23 million bushels of wheat annually under current atmospheric conditions. These additional bushels of soybean and wheat would have a value of almost $540 million
-
-* **↑ efficiency of Rubisco in crops**
-
-<br/>
-
-* **Redesign to mask photorespiration**
-
-<br/>
-
-* **Turning C3 crops to C4...**
-    * https://c4rice.com/
-
-</div>

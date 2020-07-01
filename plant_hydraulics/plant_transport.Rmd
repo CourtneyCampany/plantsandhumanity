@@ -28,12 +28,12 @@ runtime: shiny
 
 <br/>
 
-* **Question: Can plants sense the environment?**
+* **Can plants sense the environment?**
     + does this impact transport processes
     
   </div>
     
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:450px; HEIGHT:350px" SRC="images/transport.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/transport.jpg">
 
 <!-- ## Basic transport processes -->
 <!-- <hr> -->
@@ -77,7 +77,7 @@ runtime: shiny
 
  </div>
  
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:400px; HEIGHT:450px" SRC="images/water.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/water.jpg">
 
 ## Plants also need mechanisms to inhibit movement
 <hr>
@@ -85,18 +85,18 @@ runtime: shiny
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/epidermis.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/cutin.jpg">
 
-<IMG STYLE="position:absolute; TOP:360px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/casparian.jpg">
-
-<div style="float: right; left: 40%;">
+<div style="float: left; width: 45%;">
 
 * **Cutin-lined epidermis**
     + keeps water in
 
 <br/>
+<br/>
+<br/>
 
-* **Casparian strip in roots*
+* **Casparian strip in roots**
     + surround cells circling vascular bundle
     + forces selective diffusion through root cells
     
@@ -106,13 +106,13 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: right; left: 50%;">
+<div style="float: left; width: 53%;">
 
 * **Membranes can be free, impermeable or selective**
 
 <br/>
 
-* **Some membranes have aqua-porins (proteins) to speed things up**
+* **Some membranes have aquaporins (proteins) to speed things up**
 
 <br/>
 
@@ -126,13 +126,13 @@ runtime: shiny
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/aquaporin.jpg">
-    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/aquaporin.jpg">
+
 ## Water has the capacity to do work: Water Potential
 <hr>
 <br/>
 
-<div style="float: left; left: 58%;">
+<div style="float: left; width: 58%;">
 
 * **Water has free energy (chemical potential)**
     + in botany = water poential
@@ -156,7 +156,7 @@ runtime: shiny
 
 ## Plant cell walls will never burst!
 <hr>
-
+<br/>
 
 <div style="float: left; left: 58%;">
 
@@ -183,7 +183,29 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/turgid2.jpg">
 
-## Plant Water Transport: Soil - Root - Stem - Leaf - **Air**
+## Phloem: uses active transport & water potential
+<hr>
+<br/>
+
+* **Source: sites where sugars are exported**
+    + active leaves or storage tissues
+
+<br/>
+
+* **Sinks: sites that receive phloem sap**
+    + all parts of plant
+
+<br/>
+
+* **Sugars actively loaded/unloaded into sieve elements**
+    + at source and sink
+    + changes water potential (both ends) 
+    + water diffuses in/out driving sap
+    + phloem under high pressure
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/phloem.jpg">
+
+## Xylem Transport: Soil - Root - Stem - Leaf - **Air**
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/spad_water.jpg">
@@ -299,7 +321,7 @@ runtime: shiny
 ## FIX: Just close your stomata (Right?!?)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/wine.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/wine.jpg">
 
 ## Issue: What happens if if doesnt rain for a while?
 <hr>
@@ -375,4 +397,4 @@ runtime: shiny
 ## Brainstorm: Will climate change impact water transport?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:700px; HEIGHT:450px" SRC="images/vpd3.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/vpd3.jpg">
