@@ -6,21 +6,26 @@ output:
     widescreen: true
     smaller: true
 ---
+## Why should we care about the study of plants
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/quote.jpg">
 
 ## Without plants, most life would not exist!
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/voc.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:35px; WIDTH:400px; HEIGHT:400px" SRC="images/voc.png">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:550px; HEIGHT:300px" SRC="images/voc2.png">
-
-## Photosynthesis has provided O~2~ for billions of years
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/lifeevolve.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:550px; HEIGHT:300px" SRC="images/voc2.png">
 
 ## Photosynthesis has provided O~2~ for billions of years
 <hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/lifeevolve.jpg">
+
+## Photosynthesis has provided O~2~ for billions of years
+<hr>
+<br/>
 <br/>
 <br/>
 
@@ -41,12 +46,17 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/bif.jpg">
 
+## Almost every living thing interacts with plants in some way
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/symbiosis.jpg">
+
 ## Plants conditioned the land for animals
 <hr>
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:5px; WIDTH:650px; HEIGHT:250px" SRC="images/planttime.jpg">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:5px; WIDTH:650px; HEIGHT:250px" SRC="images/planttime.jpg">
 
 <div style="float: right; width: 37%;">
 
@@ -66,16 +76,12 @@ output:
 
 <br/>
 
-* **Then... a bunch of mass extinctions**
+* **Then... many mass extinctions**
 </div>
-
-## Almost every living thing interacts with plants in some way
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/symbiosis.jpg">
 
 ## Plants are responsible for the products *WE* rely on
 <hr>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -90,11 +96,11 @@ output:
 
 <br/>
 
-* **Spices, perfumes, dyes,  food stabilizers, emulsifiers, Starbuck's, etc. allow us to live our best life**
+* **Spices, perfumes, dyes,  food stabilizers, emulsifiers, Starbucks, etc. allow us to live our best life**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/coffee.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:300px; HEIGHT:450px" SRC="images/coffee.png">
 
 ## Plants may be respsible for the *future* products we rely on
 <hr>
@@ -111,6 +117,8 @@ output:
 ## Angiosperms are most important for humans
 <hr>
 <br/>
+<br/>
+<br/>
 
 <div style="float: left; width: 60%;">
 
@@ -125,17 +133,17 @@ output:
     
 <br/>
 
-* **Spices, perfumes, dyes,  food stabilizers, emulsifiers, Starbuck's, etc. allow us to live our best life**
+* **Irish potato famine nearly destroyed a society that was dependent on a single species of flowering plant**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/potato.jpg">
-
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/potato.jpg">
 
 ## This semester, we will.....
 <hr>
 <br/>
-<br/>
+
+<div style="float: left; width: 45%;">
 
 * **Learn to identify plants in the wild**
     + build real and virtual plant collections
@@ -150,19 +158,39 @@ output:
 
 * **Explore the past, present and future of agriculture**
 
-c
+<br/>
 
 * **Dig into the various ways plants define our culture**
 
+</div>
 
-<div style="float: right; width: 40%;">
-* **Start downloading some cool APPS**
+<div style="float: right; width: 45%;">
+
+* **Start downloading some cool phone Apps**
     + inaturalist
     + seek (by inaturlist)
     + itree
 
 <br/>
 
-* **We will embrace tech, and use them all semseter!**
+* **We will embrace tech, and use them all semester!**
 
 </div>
+
+## Journal Club next week
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **Read the Bar-On paper as a scientist**
+    + unpack the components of biomass on Earth
+    + unpack the proportionate impact of humans 
+
+<br/>
+
+* **Evaluate your findings and 'plant blindness'**
+    + be prepared to discuss
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:580px; WIDTH:500px; HEIGHT:350px" SRC="images/barpaper.png">
