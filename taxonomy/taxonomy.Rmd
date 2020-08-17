@@ -11,6 +11,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Plant Taxonomy
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/botany.jpg">
+    
+    
 ##  What is a Plant? A Traditional View
 <hr>
 <br/>
@@ -24,6 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
     + walls of cellulose
     + alternation of generations
 
+<br/>
 <br/>
 
 * **Diversity: There are many kinds of plants and hundreds of thousands of species**
@@ -70,7 +76,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **Search for taxol was successul in other members of the genus**
+* **Search for taxol was successful in other members of the genus**
     + has made drug more available
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:815px; WIDTH:225px; HEIGHT:425px" SRC="images/yew.jpg">
@@ -82,7 +88,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:250px; HEIGHT:400px" SRC="images/alice.jpg">
 
-## Common names vs Scienitific nomenclature
+## Common names vs Scientific nomenclature
 <hr>
 <br/>
 
@@ -101,10 +107,11 @@ knitr::opts_chunk$set(echo = FALSE)
     + may reflect language barriers
     + may be botanically incorrect (e.g. Jerusalem artichoke)
     
-<IMG STYLE="position:absolute; TOP:275px; LEFT:625px; WIDTH:375px; HEIGHT:225px" SRC="images/anise.jpg">
+<IMG STYLE="position:absolute; TOP:285px; LEFT:700px; WIDTH:375px; HEIGHT:225px" SRC="images/anise.jpg">
 
 ## Common names vs Scienitific nomenclature
 <hr>
+<br/>
 <br/>
 
 <div style="float: left; width: 60%;">
@@ -152,12 +159,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 
-## Iowa State interactive Tree key
-<hr>
-<br/>
-
-https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
-
 ## We must learn vegetative terminology!!
 <hr>
 <br/>
@@ -188,14 +189,14 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 
 <div style="float: left; width: 53%;">
 
-* **Annual: completes life cycle in a single year**
-* **Biennial: completes life cycle in two years**
-* **Perennial: lives more than two seasons**
+* **Annual**: completes life cycle in a single year
+* **Biennial**: completes life cycle in two years
+* **Perennial**: lives more than two seasons
 
 <br/>
 
-* **Evergreen: keeps its leaves year-round**
-* **Deciduous: looses its leaves at the end of growing season**
+* **Evergreen**: keeps its leaves year-round
+* **Deciduous**: looses its leaves at the end of growing season
 
 <br/>
 
@@ -209,6 +210,7 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 
 ## Plant vegetative organs (only 3! plants are easy!)
 <hr>
+<br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:325px; HEIGHT:450px" SRC="images/organs2.jpg">
@@ -236,6 +238,7 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 <hr>
 <br/>
 <br/>
+<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -254,7 +257,7 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
  
 </div>
  
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/leaf.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/leaf.jpg">
 
 ##  Leaf structure
 <hr>
@@ -264,11 +267,13 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 
 <br/>
 
-* **compound - leaf blade divided into smaller sections called leaflets**
+* **compound - leaf blade divided into smaller sections**
     + leaflet - section of a compound leaf
+    
 <br/>
 
-* **rachis - stalk that supports leaflets in a compound leaf; central axis**
+* **rachis - stalk that supports leaflets in a compound leaf**
+    + on central axis
     + rachilla - stalk that supports lateral leaflets
 
 <br/>
@@ -279,7 +284,7 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 
 * **palmately compound - like the fingers on your hand**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/compund.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/compund.jpg">
 
 ## Leaf Arrangement
 <hr>
@@ -288,8 +293,10 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 
 <div style="float: left; width: 50%;">
 
-* **Leaves may be found at  base(e.g. dandelion), along the stem, or both**  
+* **Leaves may be found at  base (e.g. dandelion), along the stem, or both**  
 
+<br/>
+<br/>
 <br/>
 
 * **Leaves are attached at nodes:**
@@ -299,7 +306,7 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:525px; WIDTH:500px; HEIGHT:300px" SRC="images/arrange.gif">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/arrange.png">
 
 ## Trees with opposite leaves = MADCAP HORSE
 <hr>
@@ -318,6 +325,32 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 * **Horse = Horsechestnut and buckeye**
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:600px; WIDTH:300px; HEIGHT:200px" SRC="images/maple.jpg">
+
+## Leaf margin
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **entire: margin smooth**
+
+<br/>
+
+* **lobed: margin with indentations**
+
+<br/>
+
+* **serrate: margin toothed**
+    + Singly or doubly toothed
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/margin.jpg">
+
+## Leaf shape: There are sooooo many
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/shape.jpg">
 
 ## Leaf Venation
 <hr>
@@ -342,32 +375,11 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:470px; WIDTH:600px; HEIGHT:400px" SRC="images/venation.jpg">
 
-## Leaf margin
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-
-* **entire: margin smooth**
-
-<br/>
-
-* **lobed: margin with indentations**
-
-<br/>
-
-* **serrate: margin toothed**
-    + Singly or doubly toothed
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/margin.jpg">
-
 ## Surface features
 <hr>
 <br/>
 <br/>
 <br/>
-
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/surface.jpg">
 
@@ -389,17 +401,11 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 
 </div>
 
-## Leaf shape: There are sooooo many
-<hr>
-<br/>
+<!-- ## Quiz: Diagnose the characters of these leaves -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/shape.jpg">
-
-## Quiz: Diagnose the characters of these leaves
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/quiz.png">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/quiz.png"> -->
 
 ## Stem features
 <hr>
@@ -408,7 +414,7 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 
 * **Node:  region where leaf is attached**
     + internode - region between nodes
-    + axil - junction of leaf and stem
+    + axil - upper junction of leaf and stem
 
 <br/>
 
@@ -440,22 +446,21 @@ https://naturalresources.extension.iastate.edu/forestry/iowa_trees/key/key.html
 ## Get collecting!!
 <hr>
 <br/>
+<br/>
 
-* **20 pressed specimens**
+* **40 pressed specimens**
     + plant presses must stay in SS 303
+    + use 'Seek' app or other to ID
     
 <br/>
 
-* **30 digital collections**
-    + use.....
-    
-<br/>
-
-* **30 field guide drawings in your sketchbook**
+* **40 drawings in your field guide**
+    + include a table of contents
+    + add  character guide in your sketchbook
     + sketch each leaf and other characters
     + list the diagnostic characters
     + 2-3 ecological/cultural facts
-    + add diagnostic characters (this lecture) in your sketchbook
+
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:325px; HEIGHT:450px" SRC="images/sketch.jpg">
     
