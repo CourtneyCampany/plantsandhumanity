@@ -7,6 +7,11 @@ output:
     smaller: true
 ---
 
+## Plant Cells and Growth
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/celltitle.jpg">
+
 ##  Plant form and function is ruled by cells
 <hr>
 
@@ -21,7 +26,7 @@ output:
 
 <br/>
 
-* **Root cells start uptake & transport of H_2_O**
+* **Root cells uptake & transport H~2~O **
 
 </div>
 
@@ -47,7 +52,7 @@ output:
 <div style="float: right; width: 45%;">
 
 * **Mostly made of cellulose**
-    + strength and protection of protoplast
+    + strength and protection of *protoplast*
     + chains of cellulose molecules = *fibrils*
 
 <br/>
@@ -169,7 +174,7 @@ output:
 * **Peroxisomes: organelle that produces or uses peroxide**
     + detoxify product of photosynthesis
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:725px; WIDTH:300px; HEIGHT:300px" SRC="images/basic.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:735px; WIDTH:300px; HEIGHT:300px" SRC="images/basic.jpg">
 
 ## 
 
