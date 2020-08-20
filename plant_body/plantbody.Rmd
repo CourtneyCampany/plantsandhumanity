@@ -7,6 +7,10 @@ output:
     smaller: true
 ---
 
+## The Plant Body
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:750px; HEIGHT:450px" SRC="images/leaftitle.jpg">
+
 ## 
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/cell_concept.png">
@@ -166,13 +170,14 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/stomata_scope.png">
 
 <div style="float: right; width: 50%;">
 
 * **Pores that allow gas exchange**
-    + CO_2_, O_2_, water vapor
+    + CO~2~, O~2~, water vapor
 
 <br/>
 
@@ -229,6 +234,7 @@ output:
 ## Vascular (3) Tissues
 <hr>
 <br/>
+<br/>
 
 * **Conducting tissues in plants**
     + visible in leaves = veins!
@@ -278,6 +284,7 @@ output:
 <hr>   
 <br/>
 <br/>
+
 
 * **Living cells with only primary cell wall**
     + nucleus/organelles eventually disappear
