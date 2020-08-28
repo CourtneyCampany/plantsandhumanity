@@ -5,7 +5,6 @@ output:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## The big picture: Plants evolved from green algae
@@ -72,7 +71,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 53%;">
 
 * **Freshwater species**
 
@@ -87,11 +86,10 @@ runtime: shiny
 * **More shared traits with land plants:**
     + circular protein rings in plasma membrane; make cellulose fibers in cell wall
     + swimming sperm with similar structure
-    + phragmoplast (something with cell division)
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/chara.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/chara.jpg">
 
 ##
 
@@ -106,16 +104,17 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:500px; HEIGHT:400px" SRC="images/embryophytes.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:650px; HEIGHT:450px" SRC="images/embryophytes.png">
 
-<div style="float: right; width: 48%;">
+<div style="float: right; width: 40%;">
 
  * **10 divisions of land plants**
     + does not include algae
+    + divisions are species diverse
 
 <br/>
 
-* **Zygote develops into multicellular embyro, while enclosed in reproductive structure**
+* **Zygote develops into multi-cellular embyro, while enclosed in reproductive structure**
     + algae do not retain embryo
 
 <br/>
@@ -123,17 +122,17 @@ runtime: shiny
 * **Land plant & embryophyte terms used interchangeably**
 </div>
 
-## Multi-cellular, Dependent embryos (placental transfer)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/embryo.jpg">
-
 ## Shared Traits further define plant evolution
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/basicplantphylo.jpg">
 
 <IMG STYLE="position:absolute; TOP:245px; LEFT:535px; WIDTH:500px; HEIGHT:400px" SRC="images/allplants.jpg">
+
+## Multi-cellular, Dependent embryos (placental transfer)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/embryo.jpg">
 
 ## Waxy cuticle and stomata
 <hr>
