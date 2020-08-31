@@ -20,8 +20,7 @@ output:
 <br/>
 
 * **Plants evolved from green algae**
-    + Several key *'shared traits'*
-    + **WHAT DO YOU THINK THEY ARE?**
+    + Several key *'derived shared traits'*
 
 <br/>
 
@@ -60,40 +59,16 @@ output:
 
 <IMG STYLE="position:absolute; TOP:470px; LEFT:700px; WIDTH:250px; HEIGHT:200px" SRC="images/greenalgae.jpg">
 
-## Molecular evidence points at charophytes as plant ancestors
+## Molecular evidence points at charophytes (freshwater)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/stonewort.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/chara2.jpg">
 
-## Charophytes (freshwater green algae)
-<hr>
-<br/>
-
-<div style="float: left; width: 53%;">
-
-* **Freshwater species**
-
-<br/>
-
-* **Transition from water to land starts with Charophytes**
-    + freshwater habitats may have dried
-    + a population eventually lived above water line
-
-<br/>
-
-* **More shared traits with land plants:**
-    + circular protein rings in plasma membrane; make cellulose fibers in cell wall
-    + swimming sperm with similar structure
-    
-</div>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/chara.jpg">
-
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/transition.jpg">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/transition.jpg">
 
 ## Land plants are a monophyletic group
 <hr>
@@ -103,10 +78,12 @@ output:
 ## All land plants are embryophytes
 <hr>
 <br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:650px; HEIGHT:450px" SRC="images/embryophytes.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:650px; HEIGHT:450px" SRC="images/embryophytes.png">
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 43%;">
 
  * **10 divisions of land plants**
     + does not include algae
@@ -114,7 +91,8 @@ output:
 
 <br/>
 
-* **Zygote develops into multi-cellular embyro, while enclosed in reproductive structure**
+* **Zygote develops into multi-cell embryo**
+    + enclosed in reproductive structure
     + algae do not retain embryo
 
 <br/>
@@ -122,7 +100,7 @@ output:
 * **Land plant & embryophyte terms used interchangeably**
 </div>
 
-## Shared Traits further define plant evolution
+## Shared traits define land plant evolution
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/basicplantphylo.jpg">
@@ -137,7 +115,9 @@ output:
 ## Waxy cuticle and stomata
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/waxystomata.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/waxystomata.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/cuticle.jpg">
 
 ## Multi-cellular Gametangia
 <hr>
@@ -178,7 +158,7 @@ output:
 
 <div style="float: right; width: 60%;">
 
-* **Land plants alterate between diplod (2N) and haploid (1N) generations**
+* **Land plants alternate between diplod (2N) and haploid (1N) generations**
     + diploid = *sporophyte*
     + haploid = *gametophyte*
 
@@ -192,7 +172,7 @@ output:
 
 <br/>
 
-* **dominance of different generations key for evolution**
+* **Dominance of different generations key for evolution**
 
 ## First plant group: non-vascular bryophytes (mosses)
 <hr>
@@ -214,7 +194,7 @@ output:
 
 <br/>
 
-* **Resistant spores**
+* **Need H~2~0 for swimming sperm**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:800px; WIDTH:200px; HEIGHT:450px" SRC="images/bryo.png">
 
@@ -225,52 +205,222 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:950px; HEIGHT:400px" SRC="images/moss_life.png">
 
-## Bryophyte diversity and stomatal evolution
+## Vascular plants were the next evolutionary step
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Vascular plants show up ~425mya**
+    + gametophytes become reduced
+
+<br/>
+
+* **Developed a vascular system**
+    + grow taller = get light
+    + xylem and phlome conduct
+
+<br/>
+
+* **Developed leaves & roots**
+    + better access to resources
+    
+<br/>
+
+* **First vascular plants lacked seeds**
+    + sperm still needed to swim 
+    + ferns and lycophytes
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/manyangio.jpg">
+
+## Lycophytes: First vascular plants
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:200px; HEIGHT:450px" SRC="images/lyco.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Independent,	branched	sporophyte**
+    + now with roots
+
+<br/>
+
+* **Lignified	vascular	tissue**
+    + xylem and phloem
+
+<br/>
+
+* **Leaves are microphylls**
+    + one vein per leaf (unique trait)
+    
+<br/>
+
+* **Lycophyte forests (30m) once existed**
+    + gives us coal!
+
+</div>
+
+## Ferns
 <hr>
 <br/>
 
-* **Not all mosses (early lineages) have stomata**
-    + some moss stomata are not functional
+<div style="float: left; width: 60%;">
+
+* **Whisk Ferns, Equisetum & Ferns**
+    
+<br/>
+
+* **Leaves are megaphylls**
+    + many veins per leaf
+
+<br/> 
+
+* **Best plants ever!**
+
+<br/> 
+
+* **New *Gaga* genus with 19 species**
+    + “We wanted to name this genus for Lady Gaga because of her fervent defense of equality and individual expression” Pryer @ Duke University
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:800px; WIDTH:200px; HEIGHT:450px" SRC="images/gaga.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:450px; WIDTH:250px; HEIGHT:250px" SRC="images/fern.jpg">
+
+## Seedless vascular plants have free-living separate generations
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Sporophyte: The fern you see in the woods**
+    + becomes dominant stage
 
 <br/>
 
-* **Stomata only on capsule of sporophyte**
-    + small strucutre on stalk that makes spores
+* **Gametophye: independent haploid generation**
+    + start out female or bisexual
 
 <br/>
 
-* **Liverworts do not have stomata!**
-    + what does this mean?
+* **Derived Trait - remember how a moss looks!**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:425px; HEIGHT:450px" SRC="images/moss_stomata.png">
+<br/>
 
-## Bryophyte diversity and stomatal evolution
+* **What does natural selection favor diploid dominant	life cycles?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/fernstages.jpg">
+
+## Seed plants were the next evolutionary step
 <hr>
 <br/>
 
-* **Not all mosses (early lineages) have stomata**
-    + some moss stomata are not functional
+<div style="float: left; width: 50%;">
+
+* **Seeds changed the course of plant evolution**
+    + Seed plants show up ~360 mya
+    + climate became drier
+    
+<br/>
+
+* **Seeds consists of embryo & nutrients**
+    + surrounded by protective coat
+    + seeds can be dispersed long distances
+    + less dependence on water
 
 <br/>
 
-* **Stomata only on capsule of sporophyte**
-    + small strucutre on stalk that makes spores
+* **2 living seed lineages**
+    + gymnosperms (naked seed)
+    + angiosperms (covered seed = fruits)
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:250px; HEIGHT:350px" SRC="images/elkplant2.jpg">
+
+## Why seeds matter so much...
+<hr>
+<br/>
+
+* **Before seeds, spore was only protective structure** 
+    + super small so spread all over Earth
 
 <br/>
 
-* **Liverworts do not have stomata!**
-    + what does this mean?
+* **Seeds are multicellular**
+    + what can this add?
 
 <br/>
 
-* **Hornworts look like liverworts but have stomata**
-    + once open, stomata never close
+* **Seeds can remain dormant for a long time**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/horn_stomata.png">
+<br/>
 
-## Byrophyte stomatal evolution (Renzaglia et al. 2017)
+* **Gymnosperms: seeds exposed on sporophylls, form cones**
+* **Angiosperms: seeds enclosed inside fruits**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:250px; HEIGHT:450px" SRC="images/cones.jpg">
+
+## 4 living lineages of gymnosperms
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Cycads**: 300 living species
+    + earliest evidence of insect pollination
+    + Cycads and dinosaurs lived together
+
+<br/>
+
+* **Gnteophytes**: small and super weird group
+    + some flowering traits
+
+<br/>
+
+* **Ginkos**: *Ginkgo biloba* is only species left!
+    
+<br/>
+
+* **Conifers**: ~600 species (cones)
+    + evergreen and deciduous
+    + leaves are needles or scales
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/gymnos.jpg">
+
+## Flowering plant diversity
+<hr>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+* **Most diverse living group of plants**
+    + 14,000 genera, 250,000 species
+
+</div>
+
+<div style="float: right; width: 49%;">
+
+* **2 classes: Moncots and Dicots**
+    + monocots = one seed leaf in embryo
+    + dicots = two seed leaf in embryo
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:310px; LEFT:200px; WIDTH:700px; HEIGHT:375px" SRC="images/angios.jpg">
+
+## Angiosperm evolution: Bugs and animals
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/moss_stomata2.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/butterfly.jpg">
 
-
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/ants.jpg">
