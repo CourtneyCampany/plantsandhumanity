@@ -208,7 +208,7 @@ output:
 
 <div style="float: left; width: 60%;">
 
-* **Fungal phyla associated with MS diverged prior to the divergence of land plants**
+* **Fungal phyla associated with mycorrhizae diverged prior to the divergence of land plants**
     + Oldest fungal fossils appear ~900 mya
     + First terrestrial fungus ~ 460 mya
     
@@ -237,14 +237,14 @@ output:
 <hr>
 <br/>
 
-<div style="float: right; width: 70%;">
+<div style="float: right; width: 75%;">
 
 * **Vascular plants evolved secondary growth (wood), with lots of lignin**
     + lignin is hard to break down
 
 <br/>
 
-* **About 100 million years of trees sinking into swamps and not decaying**
+* **~100 million years of trees sinking into swamps and not decaying**
     + carboniferous period = coal deposits
 
 <br/>
@@ -255,11 +255,11 @@ output:
 
 <br/>
 
-* **What what the world look like today, without this key cog in the carbon cycle?**
+* **What would the world look like today, without these evolutionary steps?**
 
  </div>
  
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:300px; HEIGHT:450px" SRC="images/coalswamp.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:300px; HEIGHT:450px" SRC="images/coalswamp.jpg">
 
 ## The current state of agriculture: Role of fungi
 <hr>
@@ -350,7 +350,7 @@ output:
 
 </div>
 
-## Sustainable agricultre with mycorrhizae
+## Sustainable agriculure with mycorrhizae
 <hr>
 <br/>
 
