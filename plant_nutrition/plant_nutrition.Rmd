@@ -1,0 +1,123 @@
+---
+title: "Plant nutrition"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What did you come up with
+<hr>
+
+* **I asked you to do a quick web reseach on nutrient limitation.**
+
+
+## What limits plant growth and survival?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_growth.jpeg">
+
+## Resources for photosynthesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/rubisco.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:400px; HEIGHT:200px" SRC="images/equation.png">
+
+## Nutritional elements for growth
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:400px; HEIGHT:500px" SRC="images/nutrients.jpg">
+
+<div style="float: right; width: 45%;">
+
+* **Carbon, Hydrogen & Oxygen**
+* >95% of biomass
+
+<br/>
+
+* **Most have multiple functions**
+      
+<br/>
+
+* **A few are often limiting**
+
+ </div> 
+ 
+## N - P - K
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:600px; HEIGHT:400px" SRC="images/npk.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/npk2.jpeg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:500px; HEIGHT:600px" SRC="images/nutrients2.png">
+
+
+## Mineral elements come from soil
+<hr>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/soil.jpg">
+
+## Review: root nutrient uptake
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/uptake.png">
+
+## Review: mycorrhizae
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/mycorr.jpg">
+
+## Nitrogen fixation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:80px; WIDTH:500px; HEIGHT:300px" SRC="images/n_fix.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:400px; HEIGHT:300px" SRC="images/n_fix2.jpg">
+
+## Cool plant adaptations
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/otherplants.png">
+
+## What is the most essential resource for plants?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/drought.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/water_physiology.jpg">
+
+## Turgor pressure
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:400px; HEIGHT:300px" SRC="images/wilt.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/turgor.png">
+
+## Liebig's Law of the minimum
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/liebig.png">
+
+## Plant nutrient limitation in natural systems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/phos_limit.png">
+
+## Plant nutrient limitation in crop systems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/phos_limit2.jpg">
