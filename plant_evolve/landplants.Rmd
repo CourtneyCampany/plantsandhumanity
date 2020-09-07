@@ -33,7 +33,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/basicplants.png">
 
-## Green Algae (Oedogonium)
+## Green Algae
 <hr>
 <br/>
 <br/>

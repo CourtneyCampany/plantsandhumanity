@@ -11,23 +11,43 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## What did you come up with
+## Mineral nutrition in plants
 <hr>
+<br/>
 
-* **I asked you to do a quick web reseach on nutrient limitation.**
+* **Plants are capable of making all necessary organic compounds from inorganic compounds and elements in the environment**
+    + aka 'autotrophic'
+    + mineral: an inorganic element (e.g. inorganic ion from soil)
+    + some minerals are essential and some are beneficial
 
+<br/>
 
-## What limits plant growth and survival?
+* **These resources often have multiple functions in the plant**
+    + metabolic, biochemical, structure, etc
+    + amount required or present varies
+
+<br/>
+
+* **Review: acquiring these resources requires and above- and belowground body plan**
+    + plants are 'environmental miners'
+    
+## What did you find: What limits plant growth and survival?
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_growth.jpeg">
+1) What resource is most limiting for plants?
+2) Are there places on earth that are more nutrient limited than others?
+3) What plant ecosystems (natural/managed) are nutrient limited?
+4) What is the current state of nutrient limitation in global croplands?
+
+<IMG STYLE="position:absolute; TOP:365px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/limit.png">
 
 ## Resources for photosynthesis
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/rubisco.jpg">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:400px; HEIGHT:200px" SRC="images/equation.png">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:400px; HEIGHT:200px" SRC="images/equation.png">
 
 ## Nutritional elements for growth
 <hr>
@@ -48,7 +68,8 @@ knitr::opts_chunk$set(echo = FALSE)
       
 <br/>
 
-* **A few are often limiting**
+* **A few are often naturally limiting**
+    + why we fertilizer
 
  </div> 
  
@@ -61,30 +82,35 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:500px; HEIGHT:600px" SRC="images/nutrients2.png">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:275px; WIDTH:550px; HEIGHT:650px" SRC="images/nutrients2.png">
 
 
 ## Mineral elements come from soil
 <hr>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/soil.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:20px; WIDTH:700px; HEIGHT:350px" SRC="images/soil.jpg">
 
-## Review: root nutrient uptake
+<IMG STYLE="position:absolute; TOP:225px; LEFT:725px; WIDTH:375px; HEIGHT:400px" SRC="images/soil2.png">
+
+## Review: Nutrient uptake by roots
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/uptake.png">
 
-## Review: mycorrhizae
+## Review: Nutrient uptake via fungi
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/mycorr.jpg">
 
-## Nitrogen fixation
+## Nutrients may be abundant but not available: Nitrogen
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:80px; WIDTH:500px; HEIGHT:300px" SRC="images/n_fix.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/n_fix.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:400px; HEIGHT:300px" SRC="images/n_fix2.jpg">
+## Nutrients may be abundant but not available: Nitrogen
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/nitrogen_crop.png">
 
 ## Cool plant adaptations
 <hr>
@@ -94,30 +120,37 @@ knitr::opts_chunk$set(echo = FALSE)
 ## What is the most essential resource for plants?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/drought.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:750px; HEIGHT:450px" SRC="images/turgor2.png">
 
-##
-
-<IMG STYLE="position:absolute; TOP:125px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/water_physiology.jpg">
-
-## Turgor pressure
+## What resource most limits plants? 
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:400px; HEIGHT:300px" SRC="images/wilt.jpg">
+<div style="float: left; width: 55%;">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/turgor.png">
+* **Answer: whichever resources is the most limiting**
 
-## Liebig's Law of the minimum
-<hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/liebig.png">
+* **Liebig's Law of the minimum**
+    +  growth is dictated not by total resources available, but by the scarcest resource 
 
-## Plant nutrient limitation in natural systems
-<hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/phos_limit.png">
+* **Adding N-P-K to a crop is useless if there is no calcium**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/leibig.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/phos_limit.png">
 
 ## Plant nutrient limitation in crop systems
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/phos_limit2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/phos_limit2.jpg">
