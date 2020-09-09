@@ -42,7 +42,7 @@ output:
 
 * **Flower is a modified stem for reproduction**
     + 4 types of modified leaves
-    + groped in *whorls* (outer &rarr; inner)
+    + grouped in *whorls* (outer &rarr; inner)
 
 <br/>
 
@@ -56,7 +56,7 @@ output:
     
 <br/>
 
-* **Two types of fertile organs to make spores**
+* **Two types of fertile organs, stamen and carpel**
     + *androcieum*  = male whorl
     + *gynociem* = female whorl
     
@@ -78,7 +78,6 @@ output:
 
 * **Whorl composed of *stamens* **
     + anther + stalk
-    + 
     
 <br/>    
 
@@ -89,19 +88,26 @@ output:
     
 * **Filament: stalk that holds the anther**
 
+<br/>
+
+* **Pollen: make gametophyte**
+    + 15-200um
+    + generally oval or spherical 
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:625px; WIDTH:300px; HEIGHT:300px" SRC="images/stamen.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:300px; HEIGHT:300px" SRC="images/stamen.jpg">
 
-<IMG STYLE="position:absolute; TOP:495px; LEFT:225px; WIDTH:600px; HEIGHT:200px" SRC="images/anther2.png">
+<IMG STYLE="position:absolute; TOP:425px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/pollen_grain.jpg">
 
 ## Flowers - Female structures - *gynociem*
 <hr>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:375px; HEIGHT:450px" SRC="images/flower4.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:5px; WIDTH:375px; HEIGHT:450px" SRC="images/flower4.jpg">
 
-<div style="float: right; width: 50%;">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:400px; WIDTH:250px; HEIGHT:250px" SRC="images/ovule.jpg">
+
+<div style="float: right; width: 38%;">
 
 * **Whorl composed of *carpels* **
     + middle of flower
@@ -111,10 +117,12 @@ output:
 
 * **Stigma: receives pollen**
     + sticky
+    
 <br/>
 
 * **Style: leads from stigma to ovary**
     + where pollen tube forms
+    
 <br/>
 
 * **Ovary: contains ovules**
@@ -142,26 +150,30 @@ output:
 ## Variation in flower strucutre
 <hr>
 <br/>
+<br/>
+<br/>
 
 * **Complete flower: all four whorls**
 * **Incomplete flower: missing at least one whorl**
 
 <br/>
 
-* **Perfect flower: both stamens and pistils**
+* **Perfect flower: both stamens and carpels**
 * **Imperfect flower: missing one or the other**
 
 <br/>
 
-* **One plant w/ male & female flowers = moneocious**
-* **If male & female flowers on separate plants = dioecious**
+<!-- * **One plant w/ male & female flowers = moneocious** -->
+<!-- * **If male & female flowers on separate plants = dioecious** -->
 
-<br/>
+<!-- <br/> -->
 
 * **Regular flower = radial symmetry (rose)**
 * **Irregular flower has bilateral symmetry (iris)**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:325px; HEIGHT:450px" SRC="images/perfect.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:450px; WIDTH:325px; HEIGHT:450px" SRC="images/perfect.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:795px; WIDTH:275px; HEIGHT:450px" SRC="images/flower_symm.jpg">
 
 ## When to flower? Arabidpopsis has many known pathways
 <hr>
@@ -182,8 +194,9 @@ output:
 
 <br/>
 
-* **GA hormone: internal hormonal signals**
-    + independent of environemnt
+* **Internal hormonal signals**
+    + inhibition or induction of flowering
+    + independent of environment
 
 <br/>
 
@@ -231,7 +244,7 @@ output:
 <br/>
 
 * **Some flowering plants can self-pollinate**
-    + stamen & anther mature @ same time
+    + stamen & carpel mature @ same time
     + large genetic consequences
     + no nectar necessary
     
@@ -244,7 +257,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Many flowers have both male & female structures**
-    + hermaphrodism
+    + diecious plant
 
 <br/>
 
@@ -289,6 +302,9 @@ output:
     + one cell has 2 nuclei
     + one cell = egg
     
+<br/>
+
+* **Internal fertilization!!!**
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/megaspores.png">
@@ -333,7 +349,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:950px; HEIGHT:450px" SRC="images/fruits2.jpg">
 
-## Seeds as agents of dispersal
+## Fruits/Seeds as agents of dispersal
 <hr>
 <br/>
 
