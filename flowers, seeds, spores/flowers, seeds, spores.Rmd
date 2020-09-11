@@ -147,7 +147,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/fused3.jpg">
 
-## Variation in flower strucutre
+## Variation in flower structure
 <hr>
 <br/>
 <br/>
@@ -168,12 +168,12 @@ output:
 
 <!-- <br/> -->
 
-* **Regular flower = radial symmetry (rose)**
-* **Irregular flower has bilateral symmetry (iris)**
+* **Regular flower = radial symmetry**
+* **Irregular flower = bilateral symmetry**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:450px; WIDTH:325px; HEIGHT:450px" SRC="images/perfect.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:530px; WIDTH:300px; HEIGHT:450px" SRC="images/perfect.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:795px; WIDTH:275px; HEIGHT:450px" SRC="images/flower_symm.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:840px; WIDTH:250px; HEIGHT:450px" SRC="images/flower_symm.jpg">
 
 ## When to flower? Arabidpopsis has many known pathways
 <hr>

@@ -131,7 +131,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: left; width: 55%;">
 
-* **Answer: whichever resources is the most limiting**
+* **Answer: whichever resource is the most limiting**
 
 <br/>
 
