@@ -28,21 +28,44 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **~25% of pollination by non-insects**
     + birds, bats, lizards, humans
+
+<br/> 
+
+* **Pollinators can be generalists or specialists**
     
-## 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:520px; WIDTH:550px; HEIGHT:400px" SRC="images/pollinator.jpg">
     
 ## Ecosystems need to contain nectar and host plants
 <hr>
 <br/>
 
+* **Adult and larval forms on insects do not eat the same food**
+
+<br/>
+
+* **Some insects will only lay eggs on specific plants**
+    + food for larve
+    + milkweed for Monarchs
+
+<br/>
+
+* **Host plants may or may not be nectar source**
+
+<br/>
+
+* **Pollinator relationship are multi-faceted**
+    + native species may not feed on invasive plants
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/feeding.jpg">
 
 ## The Price of Attraction
 <hr>
 <br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:500px; HEIGHT:450px" SRC="images/orchid.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:20px; WIDTH:500px; HEIGHT:450px" SRC="images/orchid.jpg">
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 50%;">
 
 * **Nectar investment occurs on a spectrum in plants**
     + up to 37% of plants
@@ -59,11 +82,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 
-## Pollinator mediated evolution
-<hr>
-<br/>
+##
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:700px; HEIGHT:450px" SRC="images/mesozoic.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/mesozoic.png">
 
 ## Group 1: Coolest pollinator co-evolution.....
 <hr>
@@ -73,21 +94,18 @@ knitr::opts_chunk$set(echo = FALSE)
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:350px; HEIGHT:450px" SRC="images/mirror.jpg">
 
 ## An Orchid's trap
+<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_uHJGdTgtXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Sexual deception of orchids
 <hr>
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/anne_gaskett_the_sexual_deception_of_orchids" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hmI-rJuYAjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Pollinator-dependent crops are essential for human health
-<hr>
-<br/>
+## 
 
-* **grown to provide food, fiber, fuel and nutrients**
-
-* **Yield and quality benefit from flower visitation by animals**
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/dependent_crops.jpg">
 
 ## Group 2: Evaliuate the hierarchy of crop pollinators
 <hr>
@@ -96,6 +114,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Honey bees are the most versatile crop pollinator
 <hr>
+<br/>
+<br/>
 
 * **Top 10 pollinators in agriculture:**
 1. Wild Honey bees
@@ -109,7 +129,7 @@ knitr::opts_chunk$set(echo = FALSE)
 9. Birds
 10. Bats
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/cropyield.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/cropyield.png">
 
 ## Bee Colony collapse disorder
 <hr>
@@ -119,7 +139,67 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Group3: Climate change and pollinators
 <hr>
 
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/cherry.png">
+
+## Changes in climate disrupt phenology
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Phenology: cyclic & seasonal natural phenomena**
+    + sensitive to climate
+    + animals & plants
+
+<br/>
+
+* **Changes in phenology disrupt pollination**
+
+<br/>
+
+* **Insect emergence synced to host plants**
+
+<br/>
+
+* **Flower blooming often synced with temperature**
+    + availability of nectar
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:550px; HEIGHT:375px" SRC="images/phenology.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/bloom.png">
+
 ## Group 4: Robot pollinators?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/applechina.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/artificial.jpg">
+
+## Soap bubble pollination.......
+<hr>
+<br/>
+
+* **Hand pollination will not feed the world**
+
+<br/>
+
+* **Artificial pollination is a growing industry**
+    + almonds, cherries, kiwi, pears, etc. 
+    + https://www.edetepta.com/our-solution
+    
+<br/>
+
+
+* **Mini-drones can be problematic**
+    + lack finesse to be efficient
+    + crash into flowers
+
+<br/>
+
+* **Drones drop pollen covered soap bubbles (Eijiro Miyako)**
+    + soap contains calcium and ions
+    + weather is a problem
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/bubbles.jpg">
