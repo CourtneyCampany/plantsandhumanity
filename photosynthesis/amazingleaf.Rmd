@@ -16,12 +16,12 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:400px; HEIGHT:600px" SRC="images/plantbiomass.png">
 
 <div style="float: right; width: 45%;">
-
-https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-chart-weight-plants-animals-pnas
+**Where does all this biomass come from?**
 </div>
 
 ## Leaf structure and why it matters
@@ -34,12 +34,14 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/stomata.png">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:425px; WIDTH:625px; HEIGHT:325px" SRC="images/stomata6.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/stomata4b.jpg">
 
-## How stomata work (advanced)
+## Active vs Passive stomatal control
 <hr>
 
-* **add active vs passive
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/aba.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:375px" SRC="images/active.jpg">
 
 ## Leaf gas exchange impacts global ecology
 <hr>
@@ -73,11 +75,7 @@ https://www.vox.com/science-and-health/2018/5/29/17386112/all-life-on-earth-char
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:185px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/scholar.jpg">
-
-## 
-
-* **something new here**
+<IMG STYLE="position:absolute; TOP:185px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/photo2020.png">
 
 ## What do plants do when they are hungry?
 <hr>

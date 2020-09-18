@@ -44,7 +44,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Some insects will only lay eggs on specific plants**
-    + food for larve
+    + food for larvae
     + milkweed for Monarchs
 
 <br/>
@@ -67,8 +67,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: right; width: 50%;">
 
-* **Nectar investment occurs on a spectrum in plants**
-    + up to 37% of plants
+* **Nectar investment occurs on a spectrum**
+    + up to 37% of plant energy
 
 <br/>
 
@@ -93,21 +93,32 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:350px; HEIGHT:450px" SRC="images/mirror.jpg">
 
-## An Orchid's trap
+## Lemurs: https://www.youtube.com/watch?v=K14zrooQ4_o
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K14zrooQ4_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## An Orchid's trap: 
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_uHJGdTgtXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Sexual deception of orchids
+## Sexual deception of orchids: 
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hmI-rJuYAjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## 
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/dependent_crops.jpg">
 
-## Group 2: Evaliuate the hierarchy of crop pollinators
+## Group 2: Evaluate the hierarchy of crop pollinators
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/Protect_Pollinators.jpg">
+
+## Group 2: Evaluate the hierarchy of crop pollinators
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/cropinsects.jpg">
@@ -198,7 +209,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **Drones drop pollen covered soap bubbles (Eijiro Miyako)**
+* **Drones drop pollen soap bubbles (Miyako)**
     + soap contains calcium and ions
     + weather is a problem
     
