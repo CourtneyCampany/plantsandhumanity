@@ -1,6 +1,5 @@
 ---
-title: "Photosynthesis: past, present and future"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
+title: "Photosynthesis: The history of Rubisco"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -8,19 +7,17 @@ output:
     smaller: true
 ---
 
-<!-- ## Review: Light energy to chemical energy -->
-<!-- <hr> -->
+## Review: location for photosynthesis
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:265px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/chlorophyll.jpeg"> -->
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/location.jpg">
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/photosystem.jpeg"> -->
+## Review: light energy to chemical energy
+<hr>
 
-<!-- ## Review: Calvin cycle -->
-<!-- <hr> -->
+<IMG STYLE="position:absolute; TOP:265px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/chlorophyll.jpeg">
 
-<!-- <IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/calvin.png"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:185px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/calvin2.png"> -->
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/photosystem.jpeg">
 
 ## Light reactions: make ATP + NADPH for Calvin cycle
 <hr>
@@ -28,68 +25,36 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/photosystems2.png">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg">
-
-## Calvin cycle
+## Review: Calvin Benson cycle fixes C and makes sugar
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/calvin3.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/calvin.png">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.png">
-
-## Calvin cycle is a 3-step process
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
-
-
-<div style="float: right; width: 50%;">
-
-* **1. Fixation: CO~2~ reacts with 5C molecule (RuBP)**
-    + catalyzed by Rubisco enzyme
-    + new 6C split into 2 acids (3C each)
-
-
-<br/>
-
-* **2. ATP and NADPH turn 3C acids into sugars**
-    + reduction of acids
-
-<br/>
-
-* **3. Some 3C sugars recycled to make RuBP (5C)**
-    + one 3C sugar leaves to make glucose
-    + recycling needs ATP
-    
- </div>
-
-## Making sugars requires several cycles
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin2.jpg">
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
+<IMG STYLE="position:absolute; TOP:185px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/calvin2.png">
 
 ## Rubisco - the enzyme that dominates carbon fixation
 <hr>
 <br/>
-<br/>
-<br/>
+
+**Carbon in often locked in highly oxidized forms, such as carbonate minerals and carbon dioxide gas. To be useful, as a building block of life, oxidized carbon must be "fixed" into organic forms, rich in carbon-carbon bonds**
+
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:425px; HEIGHT:400px" SRC="images/rubisco.jpg">
+<IMG STYLE="position:absolute; TOP:325px; LEFT:100px; WIDTH:325px; HEIGHT:300px" SRC="images/rubisco.jpg">
+
+
 
 <div style="float: right; width: 55%;">
 
-* **Most abundant enzyme in the world**
+
+* **Most CO~2~ converted into biomass is fixed by rubisco**
+    + bridge between life and lifeless
+    + creates organic C from CO~2~
 
 <br/>
 
-* **Most CO~2~ converted into biomass is fixed by Rubisco**
+* **Most abundant enzyme in the world**
 
 <br/>
 
@@ -101,9 +66,13 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 59%;">
+
+* **In spite of role, rubisco is remarkably inefficient**
+    + plant rubisco way bigger than cyanobacteria
+
+<br/>
 
 * **Only 3-10 reactions per second**
     + limits photosynthesis
@@ -115,15 +84,35 @@ output:
 
 <br/>
 
-* **Also reacts with O~2~**
-    + O~2~ reaction called *Photorespiration*
-    + uses ATP and NADPH to make CO~2~
-
-  
+* **Hmmm...why is Rubisco so abundant?**
 
 </div>
 
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:225px" SRC="images/chains.gif">
+
+## Rubisco is a cheater!!!
+<hr>
+<br/>
+<br/>
+
+* **Reacts with both O~2~ and CO~2~**
+
+<br/>
+
+* **O~2~ reaction called Photorespiration**
+    + uses ATP and NADPH to make CO~2~
+    + totally wasteful!!!
+
+<br/>
+
+* **Non-specific CO~2~ targeting related to evolution**
+
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:225px" SRC="images/photorespiration.jpeg">
+
+## Cyanobacteria evolved around 2.7 BYA
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:350px; WIDTH:500px; HEIGHT:450px" SRC="images/earlyatmos.jpg">
 
 ## C3 photosynthesis how did we get here...
 <hr>
@@ -142,9 +131,8 @@ output:
 
 <br/>
 
-* **Rubisco evolved high affinity for CO~2~ (80x > O~2~)** 
+* **Rubisco did evolve high affinity for CO~2~ (80x > O~2~)** 
     + compare to the composition of the atmosphere...
-    + compare to global warming...
 
  </div>
 
