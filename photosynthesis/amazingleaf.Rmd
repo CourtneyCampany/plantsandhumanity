@@ -1,12 +1,10 @@
 ---
 title: "The Amazing Leaf"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ##
@@ -140,17 +138,17 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:450px; WIDTH:650px; HEIGHT:325px" SRC="images/lightreaction3.png">
 
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg">
+
 ## Light reactions: make ATP + NADPH for Calvin cycle
 <hr>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/photosystems2.png">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/mill.jpg">
-
-## Dark Reactions (aka Calvin cycle)
+## The Calvin Benson cycle makes sugar
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/calvin3.jpg">
@@ -190,17 +188,20 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
 
-## Calvin Benson won a Nobel prize, his TA won best practical joke
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bensonwilson.png">
-
 ## The brillance of photosynthesis
 <hr>
+<br/>
 
 * **Light energy to synthesize something...**
     + is light limiting?
 
+<br/>
+
+* **Carbon dioxide & H~2~O are everywhere**
+    + easily diffuse into plant
+    + contain little chemical energy
+    + non-toxic
+    
 <br/>
 
 * **Chemical energy made includes ATP**
@@ -208,11 +209,9 @@ runtime: shiny
     + movable
     + recyclable
 
-<br/>
-
-* **Carbon dioxide & H_2_ are everywhere**
-    + easily diffuse into plant
-    + contain little chemical energy
-    + non-toxic
-    
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/endergonic.jpg">
+
+## Calvin Benson won a Nobel prize, his TA won best practical joke
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bensonwilson.png">
