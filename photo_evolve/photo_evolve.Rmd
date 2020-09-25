@@ -7,6 +7,10 @@ output:
     smaller: true
 ---
 
+## 
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/bacteria_phylo.jpg">
+
 ## Review: location for photosynthesis
 <hr>
 
@@ -70,7 +74,7 @@ output:
 <div style="float: left; width: 59%;">
 
 * **In spite of role, rubisco is remarkably inefficient**
-    + plant rubisco way bigger than cyanobacteria
+    + plant rubisco > cyanobacteria rubisco
 
 <br/>
 
@@ -94,6 +98,7 @@ output:
 <hr>
 <br/>
 <br/>
+<br/>
 
 * **Reacts with both O~2~ and CO~2~**
 
@@ -112,7 +117,10 @@ output:
 ## Cyanobacteria evolved around 2.7 BYA
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:350px; WIDTH:500px; HEIGHT:450px" SRC="images/earlyatmos.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:500px; HEIGHT:450px" SRC="images/earlyatmos.jpg">
+
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/cyano.jpg">
 
 ## C3 photosynthesis how did we get here...
 <hr>
@@ -145,15 +153,40 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:225px; HEIGHT:450px" SRC="images/atmosphere.png">
 
-## Photorespiration inpacts food security
+## Photorespiration impacts food security
 <hr>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/crop-yield-map.png">
 
-## Rubisco and plant evolution: How did we get here?
+## Plants and humanity: Why does photorespiration matter?
 <hr>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/evolution_rubisco3.jpg">
+<div style="float: left; width: 55%;">
+
+* **Consumes 32% of ATP and 28% of NADPH in C3 leaves**
+    + under current conditions
+
+<br/>
+
+* **Crop productivity improvement not sufficient to meet 2x food production by 2050**
+
+<br/>
+
+* **Photorespiration decreases US soybean and wheat yields by 36% and 20%**
+    + loss of 148 trillion potential calories
+    + would feed 203 million people for a year
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/photo_costs.png">
+
+<!-- ## Rubisco and plant evolution: How did we get here? -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/evolution_rubisco3.jpg"> -->
 
 ## Plant evolution tied to atmospheric shifts in CO~2~:O~2~
 <hr>
@@ -218,29 +251,3 @@ output:
     + C4 pathway and CAM
     + Allowed plants to exploit new habitats
 </div>
-
-
-## Plants and humanity: Why does photorespiration matter?
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-* **Consumes 32% of ATP and 28% of NADH in C3 leaves**
-    + under current conditions
-
-<br/>
-
-* **Crop productivity improvement not sufficient to meet 2x food production by 2050**
-
-<br/>
-
-* **Photorespiration decreases US soybean and wheat yields by 36% and 20%**
-    + loss of 148 trillion potential calories
-    + would feed 203 million people for a year
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/photo_costs.png">
