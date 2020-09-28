@@ -9,12 +9,16 @@ output:
 
 ## The story of 4 traits
 <hr>
+<br/>
 
-* **Function of a leaf can be explored across 4 key traits**
+<div style="float: left; width: 60%;">
+
+* **Function of a leaf can be explored across key traits**
 1. Specific leaf mass (thickness)
 2. Nitrogen content
-3. Photosynthetic rate
 4. Leaf lifespan 
+3. Photosynthetic rate (umols CO^2^ m^-2^ s^-1^)
+
 
 <br/>
 
@@ -23,14 +27,16 @@ output:
 
 <br/>
 
-* **Interplay between physiology, morphology, chemistry and investment**
+* **Interplay between physiology, morphology and chemistry**
+
+</div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:225px; HEIGHT:300px" SRC="images/leaf.jpg">
 
-## Leaf thickness = investment in construction 
+## Leaf thickness = leaf mass / leaf area (LMA)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/leaf_thickness.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:600px; HEIGHT:300px" SRC="images/leaf_thickness.jpg">
 
 
 <div style="float: right; width: 55%;">
@@ -54,7 +60,7 @@ output:
 
 </div>
 
-## Leaves really need nitrogen...
+## Leaves really need nitrogen (N)...
 <hr>
 
 <div style="float: left; width:60%;">
@@ -63,7 +69,7 @@ output:
     + proteins, nucleic acids, ATP
     + co-enzymes NADP^+^, 
     + pigments 
-    + 0.2 to 6.4%
+    + 0.2 to 6.4% of leaf mass
 
 <br/>
 
@@ -78,12 +84,38 @@ output:
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="images/leafnitro.png">
 
+## Leaf lifespan is more than just evergreen or deciduous
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Leaf lifespan (LL) varies from few weeks to 25 years**
+    + 0.9 to 288 months
+    
+<br/>
+
+* **Resources determine investment into leaf construction**
+    + high resources = deciduous habitats
+    + low resources = evergreen habitats
+    
+<br/>
+
+* **Photosynthesis decreases with leaf age**
+    + continually gets worse
+    + when to start over?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:450px; HEIGHT:450px" SRC="images/lifespan.png">
+
 ## What rate of photosynthesis can plants achieve?
 <hr>
+<br/>
 
 <div style="float: left; width: 55%;">
 
-* **You know the different pathways...*
+* **You know the different pathways...**
 
 <br/>
 
@@ -95,155 +127,182 @@ output:
     + ferns = 1 umols m^-2^ sec^-1^
     + wheat = 25 umols m^-2^ sec^-1^
     + both ferns and wheat use C3 pathway
+    + often differ within a canopy
     
 <br/>
 
 * **Why are rates so different?**
-    + often differ within a canopy
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:55s0px; WIDTH:450px; HEIGHT:450px" SRC="images/photorate.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/photorate.png">
 
-## Leaf lifespan is more than just evergreen or deciduous
-<hr>
-
-<div style="float: left; width: 55%;">
-
-* **Leaf lifespan (LL) varies from few weeks to 25 years**
-    + 0.9 to 288 months
-    
-<br/>
-
-* **Photosynthesis decreases with leaf age**
-    + continually gets worse
-    + when to start over?
-
-<br/>
-
-* **Resources determine investment into leaf construction**
-    + high resources = deciduous habitats
-    + low resources = evergreen habitats
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:1905px; LEFT:650px; WIDTH:450px; HEIGHT:450px" SRC="images/lifespan.png">
 
 ## Correlations among leaf traits shared across plants
 <hr>
+<br/>
+<br/>
 
-* **Species of vascular plants display patterns in relationships between traits
+* **Vascular plants display patterns in relationships between traits**
     + all over the world
     + every habitat
-    
+
+<br/>
+
 * **Traits are multi-dimensional**
-    + LL vs LMA vs N
+    + LL vs LMA vs N vs Photo
 
-<br/>
-
-* **For example, plants with low photosynthesis rates have long leaf lifespans**
-
-<br/>
-
-* **The question becomes what causes this common pattern of co-variation?**
  
- <IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/les_pic.jpg">
- 
-
+ <IMG STYLE="position:absolute; TOP:300px; LEFT:400px; WIDTH:600px; HEIGHT:300px" SRC="images/les_pic.jpg">
  
 ## Economic theory applied to plants
 <hr>
+<br/>
+<br/>
 
-leaf economics are quantified in
-terms of revenues and expenditures per unit investment
+* **Leaf economics = revenues and expenditures per unit investment (ROI)**
 
-collection of traits that vary together and act as a trade-off between acquiring and conserving resources.
+<br/>
 
-## 
+* **Traits vary together and trade-off between acquiring and conserving resources**
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/economic_traits.png">
-
+<IMG STYLE="position:absolute; TOP:400px; LEFT:100px; WIDTH:350px; HEIGHT:200px" SRC="images/roi.jpg">
+ 
+<IMG STYLE="position:absolute; TOP:400px; LEFT:550px; WIDTH:350px; HEIGHT:200px" SRC="images/roi2.png">
 
 ## Leaf Economic Spectrum (Wright et al. 2003)
 <hr>
 
-This spectrum runs
-from species with potential for quick returns on investments of
-nutrients and dry mass in leaves to species with a slower potential
-rate of return. At the quick-return end are species with high leaf
-nutrient concentrations, high rates of photosynthesis and respiration, short leaf lifetimes and low dry-mass investment per leaf area.
-At the slow-return end are species with long leaf lifetimes, expensive
-high-LMA leaf construction, low nutrient concentrations, and low
-rates of photosynthesis and respiration.
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:550px; HEIGHT:250px" SRC="images/economic_traits.png">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:650px; WIDTH:350px; HEIGHT:200px" SRC="images/roi3.jpg">
 
 ## Leaf nitrogen and leaf thickness
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/nitro_thick.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:645px; WIDTH:400px; HEIGHT:400px" SRC="images/nitro_thick.png">
 
-## Leaf lifespan and leaf thickness
+<div style="float: left; width: 60%;">
+
+* **Increases in leaf N = optimized function**
+    + N for Rubisco, chlorophyll
+    + N for defense compounds
+
+<br/>
+
+* **If N is high, why build expensive thick leaves?**
+    + fast R.O.I.
+
+<br/>
+
+* **Low leaf N  = reduced function**
+    + more invested in leaf mass (thick)
+    + slow R.O.I
+    + why?
+    
+</div>
+
+## Leaf thickness and leaf lifespan
 <hr>
+<br/>
 
- LMA reflecting the dry-mass cost of deploying new
-leaf area,
+<div style="float: left; width: 60%;">
 
-LL representing the duration over which photosynthetic revenue is returned
+* **Thickness reflects mass cost of deploying new leaf area**
+    + thin leaves = cheaper
+    + thin leaves if... R.O.I is fast
+    
+<br/>
 
-LL increased with LMA across all species
+* **Leaf Lifespan represents the duration of photosynthetic revenue**
+    + the 'return' of R.O.I
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/thicklifespan.png">
+<br/>
+
+* **Thin leaves = short leaf life span**
+* **Thick leaves = long leaf life span**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:645px; WIDTH:400px; HEIGHT:400px" SRC="images/thicklifespan.png">
  
 ## These relationships regulate photosynthesis
 <hr>
 
-a tenfold decrease in LMA, for example,
-coincided with a 21-fold increase in photosynthetic capacity
+<div style="float: left; width: 60%;">
 
-low LMA, high A mass and generally faster turnover of
+* **Decrease in LMA =  Increase in photosynthesis rates**
+    + usually high N but short lived
+    + fast R.O.I
 
- high
-A mass requires high N mass, and the combination of high LMA and
-high N mass may increase vulnerability to herbivory
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/photosyn_les.png">
+* **Long leaf lifespans = low photosynthesis rates**
+    + usually thick leaf with low N
+    + slow R.O.I
 
-## Unpacking the spectrum: Fast vs Slow
+<br/>
+
+* **Environment plays a role:**
+    + high N leaves are yummy to bugs
+    + Leaf lifespan shorter whe rainfall lower
+
+<br/>
+
+* **Is this the same for all leaves on a plant?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/photosyn_les.png">
+
+<!-- ## Trait relationships vary with climate -->
+<!-- <hr> -->
+
+<!-- * **Leaf lifespan shorter at sites of lower rainfall** -->
+<!--     + duration of R.O.I reduced -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:800px; HEIGHT:400px" SRC="images/climate.png"> -->
+
+<!-- ## LES in plant ecology -->
+<!-- <hr> -->
+
+<!-- Plant species adapted to resource-rich environments and able to compete well under nutrient rich conditions are often less defended against natural enemies.  -->
+
+<!-- Nitrogen disease hypothesis: Higher nutrient content of the plant material following nitrogen fertilization should promote disease.  -->
+<!-- Host dilution hypothesis: Many pathogens are dependent on the availability and density of host plants. -->
+
+<!-- At high plant diversity the abundance of each host plant is in average lower than in species poor communities, which is suggested to be the underlying mechanism of observed negative diversity-disease relationships. -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:800px; HEIGHT:400px" SRC="images/growthdefense.png"> -->
+
+## Do similar trait realtionships exist for whole plants?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/economic_traits.png">
-
-## Trait realtionships vary with climate
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:800px; HEIGHT:400px" SRC="images/climate.png">
-
-## LES in plant ecology
-<hr>
-
-Plant species adapted to resource-rich environments and able to compete well under nutrient rich conditions are often less defended against natural enemies. 
-
-Nitrogen disease hypothesis: Higher nutrient content of the plant material following nitrogen fertilization should promote disease. 
-Host dilution hypothesis: Many pathogens are dependent on the availability and density of host plants.
-
-At high plant diversity the abundance of each host plant is in average lower than in species poor communities, which is suggested to be the underlying mechanism of observed negative diversity-disease relationships.
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:800px; HEIGHT:400px" SRC="images/growthdefense.png">
-
-## Do trait realtionships exists beyond the leaf?
-<hr>
-
-Strategies for plant fitness also exist on a spectrum
+**Strategies for plant fitness also exist on a spectrum**
 
 1. Seed production: coconut to orchid seed
-2. Mycorrhiza relationships
-3. Plant height - short to tall
+2. Height: few cm to 115m
+3. woody to non-woody
+4. thick to thin leaves
+5. leaf area: fingernail to car hood
+6. Leaf nitrogen investment
 
+<br/>
 
-Besides leaf economics, many activities such as seed production,
-root economics and relations with mycorrhizas are undoubtedly
-important for plant fitness.
+* **Balances leaf construction costs against growth potential**
 
-## The global spectrum of plant form and function
+<br/>
+
+* **Size of whole plants and their parts**
+
+<br/>
+
+* **Constrains evolution and qualifies plans for given environments**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/plant_traits.jpg">
+
+## Global spectrum of plant form and function (Diaz 2016)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/diaz.jpg">

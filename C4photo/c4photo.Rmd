@@ -202,7 +202,6 @@ output:
 
 * **C4 plants seem to have an issue growing tall...**
 
-
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:525px; HEIGHT:300px" SRC="images/hawaii_trees.png">
@@ -214,7 +213,7 @@ output:
 <div style="float: left; width: 58%;">
 
 * **Climate change impacts photosynthesis:**
-    + &uarr; CO_2_
+    + &uarr; CO~2~
     + &uarr; temperatures
     + variable precipitation
     + variations in humidity
@@ -222,14 +221,13 @@ output:
 <br/>
 
 * **C4 plants can make the same amount of sugars as C3, with less water usage**
-    + *more CO_2_ assimilated per molecule of water loss*
+    + *more CO~2~ assimilated per molecule of water loss*
     + ability to keep stomata closed more often
     
 <br/>
 
-* **C3 & C4 plants should both benefit from extra CO_2_**
-    + only works in C3 if enough H_2_0
-    + huge advantage for C4 crops
+* **C3 & C4 plants should both benefit from extra CO~2~**
+    + only works in C3 if enough H~2~0
 
 </div>
 
