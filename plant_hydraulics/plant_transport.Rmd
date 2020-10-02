@@ -1,5 +1,5 @@
 ---
-title: "Plant Transport Processes"
+title: "Plant Hydraulic Transport"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -58,14 +58,8 @@ runtime: shiny
 
 <div style="float: right; width: 50%;">
 
-* **Most transport materials dissolve in H_2_0**
+* **Most transport materials dissolve in H~2~0**
 
-<br/>
-
-* **Water is weird and cool**
-    + heavy
-    + viscous (thick & *sticky*)
-    
 <br/>
 
 * **Water is component of photosynthesis**  
@@ -74,6 +68,12 @@ runtime: shiny
 
 * **Water keeps cells turgid**
     + manipulated in guard cells
+
+<br/>
+
+* **Water is weird and cool**
+    + heavy
+    + viscous (thick & *sticky*)
 
  </div>
  
@@ -130,13 +130,12 @@ runtime: shiny
 
 ## Water has the capacity to do work: Water Potential
 <hr>
-<br/>
 
 <div style="float: left; width: 58%;">
 
 * **Water has free energy (chemical potential)**
-    + in botany = water poential
-    + \psi of free water = 0 (no solutes)
+    + in botany = water potential($\psi$)
+    + $\psi$ of pure water = 0 (no solutes)
  
 <br/>
 
@@ -144,38 +143,40 @@ runtime: shiny
     + heated
     + pressure
     + elevated
-* **\psi determined by pressure, solutes & stickiness**
+    
+<br/>
+
+
+* **$\psi$ determined by pressure, solutes & stickiness**
 
 <br/>
 
 * **Movement of water is related to water potential**
-    + moves from positive to negative \psi (more solutes)
+    + moves towards more negative $\psi$ (more solutes)
     + cells interconnected = plant one big pond
     
 <IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/beaker.jpg">
 
 ## Plant cell walls will never burst!
 <hr>
-<br/>
-
-<div style="float: left; left: 58%;">
+<div style="float: left; width: 58%;">
 
 * **Example: Plant cells (-.3 mPa) placed in pure water**
     + water will move in to cell
 
 <br/>
 
-* **Example: Plant cells (-.1 mPa) placed in -0.3 solution**
+* **Example: Plant cells (-.15 mPa) placed in -0.3 solution**
     + water will move our of cell
 
 <br/>
 
-* **Both these changes would nned drastic adjustments of H_2_O or solutes**
+* **Both these changes would need drastic adjustments of H~2~O or solutes**
     + each cause cell death
 
 <br/>
 
-* **Cell walls push or pull against change = pressure/turgor potential**
+* **Cell walls push or pull against change = pressure potential**
     + part of water potential calculation
     + more 'flexibility' to reach equilibrium
 

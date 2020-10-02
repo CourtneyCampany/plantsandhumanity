@@ -7,6 +7,11 @@ output:
     smaller: true
 ---
 
+## The Leaf Economic Spectrum
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/leaves.jpg">
+
 ## The story of 4 traits
 <hr>
 <br/>
@@ -215,7 +220,7 @@ output:
     
 <br/>
 
-* **Leaf Lifespan represents the duration of photosynthetic revenue**
+* **Leaf lifespan represents the duration of photosynthetic revenue**
     + the 'return' of R.O.I
 
 <br/>
@@ -246,7 +251,7 @@ output:
 
 * **Environment plays a role:**
     + high N leaves are yummy to bugs
-    + Leaf lifespan shorter whe rainfall lower
+    + Leaf lifespan shorter when rainfall lower
 
 <br/>
 
@@ -283,9 +288,9 @@ output:
 
 1. Seed production: coconut to orchid seed
 2. Height: few cm to 115m
-3. woody to non-woody
-4. thick to thin leaves
-5. leaf area: fingernail to car hood
+3. Woody to non-woody
+4. Thick to thin leaves
+5. Leaf area: fingernail to car hood
 6. Leaf nitrogen investment
 
 <br/>
@@ -298,7 +303,7 @@ output:
 
 <br/>
 
-* **Constrains evolution and qualifies plans for given environments**
+* **Constrains evolution and qualifies plants for given environments**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/plant_traits.jpg">
 
