@@ -159,7 +159,7 @@ runtime: shiny
 
 ## Plant cell walls will never burst!
 <hr>
-<div style="float: left; width: 58%;">
+<div style="float: left; width: 62%;">
 
 * **Example: Plant cells (-.3 mPa) placed in pure water**
     + water will move in to cell
@@ -249,7 +249,7 @@ runtime: shiny
 
 <div style="float: left; width: 55%;">
 
-* **Cohesion tension theory**
+* **Cohesion-tension theory**
     + plants use water properties to cheat gravity
 
 <br/>
@@ -269,6 +269,13 @@ runtime: shiny
 </div> 
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
+
+## Cohesion-tension: Water drop vs Xylem
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:550px; HEIGHT:400px" SRC="images/cohesion2.png">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/cohesion.png">
 
 ## How can redwood trees grow so tall?
 <hr>
@@ -294,6 +301,40 @@ runtime: shiny
 </div> 
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/vessels_pits.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/heart_attack.png">
+
+## The sound of water stress....
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWL0EoZh09w?start=102" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Issue: When water breaks (cavitation)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/embolism2.jpg">
+
+## Fix: Repair embolisms?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/bubble.jpg">
+
+## Fix: Build new xylem 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism3.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/xylemdead.jpg">
+
+## Fix: Grow tall and make xylem skinny
+<hr>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/pittermann.png">
 
 ## Issues: Leaves (stomata) are sensitive to VPD
 <hr>
@@ -374,26 +415,6 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/soil2.png">
 
-## Issue: When water breaks (cavitation)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/embolism2.jpg">
- 
-## Fix: Build new xylem 
-<hr>
-
-<IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism3.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/xylemdead.jpg">
-
-## Fix: Grow tall and make xylem skinny
-<hr>
-
-<IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/pittermann.png">
 
 ## Brainstorm: Will climate change impact water transport?
 <hr>
