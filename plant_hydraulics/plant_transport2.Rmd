@@ -1,0 +1,177 @@
+---
+title: "Plant Hydraulic Transport Part 2"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+
+## Xylem Transport: Soil - Root - Stem - Leaf - **Air**
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/spad_water.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
+
+## Cohesion-tension: Water drop vs Xylem
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:550px; HEIGHT:400px" SRC="images/cohesion2.png">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/cohesion.png">
+
+## How can redwood trees grow so tall?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **H~2~O also pulled in zig zag motion**
+    + pits and perforations
+    + tracheids are twisted
+
+<br/>
+
+* **Vascular tissue is tough**
+    + high resistance of lignified walls
+    + built not to collapse
+  
+<br/>
+
+* **Hyperion tree near theoretical limit!** 
+  
+</div> 
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/vessels_pits.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/heart_attack.png">
+
+## The sound of water stress....
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWL0EoZh09w?start=102" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Issue: When water breaks (cavitation)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/embolism2.jpg">
+
+## Fix: Repair embolisms?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/bubble.jpg">
+
+## Fix: Build new xylem 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism3.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/xylemdead.jpg">
+
+## Fix: Grow tall and make xylem skinny
+<hr>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/pittermann.png">
+
+## Issues: Leaves (stomata) are sensitive to VPD
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Vapor Pressure Deficit: difference between moisture in air and how much moisture air can hold**
+    + if *high* then the air is 'drier'
+    + combo of temperature and humidity
+    
+<br/>
+
+* **High VPD pulls has large impact on transpiration**
+
+<br/>
+
+* **If stressful, stomata should close**
+    + stop excessive water loss
+
+</div> 
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/gs_vpd.jpg">
+
+## FIX: Just close your stomata (Right?!?)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/wine.jpg">
+
+## Issue: What happens if if doesnt rain for a while?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **If the soil dries out, what will &psi;_soil_ become?**
+
+<br/>
+
+* **Generally, predawn &psi; is really high**
+    + right before sun comes up
+    + stomata closed
+
+<br/>
+
+* **During day: stomata open, air pulls and soil water drained**
+    + &psi;_soil_ become?
+  
+<br/>
+
+* **How is this sustainable?**
+</div>
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/predawn.png">
+
+## Fix: Soils will refill without rain
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Capillary action and surface attraction draw in water**
+    + clay soils have lots of 'pore' space
+    + often stronger than gravity
+
+<br/>
+
+* **Potential energy (aka water potential) governs how water moves around in soil**
+    + redistribution @ night
+    + 'sponge' behavior during day
+
+<br/>
+
+* **Prolonged drought can impact the soil water potentials**
+
+</div> 
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/soil2.png">
+
+
+## Brainstorm: How will climate change impact plant hydraulics?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/vpd3.jpg">
+
+## Drought tolerate crops?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:15px; WIDTH:450px; HEIGHT:400px" SRC="images/droughtcorn.png">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/globalwithdraw.jpg">

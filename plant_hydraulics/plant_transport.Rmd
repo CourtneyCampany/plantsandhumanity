@@ -1,5 +1,5 @@
 ---
-title: "Plant Hydraulic Transport"
+title: "Plant Hydraulic Transport Part 2"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -9,202 +9,202 @@ output:
 runtime: shiny
 ---
 
-## Plant Transport: The big picture
-<hr>
-<br/>
-<br/>
+<!-- ## Plant Transport: The big picture -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 50%;">
+<!-- <div style="float: left; width: 50%;"> -->
 
-* **Moving substances to target sites is fundamental**
-    + often against diffusion gradient
-    + processes consume energy (ATP)
+<!-- * **Moving substances to target sites is fundamental** -->
+<!--     + often against diffusion gradient -->
+<!--     + processes consume energy (ATP) -->
 
 
-<br/>
+<!-- <br/> -->
 
-* **Diffusion processes also occur**
-    + proceed far slower
+<!-- * **Diffusion processes also occur** -->
+<!--     + proceed far slower -->
 
-<br/>
+<!-- <br/> -->
 
-* **Can plants sense the environment?**
-    + does this impact transport processes
-    
-  </div>
-    
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/transport.jpg">
+<!-- * **Can plants sense the environment?** -->
+<!--     + does this impact transport processes -->
 
-<!-- ## Basic transport processes -->
+<!--   </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/transport.jpg"> -->
+
+<!-- <!-- ## Basic transport processes --> -->
+<!-- <!-- <hr> --> -->
+<!-- <!-- <br/> --> -->
+
+<!-- <!-- * **Short distance: few cell diameters (or less)** --> -->
+<!-- <!--     + interior cells no in contact with environment --> -->
+<!-- <!--     + involves transfer of basic nutrients --> -->
+<!-- <!--     + outside &rarr; inside neighbor cells --> -->
+
+<!-- <!-- <br/> --> -->
+
+<!-- <!-- * **Long distance: between cells that are now close neighbors** --> -->
+<!-- <!--     + adaptive for large land plants --> -->
+<!-- <!--     + evolution of vascular tissues --> -->
+<!-- <!--     + can be target-specific --> -->
+<!-- <!--     + results in non-transport advantages --> -->
+
+<!-- ## Moving water through the plant is vital -->
 <!-- <hr> -->
 <!-- <br/> -->
 
-<!-- * **Short distance: few cell diameters (or less)** -->
-<!--     + interior cells no in contact with environment -->
-<!--     + involves transfer of basic nutrients -->
-<!--     + outside &rarr; inside neighbor cells -->
+<!-- <div style="float: right; width: 50%;"> -->
+
+<!-- * **Most transport materials dissolve in H~2~0** -->
 
 <!-- <br/> -->
 
-<!-- * **Long distance: between cells that are now close neighbors** -->
-<!--     + adaptive for large land plants -->
-<!--     + evolution of vascular tissues -->
-<!--     + can be target-specific -->
-<!--     + results in non-transport advantages -->
-    
-## Moving water through the plant is vital
-<hr>
-<br/>
+<!-- * **Water is component of photosynthesis**   -->
 
-<div style="float: right; width: 50%;">
+<!-- <br/> -->
 
-* **Most transport materials dissolve in H~2~0**
+<!-- * **Water keeps cells turgid** -->
+<!--     + manipulated in guard cells -->
 
-<br/>
+<!-- <br/> -->
 
-* **Water is component of photosynthesis**  
+<!-- * **Water is weird and cool** -->
+<!--     + heavy -->
+<!--     + viscous (thick & *sticky*) -->
 
-<br/>
+<!--  </div> -->
 
-* **Water keeps cells turgid**
-    + manipulated in guard cells
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/water.jpg"> -->
 
-<br/>
+<!-- ## Plants also need mechanisms to inhibit movement -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Water is weird and cool**
-    + heavy
-    + viscous (thick & *sticky*)
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/cutin.jpg"> -->
 
- </div>
- 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/water.jpg">
+<!-- <div style="float: left; width: 45%;"> -->
 
-## Plants also need mechanisms to inhibit movement
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- * **Cutin-lined epidermis** -->
+<!--     + keeps water in -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/cutin.jpg">
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 45%;">
+<!-- * **Casparian strip in roots** -->
+<!--     + surround cells circling vascular bundle -->
+<!--     + forces selective diffusion through root cells -->
 
-* **Cutin-lined epidermis**
-    + keeps water in
+<!-- </div> -->
 
-<br/>
-<br/>
-<br/>
+<!-- ## Simple Transport: Diffusion through a membrane -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **Casparian strip in roots**
-    + surround cells circling vascular bundle
-    + forces selective diffusion through root cells
-    
-</div>
+<!-- <div style="float: left; width: 53%;"> -->
 
-## Simple Transport: Diffusion through a membrane
-<hr>
-<br/>
+<!-- * **Membranes can be free, impermeable or selective** -->
 
-<div style="float: left; width: 53%;">
+<!-- <br/> -->
 
-* **Membranes can be free, impermeable or selective**
+<!-- * **Some membranes have aquaporins (proteins) to speed things up** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Some membranes have aquaporins (proteins) to speed things up**
+<!-- * **Membranes have *molecular pumps* for active transport** -->
+<!--     + use ATP to force molecules across membranes -->
 
-<br/>
+<!-- <br/> -->
 
-* **Membranes have *molecular pumps* for active transport**
-    + use ATP to force molecules across membranes
+<!-- * **Water enters roots through osmosis** -->
+<!--     + often as nutrient solution -->
 
-<br/>
+<!-- </div> -->
 
-* **Water enters roots through osmosis**
-    + often as nutrient solution
-    
-</div>
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/aquaporin.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/aquaporin.jpg">
+<!-- ## Water has the capacity to do work: Water Potential -->
+<!-- <hr> -->
 
-## Water has the capacity to do work: Water Potential
-<hr>
+<!-- <div style="float: left; width: 58%;"> -->
 
-<div style="float: left; width: 58%;">
+<!-- * **Water has free energy (chemical potential)** -->
+<!--     + in botany = water potential($\psi$) -->
+<!--     + $\psi$ of pure water = 0 (no solutes) -->
 
-* **Water has free energy (chemical potential)**
-    + in botany = water potential($\psi$)
-    + $\psi$ of pure water = 0 (no solutes)
- 
-<br/>
+<!-- <br/> -->
 
-* **Water potential can be increased/decreased**
-    + heated
-    + pressure
-    + elevated
-    
-<br/>
+<!-- * **Water potential can be increased/decreased** -->
+<!--     + heated -->
+<!--     + pressure -->
+<!--     + elevated -->
+
+<!-- <br/> -->
 
 
-* **$\psi$ determined by pressure, solutes & stickiness**
+<!-- * **$\psi$ determined by pressure, solutes & stickiness** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Movement of water is related to water potential**
-    + moves towards more negative $\psi$ (more solutes)
-    + cells interconnected = plant one big pond
-    
-<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/beaker.jpg">
+<!-- * **Movement of water is related to water potential** -->
+<!--     + moves towards more negative $\psi$ (more solutes) -->
+<!--     + cells interconnected = plant one big pond -->
 
-## Plant cell walls will never burst!
-<hr>
-<div style="float: left; width: 62%;">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/beaker.jpg"> -->
 
-* **Example: Plant cells (-.3 mPa) placed in pure water**
-    + water will move in to cell
+<!-- ## Plant cell walls will never burst! -->
+<!-- <hr> -->
+<!-- <div style="float: left; width: 62%;"> -->
 
-<br/>
+<!-- * **Example: Plant cells (-.3 mPa) placed in pure water** -->
+<!--     + water will move in to cell -->
 
-* **Example: Plant cells (-.15 mPa) placed in -0.3 solution**
-    + water will move our of cell
+<!-- <br/> -->
 
-<br/>
+<!-- * **Example: Plant cells (-.15 mPa) placed in -0.3 solution** -->
+<!--     + water will move our of cell -->
 
-* **Both these changes would need drastic adjustments of H~2~O or solutes**
-    + each cause cell death
+<!-- <br/> -->
 
-<br/>
+<!-- * **Both these changes would need drastic adjustments of H~2~O or solutes** -->
+<!--     + each cause cell death -->
 
-* **Cell walls push or pull against change = pressure potential**
-    + part of water potential calculation
-    + more 'flexibility' to reach equilibrium
+<!-- <br/> -->
 
-</div>
+<!-- * **Cell walls push or pull against change = pressure potential** -->
+<!--     + part of water potential calculation -->
+<!--     + more 'flexibility' to reach equilibrium -->
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/turgid2.jpg">
+<!-- </div> -->
 
-## Phloem: uses active transport & water potential
-<hr>
-<br/>
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/turgid2.jpg"> -->
 
-* **Source: sites where sugars are exported**
-    + active leaves or storage tissues
+<!-- ## Phloem: uses active transport & water potential -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<br/>
+<!-- * **Source: sites where sugars are exported** -->
+<!--     + active leaves or storage tissues -->
 
-* **Sinks: sites that receive phloem sap**
-    + all parts of plant
+<!-- <br/> -->
 
-<br/>
+<!-- * **Sinks: sites that receive phloem sap** -->
+<!--     + all parts of plant -->
 
-* **Sugars actively loaded/unloaded into sieve elements**
-    + at source and sink
-    + changes water potential (both ends) 
-    + water diffuses in/out driving sap
-    + phloem under high pressure
-    
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/phloem.jpg">
+<!-- <br/> -->
+
+<!-- * **Sugars actively loaded/unloaded into sieve elements** -->
+<!--     + at source and sink -->
+<!--     + changes water potential (both ends)  -->
+<!--     + water diffuses in/out driving sap -->
+<!--     + phloem under high pressure -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/phloem.jpg"> -->
 
 ## Xylem Transport: Soil - Root - Stem - Leaf - **Air**
 <hr>
@@ -213,62 +213,62 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
 
-## Are there limits to moving water?
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- ## Are there limits to moving water? -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/vessels.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/vessels.jpg"> -->
 
-<div style="float: left; width: 45%;">
+<!-- <div style="float: left; width: 45%;"> -->
 
-* **Large trees move hundreds of gallons of water a day**
+<!-- * **Large trees move hundreds of gallons of water a day** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Gravity**
-    + harder and harder to move water
-    + xylem less efficient @ top
-    + theoretically, limits growth to 122-130 m
+<!-- * **Gravity** -->
+<!--     + harder and harder to move water -->
+<!--     + xylem less efficient @ top -->
+<!--     + theoretically, limits growth to 122-130 m -->
 
-<br/>
+<!-- <br/> -->
 
-* **Drying soil adds more tension**
+<!-- * **Drying soil adds more tension** -->
 
-</div> 
+<!-- </div>  -->
 
-## How long a xylem straw could Superman use?
-<hr>
+<!-- ## How long a xylem straw could Superman use? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:400px; WIDTH:300px; HEIGHT:450px" SRC="images/straw.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:400px; WIDTH:300px; HEIGHT:450px" SRC="images/straw.jpg"> -->
  
-## How can redwood trees grow so tall? Hyperion = 116m
-<hr>
-<br/>
+<!-- ## How can redwood trees grow so tall? Hyperion = 116m -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 55%;">
+<!-- <div style="float: left; width: 55%;"> -->
 
-* **Cohesion-tension theory**
-    + plants use water properties to cheat gravity
+<!-- * **Cohesion-tension theory** -->
+<!--     + plants use water properties to cheat gravity -->
 
-<br/>
+<!-- <br/> -->
 
-* **Cohesion: H~2~0 stick to other H~2~0 molecules**
-    + via H bonds
+<!-- * **Cohesion: H~2~0 stick to other H~2~0 molecules** -->
+<!--     + via H bonds -->
 
-<br/>
+<!-- <br/> -->
 
-* **Adhesion: water sticks to non water molecules**
-    + stick to sides of xylem tissues
-    + is not pulled straight up!
+<!-- * **Adhesion: water sticks to non water molecules** -->
+<!--     + stick to sides of xylem tissues -->
+<!--     + is not pulled straight up! -->
 
-<br/>
+<!-- <br/> -->
 
-* **Transpiration pulls water under tension**
-</div> 
- 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
+<!-- * **Transpiration pulls water under tension** -->
+<!-- </div>  -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg"> -->
 
 ## Cohesion-tension: Water drop vs Xylem
 <hr>

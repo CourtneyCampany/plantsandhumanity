@@ -1,0 +1,290 @@
+---
+title: "Plants and Global Change"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## The earth has gotten greener...
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 63%;">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:350px; HEIGHT:450px" SRC="images/greener.jpg">
+
+* **NASA satellites observed greening during the 21st century**
+    + populous and developing countries
+    + regions far removed from human reach
+
+<br/>
+
+* **Svalbard, in the high-arctic, 30% &#8593; greenness**
+    + concurrent with &#8593; in summer temperature from 2.9 to 4.7C
+    
+<br/>
+
+* **What is the role of plants in global change?**
+    + question is a matter of scale
+
+</div>
+
+## Leaf area index: What it means to be greener
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/lai2.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="images/lai.jpg">
+
+## Why are plants producing more leaf area?
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:5px; WIDTH:450px; HEIGHT:375px" SRC="images/co2mauna.png">
+
+<div style="float: right; width: 60%;">
+
+* **Humans dump ~40 billion tons of CO~2~ into atmosphere**
+    + EACH YEAR
+
+<br/>
+
+* **Atmospheric CO~2~ is a greenhouse gas**
+    + &#8593; CO~2~ = &#8593; trapped heat = &#8593; surface temperatures
+    
+<br/> 
+
+* **Plants fix CO~2~ from the atmosphere via Rubisco**
+
+</div>
+
+## Greenhouse gases make the earth warm
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/forcing.png">
+
+## A carbon *imbalance* exists between surfaces and air
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/budget.png">
+
+## Plants represent a large carbon sink
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/sink.png">
+
+## The role of vegetation change
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:550px; HEIGHT:450px" SRC="images/seesaw.png">
+
+<div style="float: right; width: 53%;">
+
+* **Ability to immediately fix carbon from atmosphere**
+    + photosynthesis - respiration
+    + keeping pace with human emissions?
+
+<br/>
+
+* **Sequestrating carbon in wood**
+    + prevents fast cycling of carbon
+    
+<br/> 
+
+* **Transpiration adds H~2~O into atmosphere**
+    + power greenhouse gas
+    
+</div>
+
+## Plant carbon uptake is multi-layered
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/photosyn.png">
+
+## Vegetation change is not new!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/eocene.png">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:550px; HEIGHT:450px" SRC="images/miocene.png">
+
+## Global plant C sink: Photosynthesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/responsecurve.png">
+
+<IMG STYLE="position:absolute; TOP:235px; LEFT:650px; WIDTH:450px; HEIGHT:350px" SRC="images/CO2_effects.jpg">
+
+## Just plant tons of trees, problem solved...
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:75px; WIDTH:325px; HEIGHT:475px" SRC="images/trilliontrees.png">
+
+<div style="float: right; width: 55%;">
+
+* **Are all trees carbon vacuums?**
+    + fast growing trees don't live as long
+    + fast growing trees drain more water
+    + fast growing trees create less dense wood
+
+<br/>
+
+* **Farmland to forests: can we eat?**
+    
+<br/> 
+
+* **Are all forests equal?**
+    + forest plantation = rain forest?
+    
+</div>
+
+## How sustainable is the  CO~2~ fertilization effect
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:15px; WIDTH:550px; HEIGHT:400px" SRC="images/FACE.jpg">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:375px" SRC="images/FACE2.jpg">
+
+## Global plant C sink: Nutrient limitation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:20px; WIDTH:700px; HEIGHT:400px" SRC="images/nutrient.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/leibig.png">
+  
+## Global plant C sink: Climate warming
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:400px" SRC="images/surfacetemp.jpg">
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/surfacetemp2.png">
+
+## Global plant C sink: Climate warming
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/tempresponse.png">
+
+* **Plants like higher temperatures to a degree**
+    + faster rate of photosynthesis (limited)
+    + most plants not operating at T~opt~
+
+<br/>
+
+* **Rubisco cheats more at high temperatures**
+
+<br/>
+
+* **Dependent on stomatal behavior**
+
+<br/>
+
+* **Warming may also mean &#8595; precipitation**
+
+## Global plant C sink: Respiration
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/respiration.png">
+    
+## Climate change is altering precipation regimes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:500px; HEIGHT:450px" SRC="images/rainchange.png">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/rainchange2.png">
+
+## Key questions: How plastic are plants?
+<hr>
+<br/>
+
+<div style="float: left; width: 65%;">
+
+* **Phenotypic plasticity: allows individuals to respond to change within their lifetime**
+    + acclimation (lifetime) vs adaptation (generations)
+
+<br/>
+
+* **Can plants change physiology to match new conditions?**
+    + can optimums be adjusted? 
+
+<br/>
+
+* **Why might northern species struggle in warmer temperatures?**
+
+<br/>
+
+* **Why might plants struggle in new precipitation regime**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:725px; WIDTH:300px; HEIGHT:450px" SRC="images/acclimation.png">
+
+## Climate changes are just part of global change
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Lots of other stresses on plant communities**
+    + impact sustainability of greening earth
+    
+<br/>
+
+* **Habit degradation from human activities**
+
+<br/>
+
+* **Total habitat loss**
+    + agricultural conversion
+    + urban growth
+
+<br/>
+
+* **Higher rates of exotic species invasions**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fire.jpg">
+
+## Is the earth still getting greener?
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Greening since 1980's reduced warming ~0.2C**
+
+<br/>
+
+* **New science suggests browning trend**
+    + greening trend stalling or reversing
+
+<br/>
+
+* **Related to less moisture in the air**
+    + higher VPD from climate warming
+
+<br/>
+
+* **Why would drier air impact plant growth negatively?**
+
+<br/>
+
+* **Plant carbon sink does not fix global carbon imbalance**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/green.jpg">
