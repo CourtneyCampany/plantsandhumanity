@@ -1,0 +1,141 @@
+---
+title: "Human manipulation of plants"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Humans have manipulated plants since the ‘dawn of civilization’
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Ancient Biotechnology (pre 1800)**
+    + domestication of crops
+    + yeast for fermentation and leavened bread
+    + molds to saccharify rice
+
+<br/>
+
+* **Classical Biotechnology (1800-1945)**
+    + crossbreeding of cotton (100 of varieties)
+    + first corn hybrid invented, then commercialized
+    + Haber Bosch process
+
+<br/>
+
+* **Modern Biotechnology (1945 - present)**
+    + first genetically enginereed plant (1981) 
+    + pest-resistant corn (B~t~) produced
+    + 1993 GM foods declared 'not dangerous"
+    + UN endoreses biotech crops
+    + epigenetic cotton (not flowering restriction)
+    + disease resistant rice
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/apple.jpg"
+
+## Intent behind plant biotechnology
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Identify promising traits and breed or engineer it into a valuable crop plant**
+
+<br/>
+
+* **Intent the same for traditional plant breeding**
+
+<br/>
+
+* **Introduce herbicide resistance into wheat variety with large grain size**
+* **Bred large grain size into a variety with herbicide resistance**
+
+<br/>
+
+* **Speed matters! Current biotechnology works much faster**
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/corn.jpg">
+
+## Cell and Tissue Culture
+<hr>
+
+## Molecular Plant Breeding
+<hr>
+
+## Transgenic Plants
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/transgenic.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/transgenic2.jpg">
+
+## Herbicide Resistance 
+<hr>
+
+## Against the Grain
+<hr>
+
+## Insect Resistance
+<hr>
+
+## Bt Corn
+<hr>
+
+## Bt Corn Contreversy
+<hr>
+
+## The Promise of Golden Rice
+<hr>
+
+## Other GM Foods
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/banana.jpg">
+
+## Disease Resistance
+<hr>
+
+## GM plants for Bioremediation
+<hr>
+
+## GM Trees
+<hr>
+
+## Regulation and Saftery concerns
+<hr>
+
+## Gene Editing: CRISPR/Cas9
+<hr>
+
+## Cons of genetic engineering
+<hr>
+
+* **Herbicide-resistance or insect-resistance genes could spread**
+    + from  engineered crops to wild relatives
+    + create weeds that are difficult to control
+
+* **Does the USDA require sufficient precautions to prevent the spread of genes from engineered plants to their wild relatives?**
+
+<br/>
+
+* **Bioengineered products could wipe out the major exports of developing nations**
+    + bacterium under development to produces vanilla flavoring
+    + could eliminate markets for Madagascar vanilla beans
+
+
+4. Biological control may solve the problem, cheaper and more effectively, as shown with the work on the cassava mealybug by Dr. Hans Herren, winner of the 1995 World Food Prize
+
+## Pros of genetic engineering
+<hr>
+
+Almost 100 million people are expected to be added to the world's population each year for the next 30 years
+a. some believe that without biotechnology, we won't be able to increase the availability of affordable basic food.

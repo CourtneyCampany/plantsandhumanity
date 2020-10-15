@@ -1,5 +1,5 @@
 ---
-title: "Plants and Global Change"
+title: "Human manipuation of plants"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## The earth has gotten greener...
+## Plant Biotechnology timeline
 <hr>
 <br/>
 <br/>
@@ -16,7 +16,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:350px; HEIGHT:450px" SRC="images/greener.jpg">
 
-* **NASA satellites observed greening during the 21st century**
+* **Humans have manipulated genes since the ‘dawn of civilization’**
     + populous and developing countries
     + regions far removed from human reach
 
