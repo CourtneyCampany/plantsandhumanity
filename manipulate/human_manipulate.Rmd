@@ -1,5 +1,5 @@
 ---
-title: "Human manipulation of plants"
+title: "Human Manipulation of Plants"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -9,9 +9,8 @@ output:
 
 ## Humans have manipulated plants since the ‘dawn of civilization’
 <hr>
-<br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 50%;">
 
 * **Ancient Biotechnology (pre 1800)**
     + domestication of crops
@@ -19,33 +18,37 @@ output:
     + molds to saccharify rice
 
 <br/>
+<br/>
+<br/>
 
 * **Classical Biotechnology (1800-1945)**
     + crossbreeding of cotton (100 of varieties)
     + first corn hybrid invented, then commercialized
     + Haber Bosch process
 
-<br/>
+</div>
+
+<div style="float: right; width: 50%;">
 
 * **Modern Biotechnology (1945 - present)**
-    + first genetically enginereed plant (1981) 
+    + first genetically engineered plant (1981) 
     + pest-resistant corn (B~t~) produced
     + 1993 GM foods declared 'not dangerous"
-    + UN endoreses biotech crops
+    + UN endorses biotech crops
     + epigenetic cotton (not flowering restriction)
     + disease resistant rice
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/apple.jpg"
+<IMG STYLE="position:absolute; TOP:385px; LEFT:645px; WIDTH:300px; HEIGHT:300px" SRC="images/apple.jpg">
 
-## Intent behind plant biotechnology
+## Intent Behind Plant Biotechnology
 <hr>
 <br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 55%;">
 
-* **Identify promising traits and breed or engineer it into a valuable crop plant**
+* **Identify promising traits and breed/engineer into crop plants**
 
 <br/>
 
@@ -58,84 +61,297 @@ output:
 
 <br/>
 
-* **Speed matters! Current biotechnology works much faster**
+* **Speed matters! Current biotechnology works faster**
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/corn.jpg">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:585px; WIDTH:500px; HEIGHT:350px" SRC="images/corn.jpg">
 
 ## Cell and Tissue Culture
 <hr>
+<br/>
+<br/>
+<br/>
 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:45px; WIDTH:400px; HEIGHT:400px" SRC="images/tissue.jpg">
+
+<div style="float: right; width: 60%;">
+
+* **Growing plants from single cells has major applications**
+    + 'clones'
+
+<br/>
+
+* **Viruses are less common in stem tissues...**
+
+<br/>
+
+* **Rates of mutations appear greater in cell cultures**
+    + study: 13 unique traits from 240 tomato plantlets
+    + avenue to test for resistance
+
+ </div>   
+    
 ## Molecular Plant Breeding
 <hr>
+<br/>
+
+<div style="float: left; width: 51%;">
+
+* **Artificial selection (Mendel) can produce a desired trait**
+    + but takes many generations
+    + traits like resistance are not 'visible'
+ 
+ <br/>
+ 
+* **Marker-assisted selection: screening seedlings for DNA sequence**
+    + large fruit size
+    + disease resistance
+
+<br/>
+
+* **Are possible because of the &#8593; # of plant genomes**
+    + gene editing and genetic engineering
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:585px; WIDTH:475px; HEIGHT:350px" SRC="images/mas.jpg">
 
 ## Transgenic Plants
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/transgenic.jpg">
+<div style="float: left; width: 51%;">
 
-##
+* **Molecular biology allows breeders to harness the 'Central Dogma"**
+    + DNA instructions turned into useful products
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/transgenic2.jpg">
+<br/>
+
+* **Genetic engineering allows transfer of genes across species**
+    + *transgenic plants*
+    + not possible with traditional breeding
+
+<br/>
+
+* **Foreign genes inserted with Ti plasmid**
+    + useful in dicots
+
+<br/>
+
+* **75% of processed foods in US contain ingredients from GM plants**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/transgenic.jpg">
+
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/transgenic2.jpg"> -->
 
 ## Herbicide Resistance 
 <hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 51%;">
+
+* **Weed control is key for increasing crop yield**
+    + competition for light, water & nutrients
+    + chemical herbicides are widespread
+
+<br/>
+
+* **Sustainable no-till agriculture needs herbicides**
+
+<br/>
+
+* **Bacterial gene with glyphosate resistance introduced to various crop plants**
+    + allows use of 1 broad spectrum herbicide
+    + 88% of transgenic crops = herbicide resistance
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/roundup.jpg">
 
 ## Against the Grain
 <hr>
 
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/wheat.jpg">
+
 ## Insect Resistance
 <hr>
+<br/>
 
-## Bt Corn
+<div style="float: left; width: 55%;">
+
+* **Bacillus thuringiensis = soil bacterium that produces proteins with insecticide properties**
+    + >1,000 strains isolated
+    + 200 different proteins
+
+<br/>
+
+* **Bt crops commercially planted in 1996**
+    + corn, cotton & potatoes
+    + >60% of US corn now express Bt toxins
+
+<br/>
+
+* **Bt crops are believed to save 50-70% of costs of insecticides**
+    + also avoids indirect environmental damage
+    + Bt toxins not harmful to animals
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200x; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/insect.jpg">
+
+## Bt Corn Controversy
 <hr>
 
-## Bt Corn Contreversy
-<hr>
+<IMG STYLE="position:absolute; TOP:250x; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/bt_corn.jpeg">
 
 ## The Promise of Golden Rice
 <hr>
 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:500px; HEIGHT:400px" SRC="images/goldenrice2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/goldenrice.png">
+
 ## Other GM Foods
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/banana.jpg">
+**Soybean that produces less unsaturated fats (cholesterol)**
+
+<br/>
+
+**Bananas with enhanced Vitamin A and iron**
+
+<br/>
+
+**Granny Smith and Golden Delicious apples that do not brown when cut**
+
+<br/>
+
+**Potatoes that produce low acrylmaide (cancer causing in rats) when fried**
+
+<br/>
+
+**Alfalfa with lower lignin; easier to digest as animal feed**
+
+<br/>
+
+**Corn that is drought-resistant (approved in 2011)**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:745px; WIDTH:325px; HEIGHT:225px" SRC="images/apple2.jpg">
 
 ## Disease Resistance
 <hr>
 
-## GM plants for Bioremediation
+<div style="float: left; width: 55%;">
+
+* **Viral genes have been inserted into various plants**
+    + viral coat proteins turned off
+    + mechanism unknown
+ 
+ <br/>
+ 
+* **Stone fruits are susceptible to plum pox virus**
+    + 2010 USDA approved transgenic resistant plum
+ 
+ <br/>
+ 
+* **Blight resistant potatoes to Phytophtora now developed**
+    + genes from S. American variety into red skin taters
+
+<br/>
+
+* **Research underway to engineer blight resistance in wheat**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/plumpox.jpg">
+
+## GM Plants for Bioremediation
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+  
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/phyto.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Plants engineered to accumulate heavy metals**
+    + or breakdown various toxic compounds
+ 
+ <br/>
+ 
+* **Tobacco, birch, poplar, rice, Indian mustard**
+ 
+ <br/>
+ 
+* **None are approved but could process pollutants 100x faster**
+
+</div>
+
+## Frost resistant *Eucalyptus* for paper, pulp and biofuels
 <hr>
 
-## GM Trees
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/cold.jpg">
+
+## Regulation and Saftey concerns
 <hr>
 
-## Regulation and Saftery concerns
-<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/regulate.png">
+ 
+* **USDA, EPA and FDA involved in approval of GM crops**
+    + transgenic plants with Bt must be approved by EPA
+
+ <br/>
+ 
+* **Is GM technology just an extension of traditional selection?**
+
+ <br/>
+ 
+* **Do we really know the impacts of transferring genes?**
+    + some countries only use GM crops from animal feed
+ 
+  <br/>
+  
+* **Could the altered organism pass genes to the wild?**
+
+ <br/>
+ 
+* **What happens when weeds become resistant to glyphosate?**
+    + 38 already have (2014)
 
 ## Gene Editing: CRISPR/Cas9
 <hr>
 
-## Cons of genetic engineering
-<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/fungi2.jpg">
 
-* **Herbicide-resistance or insect-resistance genes could spread**
-    + from  engineered crops to wild relatives
-    + create weeds that are difficult to control
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mushroom.jpg">
 
-* **Does the USDA require sufficient precautions to prevent the spread of genes from engineered plants to their wild relatives?**
+<!-- ## Cons of genetic engineering -->
+<!-- <hr> -->
 
-<br/>
+<!-- * **Herbicide-resistance or insect-resistance genes could spread** -->
+<!--     + from  engineered crops to wild relatives -->
+<!--     + create weeds that are difficult to control -->
 
-* **Bioengineered products could wipe out the major exports of developing nations**
-    + bacterium under development to produces vanilla flavoring
-    + could eliminate markets for Madagascar vanilla beans
+<!-- * **Does the USDA require sufficient precautions to prevent the spread of genes from engineered plants to their wild relatives?** -->
+
+<!-- <br/> -->
+
+<!-- * **Bioengineered products could wipe out the major exports of developing nations** -->
+<!--     + bacterium under development to produces vanilla flavoring -->
+<!--     + could eliminate markets for Madagascar vanilla beans -->
 
 
-4. Biological control may solve the problem, cheaper and more effectively, as shown with the work on the cassava mealybug by Dr. Hans Herren, winner of the 1995 World Food Prize
+<!-- 4. Biological control may solve the problem, cheaper and more effectively, as shown with the work on the cassava mealybug by Dr. Hans Herren, winner of the 1995 World Food Prize -->
 
-## Pros of genetic engineering
-<hr>
+<!-- ## Pros of genetic engineering -->
+<!-- <hr> -->
 
-Almost 100 million people are expected to be added to the world's population each year for the next 30 years
-a. some believe that without biotechnology, we won't be able to increase the availability of affordable basic food.
+<!-- Almost 100 million people are expected to be added to the world's population each year for the next 30 years -->
+<!-- a. some believe that without biotechnology, we won't be able to increase the availability of affordable basic food. -->
