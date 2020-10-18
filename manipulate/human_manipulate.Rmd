@@ -45,6 +45,7 @@ output:
 ## Intent Behind Plant Biotechnology
 <hr>
 <br/>
+<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -56,8 +57,7 @@ output:
 
 <br/>
 
-* **Introduce herbicide resistance into wheat variety with large grain size**
-* **Bred large grain size into a variety with herbicide resistance**
+* **Introduce herbicide resistance into wheat variety with large grain size or vice- versa**
 
 <br/>
 
@@ -72,7 +72,7 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:45px; WIDTH:400px; HEIGHT:400px" SRC="images/tissue.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:35px; WIDTH:400px; HEIGHT:400px" SRC="images/tissue.jpg">
 
 <div style="float: right; width: 60%;">
 
@@ -206,7 +206,7 @@ output:
 ## Bt Corn Controversy
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250x; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/bt_corn.jpeg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/bt_corn.jpeg">
 
 ## The Promise of Golden Rice
 <hr>
@@ -264,7 +264,7 @@ output:
 
 <br/>
 
-* **Research underway to engineer blight resistance in wheat**
+* **Research now underway to engineer blight resistance in wheat**
 
 </div>
 
@@ -290,7 +290,7 @@ output:
  
  <br/>
  
-* **None are approved but could process pollutants 100x faster**
+* **None are approved but could process pollutants 100x faster than *regular* plants**
 
 </div>
 
