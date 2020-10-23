@@ -1,0 +1,351 @@
+---
+title: "Food Products from Plants"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Humans Need Diverse Nutrients from Food Supply
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:500px; HEIGHT:375px" SRC="images/pyramid.jpg">
+
+<div style="float: right; width: 53%;">
+
+* **Macro-nutrients: Carbohydrates, proteins & fats**
+    + carbohydrates & fats provide energy
+    + proteins used as building blocks
+    
+<br/>
+
+* **Micro-nutrients: vitamins and minerals**
+    
+<br/>
+
+* **When water removed from plants, mass is just macro-nutrients**
+    + foraging &#8594; agriculture &#8594; population &#8593;
+    
+<br/>
+
+* **Health advocates & advertisers promote diets based on these requirements**
+    + plants can satisfy most of these resource needs
+    
+## Complex Carbohydrates from Plants
+<hr>
+
+<div style="float: left; width: 51%;">
+
+* **Commonly grouped into sugars and starches**
+    + mono-, di- & polysaccharides (# of sugar units)
+
+    
+<br/>
+
+* **Glucose & fructose (mono-) broken down in cellular respiration**
+    + corn syrup = high fructose
+    + fructose common in fruit
+
+<br/>
+
+* **Sucrose (di-) commonly found in table sugar**
+    + sugarcane and sugar beet
+    
+<br/>
+
+* **Starches (poly-) are main storage form in plants**
+    + seeds, fruits, tubers
+    + major staple crops and underground crops
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:610px; WIDTH:450px; HEIGHT:400px" SRC="images/beets.jpg">
+
+## Fiber in the Human Diet
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Fiber, a polysaccharides, is largely not digestible **
+    + derived from plant sources
+
+    
+<br/>
+
+* **Cellulose, lignin, pectin are components of cell walls**
+    + humans lack enzymes to break them down
+
+<br/>
+
+* **Bacteria in intestines ferment soluble fibers!**
+    + stabilizes blood glucose
+    + reduce cholesterol
+    + reduces cancer risks
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/fibergut.jpg">
+
+## Plant-Based Proteins
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **20 types of amino acids assembled into proteins **
+    + regulate a variety of body functions
+    + proteins broken down by enzymes and transported through blood
+    
+<br/>
+
+* **Dietary proteins need to provide 9 of 20 amino acids**
+    + essential amino acids (9) not created or stored
+
+<br/>
+
+* **Plant-based proteins are 'incomplete'**
+    + do not contain all 9
+    + varied plant diet needed
+
+<br/>
+
+* **Traditional people of Mexico eat corn and beans**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:610px; WIDTH:450px; HEIGHT:450px" SRC="images/proteins.jpg">
+
+## Gluten and Celiac Disease
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:750px; HEIGHT:400px" SRC="images/celiac.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:800px; WIDTH:250px; HEIGHT:250px" SRC="images/gluten.png">
+
+## Fats and Cholesterol from Plants
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:500px; HEIGHT:350px" SRC="images/fats.jpg">
+
+<div style="float: left; width: 55%;">
+
+* **Some fats (lipids) are necessary in human diets**
+    + vital functions and heart health
+
+<br/>
+    
+* **Food lipids are mostly fats and oils**
+
+<br/>
+
+* **Human body cannot synthesis all fatty acids**
+    + linoleic, linolenic & arachidonic acids
+    + all available in vegetable oils
+    + 1 tsp of corn oil supply each
+    
+<br/>
+
+* **Vegetable oils are mostly unsaturated fats**
+    + olive, peanut, corn, soybean, etc, 
+    + unsaturated fats generally considered healthier
+
+</div>
+
+## Micro-Nutrients from Plants
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 53%;">
+
+* **Vitamins (organic) play a role as co-enzymes**
+    + required for enzyme function
+
+<br/>
+
+* **Vitamin A (vision pigments) from yellow, orange and dark green vegetables and fruits**
+    + beta-carotene
+  
+<br/>
+  
+* **Vitamin C (collagen synthesis) **
+    + not produced or stored in body
+    + fruits and vegetables
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/scurvey.jpg">
+
+## Micro-Nutrients from Plants
+<hr>
+<br/>
+
+<div style="float: left; width: 58%;">
+
+
+* **Minerals (inorganic) components of complex molecules**
+    + at least 18 minerals needed
+
+<br/>
+    
+* **Iron deficiency is common in women and children**
+    + only 10% of dietary iron absorbed
+    + Leafy greens, grains, legumes and dried fruits
+    
+<br/>
+
+* **Iron from animal = heme; from plants = non-heme**
+    + heme gives blood its red color
+    + some plants, like legumes, contain heme.
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:500px; HEIGHT:350px" SRC="images/heme.jpg">
+
+## Plant-Based Diets
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 57%;">
+
+* **Vegetarian diets are shown to provide healthy benefits**
+    + fewer chronic diseases
+    + blood cholesterol tracks animals fats
+    + high fiber reduces diabetes risk
+
+
+<br/>
+
+* **Plant-based diets must be aware of deficiencies**
+    + iron, Vitamin B & D, calcium
+    + complementary plants for amino acids
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/vegan.jpg">
+
+## The Staple Crops (Wheat, Maize & Rice)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/staple.png">
+
+## Grass Family Most Important to Humans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/grain2.png">
+
+<div style="float: left; width: 55%;">
+
+* **Edible grains of cultivated grasses basic food of human civilization**
+    + wheat, core, rice
+    + barely, oats, millet & rye
+    
+<br/>
+ 
+* **Sugar cane, a grass, world largest crop product**
+    + 26 million hectares in 90 countries
+    
+<br/>
+
+* **Dry fruits from the grass family are 'grains'**
+    + seed is mostly endosperm = starch
+    + refined into white flour, corn starch & white rice
+    + fruit wall + seed coat = bran fiber
+
+<br/>
+
+* **Wheat, Maize & Rice (refined + whole) provide 50% of human calories consumed**
+    
+</div>
+
+## Wheat: The Staff of Life
+<hr>
+
+<div style="float: left; width: 59%;">
+
+* **Wheat 'spikes' are densely packed with grains**
+    + primarily grown in cool temperature zones
+    + wild species found in Fertile Crescent
+    
+<br/>
+ 
+* **Einkorn wheat one of first cultivated species**
+    + domesticate from is 'non-shattering'
+    + hybridized with 'goat grass' to create 'emmer wheat'
+    + 'emmer wheat' crossed with another 'goat grass'
+    + diploid &#8594; tetraploid &#8594; hexaploid
+    
+<br/>
+
+* **Currently 1,000s of wheat cultivars**
+    + tolerance to climate
+    + amount of gluten
+    + protein content in endosperm
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:660px; WIDTH:400px; HEIGHT:425px" SRC="images/wheat.jpg">
+
+## Corn: Indian Maize
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Summer annual, moderate temp and rain**
+    + now: breed for diverse environments
+    + requires nutrient-rich soil
+    + today: hybrid corn w/ many large kernels
+
+<br/>
+
+* **Unknown to arriving Europeans**
+    + most types cultivated by Native Americas
+    + poorly adapted for natural environment (husks)
+
+<br/>
+
+* **'Popcorn' one of the most primitive varieties**
+    + hard kernels, 'hard' starch around 'soft' starch
+    + burst and swell when heated
+    + avoids processing
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:550px; HEIGHT:450px" SRC="images/uscorn.jpg">
+
+## Rice: Food for Billions
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Rice feeds more than any other crop**
+    + >2 billion people
+    + 1,000's of varieties
+ 
+ <br/>
+ 
+* **Originated from wild ancestor in flooded tropical lowlands**
+    + current: breed to grow any where 
+ 
+ <br/>
+ 
+* **Large annual grass with air chambers in stems**
+    + air diffusion: stomata &#8594; roots
+ 
+ <br/>
+ 
+* **Rice mostly cultivated into flooded fields**
+    + aquatic fern, *Azolla*, provides nitrogen
+    + fields drained to harvest
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:655px; WIDTH:400px; HEIGHT:400px" SRC="images/rice.jpg">
