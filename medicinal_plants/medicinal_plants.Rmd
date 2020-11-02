@@ -74,19 +74,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: right; width: 55%;">
 
-* **Renaissance age (1500) + printing press created a revival of herbalism**
-    + 4 german 'Fathers of Botany'
-    + Gerard, "The herbal of generall hsitory of plantes"
+* **Renaissance age (1500) & printing press created a revival of herbalism**
+    + 4 German 'Fathers of Botany'
+    + Gerard, "The herbal of general history of plants"
 
 <br/>
 
-* **Publishing included medicinal uses and superstitions**
+* **Publishings included medicinal uses & superstitions**
     + Culpepper, "The complete herbal" included astrology
  
  <br/>
  
 * **Doctrine of Signatures: herbs resembling various parts of the body can be used to treat ailments of those body parts**
-    + really prevalent during this time
     + juice of bloodwort treats blood disorders
     + lobed liverwort treats liver complaints
 
@@ -106,7 +105,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Modern Prescription Drugs
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:635px; WIDTH:400px; HEIGHT:400px" SRC="images/opium.jpg">
 
@@ -114,12 +112,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Herbalism diminished in recent centuries, but remedies still were effective**
     + remedies became 'prescriptions' by physicians
-    + William Withering, 1975, foxglove for heart failure
+    + William Withering, 1775, foxglove for heart failure
     + new standard for pharmaceutical industry
 
 <br/>
 
-* **Purifying active extracts from medicinal plants started in 19^th^ century**
+* **Purifying active extracts started in 19^th^ century**
     + morphine from poppy in 1806
     + synthetic drugs based on natural products ~1850s
     
@@ -143,7 +141,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Rural populations still rely on herbal medicine**
     + China, India, S. America & Africa
-    + projected to reach $1.3 Million by 2023
+    + projected to reach $1.3 Billion by 2023
 
 <br/>
 
@@ -205,11 +203,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **Glycosides: widespread compound with glucose**
+* **Glycosides: widespread compounds with glucose**
     + cyanogenic or cardioactive glycosides, saponins
     + steroid molecules as active component
-    + treat heart value
-    +precursors for sex hormones
+    + treat heart failure
+    + precursors for sex hormones
     + can be very toxic
     
  </div>
@@ -233,7 +231,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **In 1875, British physician learned of a folk remedy for dropsy**
+* **In 1775, British physician learned of a folk remedy for dropsy**
     + bloating due to fluid accumulation: congestive heart failure
     + digitalis tea became treatment
     + slows heart rate, increase strength of heartbeat
@@ -349,7 +347,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * **Plants have always featured in folk remedies**
     +  search for anticancer plant sources began in 50's by NCI
     + 1,000s of plants have been screened
-    + several part of chemotherapy treatments
+    + several now part of chemotherapy treatments
 
 <br/>
 
@@ -375,7 +373,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Dietary supplements are not subject to FDA approval**
     + no rigorous clinical testing
-    + will only take reactionary actions
+    + FDA will only take reactionary actions
 
 <br/>
 
