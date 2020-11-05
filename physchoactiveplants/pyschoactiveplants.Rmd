@@ -9,148 +9,161 @@ output:
 
 ## Mind Altering Plants Rooted in Human Society
 <hr>
-<br/>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:575px; WIDTH:475px; HEIGHT:375px" SRC="images/plantbottle.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:625px; WIDTH:400px; HEIGHT:250px" SRC="images/egypt.jpg">
 
-<div style="float: left; width: 53%;">
+<IMG STYLE="position:absolute; TOP:440px; LEFT:625px; WIDTH:400px; HEIGHT:250px" SRC="images/flag.png">
 
-* **Plants provided early societies with shelter, clothing and fuel**
-    + humans have used biomass energy from plants (as fuels) for millenia
+<div style="float: left; width: 58%;">
+
+* **Use of psychoactive plants dates to earliest societies**
+    + mix of medicine & spirituality
+    + 6,000 years ago, Opium = 'joy plant'
     
 <br/>
 
-* **Modern civilizations: plants provide various media for written communications**
+* **Hieroglyphs show prominent use in Ancient Egypt**
+    + belief that certain plants have spiritual properties
+    + ashwagandha, lotus, reed, acacia, henbane, opium
     
 <br/>
 
-* **Future civilizations: Are plant based products to answer to some of societies biggest problems**
-    + bioplastics?
-    
-</div>
-
-## Psyschoactive Drugs
-<hr>
-
-<div style="float: left; width: 55%;">
-
-* **Basketry present in every human culture**
-    + tough to date, because perishable
-    + Egyption baskest = 10,000 years old
-    + predates pottery!!!
-    
-<br/>
-
-* **Early humans may have used bird's nests**
+* **'Spirit Molecule' in indigenous tribes of the Amazon**
+    + Ayahuasca vine and Chacruna shrub
+    + molecule 'DMT' powerful hallucinogen
 
 <br/>
 
-* **Basket making does cross gender barriers**
-    + Pomo tribe in California 
+* **DMT from *Acacia* used in many cultures**
+    + ‘Golden Wattle’ is botanical emblem of Australia
 
-<br/>
-
-* **Plants used for baskets region dependent**
-    + palm and coconut in tropics
-    + tree parts in temperate regions
-    + grasses in prairies
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/baskets.jpg">
-    
-## Psyschoactive Drugs: Narcotics
+## Psychoactive Drugs
 <hr>
+<br/>
+
+<div style="float: left; width: 58%;">
+
+* **Affect nervous system by influencing neurotransmitters**
+    + or mimicking them
+    + neurons &#8594; transmitters &#8594; receptor
+    + inhibitory or excitatory
+    
+<br/>
+
+* **Psychoactives can be stimulants, hallucinogens or depressants**
+    + narrow line between medicinal, psychoactive & toxic
+    
+<br/>
+
+* **Stimulants = excite and enhance mental alertness**
+<br/>
+* **Hallucinogens = change perception**
+<br/>
+* **Depressants = dull mental awareness & induce sleep**  
+</div>
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:650px; WIDTH:450px; HEIGHT:375px" SRC="images/cocaine.jpg">
+    
+## Psychoactive Drugs: Narcotics
+<hr>
+<br/>
 
 <div style="float: left; width: 60%;">
 
-* **Fiber: long tapering plant cells with cellulose**
-    + ground tissues: sclerenchyma cells
-    + thick cells walls
-    + lignin, tannin, pectin
+* **Narcotics depression central nervous system**
+    + also defined as addictive
     
 <br/>
 
-* **Most valuable fibers are mostly cellulose and white**
-    + cellulose has tensile strength of steel
+* **Psychoactive plants fall into both categories**
 
 <br/>
 
-* **Commercial fibers are elongate masses of plant material**
-    + not individual cells
-    + limited # of plant species
+* **Active compounds are mostly alkaloids**
+    + contain nitrogen, bitter, affect CNS
     
 <br/>
 
-* **Provide cloth, rope, paper, etc for millennia**
-    + rope from flax 30,000 years ago
+* **Many angiosperms families contain psychoactive alkaloids**
+    + nightshade, poppy, coffee, coca, nutmeg & morning glory
+    
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:375px; HEIGHT:450px" SRC="images/fibercell.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:645px; WIDTH:400px; HEIGHT:400px" SRC="images/kratom.jpg">
 
-## Psyschoactive Drugs: Narcotics
-<hr>
-<br/>
-<br/>
-<br/>
+##
 
-<div style="float: left; width: 45%;">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/alkaloids.jpg">
 
-* **RSW1 gene codes for the enzyme responsible for cellulose production**
-    + cellulose synthase
+##
 
-<br/>
-
-* **Isolated in *Arabidopsis* and cotton**
-
-<br/>
-
-* **Can scientists manipulate cellulose content of plants used for fibers?**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/cellulose.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/region.jpg">
 
 ## Opium Poppy: An Ancient Curse
 <hr>
 
-* **Natural fibers are plant or animals based**
-    + synthetics may still use natural sources
-    + rayon still has cellulose from wood pulp
-
-<br/>
-
-* **Classified according to use:**
-
-1. textile fibers: used to weave cloth
-2. cordage fibers: used to make rope
-3. filling fibers: used to stuff things
+* **Large annual herb, ovary matures into capsule**
+    + Native to Middle east
+    + green capsule produces latex w/ alkaloids
+    + Dried latex is crude opium
     
 <br/>
 
-* **Classified from source on plant:**
+* **Opium (*Papaver somniferum*) present in early societies**
+    + Babylonian and Egyptian writings
+    + pain relief & inducing sleep
+    + addictive properties became 'curse'
 
-1. surface fibers: coverings of leaf, fruit, seeds
-2. soft fibers: clusters of phloem fibers
-3. hard/leaf fibers: veins of leaves
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:300px; HEIGHT:450px" SRC="images/fiber.jpg">
+* **Uses differ throughout history**
+    + dissolved in wine
+    + dissolved in alcohol (*laudanum*)
+    + eaten & smoked
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:640px; WIDTH:450px; HEIGHT:450px" SRC="images/opiumpoppy.jpg">
+
+## The Lure of Laudanum
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/Laudanum2.jpg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:575px; WIDTH:350px; HEIGHT:250px" SRC="images/Laudanum.jpg">
 
 ## Opium Wars
 <hr>
+
+<div style="float: left; width: 58%;">
+
+* **Opium use tied to history of China**
+    + use increased when tobacco was introduced (1600)
+    + addiction increased, banned by Emperor
+    
 <br/>
 
-<div style="float: left; width: 55%;">
+* **Addiction fueled by trade with British!**
+    + Chinese had no interest in European goods
+    + wanted silver or Opium
+    
+<br/>
 
-* **Surface fibers separated from plants mechanically**
-    + *ginning*
+* **British East India Company smuggled in opium**
+    + opium widely cultivated in India
+
+<br/>
+
+* **Chinese gov't tried to stop smuggling**
+    + 2 Opium Wars, starting in 1839
+    + 25% of Chinese addicted
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:25px; WIDTH:400px; HEIGHT:350px" SRC="images/cottongin.jpg">
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/ginning.png">
+<IMG STYLE="position:absolute; TOP:280px; LEFT:625px; WIDTH:400px; HEIGHT:350px" SRC="images/opiumfactory.jpg">
 
 ## Opium Alkaloids
 <hr>
@@ -158,268 +171,316 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Surface fibers separated from plants mechanically**
-    + *ginning*
+* **More than 20 alkaloids identified in Opium**
 
 <br/>
 
-* **Soft fibers extracted using microbial degradation**
-    + *retting*, removes soft tissues
+* **Morphine = named after Greek god of dreams**
+    + first active principle isolated
+    + unsurpassed in pain relief
+    + depresses areas in brain involved in pain perception
+    + highly addictive
     
 <br/>
 
-* **Hard fibers scraped away by hand or machine**
-    + *decortication*
-
-    
-<br/>
-
-* **First spinning wheel in India ~750 a.d**
-    + big advancements during industrial revolution
+* **Codeine is one of the most commonly used opiates**
+    + oral analgesic
+    + 1/5 as strong as morphine
+    + suppresses coughs
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/hemp.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/opiumalkaloids.png">
+
+## Soldiers Disease: Did Civil War Start Opiod Epidemic?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/civilwar.jpg">
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/civilwar2.jpg">
 
 ## Heroin
 <hr>
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 58%;">
 
-* **Rendering cotton into cloth was discovered independently in new & old worlds**
-
+* **In 1898, BAYER introduced heroin**
+    + believed was a nonaddictive opiate
+    + semi-synthetic used widely over-the-counter
+    + Americans could order from Sears
+    
 <br/>
 
-* **Harvested from wild plant in coastal Peru 10,000 years ago**
-    + domesticated 4,500 years ago
+* **Heroin is actually 6x more addictive than morphine**
+    + no longer medicinally used in USA
+    + no longer legally produced in USA
   
 <br/>
   
-* **Cotton cloths dates 5,000 years in India**
-    + spread to Babylonia
-    + Arabs brought cotton to Spain
+* **India still produces heroin for medicine**
 
 <br/>
 
-* **Cotton brought to Florida in 1556**
-    + commercial crop from southern colonies
+* **Middle east and Asian countries large illegal production**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:570px; WIDTH:500px; HEIGHT:275px" SRC="images/peru.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/bayer2.jpg">
 
 ## Marijuana: One of the Oldest Cultivated Plants
 <hr>
 <br/>
-
-<div style="float: left; width: 55%;">
-
-* **20-30 species in the genus (*Gossypium*)**
-    + native to Asia, Africa, Americas and Australia
-    + shrub with palmate leaves
-    + warm climate with lots of water
-    
 <br/>
 
-* **Currently the most popular natural fiber**
-    + 50% of world' textiles
+<div style="float: left; width: 58%;">
+
+* **Cannabis sativa is a dioecious plant, with resin production on trichomes**
+    + resin is source of psychoactive compounds
+    + native to central Asia, grown globally
 
 <br/>
-    
-* **Fruit of cotton is a capsule, splits along 5 seams**
-    + fibers are hairs that extend from seed coats (10)
-    + 20,000 hairs per seed
-    + hairs naturally twisted
+
+* **Marijuana is highly variable is size and growth**
+    + potentially 3 separate species
+
+<br/>
+
+* **Used for various purposes in many cultures**
+    + hallucinogen, fiber, oil
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/cotton.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/maryjane.jpg">
 
 ## Early history of *Cannabis*
 <hr>
+<br/>
 
-<div style="float: left; width: 57%;">
+<div style="float: left; width: 60%;">
 
-* **Bollgard = Bt cotton created by Monsanto**
-    + effective against many cotton pests
-    + bollworms and budworms
-    + one of most planted transgenic crops
+* **Use of *Cannabis* traced to ancient China**
+    + valued from fiber and medicine
+    + Emperor Nung (5,000 years ago) recommended for medicine
 
 <br/>
 
-* **Bt cotton yield gain +10% in USA**
-    + large reductions in insecticide use
-
-<br/>
-
-* **Bollworm pests damage higher in India**
-    + small farms cannot afford insecticides
-    + yields increase 60% with Bt
+* **Ancient nomadic Asian horsemen first records of smoking**
+    + ritual ceremonies ~500 B.C.
     
 <br/>    
    
-* **Transgenic research combines cotton & polyester**
-    + feel of cotton + heat retention
-    + 'natural' cotton-poly blend
+* **Spread from Asian to India ~600 B.C.**
+    + folk medicines use extensively
+    + 1 of 5 sacred plants
+    + bhang (variety) sold outside Hindu temples
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:565px; WIDTH:500px; HEIGHT:200px" SRC="images/bollworm.jpg">
-
-<IMG STYLE="position:absolute; TOP:385px; LEFT:565px; WIDTH:500px; HEIGHT:300px" SRC="images/bollgard.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:660px; WIDTH:400px; HEIGHT:400px" SRC="images/indiatemple.jpg">
 
 ## Introduction of *Cannabis* to the West
 <hr>
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/flax.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:590px; WIDTH:500px; HEIGHT:400px" SRC="images/stamp.jpg">
 
-<div style="float: right; width: 60%;">
+<div style="float: left; width: 60%;">
 
-* **Flax (genus *Linus*) delicate, long, slender stems**
-    + fibers from phloem cells
-
-<br/>
-
-* **May be oldest plant fiber used to make cloth**
-    + 30,000 year old wild flax fibers in cave used during stone age
-    + used to bind tools or weave baskets?
-    + fibers appear to have been dyed!
+* **Europeans cultivated hemp fibers for centuries**
+    + use as psychoactive around 19^th^ century
 
 <br/>
 
-* **Ancient Egypt was the 'land of linen'**
-    + worn by royalty or in mummy cloths
-    + exported for use in sails
+* **Rumored Napoleon's armies popularized smoking**
+    + popular in Paris (1850's) among intellectuals
 
 <br/>
 
-* **Grown in Soviet Union, China and Western Europe**
-
-</div>
-
-## THC and its Pyschoactive Effects
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:460px" SRC="images/fiberplants.png">
-
-## Medical Marijuana
-<hr>
-
-<div style="float: left; width: 59%;">
-
-* **Ranks next to food in importance to human society**
-    + construction, fuel, synthetics
-    + strength & insulating properties (construction)
-    
-<br/>
- 
-* **1/3 of land surfaces covered by forests**
-    + 7.5 million hectares removed a year
-    + long history: humans w/ fire
-
-<br/>
-
-* **Usage rate exceeds regeneration**
-    + most forests unmanaged
+* **US from Mexico or Caribbean (~1900)**
+    + recreational and over-the-counter medicine
+    + eliminated medicinal use
     
 <br/>
 
-* **Forest removal greater for agriculture than for timber**
-    + or fuel
+* **Federal Marijuana Tax Act (1937)**
+    + gov't 'educational campaigns'
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/trillion.png">
+## Pyschoactive Effects of THC
+<hr>
+<br/>
+
+<div style="float: left; width: 58%;">
+
+* **Chemistry of *Cannabis* is unique phenolic compounds**
+    + cannabinoids not alkaloids
+    + THC (psychoactive) identified in 1964
+    
+<br/>
+
+* **THC concentration varies by strain, sex, climate & growing conditions**
+    + effects include euphoria and calmness
+    
+<br/>
+
+* **Regions of the brain contain cannabinoid receptors**
+    + THC receptors in high densities in several brain areas
+    + THC receptors found in immune system cells
+    + THC mimics naturally produced cells for these receptors
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:620px; WIDTH:450px; HEIGHT:400px" SRC="images/cb1.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/medicalweed.png">
 
 ## The Origins of Cocaine
 <hr>
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:75px; WIDTH:1000px; HEIGHT:400px" SRC="images/billiontrees.jpg">
+* **Cocaine is the major alkaloid of coca plant (*Erthroxylum*)**
+    + small shrub with shiny leaves
+    + native to Andes mountains of S.America
 
-## Frued, Holmes & Coca-Cola
+<br/>
+
+* **Alkaloids can be harvested from leaves 2-3 times a years**
+
+<br/>
+
+* **Archaeology evidence indicates plants used for at least 3500 years**
+    + believed a god created coca plant
+
+<br/>
+
+* **Coca chewing was mostly restricted to ruling class**
+    + soldiers and workers allowed for endurance
+
+<br/>
+
+* **Coca leaves exchanged for food**
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:775px; WIDTH:150px; HEIGHT:300px" SRC="images/coca.jpg">
+
+<IMG STYLE="position:absolute; TOP:475px; LEFT:650px; WIDTH:400px; HEIGHT:200px" SRC="images/coca2.jpg">
+
+## Freud, Holmes & Coca-Cola
 <hr>
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 59%;">
 
-* **Wood is secondary xylem (vascular cambium)**
-    + lots of strong (cellulose) dead cells
+* **Modern history begins with isolation of cocaine in 1850's**
+    + Sigmund Freud was a huge advocate
  
  <br/>
  
-* **Wood strength determined by cell wall thickness, types of xylem cells & fibers** 
- 
+* **Cocaine became over-the-counter drug in the USA** 
+    + effective in draining sinuses and curing headaches
+    + Coca-wine one of the most popular beverages
+    
  <br/>
  
-* **Hardwood lumber = angiosperm trees**
-* **Softwood lumber = gymnosperm trees (conifers)**
- 
+* **In 1886, Atlanta pharmacist created Coca-Cola**
+    + 'brain tonic'
+    + cocaine removed in 1903
+    
  <br/>
  
-* **Generally angiosperm lumber is more dense**
+* **Widespread use evident in 19th & 20th century literature**
+    + Sherlock Holmes was a cocaine user
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:450px; HEIGHT:450px" SRC="images/hardness.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:705px; WIDTH:350px; HEIGHT:450px" SRC="images/cocacola.png">
+
+## Harrison Act (1914): First Anti-narcotic Law
+<hr>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/harrison.jpg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:350px; HEIGHT:250px" SRC="images/harrison2.jpg">
 
 ## Medical Uses of Cocaine
 <hr>
 <br/>
-
-* **Chief source of fuel until recent times**
-
+<br/>
 <br/>
 
-* **Developing nations still depend on wood for fuel**
-    + 2 billion people use for heating/cooking
-    + prominent in the tropics
+* **Cocaine acts as local anesthetic**
+    + blocks nerves receptor at application site
     
 <br/>
 
-* **Charcoal production originated 7,000 years ago**
-    + partial combustion with low air flow
-    + burns at higher temperatures
-    + caused the decimation of European forests
+* **Common synthetic local anesthics similar to cocaine**
+    + Novocain, lidocaine, xylocaine
+    
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:625px; WIDTH:425px; HEIGHT:450px" SRC="images/charcoal2.jpg">
+* **Constricts blood vessels, reducing blood flow**
+    + popular in many surgeries
 
-## Tobacco: A New World Hait
+<IMG STYLE="position:absolute; TOP:180px; LEFT:675px; WIDTH:300px; HEIGHT:450px" SRC="images/surgery.jpg">
+
+## Tobacco: A New World Habit
 <hr>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 60%;">
 
-* **Wood pulp = watery suspension of pulverized wood**
-    + mostly xylem cells and fibers
-    + ~50% of harvested wood goes to pulp
-    + processing removes lignin (brown color)
-
-<br/>
-
-* **Traditional processing (chlorine) harmful to environment**
-    + utilization of wood-rotting fungi
-    + transgenic *Eucalyptus* w/ low lignin
+* **Nicotania is a genus of 65 species**
+    + annual herb w/ large leaves
+    + native to Americas & Australia
+    + cultivated in Andes ~5000 B.C.
 
 <br/>
 
-* **Wood pulp used for paper, cardboard and cellophane**
+* **Nicotine is major alkaloid in tobacco**
+    + most addictive plant psychoactive in widespread use
+
 
 <br/>
 
-* **Each American uses 700 lbs of paper**
-    + despite the internet
-    + 1 billion trees harvested a year
+* **Mayans & Aztecs used for pleasure, rituals and medicines**
+    + 2 Mayan gods were depicted as habitual smokers
+    
+<br/>
+
+* **Modern cigarette appears in Europe after Crimean war**
+    + first cigarette machine in 1881
+    + really increased after WW1
  
  </div>
  
-<IMG STYLE="position:absolute; TOP:175px; LEFT:560px; WIDTH:500px; HEIGHT:340px" SRC="images/paper.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/mayan.jpg">
 
-## Cultivation of Tobacco
+## Nicotine Effects
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hemp2.jpg">
+<div style="float: left; width: 55%;">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/hemp3.png">
+* **One of the most toxic plants poisons**
+    + ingestion of a few drops is lethal
+    + carcinogen
 
-## Other Pyschoactive Plants
-<hr>
+<br/>    
+
+* **Acts as a stimulant on the CNS**
+
+<br/>
+
+* **Acts on the peripheral nervous system**
+    + blocks heat, pain & hunger signals
+    + increases heart rate
+
+<br/>
+
+* **Tobacco industry now on the defensive**
+    + advertising and promotion banned
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/nicotine.png">
+
