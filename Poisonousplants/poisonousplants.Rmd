@@ -1,0 +1,416 @@
+---
+title: "Poisonous and Allergy Plants"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Poisonous and Allergy Plants
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/jurassicpark.jpg">
+
+## Cultural History of Poisonous Plants
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/catherine.jpg">
+
+<div style="float: left; width: 55%;">
+
+* **Identifying poisonous plants accompanies finding edible plants in ancient foraging societies**
+    + utilized to capture prey
+    + 'toxic' from Greek 'toxikon' = arrow poison
+    
+<br/>
+
+* **Ebers Papyrus list plant toxins known to Egyptians**
+    + agents of war
+    + capital punishment
+      
+<br/>
+
+* **Renaissance age in Europe was full of renowned 'poisoner's who rose to power**
+
+<br/>
+
+* **Thousands of plants known to contain poisons**
+    + many in our backyards!
+    
+</div>
+
+## Poisonous Plants in the Wild: Curare
+<hr>
+
+<div style="float: left; width: 60%;">
+
+* **Curare is arrow poison used by S. American tribes**
+    + causes quick paralysis
+    
+<br/>
+
+* **Over 70 species, from different tribes,used to make curare**
+    
+<br/>
+
+* **Blocks nerve impulses at the junction of nerve and muscle**
+    + turbocurarine eventually isolated
+    + used in surgery because effects reversible
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/curare2.jpg">
+
+<IMG STYLE="position:absolute; TOP:460px; LEFT:100px; WIDTH:450px; HEIGHT:220px" SRC="images/curare.jpg">
+
+## Curare: How to make a poison dart
+<hr>
+
+https://www.youtube.com/watch?v=uzpXZX39Eb4
+    
+## Backyard Poisonous Plants 
+<hr>
+
+<div style="float: left; width: 60%;">
+
+* **Many common landscape plants are poisonous or fatal!**
+    + often to children
+    
+<br/>
+
+* **Oleander has more then 50 toxic compounds**
+    + planted in CA & southern states
+    + hot dogs roasted on sticks can be fatal
+
+<br/>
+
+* **Yews (*Taxus* spp.) can lead to respiratory or cardiac failure**
+    + grown as hedges
+    
+<br/>
+
+* **Rhododendron/Azaleas have poisonous leaves**
+    + tea made from leaves, flowers, pollen can be deadly
+    + Delaware Indians used tea as suicide potion
+    + blocks nervous regulation of heart
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:325px; HEIGHT:450px" SRC="images/rhodo.jpg">
+
+## Backyard Poisonous Plants: Ricin
+<hr>
+
+<div style="float: left; width: 58%;">
+
+* **Spruge family (*Euphorbiaceae*) contains poison milky sap**
+    + Poinsettia, crown of thorns, pencil tree cactus
+
+<br/>
+
+* **Castor bean (*Ricin communis*) has deadly toxic seeds**
+    + ingestion of 1 seed can kill a child
+    
+<br/>
+
+* **Toxic protein *ricin* inhibits protein synthesis in the intestinal wall**
+    + causes clumping of red blood cells
+    + symptoms are nasty
+    + symptoms do not develope for hours or days!
+    + most deadly natural poison known
+    
+ <br/>
+ 
+* **Poison cigarette in Breaking Bad**
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:660px; WIDTH:425px; HEIGHT:450px" SRC="images/ricin2.gif">
+
+## Poisonous Plants to Livestock
+<hr>
+<br/>
+
+<div style="float: left; width: 68%;">
+
+* **Numerous plants poisonous to sheep and cattle**
+    + can be passed to humans (milk)
+
+<br/>
+
+* **White snakeroot impacted settlements west of Appalachian mtns**
+    + all plant parts contain toxic alcohol tremetol
+    + cattle ingestion lead to 'trembles'
+    + human who drink milk had similar symptoms
+    + blocks breakdown of lactic acid in liver
+    
+<br/>
+
+* **Milk vetches (locoweeds) toxic to horse, sheep, goats & cattle**
+    + widespread in western US
+    + contain alkaloids that impact CNS
+    + lead to paralysis
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:250px; HEIGHT:450px" SRC="images/snakeroot2.jpg">
+
+## Plants that Cause Mechanical Injury
+<hr>
+<br/>
+
+<div style="float: right; width: 45%;">
+
+* **Plants can puncture with spines, thorns, prickles, burrs or hairs**
+
+<br/>
+
+* **In cacti, spins are modified leaves!**
+   + wards off animal predation
+   + can be barbed or not barbed
+
+<br/>
+
+* **Some plants have 'stinging hairs' that also inject chemical irritants**
+    + Stinging nettle family
+    + hollow hairs like syringe
+    + strangely also edible
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:25px; WIDTH:250px; HEIGHT:250px" SRC="images/nettle.jpg">
+<IMG STYLE="position:absolute; TOP:430px; LEFT:25px; WIDTH:250px; HEIGHT:230px" SRC="images/cacti.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:310px; WIDTH:275px; HEIGHT:300px" SRC="images/nettle2.jpg">
+
+## Insecticides from Plants
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Review: plants produce many secondary compounds**
+    + many reduce palatability for insects
+    
+<br/>
+
+* **Pest chemical defenses: bitter, toxic or alter life cycle **
+    + these 'poisons' can be harnessed by humans
+    
+<br/>
+
+* **Pyrethrum = made from *Chrysanthemum* flower**
+    + nerve poison for household insects
+    + common in flea medications
+    + may bioaccumulate in streams
+
+<br/>
+
+* **Rotenone = roots from tropical legumes**
+    + nervous system paralysis in fish
+    + used by indigenous peoples to catch fish
+    + common garden insecticide
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/flea.jpg">
+
+## Allergy Plants
+<hr>
+<br/>
+
+
+* **Certain plants or plant parts are capable of causing allergic conditions to sensitive individuals**
+
+<div style="float: left; width: 50%;">
+
+<br/>
+
+* **Reactions considered hypersensitive reactions**
+    + immune systems differentiates 'non-self'
+    + produce immune response
+  
+<br/>
+  
+* **Multiple pathways for allergies**
+    + respiratory from pollen
+    + skins reactions to oils/resins
+    + food allergies
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:570px; WIDTH:500px; HEIGHT:375px" SRC="images/pollen3.jpg">
+
+## Respiratory Allergies: Hay Fever Plants
+<hr>
+<br/>
+
+<div style="float: left; width: 57%;">
+
+* **~20% of humans suffer significant allergies**
+    + hay fever and asthma most common
+
+
+<br/>
+
+* **Hay fever: respiratory reactions to pollen**
+    + mild symptoms but long lasting
+    + 17 million visits to physician each year
+
+<br/>
+
+* **Plants causing hay fever are wind-pollinated**
+    + abundant amounts of small pollen
+    
+<br/>    
+   
+* **Glycoproteins, allergenic pollen proteins**
+    + proteins trigger growth of pollen tube
+    + trigger immune response in humans
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:500px; HEIGHT:470px" SRC="images/pollen2.jpg">
+
+## Respiratory Allergies: Ragweed
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Ragweed, *Ambrosia* spp, most notorious hay fever plant**
+    + annual or perennial herbs
+    + name means "food of the gods"
+
+<br/>
+
+* **1,000's of small flowers release 1 billion pollen grains**
+    + release August - September
+    + may be longer in southern states
+    + 1 million tons of pollen each year
+
+<br/>
+
+* **Invasive and spreading in Europe**
+    + introduced on grain shipments after WW1
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:640px; WIDTH:400px; HEIGHT:450px" SRC="images/ragweed.jpg">
+
+
+## Climate Change and Hay Fever Plants
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:500px; HEIGHT:300px" SRC="images/pollen.jpg">
+
+<div style="float: left; width: 52%;">
+
+* **Increasing temperatures alter growing seasons for plants**
+    + spring-flowering plants most sensitive
+
+<br/>
+
+* **May trigger earlier starts to pollen season**
+    + may also increase pollen amounts
+
+<br/>
+
+* **Elevated CO~2~ experiments show increase growth of ragweed**
+    + higher pollen production
+    + study found increase in allergenic proteins
+    + later frost dates increase ragweed season
+
+</div>
+
+## Contact Dermatitis
+<hr>
+
+<div style="float: right; width: 53%;">
+
+* **Allergic reaction of skin to something touched**
+    + delayed hypersensitivity
+
+<br/>
+
+* **Poison ivy, *Toxicodendron readicans*, cashew family**
+    + widespread in US & Canada
+    + leaves alternate w/ 3 leaflets
+    + leaf margins show several forms
+    + 1 of every 2 people allergic
+
+<br/>
+
+* **Poison oak & sumac less widespread**
+
+<br/>
+
+* **Urushiol, a resin, is allergen**
+    + slight bruising of leafs releases resin
+    + binds to skin proteins rapidly
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:45px; WIDTH:450px; HEIGHT:440px" SRC="images/ivy.jpg">
+
+## Food Allergies
+<hr>
+
+<div style="float: left; width: 53%;">
+
+* **~4% of US population suffers from food allergies**
+    + greatest in children under 3
+    + 100's of foods cause reactions
+    
+<br/>
+ 
+* **Symptoms are wide-ranging**
+    + diagnosis difficult
+
+
+<br/>
+
+* **Peanut most important allergen as most commonly involved in anaphylaxis**
+   + food packages indicate common allergens
+   
+<br/>
+
+* **Can GMO's have hidden allergens?**
+    + soybean w/ gene from Brazil nut
+    + StarLink corn
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:575px; WIDTH:475px; HEIGHT:400px" SRC="images/starlink.jpg">
+
+## Latex Allergies
+<hr>
+
+<div style="float: left; width: 52%;">
+
+* **Latex is a milky exudate produced by many plants**
+    + hydrocarbons, alkaloids, resins, terpenes
+
+<br/>
+
+    
+* **Natural source of rubber, Hevea brasiliensis**
+    + hydrocarbons w/ elastic properites
+
+<br/>
+
+    
+* **Natural rubber latex found in gloves, tubing & medical supplies**
+    + 70% of rubber synthetic but natural superior
+
+<br/>
+
+* **~4% of population allergic to latex**
+    + symptoms from hives to inflammation
+    + companies focus on low-allergen latex
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:565px; WIDTH:500px; HEIGHT:400px" SRC="images/guayule.jpg">
+
