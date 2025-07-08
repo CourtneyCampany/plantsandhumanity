@@ -1,0 +1,69 @@
+
+.title-slide {
+  background-color: #FFFFFF;
+   /*background-color: #CBE7A5; #EDE0CF; ; #CA9F9D*/
+  background-image:url("images/title.jpg");
+  background-size: 60% 60%;
+  background-position: 225px 50px;
+  background-repeat: no-repeat;
+}
+
+.title-slide hgroup > h1{
+ font-family: 'Times New Roman', 'Helvetica', sanserif; 
+font-size: 45px;
+}
+
+
+.title-slide hgroup > h1, 
+.title-slide hgroup > h2 {
+  color: black ;  /* ; #EF5150*/
+}
+
+slides > slide.backdrop {
+  background: white;
+}
+
+hr {
+height: 4px;
+margin-left: auto;
+margin-right: auto;
+background-color:#157818;
+color:#157818 ;
+border: 0 none;
+}
+
+.gdbar img {
+  width: 300px !important;
+  height: 150px !important;
+  margin: 8px 8px;
+}
+
+.gdbar {
+  width: 400px !important;
+  height: 185px !important;
+}
+
+slide:not(.segue) h2{
+  font-family: 'Times New Roman', Arial, sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: normal;
+  letter-spacing: -2px;
+  line-height: 1.2em;
+  color: black;
+}
+
+slides > slide {
+  color: black;
+}
+
+slides > slide {
+  background: linear-gradient(#ffffff, #ffffff 85%, #ffffff);
+  background-color: white;
+}
+
+
+slides > slide:not(.nobackground):after {
+  content: ""
+}

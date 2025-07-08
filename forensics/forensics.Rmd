@@ -1,0 +1,234 @@
+---
+title: "Forensic Botany: Plants as Silent Witnesses"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## What is Forensic Botany? 
+<hr>
+<br/>
+
+<div style="float: left; width: 65%;">
+
+- **Application of plant science to criminal and civil investigations**
+    + Palynology: study of pollen and spores
+    + Dendrochronology: tree-ring dating
+    + Diatom analysis: aquatic forensic evidence
+
+<br/>
+
+- **Interdisciplinary field drawing from botany, ecology, law enforcement**
+
+<br/>
+
+- **Why Plants Matter in Forensics...**
+    + *Provide evidence of movement, time, or location of crime*
+    + Complement DNA, fingerprints, and traditional evidence
+    + Versatile, especially in outdoor scenes or missing person cases 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:750px; WIDTH:300px; HEIGHT:400px" SRC="images/forensic1.jpg">
+
+## Locard’s Exchange Principle
+<hr>
+
+- **“Every contact leaves a trace” – foundational forensic concept**
+
+<br/>
+
+<div style="float: left; width: 55%;">
+
+- **Botanical evidence at the scene:** Plants, pollen, seeds, and soil samples found at a crime scene can be linked to a suspect if they are also found on the suspect's clothing, shoes, or vehicle. 
+
+<br/>
+
+- **Botanical evidence on the suspect:**Conversely, plant material from the crime scene might be found on a suspect, indicating their presence at the location
+
+<br/>
+
+- **Establishing links:** This exchange of botanical evidence can be crucial in linking a suspect to a crime scene or victim, especially when other forms of evidence are scarce. 
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/locard.jpg">
+
+## Types of Botanical Evidence
+<hr>
+<br/>
+
+- **Macroscopic: Leaves, twigs, seeds, fruits, bark, wood**
+    + Examples: Identifying a specific type of leaf found on a suspect's clothing, analyzing plant material in a victim's stomach to determine time of death, or presence of a plant species to link a suspect to a crime scene. 
+    
+<br/>
+
+- **Microscopic: Pollen, spores, diatoms, plant hairs (trichomes)**
+    + Examples: dentifying the species of a pollen grain found on clothing or examining diatom assemblages to determine if a victim drowned in a specific body of water
+    
+<br/>
+
+- **Each type tells a different story – location, season, transfer**
+
+<br/>
+
+- **Macroscopic and microscopic analyses often complement each other, providing a more comprehensive understanding of the plant evidence**
+
+## Types of Botanical Evidence
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/macromicro.png">
+
+## Botanical Evidence Basics: Macroscopic
+<hr>
+
+- **Look for unusual plant fragments at crime scenes -  injuries (broken branches), or foreign species**
+    + can links suspects with crime scenes
+    + experimenting with how long leaves on a broken branch take to wilt = timing
+
+<div style="float: left; width: 55%;">
+
+<br/>
+
+- **Use ecology (flowering times, growth cycles etc.) of plants growing in/around body**
+    + can determine timing of death (e.g. season)
+
+<br/>
+
+- **Plant identification can be crucial for determining if poisoning has occurred**
+    + stomach contents, surrounding plants
+
+<br/>
+
+
+
+- **Seeds, burrs, and plant fragments adhere to shoes, tires, hair can reconstruct movement of people, vehicles, or bodies**
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/macro2.jpg">
+
+
+## Botanical Evidence Basics: Palynology
+<hr>
+
+* **Pollen & Spores - Pollen is unique by species, geographically distinct, and resists decay**
+    + can be carried by wind, water, or animals, traveling far from their source
+    + individual grains of pollen from different species can look like soccer balls, sponges, padded cushions, or coffee beans
+    + surfaces are covered with intricate identifiable geometric patterns
+
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **By examining pollen found at a crime scene or on a suspect, investigators can:**
+    + potentially link individuals or objects to specific locations
+    + determine the time of year a crime occurred
+    + reconstruct events related to the crime
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:305px; LEFT:600px; WIDTH:475px; HEIGHT:375px" SRC="images/pollen.jpg">
+
+## Palynology in Drug Trafficking
+<hr>
+
+- **In two different marijuana seizures in California and Texas, pollen analysis revealed a unique sagebrush pollen marker**
+    + sagebrush species was known to grow in only a few isolated regions of Mexico            + pinpointed the likely area where the marijuana was cultivated
+
+<br/>
+
+- **A truck carrying cocaine was seized at the Canadian border after attempting to enter from Detroit. Pollen analysis of the truck's air filter revealed a pattern of pollen grains indicating the shipment originated in California and took a circuitous route across the United States instead of a direct path to Canada**
+
+<br/>
+
+- **Pollen analysis also has helped CBP trace the routes of marijuana and cocaine bundles that wash up onshore along the coasts of Florida and Texas**
+    + samples were loaded with fern spores, more than would be typical of an area where fern plants grow
+    + There are only a few areas that have that many ferns and one of them is Fern Gully, a winding, scenic stretch of road in Jamaica
+    
+## Botanical Evidence Basics: Diatoms and Aquatic Evidence 
+<hr>
+<br/>
+
+- **Diatoms are microscopic organisms that can be inhaled with water into the lungs**
+    + If the individual was alive when they entered the water, diatoms will be found in the lungs and may circulate to other organs
+    + If the person was already dead, diatoms are less likely to be found
+
+<br/>
+
+
+<div style="float: left; width: 58%;">
+
+- **Comparing the types and quantities of diatoms in a victim's body with samples from potential drowning locations (like lakes, rivers, or oceans) can help establish where the drowning occurred**
+
+<br/>
+
+- **Diatoms can also be transferred to clothing, footwear, or other personal items, potentially linking a suspect to a crime scene or a specific water source**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:645px; WIDTH:350px; HEIGHT:350px" SRC="images/diatoms.jpeg">
+
+## Botanical Evidence Basics: Dendrochronology & Growth Clues
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+- **Tree rings are used to date wood**
+    + determine the age of wooden objects found at a crime scene
+    + growth over time around buried objects indicates timeline of burial
+    + climate records support or dispute timeline claims 
+
+<br/>
+
+- **Certain plants bloom or fruit in predictable seasonal windows**
+    + presence of specific plant structures can narrow time of crime
+    + ueful in matching or challenging suspect alibis
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:500px; HEIGHT:425px" SRC="images/treering.jpg">
+
+## Botanical Evidence Basics: Plant-Based Toxins and Injuries 
+<hr>
+
+- **Plants can cause injury or death: - Ricin from castor bean - Digitalis from foxglove - Coniine from hemlock**
+    + Socrates who was sentenced to drink hemlock
+    + Abraham Lincoln's mother due to white snakeroot 
+    + Juan Ponce de León died after being wounded by an arrow poisoned with the manchineel tree's sap
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+- **Plant toxins can be used to prove a crime, such as homicide or theft, or to establish the cause of death in poisoning cases** 
+
+<br/>
+
+- **Forensic scientists use analytical techniques to identify and quantify plant toxins in biological samples (e.g., blood, urine, stomach contents)**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:330px; LEFT:570px; WIDTH:450px; HEIGHT:350px" SRC="images/ricin.png">
+    
+
+## Botanical Evidence Basics: Modern Technologies 
+<hr>
+
+- **Stable Isotope Analysis - Measuring ratios of isotopes (C, N, O) in plants reflects regional climate or water and soil composition**
+    +can identify the source of illicit drugs or trace the origins of plants involved
+
+<br/>
+
+- **Example - Local climate controls stomatal openings. When stomata are forced to close (drought) they stop discriminating against heavy isotope (13C)**
+    + Samples become more enriched in 13C compared to same species in an different climate
+
+<IMG STYLE="position:absolute; TOP:390px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/waterisotope.jpg">
+
+## Its Time For A.........
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:350px; WIDTH:425px; HEIGHT:400px" SRC="images/sidequest.png">
