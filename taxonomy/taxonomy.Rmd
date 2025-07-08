@@ -57,7 +57,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Kingdom is most inclusive group, species is least inclusive** 
-    + in your generation these hierarchy may become obsolute via molecular markers
+    + in your generation these hierarchies may become obsolete via molecular markers
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:725px; WIDTH:325px; HEIGHT:300px" SRC="images/taxlevels.jpg">
 
@@ -95,14 +95,14 @@ knitr::opts_chunk$set(echo = FALSE)
 * **Common names have the following advantages:**
     + often descriptive (i.e., describe some  important feature)
     + easy to pronounce & remember (more familiar to people)
-    + more pleasing to ear & some are fun
+    + more pleasing to hear & some are fun
     
 <br/>
 
-* **Why bother with scientific names?**
+* **Common names have some disadvantages:**
     + not governed by rules, so little consistency
     + applied indiscriminately to various taxonomic levels (i.e. 'Oak')
-    + some plants have more than one common name.
+    + some plants have more than one common name
     + may not exists for rare species
     + may reflect language barriers
     + may be botanically incorrect (e.g. Jerusalem artichoke)
@@ -118,7 +118,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **The rule book for botanical nomenclature is the International Code of Botanical Nomenclature (ICBN)**
     + every plant gets 1 binomial name
-    + Binomials are combos of genus name specific epithet (e.g. *Quercus rubra*)
+    + Binomials are genus name + specific epithet (e.g. *Quercus rubra*)
 
 <br/>
 
@@ -247,7 +247,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 
-* **Petiole - a fancy term for the stalk**
+* **Petiole - a botany term for the stalk of the leaf**
 
 <br/>
 
@@ -261,6 +261,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##  Leaf structure
 <hr>
+<br/>
+
+**COMMON FEATURES:**
+
 <br/>
 
 * **simple - leaf blade all one section**
@@ -333,6 +337,10 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 <br/>
 
+**COMMON FEATURES:**
+
+<br/>
+
 * **entire: margin smooth**
 
 <br/>
@@ -360,6 +368,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: left; width: 40%;">
 
+**COMMON FEATURES:**
+
+<br/>
+
 * **pinnate: single main vein with secondary veins branching**
     + like a feather
 
@@ -384,6 +396,10 @@ knitr::opts_chunk$set(echo = FALSE)
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/surface.jpg">
 
 <div style="float: right; width: 50%;">
+
+**COMMON FEATURES:**
+
+<br/>
 
 * **glabrous - no hairs, smooth surface**
 
@@ -448,13 +464,14 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 <br/>
 
-* **40 pressed specimens**
+* **45 pressed specimens**
     + plant presses must stay in SS 303
-    + use 'Seek' app or other to ID
+    + use 'Seek' app, 'Google Lens" or other to ID
+        + verify with field guides in lab
     
 <br/>
 
-* **40 drawings in your field guide**
+* **45 drawings in your field guide**
     + include a table of contents
     + add  character guide in your sketchbook
     + sketch each leaf and other characters
