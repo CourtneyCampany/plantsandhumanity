@@ -1,0 +1,207 @@
+---
+title: "The Dance Between Plants and Pollinators"
+subtitle: "Form and Function in Action"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## Pollination
+<hr>
+<span style="color:purple">**Pollination is the process where pollen, produced by the male part of a flower (the anther), is transferred to the female part (the stigma), enabling fertilization and seed production**</span>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/pollination.jpg">
+
+## Why Study Flowers and Pollinators?
+<hr>
+
+* **Pollination is a vital ecological process and key to plant reproduction**
+    + human crops systems (~35%) depend on insect pollination
+    
+<br/>
+
+
+<div style="float: left; width: 62%;">
+
+* **Most flowering plants require and animal pollinator**
+    + dramatically increases the efficiency of pollination by wind (pine, grasses)
+    + most pollinators are insects (bees, flies, moths, butterflies, wasps, ants, beetles)
+    + ~25% of pollination by non-insects (birds, bats, lizards, humans)
+
+<br/>
+
+* **Animal pollination is a product of millions of years of coevolution**
+    + Studying form and function in these systems reveals the power of natural selection.
+    + Pollinators have evolved to be generalists or specialists
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:700px; WIDTH:350px; HEIGHT:300px" SRC="images/pollinator.jpg">
+
+## Form and Function in pollination...Plants
+<hr>
+
+<div style="float: left; width: 45%;">
+
+* **Flower Anatomy and Pollination**
+    + Major structures: petals, sepals, stamens (anthers), pistils (stigmas, styles), nectaries
+    + Each structure can influence pollinator attraction and behavior
+    + Positioning of reproductive organs can ensure contact with visiting pollinators
+
+<br/> 
+
+* **Floral Traits and Their Functions**
+    + Color: attracts specific pollinators (e.g., bees see UV, birds prefer red)
+    + Scent: can attract or deter pollinators (e.g., sweet for bees, musky for bats)
+    + Shape: tubular vs. open reflects tongue length, landing behavior, etc.
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:575px; HEIGHT:450px" SRC="images/pollination2.png">
+
+## Natural selection and flower anatomy
+<hr>
+<span style="color:purple">**Pollination syndromes=  suites of flower traits that have evolved in response to natural selection imposed by different pollen vectors. Pollen vector can be abiotic (wind and water) or biotic through different animals (pollinator-mediated selection)**</span>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/pollinatorsyndrome.png">
+
+## The Price of Attraction
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:20px; WIDTH:500px; HEIGHT:450px" SRC="images/cheat.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **Nectar investment occurs on a spectrum**
+    + up to 37% of plant energy
+
+<br/>
+
+* **Complex trade-off between cost (left) and benefit (right)**
+    + currency = seeds (next generation)
+
+<br/>
+
+* **Plants often cheat with mechanisms to attract via deception!**
+    + mimicry of other rewarding flowers, or sexual deception where the flower mimics a female insect to attract males
+
+</div>
+
+## Evolution of Animal Pollination
+<hr>
+
+- **Gymnosperms rely on inefficient abiotic wind pollination**
+<br/>
+
+- **Angiosperms (flowering plants) first appeared ~140 million years ago (Cretaceous)**
+    + coevolution between flowers and pollinators drove diversification in both groups
+    + By the Late Cretaceous, many plant-pollinator mutualisms were established
+    + Animal-mediated pollination is now involved in the reproduction of ~80% of flowering plants.
+
+<IMG STYLE="position:absolute; TOP:340px; LEFT:0px; WIDTH:1100px; HEIGHT:350px" SRC="images/radiation.jpg">
+
+## Key Morphological Traits of Animal Pollinators
+<hr>
+
+**Flies: Mimic bees/wasps, short or medium proboscis, often visit open flowers; limited body hair (less efficient pollinators)**
+
+<br/>
+
+**Butterflies/Moths: Long, coiled proboscis suited for deep tubular flowers; butterflies are diurnal and visual, moths are nocturnal and rely on scent**
+
+<br/>
+
+**Beetles: “Mess and Soil” pollinators: eat flower parts and leave behind poop on flowers. Damage flowers but still transfer pollen**
+
+<br/>
+
+**Hummingbirds: Long, slender beaks and brush-tipped tongues to reach deep nectar tubes; hovering flight minimizes flower damage**
+
+<br/>
+
+**Bats: Strong sense of smell, adapted for nocturnal feeding; furry bodies collect and spread pollen efficiently**
+
+## Pollinator Behavior and Functional Adaptations
+<hr>
+
+- **Flower constancy: Many pollinators repeatedly visit the same species of flower during a single foraging trip**
+    + increases pollen transfer accuracy and reduces waste
+
+<br/>
+
+- **Pollination efficiency: optimally foraging nectar...**
+    + Generalists (e.g., bumble bees, flies) visit many species; more resilient but less precise.
+    + Specialists (e.g., yucca moths, fig wasps) visit only one/few plant species; high fidelity, but sensitive to disturbance.
+
+<br/>
+
+- **Foraging traits vary across pollinators:**
+    + Time of activity (day vs. night) influences what flowers are visited.
+    + Visual and olfactory sensitivity determines flowers detection (e.g., UV vision vs scent)
+    + Flight ability and body size determine range, landing strategy, and access to nectar.
+
+## Bees are the most exceptional pollinators
+<hr>
+
+- **Dense, branched body hairs trap large amounts of pollen**
+    + electrostatic charge helps attract and hold pollen grains while flying
+    + pollen baskets (corbiculae) allow bees to transport pollen efficiently between flowers and back to the hive
+    
+<br/>
+
+- **Specialized mouth parts (proboscis) allow nectar access in both open and tubular flowers**
+
+<br/>
+
+
+<div style="float: left; width: 65%;">
+
+- **Bees are smart foragers, often visiting one flower type per trip, enhancing species-specific pollen transfer**
+    + ability to learn and remember floral cues (e.g., shape, scent, nectar reward).
+    + ability to be generalist or specialist
+    
+<br/>
+
+- **Some species (e.g., bumble bees), can perform buzz pollination—vibrating flowers to release tightly held pollen**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:740px; WIDTH:300px; HEIGHT:300px" SRC="images/pollenbasket.jpg">
+
+## Pollination power of bes
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+- **Ecosystem services: Bees pollinate ~80% of flowering plant species worldwide**
+    + Responsible for ~35% of global food crop production.
+
+<br/>
+
+- **Economic value: Global economic contribution of pollinators: ~$235–$577 billion annually (IPBES, 2016)**
+    + Honey bees alone contribute over $15 billion per year to the U.S. agricultural economy
+
+<br/>
+
+- **Alarming declines: Bee populations are threatened by habitat loss, pesticide use, disease, and climate change**
+    + Wild bee abundance and diversity are strongly linked to local floral diversity and landscape quality.
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:680px; WIDTH:400px; HEIGHT:450px" SRC="images/topten.png">
+
+## More farms = Less bees?????????
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:520px" SRC="images/cropsimple.jpg">
+
+## Its Time For A.........
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:350px; WIDTH:425px; HEIGHT:400px" SRC="images/sidequest.png">
+
