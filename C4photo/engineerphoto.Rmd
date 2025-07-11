@@ -1,0 +1,165 @@
+---
+title: "Can science TUNE photosynthesis?"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## Why Bioengineer Photosynthesis?
+<hr>
+
+- **Growing global population and climate change threaten food security**
+    + there is limited land to grow more groups
+
+<br/>
+
+- **C3 crops (e.g., rice, wheat, soybean) are limited by photorespiration, inefficient carbon fixation, and inefficient water use**
+    + all made worse under climate change factors (heat and drought)
+
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+- **Improving photosynthesis is a promising strategy for increasing crop yield and resilience**
+    + Bioengineering photosynthesis is a frontier for sustainable agriculture
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:390px; LEFT:550px; WIDTH:500px; HEIGHT:275px" SRC="images/photorespiration.jpg">
+
+<!-- ## Can science TUNE photosynthesis? -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:900px; HEIGHT:450px" SRC="images/rubsico_fix.jpg"> -->
+
+## The Problem with C3 Photosynthesis: Review
+<hr>
+
+- **Rubisco, the key enzyme, can bind O~2~ instead of CO~2~, especially under heat and drought**
+    + leads to *photorespiration* – a wasteful process that reduces yield
+    + forces stomata to be open more = more water loss
+    + reduces carbon fixation
+
+<br/>
+
+<div style="float: left; width: 55%;">
+
+- **C3 plants lack mechanisms to concentrate CO~2~ around Rubisco**
+
+<br/>
+
+* **Eliminating photorespiration as a process is unrealistic** 
+    + but can we *tweak* Rubisco or other processes?
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:400px; HEIGHT:440px" SRC="images/c3.png">
+
+## Why Bioengineer Photosynthesis?
+<hr>
+<br/>
+<br/>
+
+* **Any improvement = huge gains in crop yield**
+
+<br/>
+
+* **5% reduction in photorespiration = **
+    + extra 68 million bushels of soybean
+    + extra 23 million bushels of wheat       
+    + $540 million value (Walker et al. 2016)
+ 
+<br/>
+ 
+* **C3 crops can lose 10-40% of yield due to water related stress**
+    + water is transpired at a rate of hundreds of molecules per one CO~2~ fixed
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/yield_loss.jpg">
+
+## Approaches to Photosynthesis Engineering are Complex
+<hr>
+<br/>
+
+**1-Photorespiration produces a toxic byproduct called *glycolate*, which wastes energy to detoxify**
+<br/>
+*Engineeer new metabolic pathways (from bacteria or algae) into the plant's chloroplasts to quickly recycle glycolate into useful products*
+
+<br/>
+
+**2-Rubisco has a higher affinity for O~2~ than CO~2~ and is also slow**
+<br/>
+*Modify Rubisco’s structure or assemble Rubisco from cyanobacteria or algae that have better kinetic properties*
+
+<br/>
+
+**3-The dilemma of stomatal behavior limits photosynthesis**
+<br/>
+*Introduce PEPC and nocturnal CO~2~ fixation pathways (via CAM pathway)*
+
+<br/>
+
+**4-The messy structure of C3 leaf anatomy is inefficient in supplying light and CO~2~**
+<br/>
+*Alter regulatory genes for mesophyll density, vein spacing, intercellular air space, or stomatal distribution*
+<br/>
+*Alter regulatory genes that control Kranz anatomy (C4) and express C4 enzymes in the right cell types*
+
+
+## Is C4 Photosynthesis the Cure?
+<hr>
+<br/>
+
+<div style="float: left; width: 65%;">
+
+- **C4 plants (e.g., maize, sugarcane) spatially separate CO~2~ fixation and the Calvin cycle**
+
+<br/>
+
+- **CO~2~ is first fixed in mesophyll cells (via PEPC), then shuttled to bundle sheath cells where the Calvin cycle occurs**
+    + reduces photorespiration and increases efficiency (CO~2~ released, O2 kept out)
+    + especially in hot, dry environments.
+
+<br/>
+
+- **C4 plants can have up to 50% higher photosynthetic rates under high light, heat, and drought compared to C3 plants**
+    + use about half as much water to fix the same amount of carbon
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:610px; WIDTH:550px; HEIGHT:400px" SRC="images/c4khan.png">
+
+## The C4 Rice Project
+<hr>
+<br/>
+
+<div style="float: left; width: 52%;">
+
+- **C4 rice is a flagship project, with potential for higher yields and reduced water use**
+    + https://c4rice.com/
+
+<br/>
+
+- **Goal: Introduce C4 traits into rice (a C3 crop) to increase photosynthetic efficiency**
+    + Focus areas: installing Kranz anatomy, expressing C4 enzymes
+    + Challenges: complex genetic regulation and developmental changes
+
+<br/>
+
+- **Understanding photosynthetic anatomy and genetics is key to the next breakthroughs**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:575px; HEIGHT:500px" SRC="images/c4rice.jpg">
+
+
+## It is time for a .....
+<hr>
+**Understanding photosynthetic anatomy and genetics is key to the next breakthroughs.**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:350px; WIDTH:425px; HEIGHT:400px" SRC="images/sidequest.png">
+

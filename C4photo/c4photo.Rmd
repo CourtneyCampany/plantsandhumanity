@@ -301,10 +301,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/gene2.jpg">
 
-## Special Topics lecture: C4 rice project
-<hr>
+<!-- ## Special Topics lecture: C4 rice project -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:475px" SRC="images/timeline.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:475px" SRC="images/timeline.jpg"> -->
 
 <!-- ## Evolution of CAM photosynthesis (C4 pathway w/out BSC) -->
 <!-- <hr> -->
