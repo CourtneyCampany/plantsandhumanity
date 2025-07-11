@@ -1,6 +1,5 @@
 ---
-title: "The future of photosynthesis?"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
+title: "The Evolution of Alternate Photosynthetic Pathways"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -37,51 +36,55 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/evolution_rubisco2.jpg">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c3_cs.gif">
-
-<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c4_cs.gif">
-
 ## Evolution of C4 photosynthesis
 <hr>
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/c4cell.jpg">
 
 <div style="float: right; width: 45%;">
 
 * **Calvin cycle moved to *Bundle Sheath Cells* surrounding leaf veins**
-    * chloroplasts now present
+    * some chloroplasts also moved inside bundle sheath cells
+    * **Brainstorm**: How would mutations/genes be involved?
 
-<br/>
 <br/>
 
 * **BSC cells are less permeable to gases**
     * what does this mean for photorespiration?
 
+
+* **New ring cell arrangement = Kranz Anatomy**
+    + bundle sheath cells surround veins
+    + mesophyll cells surround bundle sheath cells
 </div>
 
 
+## 
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c3_cs.gif">
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c4_cs.gif">
+
 ## C4 plants concentrate CO~2~ around Rubisco *spatially*
 <hr>
-<br/>
-<br/>
 
 <div style="float: right; width: 55%;">
 
 * **C4 mechanism separates Calvin cycle from high O~2~**
-    + 2 compartments
+    + C4 pathway in mesophyll cell chloroplasts
+    + C3 pathway in bundle sheath cell chloroplasts
 
 <br/>
 
-* **New enzyme, phosphoenolpyruvate carboxlylase (PEPC)**
-    * fixes CO~2~ to PEP (no affinity for O~2~)
-    * new 4C malate pumped to bundle sheath cells
-    * malate broken down to release CO~2~
+* **C4 pathway: New enzyme, phosphoenolpyruvate carboxlylase (PEPC) fixes CO~2~ to PEP (0 affinity for O~2~)**
+    + new 4C malate created and pumped to bundle sheath cells
+
+<br/>
+
+* **Malate broken down to release CO~2 inside bundle sheath cells**
+    + Calvin cycle (C3) runs with only CO~2 present
 
 <br/>
 
@@ -301,65 +304,63 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/gene2.jpg">
 
-<!-- ## Special Topics lecture: C4 rice project -->
-<!-- <hr> -->
 
-<!-- <IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:475px" SRC="images/timeline.jpg"> -->
+## Evolution of CAM photosynthesis (C4 pathway w/out BSC)
+<hr>
 
-<!-- ## Evolution of CAM photosynthesis (C4 pathway w/out BSC) -->
-<!-- <hr> -->
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
 
-<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png"> -->
+## CAM concentrates CO~2~ around Rubisco *temporally*
+<hr>
+<br/>
+<br/>
+<br/>
 
-<!-- ## CAM concentrates CO~2~ around Rubisco *temporally* -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
+<div style="float: right; width: 47%;">
 
-<!-- <div style="float: right; width: 47%;"> -->
+* **Stomata open at night only**
 
-<!-- * **Stomata open at night only** -->
+<br/>
 
-<!-- <br/> -->
+* **4C compounds produced in large quantities**
+    + stored when Rubisco is inactive
 
-<!-- * **4C compounds produced in large quantities** -->
-<!--     + stored when Rubisco is inactive -->
+<br/>
 
-<!-- <br/> -->
+* **C4 vs CAM**
+    * substitute BSC for "night shift"
 
-<!-- * **C4 vs CAM** -->
-<!--     * substitute BSC for "night shift" -->
+</div>
 
-<!-- </div> -->
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cam5.jpg">
 
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cam5.jpg"> -->
+## Yes we CAM!!
+<hr>
+<br/>
+<br/>
+<br/>
 
-<!-- ## Yes we CAM!! -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/cam_plants.jpeg"> -->
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/cam_plants.jpeg">
 
 
-<!-- <div style="float: left; width: 50%;"> -->
-<!-- * **CAM evolved independently several times** -->
-<!--     + ~16,000 species -->
+<div style="float: left; width: 50%;">
+* **CAM evolved independently several times**
+    + ~16,000 species
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Exist in arid environments or habitats** -->
-<!--     * cacti -->
-<!--     * epiphytes -->
+* **Exist in arid environments or habitats**
+    * cacti
+    * epiphytes
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Are CAM plants fast or slow growing?** -->
-<!-- </div> -->
+* **Are CAM plants fast or slow growing?**
+</div>
 
-<!-- ## C3 vs C4 vs CAM: Know advantages/disadvantages of each -->
-<!-- <hr> -->
+## C3 vs C4 vs CAM: Know advantages/disadvantages of each
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/c3c4cam.jpeg"> -->
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/c3c4cam.jpeg">
+
+
