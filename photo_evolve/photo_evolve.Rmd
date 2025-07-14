@@ -229,11 +229,13 @@ output:
 ## Evolution tinkers with other parts of photosynthesis
 <hr>
 <br/>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:400px; HEIGHT:225px" SRC="images/c3c4cam.jpg">
 
 <div style="float: right; width: 55%;">
+* **NEXT TIME:**
+
+<br/>
 
 * **Improved and recombined existing parts and pieces**
     + work around the photorespiration issue

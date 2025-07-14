@@ -9,7 +9,6 @@ output:
 
 ## Atmospheric CO~2~ varies across geologic time
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:500px; HEIGHT:450px" SRC="images/co2_atmos.png">
 
@@ -29,24 +28,45 @@ output:
 
 <br/>
 
-* **What does this mean for the current efficiency of C3 photosynthesis?**
+* **O~2~ levels started increasing (from 10%) starting 500 mya**
+    + What does this mean for the current efficiency of C3 photosynthesis?**
 
-## New pathways evolved ~30 MYA
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/evolution_rubisco2.jpg">
-
-## Evolution of C4 photosynthesis
+## New photosynthetic pathways evolved recently (~30 MYA)
 <hr>
 <br/>
 
+* **Rubisco has existed for billions of years, and virtually no structural mutations have survived**
+    + evolved when O~2~ was negligible in the atmosphere
+    + mutations have yet to produce a superior version of the enzyme for the environment to select
+
+<br/>
+
+* **Plants can do nothing about CO~2~ nor 0~2~ concentrations in the air**
+
+<br/>
+
+* **C3 plants keep stomata open during the data, allowing gas exchange, while losing H~2~0**
+    + balance of CO~2~ in, H~2~O out is poor due to rubisco
+
+<br/>
+
+**Alternative solution 1: Compartmentalize rubisco and concentrate CO~2~**
+<br/>
+**Alternate solution 2: Open stomata at night when evaporative water loss is lower**
+
+</div>
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/evolution_rubisco2.jpg"> -->
+
+## Evolution of C4 photosynthesis
+<hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/c4cell.jpg">
 
 <div style="float: right; width: 45%;">
 
 * **Calvin cycle moved to *Bundle Sheath Cells* surrounding leaf veins**
-    * some chloroplasts also moved inside bundle sheath cells
+    * some chloroplasts moved inside bundle sheath cells
     * **Brainstorm**: How would mutations/genes be involved?
 
 <br/>
@@ -54,8 +74,9 @@ output:
 * **BSC cells are less permeable to gases**
     * what does this mean for photorespiration?
 
+<br/>
 
-* **New ring cell arrangement = Kranz Anatomy**
+* **Ring cell arrangement = Kranz Anatomy**
     + bundle sheath cells surround veins
     + mesophyll cells surround bundle sheath cells
 </div>
@@ -70,20 +91,20 @@ output:
 ## C4 plants concentrate CO~2~ around Rubisco *spatially*
 <hr>
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 65%;">
 
-* **C4 mechanism separates Calvin cycle from high O~2~**
-    + C4 pathway in mesophyll cell chloroplasts
-    + C3 pathway in bundle sheath cell chloroplasts
+* **New C4 pathway separates Calvin cycle from high O~2~**
 
 <br/>
 
 * **C4 pathway: New enzyme, phosphoenolpyruvate carboxlylase (PEPC) fixes CO~2~ to PEP (0 affinity for O~2~)**
+    + C4 pathway occurs in mesophyll cell chloroplasts
     + new 4C malate created and pumped to bundle sheath cells
 
 <br/>
 
-* **Malate broken down to release CO~2 inside bundle sheath cells**
+* **Malate broken down to release CO~2~ inside bundle sheath cells**
+    + C3 pathway in bundle sheath cell chloroplasts
     + Calvin cycle (C3) runs with only CO~2 present
 
 <br/>
@@ -93,9 +114,9 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:20px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
 
-## C4 is turbo-charged from of photosynthesis
+## C4 is a turbo-charged form of photosynthesis
 <hr>
 <br/>
 <br/>
@@ -115,16 +136,13 @@ output:
 <br/>
 
 * **C4 plants still account for 25% of productivity**
-
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/c4_super.png">
 
 ## Why is C4 photosynthesis not dominant?
 <hr>
-<br/>
-<br/>
-<br/>
 <br/>
 
 <div style="float: right; width: 50%;">
@@ -140,10 +158,15 @@ output:
 
 * **Where should C4 plants live**
     * efficiency vs dehydration
+
+
+<br/>
+
+* **Brainstorm: Why is C4 non-existent in trees?**
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:550px; HEIGHT:450px" SRC="images/c4khan.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:400px; HEIGHT:500px" SRC="images/c4khan.png">
 
 ##
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
@@ -203,7 +226,8 @@ output:
 
 <br/>
 
-* **C4 plants seem to have an issue growing tall...**
+* **C4 plants seem to have an issue growing tall**
+    + ATP requirements of larger plants...
 
 </div>
 
@@ -264,81 +288,59 @@ output:
 
 <IMG STYLE="position:absolute; TOP:430px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/wheat.jpg">
 
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/crops.jpg">
-
-## Can science TUNE photosynthesis?
+## Evolution of CAM photosynthesis (C4 pathway w/out BSC)
 <hr>
 <br/>
-<br/>
 
-<div style="float: left; width: 48%;">
+<div style="float: right; width: 42%;">
 
-* **Eliminating photorespirtion is unrealistic** 
-    + can we *tweak* Rubisco?
-    
-<br/>
-
-* **Small improvement = huge gains in crop yield**
+**Crassulacean acid metabolism (CAM) is an adatpation that improves conservation of water while still allowing photosynthesis**
 
 <br/>
 
-* **5% reduction = extra 68 million bushels of soybean**
-    + 23 million bushels of wheat       
-    + $540 million value (Walker et al. 2016)
+**Metabolic pathway almost identical to C4 pathway but without structural modifications**
+
+<br/>
+
+**Malate created from PEP and CO~2~, simply allowed to accumulate**
+
+<br/>
+
+**Difference is with stomatal behavior**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/yield_loss.jpg">
-
-## Can science TUNE photosynthesis?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:900px; HEIGHT:450px" SRC="images/rubsico_fix.jpg">
-
-## Genome work on C4 plants already underway
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/c4_gene.png">
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/gene2.jpg">
-
-
-## Evolution of CAM photosynthesis (C4 pathway w/out BSC)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:5px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
 
 ## CAM concentrates CO~2~ around Rubisco *temporally*
 <hr>
-<br/>
-<br/>
-<br/>
 
-<div style="float: right; width: 47%;">
+<div style="float: right; width: 52%;">
 
 * **Stomata open at night only**
+    + malate produced in large quantities
+        + CO~2~ (stomata) + PEP
+    + malate stored when Rubisco is inactive
 
 <br/>
 
-* **4C compounds produced in large quantities**
-    + stored when Rubisco is inactive
+* **C4 vs CAM = substitute function of bundle sheath cell (C4) for "night shift"**
+ 
+ <br/>
+ 
+* **Calvin cycle needs ATP, NADPH from light reactions but they are not stable enough to be stored for 'night shift'**
+
 
 <br/>
 
-* **C4 vs CAM**
-    * substitute BSC for "night shift"
+* **Stomata close during day (no CO~2~, O~2~ in) but stored malate (night shift) is broken down to release CO~2~**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cam5.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/cam5.jpg">
 
 ## Yes we CAM!!
 <hr>
-<br/>
-<br/>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/cam_plants.jpeg">
 
@@ -355,12 +357,21 @@ output:
 
 <br/>
 
+* **CAM is not very efficient, released CO~2~ is used up within first few hours of daylight**
+    + survival (harsher environments) over productivity
+
+<br/>
+
 * **Are CAM plants fast or slow growing?**
+<br/>
+* **Should CAM plants have many or few stomata?**
 </div>
 
 ## C3 vs C4 vs CAM: Know advantages/disadvantages of each
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/c3c4cam.jpeg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:75px; WIDTH:900px; HEIGHT:500px" SRC="images/comparison.png">
 
+## 
 
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/comparison2.png">
