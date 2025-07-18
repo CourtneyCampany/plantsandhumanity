@@ -1,0 +1,127 @@
+---
+title: "Plants in Urban Environments"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## The Vital Role of Urban Vegetation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/treegraphic.png">
+
+## Why Green Space Matters: Urban Heat Island
+<hr>
+
+**Urban areas are hotter than surrounding rural areas due to concrete, asphalt, and buildings absorbing and re-radiating heat**
+
+<br/>
+
+**Lack of vegetation and tree canopy reduces shade and evapotranspiration, intensifying heat**
+
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Surface temperatures in UHI zones can be 10°F (5.5°C) or more above nearby green areas**
+
+<br/>
+
+* **UHI effects are most severe in neighborhoods with fewer trees**
+    + Heat-related deaths, respiratory illnesses, and mental stress linked to lack of vegetation
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:310px; LEFT:560px; WIDTH:450px; HEIGHT:350px" SRC="images/uhi.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/uhi2.png">
+
+## Who Gets the Green?
+<hr>
+
+* **Green space access is unequal across urban areas**
+    + less vegetation = more heat, more illness, less well-being
+    + green space is linked to property values and public investment
+
+<br/>
+<br/>
+
+<div style="float: left; width: 52%;">
+
+* **Climate resilience efforts must prioritize vulnerable communities**
+    
+<br/>
+
+* **Tree equity is a tangible frontline infrastructure**
+    + formerly redlined neighborhoods often have fewer trees
+    + structural racism manifests in ecological form
+    + community involvement is key to equitable greening
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:560px; WIDTH:500px; HEIGHT:350px" SRC="images/greenspace.png">
+
+
+## What is Redlining?
+<hr>
+
+* **Originated in the 1930s through the Home Owners' Loan Corporation (HOLC)**
+    + Green (Grade A): “Best” – Wealthy, white, new suburbs
+    + Blue (Grade B): “Still Desirable” – Middle-class, mostly white
+    + Yellow (Grade C): “Declining” – Working-class, more racial/ethnic diversity
+    + Red (Grade D): “Hazardous” – High Black/immigrant populations
+
+<br/>
+
+<div style="float: left; width: 56%;">
+
+* **Areas in red and labeled “hazardous” for investment**
+    + lone requests were denied, investment into communities (e.g., parks) was negligible
+
+<br/>
+
+* **Redlining led to decades of disinvestment in housing, infrastructure, schools, and green space.**
+
+<br/>
+
+* **Maps created shaped urban development and environmental inequality across the U.S.**
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:670px; WIDTH:360px; HEIGHT:350px" SRC="images/atlanta.jpg">
+
+## Legacies of Redlining in the Urban Environment
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Redlined neighborhoods have significantly fewer parks and trees**
+
+<br/>
+
+* **Higher exposure to urban heat island effect, flooding, and pollution**
+    + lower air quality and access to nature negatively impact physical and mental health
+    + increased heat-related illness and death
+
+<br/>
+
+* **Lack of vegetation loss affects aesthetics and urban ecosystem functions (e.g., shade, carbon uptake, stormwater filtration, wildlife)**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:500px" SRC="images/rowhome.jpeg">
+
+
+## Its time for: Side Quest
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/baltimore.png">
+
+

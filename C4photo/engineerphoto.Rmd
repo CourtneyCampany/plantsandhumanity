@@ -1,6 +1,5 @@
 ---
 title: "Can science TUNE photosynthesis?"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -76,8 +75,6 @@ output:
  
 * **C3 crops can lose 10-40% of yield due to water related stress**
     + water is transpired at a rate of hundreds of molecules per one CO~2~ fixed
-    
-</div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/yield_loss.jpg">
 
