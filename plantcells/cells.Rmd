@@ -7,6 +7,11 @@ output:
     smaller: true
 ---
 
+## What is the most essential resource for plants? ADD ME
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:750px; HEIGHT:450px" SRC="images/turgor2.png">
+
 ## Plant Cells and Growth
 <hr>
 

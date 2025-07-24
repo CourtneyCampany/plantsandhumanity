@@ -7,10 +7,6 @@ output:
     smaller: true
 ---
 
-## The Plant Body
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:750px; HEIGHT:450px" SRC="images/leaftitle.jpg">
-
 ## 
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/cell_concept.png">

@@ -1,11 +1,22 @@
 ---
-title: "Plants and Fungi"
+title: "Plants Nutrient Uptake and Fungal Mutualisms"
 output: 
   ioslides_presentation:
     css: custom.css
     widescreen: true
     smaller: true
 ---
+
+<!-- ## Review: Nutrient uptake by roots -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/uptake.png"> -->
+
+<!-- ## Review: Nutrient uptake via fungi -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/mycorr.jpg"> -->
+
 
 ## Plants and Fungi
 <hr>
