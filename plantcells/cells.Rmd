@@ -7,16 +7,6 @@ output:
     smaller: true
 ---
 
-## What is the most essential resource for plants? ADD ME
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:750px; HEIGHT:450px" SRC="images/turgor2.png">
-
-## Plant Cells and Growth
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/celltitle.jpg">
-
 ##  Plant form and function is ruled by cells
 <hr>
 
@@ -141,7 +131,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 45%;">
 
 * **Membrane covers the surface of the protoplasm**
     + Molecular pumps transport molecules in and out
@@ -188,8 +178,6 @@ output:
 ## Plastids: membrane bound organelles in plants & algae
 <hr>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 58%;">
 
@@ -203,7 +191,10 @@ output:
 
 <br/>
 
-* **Chromoplasts: organelles containing pigments for colored plant parts**
+* **Chromoplasts: organelles making and storing pigments for colored plant parts**
+    + pigments to attract pollinators
+    + colors of fruits to attract seed dispersers
+    + antioxidants to reduce cell stress
 
 </div>
 
@@ -216,11 +207,19 @@ output:
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:475px; WIDTH:625px; HEIGHT:250px" SRC="images/acidic.png">
 
+## Water is the most essential resource for plant cells
+<hr>
+**Acts as the solvent for biochemical reactions, maintains turgor pressure to keep cells rigid, and is the transport medium for nutrients and sugars**
+<br/>
+**Water provides the electrons needed in light reaction of photosynthesis**
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:150px; WIDTH:750px; HEIGHT:450px" SRC="images/turgor2.png">
+
 ## New cells orginate from meristems
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 62%;">
 
 * **All plants are multicellular with active regions of cell division**
     + cells mostly divide my mitosis
@@ -229,7 +228,8 @@ output:
 <br/>
 
 * **Growth is localized in the active regions: meristems**
-    + meristem cells are undifferentiated
+    + meristem cells are undifferentiated = they have not yet developed into a specific cell type
+    + can continuously divide and produce new cells
 
 <br/>
 
@@ -239,7 +239,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/apical.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:670px; WIDTH:400px; HEIGHT:400px" SRC="images/apical.png">
 
 ## New cells orginate from meristems
 <hr>
