@@ -7,50 +7,149 @@ output:
     smaller: true
 ---
 
-<!-- ## Review: Nutrient uptake by roots -->
-<!-- <hr> -->
+## Overview of Plant Nutrient Uptake
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/uptake.png"> -->
+* **Review: Plants require many mineral nutrients for growth, development, and metabolism**
+    + nutrients are absorbed primarily through roots from the soil solution
 
-<!-- ## Review: Nutrient uptake via fungi -->
-<!-- <hr> -->
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/mycorr.jpg"> -->
+* **Two main pathways for uptake:**
+    + passive transport (diffusion, facilitated diffusion)
+    + active transport (requires energy to move ions against gradient)
 
+<br/>   
+
+<div style="float: left; width: 43%;">
+
++ **Most nutrients enter roots as ions dissolved in water (e.g., NO₃⁻, K⁺)**
+    + plants can't absorb solid particles directly
+    + charged ions require transport proteins (in cells)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:370px; LEFT:490px; WIDTH:600px; HEIGHT:250px" SRC="images/transportreview.png">
+
+## Root Hair Cells: Structure and Function
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:600px; HEIGHT:450px" SRC="images/roothhair.jpg">
+
+<div style="float: right; width: 45%;">
+
+* **Root hair cells are extensions of epidermal cells in the root**
+    + Increase surface area dramatically
+    + No waxy cuticle, so water enters freely
+    + High density of membrane transport proteins for selective nutrient uptake
+
+<br/>
+
+* **Thin cell walls and large central vacuole aid in rapid uptake of ions and water**
+    + lots of mitochondria (?)
+    
+<br/>
+
+* **Short-lived but continuously regenerated as roots grow through new soil zones**
+
+</div>
+
+## Active Uptake of Nutrients via Roots
+<hr>
+<br/>
+
+* **Roots absorb scarce nutrients even when concentrations are higher inside the cell than in the soil**
+    + passive diffusion would not work
+    + ATP needed to transport across gradient
+
+<br/>
+
+* **Root cells use energy to pump out hydrogen ions (H⁺) into the soil**
+    + creates a gradient that helps pull anions like nitrate and phosphate into the root
+
+<br/>
+
+* **Soil particles are negatively charged, holding cations (i.e. Ca^2+^)**
+    + hydrogen ions also causes the cations to be swapped out into the soil water
+    
+## Active Uptake of Nutrients via Roots
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/uptake.png">
+
+## Root Structure & Nutrient Entry
+<hr>
+
+**Dissolved nutrients move between cells and through cell walls to reach xylem**
+
+<br/>
+
+**<span style="color:orange"> Apoplastic pathway: movement through cell walls and intercellular spaces</span>**
+
+<br/>
+
+**<span style="color:blue"> Symplastic pathway: movement from cell to cell through plasmodesmata (tiny bridges between cells)</span>**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:355px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/symapo2.png">
+
+## Root Structure & Nutrient Entry
+<hr>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+**Casparian strips are located in the cell walls of the layer of cells that surround the vascular cylinder in plant roots (xylem + phloem)**
+
+<br/>
+
+**Forces selective uptake into symplast before xylem**
+
+<br/>
+
+**Symplast pathways uses plasmodesmata - small channels that are lined with plasma membrane (selectively permeable!)**
+
+<br/>
+
+**Allows regulation of molecule movement, prevents back flow, and prevents entry of pathogens into vascular system**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:475px; HEIGHT:500px" SRC="images/casparian.jpg">
 
 ## Plants and Fungi
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:750px; HEIGHT:450px" SRC="images/mycorr2.jpg">
 
-## The big picture: Fungi play a role in plant function
+## Mycorrhizal fungi: sharing with plants
 <hr>
+<br/>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
-* **100,000 species described**
-    + estimated 1.5 millions species
-    + diverse size, morphology and habitats
+* **~80-90% of plants have association with fungus**
+    + fungi grown in/around plant roots
+    + share resources
+    + one of the most widespread mutualisms
 
 <br/>
 
-* **Heterotrophic: eat via absorption**
-    + parasites, decomposers, mutualists
-    + cycle nutrients via decomposition
+* **2 main types:**
+    + Ecto- and Endo- mycorrhizae
+    + diverse array of species for each
 
 <br/>
 
-* **Cell walls made of chitin**
-    + mushrooms are only a part of the body
-    + filaments belowground absorb things
-
-<br/>
-
-* **Wild reproduction**
+* **Association now key for plants to thrive**
+    + fungi more efficient @ nutrient uptake
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:525px; HEIGHT:400px" SRC="images/body.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr.png">
 
 ## All Fungi share traits related to nutrition
 <hr>
@@ -71,7 +170,9 @@ output:
     + decomposers: break down dead things
     + parasites: absorb from host
     + mutualist: absorb/share with host
-    
+
+ </div> 
+ 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/fungienzymes.png">
 
 ## Fungal body plan: Not-motile
@@ -101,6 +202,7 @@ output:
 
 * **Specialized hyphae for feeding on live animals**
     + hoops
+    
  </div>   
 
 <div style="float: left; width: 50%;">
@@ -113,32 +215,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:325px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/nematode.jpg">
 
-## Mycorrhizal fungi: sharing with plants
-<hr>
-<br/>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-* **~80-90% of plants have association with fungus**
-    + fungi grown in/around plant roots
-    + share resources
-    + one of the most widespread mutualisms
-
-<br/>
-
-* **2 main types:**
-    + Ecto- and Endo- mycorrhizae
-    + diverse array of species for each
-
-<br/>
-
-* **Association now key for plants to thrive**
-    + fungi more efficient @ nutrient uptake
-    
-</div>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr.png">
 
 ## 
 <br/>
@@ -243,11 +319,11 @@ output:
  
 <IMG STYLE="position:absolute; TOP:200px; LEFT:655px; WIDTH:400px; HEIGHT:450px" SRC="images/liverword.jpg">
 
-## Early lineage plant experiments with fungi: byrophytes
-<hr>
-**Humphreys et al. 2010**
+<!-- ## Early lineage plant experiments with fungi: byrophytes -->
+<!-- <hr> -->
+<!-- **Humphreys et al. 2010** -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/landliver.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/landliver.jpg"> -->
 
 ## Timing matters: Fossil forests and fungi
 <hr>
@@ -307,9 +383,9 @@ output:
  
  <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/fert.jpg">
  
-## 
- 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/yeildissues.png">
+<!-- ##  -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/yeildissues.png"> -->
 
 ## Role of mycorrhizae in agrosystems: Nutrients
 <hr>
@@ -339,32 +415,32 @@ output:
  
 <IMG STYLE="position:absolute; TOP:190px; LEFT:30px; WIDTH:400px; HEIGHT:450px" SRC="images/depletion.png">
     
-## Role of fungi in agrosystems: Stress, Disease
-<hr>
-<br/>
+<!-- ## Role of fungi in agrosystems: Stress, Disease -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 50%;">
+<!-- <div style="float: left; width: 50%;"> -->
 
-* **Pesticides hinder plant's natural immune response**
-    + fungicides are toxic to mycorrhizal fungi
-    
-<br/>
+<!-- * **Pesticides hinder plant's natural immune response** -->
+<!--     + fungicides are toxic to mycorrhizal fungi -->
 
-* **Fungi colonizing roots physically exclude and protect from pathogens**
-    + fungi release antibiotic substances
+<!-- <br/> -->
 
-<br/>
+<!-- * **Fungi colonizing roots physically exclude and protect from pathogens** -->
+<!--     + fungi release antibiotic substances -->
 
-* **Communication through fungi allows neighboring plants to know of pest attacks**
+<!-- <br/> -->
 
-<br/>
+<!-- * **Communication through fungi allows neighboring plants to know of pest attacks** -->
 
-* **Mycorrhizal inoculation enhanced enzyme response to tomato blight infection**
-    + Song et al. 2015
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:520px; HEIGHT:350px" SRC="images/tomatoinoc.jpg">
+<!-- * **Mycorrhizal inoculation enhanced enzyme response to tomato blight infection** -->
+<!--     + Song et al. 2015 -->
 
-</div>
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:520px; HEIGHT:350px" SRC="images/tomatoinoc.jpg"> -->
+
+<!-- </div> -->
 
 ## Sustainable agriculure with mycorrhizae
 <hr>
@@ -389,33 +465,32 @@ output:
     + reduces  erosion & leaching
     + improves microbial biodiversity
     
-## Should we also innoculate crops?
-<hr>
-<br/>
+<!-- ## Should we also innoculate crops? -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 60%;">
+<!-- <div style="float: left; width: 60%;"> -->
 
-* **Commercial fertilizers (NPK) are water-soluble**
-    + short term availability
-    + requires heavy fertilizer application
+<!-- * **Commercial fertilizers (NPK) are water-soluble** -->
+<!--     + short term availability -->
+<!--     + requires heavy fertilizer application -->
 
-<br/>
+<!-- <br/> -->
 
-* **Natural abundances of soil nutrients exist, just not readily/easily accessible to plants**
+<!-- * **Natural abundances of soil nutrients exist, just not readily/easily accessible to plants** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Tilling soil reduces natural mycorrhizal associations**
+<!-- * **Tilling soil reduces natural mycorrhizal associations** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Commercial inoculates add fungal spores, which are activated by root exudates**
+<!-- * **Commercial inoculates add fungal spores, which are activated by root exudates** -->
 
- </div>
- 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/innoculate.png">
+<!--  </div> -->
 
-    
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/innoculate.png"> -->
+
 ## Are fungi always a good thing?
 <hr>
 <br/>
