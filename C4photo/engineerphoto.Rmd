@@ -154,7 +154,7 @@ output:
 <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:575px; HEIGHT:500px" SRC="images/c4rice.jpg">
 
 
-## It is time for a .....
+## It Is Time For A...
 <hr>
 **Understanding photosynthetic anatomy and genetics is key to the next breakthroughs.**
 
