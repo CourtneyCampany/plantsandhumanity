@@ -1,5 +1,5 @@
 ---
-title: "Bioprospecting"
+title: "Bioprospecting with Plants"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -9,17 +9,23 @@ output:
 
 ## What is Bioprospecting?
 <hr>
+<br/>
 
-* **Exploration of biodiversity, especially in plants, fungi, and microbes, to discover novel compounds or genetic materials that may benefit medicine, agriculture, or industry**
+<div style="float: left; width: 55%;">
+
+* **Exploration of biodiversity, especially in plants, fungi, and microbes, to discover novel compounds or genetic materials**
+    + beneficial for medicine, agriculture, or industry
     + intersects ethnobotany, natural product chemistry, and pharmaceutical research
 
 <br/>
 
-* **Process often builds on traditional ecological knowledge (TEK), passed down through generations in Indigenous and local communities.**
+* **Process often builds on traditional ecological knowledge, passed down through generations in Indigenous and local communities**
 
 <br/>
 
-* **Deep link between cultural knowledge and scientific breakthrough raise ethical questions about ownership and benefit sharing**
+* **Link between cultural knowledge and scientific breakthrough raises ethical questions about ownership and benefit sharing**
+
+</div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:500px" SRC="images/medman.png">
 
@@ -28,41 +34,33 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Plants produce an array of secondary metabolites — chemical compounds not essential for growth/survival**
+* **Plants produce many secondary metabolites — chemical compounds not essential for growth**
     + used for defense, attraction, or competition
 
 <br/>
 
-* **Key compounds include: alkaloids, terpenoids, and phenolics, many of which have bioactive properties useful in human health**
+* **Compounds like alkaloids, terpenoids, and phenolics often have bioactive properties useful in human health**
 
 <br/>
 
-* **An estimated 25–50% of modern pharmaceuticals are derived directly or indirectly from plant compounds**
-    + pain relief → morphine (poppy), aspirin (willow bark)
+* **~25 of modern pharmaceuticals are derived directly or indirectly from plant compounds**
+    + pain relief → morphine (poppy), aspirin (willow)
     + cardiovascular health → digoxin (foxglove)
     + infectious disease → quinine for antimalarial
     + respiratory → ephedrine (ephedra) in asthma and cold medications
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/foxglove.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/foxglove.jpg">
 
 ## From Forest to Pharmacy
 <hr>
 
-* **The drug discovery process involves many steps: identifying candidate species, extracting compounds, laboratory screening for bioactivity, chemical modification, and clinical testing**
+* **Only a tiny fraction of natural compounds screened ever become marketable drugs — the process is time-consuming, expensive, and high-risk**
+    + development can take 10–15 years and cost over $1 billion
     + bioprospecting is only the first step
 
-<br/>
-
-* **Only a tiny fraction of natural compounds screened ever become marketable drugs — the process is time-consuming, expensive, and high-risk.**
-    + development can take 10–15 years and cost over $1 billion.)
-
-<br/>
-
-* **Synthetic biology and combinatorial chemistry are modern tools that complement natural product discovery**
-
-<IMG STYLE="position:absolute; TOP:330px; LEFT:525px; WIDTH:450px; HEIGHT:350px" SRC="images/flowchart.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/flowchart.png">
 
 ## Ethical Questions in Bioprospecting
 <hr>
@@ -72,28 +70,34 @@ output:
     
 <br/>
 
+<div style="float: left; width: 50%;">
+
 * **The Nagoya Protocol (2010) promotes fair and equitable sharing of benefits arising from genetic resources.**
     + decolonizing science and including Indigenous voices is vital in biodiversity governance
     
 <br/>
 
-* **Access and Benefit Sharing (ABS) agreements are intended to ensure Indigenous knowledge is recognized and compensated — but enforcement is uneven**
+* **Access and Benefit Sharing (ABS) agreements are intended to ensure Indigenous knowledge is recognized and compensated**
+    + enforcement is uneven
 
+</div>
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:545px; WIDTH:450px; HEIGHT:375px" SRC="images/triangle">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:545px; WIDTH:525px; HEIGHT:300px" SRC="images/flowchart2.png">
 
 ## Biopiracy – When Things Go Wrong
 <hr>
 <br/>
+<br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 65%;">
 
-* **Biopiracy is the unauthorized use of biological resources or traditional knowledge without consent or compensation — often involving patents**
+* **Biopiracy: unauthorized use of biological resources or traditional knowledge without consent or compensation**
+    + often involving patents
 
 <br/>
 
 * **Legal and ethical debates arise when indigenous knowledge is used without consent, benefit-sharing, or acknowledgment**
-    + economic value extracted from plants can bypass those who protected or used them sustainably for generations
+    + economic value extracted from plants can bypass those who protected or used them for generations
 
 <br/>
 
@@ -101,7 +105,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:225px; HEIGHT:300px" SRC="images/leaf.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:375px; HEIGHT:500px" SRC="images/cartoon.jpg">
 
 ## Its Time For A.....
 <hr>
