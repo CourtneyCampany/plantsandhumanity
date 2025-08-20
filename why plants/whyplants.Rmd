@@ -6,10 +6,6 @@ output:
     widescreen: true
     smaller: true
 ---
-## Why should we care about the study of plants
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/quote.jpg">
 
 ## Without plants, most life would not exist!
 <hr>
@@ -143,7 +139,7 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 45%;">
+<div style="float: left; width: 60%;">
 
 * **Learn to identify plants in the wild**
     + build real and virtual plant collections
@@ -164,33 +160,26 @@ output:
 
 </div>
 
-<div style="float: right; width: 45%;">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:640px; WIDTH:350px; HEIGHT:500px" SRC="images/spiderplants.jpg">
 
-* **Start downloading some cool phone Apps**
-    + inaturalist
-    + seek (by inaturlist)
-    + itree
-
-<br/>
-
-* **We will embrace tech, and use them all semester!**
-
-</div>
-
-## Journal Club next week
+## Today....Why do people think plants are boring???
 <hr>
 <br/>
 <br/>
 <br/>
+
+<div style="float: right; width: 60%;">
+
+**Are plants considered boring because of how they are shown/portrayed to us in media, storytelling, education, etc.?**
+
 <br/>
 
-* **Read the Bar-On paper as a scientist**
-    + unpack the components of biomass on Earth
-    + unpack the proportionate impact of humans 
+**Or is it simply because they don't move?**
 
 <br/>
 
-* **Evaluate your findings and 'plant blindness'**
-    + be prepared to discuss
-    
-<IMG STYLE="position:absolute; TOP:225px; LEFT:580px; WIDTH:500px; HEIGHT:350px" SRC="images/barpaper.png">
+**How do we ignore...BREAD, BEER, WINE, OXYGEN so easily?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:40px; WIDTH:350px; HEIGHT:500px" SRC="images/boring.jpg">
