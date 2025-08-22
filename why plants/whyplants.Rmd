@@ -72,7 +72,7 @@ output:
 
 <br/>
 
-* **Then... many mass extinctions**
+* **Also... many mass extinctions**
 </div>
 
 ## Plants are responsible for the products *WE* rely on
@@ -84,7 +84,7 @@ output:
 
 <div style="float: left; width: 60%;">
 
-* **Vegetable and animal matter via agriculture and pasture lands**
+* **Vegetable and animal matter via agriculture and pasture lands allows us to live**
 
 <br/>
 
@@ -100,15 +100,17 @@ output:
 
 ## Plants may be respsible for the *future* products we rely on
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:450px; HEIGHT:325px" SRC="images/biofuel.jpg">
+**Photosynthetic organisms (plants, algae, marine phytoplankton) may be the future of energy and/or solutions to global change**
+<IMG STYLE="position:absolute; TOP:275px; LEFT:45px; WIDTH:450px; HEIGHT:325px" SRC="images/biofuel.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:275px" SRC="images/ethanol.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:400px; HEIGHT:275px" SRC="images/ethanol.jpg">
 
-## Plants may be respsible for the *future* products we rely on
+## In a time of uncertainty, plants still provide jobs
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/jobs.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/jobs2.png">
 
 ## Angiosperms are most important for humans
 <hr>
