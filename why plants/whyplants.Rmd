@@ -79,8 +79,6 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 60%;">
 
@@ -94,11 +92,16 @@ output:
 
 * **Spices, perfumes, dyes,  food stabilizers, emulsifiers, Starbucks, etc. allow us to live our best life**
 
+<br/>
+
+* **Just based on this, can you imagine a life without plants??**
+    + this semester we will try to live that life, for one day
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:300px; HEIGHT:450px" SRC="images/coffee.png">
 
-## Plants may be respsible for the *future* products we rely on
+## Plants may be responsible for the *future* products we rely on
 <hr>
 <br/>
 
@@ -126,7 +129,7 @@ output:
     
 <br/>
 
-* **Most plant products utilized by society from angiosperms**
+* **Most plant products utilized by society are angiosperms**
     + nearly all food staples
     
 <br/>
@@ -144,7 +147,7 @@ output:
 <div style="float: left; width: 60%;">
 
 * **Learn to identify plants in the wild**
-    + build real and virtual plant collections
+    + and create plant collections
     + learn the value of plants in the wild
 
 <br/>
@@ -169,8 +172,9 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
 
-<div style="float: right; width: 60%;">
+<div style="float: right; width: 62%;">
 
 **Are plants considered boring because of how they are shown/portrayed to us in media, storytelling, education, etc.?**
 
