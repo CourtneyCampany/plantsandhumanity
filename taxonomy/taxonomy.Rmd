@@ -26,14 +26,14 @@ knitr::opts_chunk$set(echo = FALSE)
     + green
     + non-motile
     + eukaryotic & multi-cellular
-    + walls of cellulose
+    + cell walls of cellulose
     + alternation of generations
 
 <br/>
 <br/>
 
 * **Diversity: There are many kinds of plants and hundreds of thousands of species**
-    + But the basic lineages of plants are fairly easy
+    + but the basic lineages of plants are fairly easy
     + new characters define evolution of lineages
 
 </div>
@@ -44,20 +44,22 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 
-* **Classification is putting objects into groups**  
+* **Classification is putting organisms into groups**  
     + requires naming, describing, and identifying species
-    +  "science of documenting biodiversity" (Keogh, 1995)
+    + some groups have standardized endings (-ales for 'order')
 
 <br/>
 
 * **Linnaeus founded binomial system and classification hierarchy**  
     + *King Phillip Came Over From Germany Stoned*
-    + each level or unit is called a taxon w/ standardized endings
+    + each level or unit is called a *taxon*
+        + a group of any rank in the system
 
 <br/>
 
-* **Kingdom is most inclusive group, species is least inclusive** 
-    + in your generation these hierarchies may become obsolete via molecular markers
+* **Kingdom is the most inclusive group, species is the least inclusive** 
+    + traditionally, placement into a taxon was determined by character traits
+    + now, these hierarchies are being defined via molecular markers
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:725px; WIDTH:325px; HEIGHT:300px" SRC="images/taxlevels.jpg">
 
@@ -65,7 +67,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 
-* **Question:  If two plants are related (i.e., in the same genus) and one of the plants is a source of food or drug, what can we assume about the second plant?**
+* **<span style="color: darkgreen;">Question:  If two plants are related (i.e., in the same taxon) and one of the plants is a source of food or potential drug, what can we assume about the second plant?</span>**
 
 <br/>
 
@@ -118,7 +120,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **The rule book for botanical nomenclature is the International Code of Botanical Nomenclature (ICBN)**
     + every plant gets 1 binomial name
-    + Binomials are genus name + specific epithet (e.g. *Quercus rubra*)
+    + Binomials are *genus* name + *specific epithet* (e.g. *Quercus rubra*)
 
 <br/>
 
@@ -155,43 +157,44 @@ knitr::opts_chunk$set(echo = FALSE)
     
 <br/>
     
-* **I want you to learn major diagnostic characters**
+* **I DO want you to learn major diagnostic characters**
 
 </div>
 
 ## We must learn vegetative terminology!!
 <hr>
 <br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 60%;">
 
 * **The amount of terminology used in Plant Taxonomy may, at times, seem overwhelming**
 
 <br/>
 
-* **A feature of a plant is called a *character* and the specific form of the character is  a *state*.**
-
+* **A feature/trait of a plant is called a *character* and the specific form of the character is  a *state*.**
+    + example: leaf margins are single-toothed
+    + you need many states to ID a plant 
+    
 <br/>
 
-* **First, we focus on vegetative (non-reproductive) parts**
-    + includes the 3 primary organs - leaf, root, stem
-    + you will need many states to ID a plant!
+* **These diagnostic characters cover all aspects of plant morphology**
+    + leaf, stem and root form
+    + reproductive traits
+    + surface features and species characters (aroma when crushed, latex, resins)
+
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:300px; HEIGHT:450px" SRC="images/organs.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/organs.jpg">
 
-## Life span/Duration: 
+## Life history characters (add to botanical codex)
 <hr>
-<br/>
 
 <div style="float: left; width: 53%;">
 
 * **Annual**: completes life cycle in a single year
 * **Biennial**: completes life cycle in two years
-* **Perennial**: lives more than two seasons
+* **Perennial**: lives more than two growing seasons
 
 <br/>
 
@@ -208,14 +211,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:520px; HEIGHT:400px" SRC="images/lifecycle.jpg">
 
-## Plant vegetative organs (only 3! plants are easy!)
+## Plant vegetative organs (add to botanical codex)
 <hr>
 <br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:325px; HEIGHT:450px" SRC="images/organs2.jpg">
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 60%;">
 
 * **Root:  anchor and absorbs, underground, develop from radicle in seed**
 
@@ -234,21 +237,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 
-## Leaf parts
+## Leaf parts (add to botanical codex)
 <hr>
-<br/>
-<br/>
 <br/>
 
 <div style="float: left; width: 55%;">
 
 * **Blade - main photosynthetic part**
-
+    + margins, veins and midrib all have character states
+    
 <br/>
 
-
 * **Petiole - a botany term for the stalk of the leaf**
-
+    + presence, lenght, shape, surfaces are all character states
+    
 <br/>
 
 * **Stipules - appendage at base of petiole in some leaves**
@@ -259,51 +261,47 @@ knitr::opts_chunk$set(echo = FALSE)
  
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/leaf.jpg">
 
-##  Leaf structure
+##  Leaf structure (add to botanical codex)
 <hr>
-<br/>
 
-**COMMON FEATURES:**
-
-<br/>
-
-* **simple - leaf blade all one section**
+* **Simple - One blade attached to a single petiole**
 
 <br/>
 
-* **compound - leaf blade divided into smaller sections**
+* **Compound - leaf blade divided into smaller sections (leaflet)**
     + leaflet - section of a compound leaf
     
 <br/>
 
-* **rachis - stalk that supports leaflets in a compound leaf**
-    + on central axis
-    + rachilla - stalk that supports lateral leaflets
+* **Rachis - stalk that supports leaflets in a compound leaf**
+    + continuation of the petiole into the blade of a compound leaf
 
 <br/>
 
-* **pinnately compound - like a feather**
+* **Pinnately compound - Leaflets arranged along both sides of a rachis**
+    + like a feather
 
 <br/>
 
-* **palmately compound - like the fingers on your hand**
+* **Palmately compound - leaflets attached at one point at the end of the petiole**
+    + like the fingers on your hand
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/compund.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:670px; WIDTH:400px; HEIGHT:450px" SRC="images/compund.jpg">
 
-## Leaf Arrangement
+## Leaf Arrangement (add to botanical codex)
 <hr>
 <br/>  
 <br/> 
 
 <div style="float: left; width: 50%;">
 
-* **Leaves may be found at  base (e.g. dandelion), along the stem, or both**  
+* **Leaves may be found at the base of the plant (e.g. dandelion), along the stem, or both**  
 
 <br/>
 <br/>
 <br/>
 
-* **Leaves are attached at nodes:**
+* **Leaves are attached to the stem at nodes:**
 1. alternate - one leaf per node
 2. opposite - two leaves per node
 3. whorled - more than two leaves per node; not common in temperate woody plants
@@ -328,69 +326,72 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Horse = Horsechestnut and buckeye**
 
+<br/> 
+
+* **The core MADCAP HORSE species (Maple, Ash, Dogwood, Viburnum/Elderberry, Honeysuckle family, Buckeyes) are all represented in the Appalachian region**
+
 <IMG STYLE="position:absolute; TOP:275px; LEFT:600px; WIDTH:300px; HEIGHT:200px" SRC="images/maple.jpg">
 
-## Leaf margin
+## Leaf margin (add to botanical codex to match your collection)
 <hr>
-<br/>
-<br/>
-<br/>
 <br/>
 
 **COMMON FEATURES:**
 
 <br/>
 
-* **entire: margin smooth**
+* **Entire: margin smooth**
 
 <br/>
 
-* **lobed: margin with indentations**
+* **Lobed: margin with indentations**
 
 <br/>
 
-* **serrate: margin toothed**
-    + Singly or doubly toothed
+* **Serrate: saw-like teeth pointing forward**
+    + Singe or double toothed
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/margin.jpg">
+<br/>
+
+* **Dentate: saw-like teeth pointing outward**
+    + Singe or double toothed
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:470px; WIDTH:600px; HEIGHT:400px" SRC="images/leafmargin.jpg">
 
 ## Leaf shape: There are sooooo many
 <hr>
-<br/>
+**add to botanical codex to match your collection**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/shape.jpg">
 
-## Leaf Venation
+## Leaf Venation (add to botanical codex to match your collection)
 <hr>
-<br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 40%;">
 
 **COMMON FEATURES:**
 
+* **Parallel:  primary & secondary veins parallel**
+
 <br/>
 
-* **pinnate: single main vein with secondary veins branching**
+* **Reticulate (Netted): veins form a branching, web-like network across the leaf**
+
+<br/>
+
+* **Pinnate: single main vein with secondary veins branching**
     + like a feather
 
 <br/>
 
-* **palmate: several primary veins arising from a one point**
-
-<br/>
-
-* **parallel:  primary & secondary veins parallel**
+* **Palmate: several primary veins arising from a one point**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:470px; WIDTH:600px; HEIGHT:400px" SRC="images/venation.jpg">
 
-## Surface features
+## Surface features (add to botanical codex)
 <hr>
-<br/>
-<br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/surface.jpg">
@@ -443,11 +444,8 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Terminal bud scale scar: left on stem where the terminal bud scales fell off**
-    + count to determine age of twig
-
-<br/>
-
-* **Leaf scar: left on stem where leaf detached**
+    + marks where one year’s growth began
+    + by counting the sets of bud scale scars down a stem, you can estimate the number of years of growth
 
 </div>
 
@@ -464,16 +462,17 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 <br/>
 
-* **45 pressed specimens**
+* **50 pressed specimens**
     + plant presses must stay in SS 303
     + use 'Seek' app, 'Google Lens" or other to ID
         + verify with field guides in lab
+        + always archive a picture
     
 <br/>
 
-* **45 drawings in your field guide**
+* **50 drawings in your field guide**
     + include a table of contents
-    + add  character guide in your sketchbook
+    + add a character guide in your sketchbook
     + sketch each leaf and other characters
     + list the diagnostic characters
     + 2-3 ecological/cultural facts
