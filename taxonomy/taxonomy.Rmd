@@ -7,15 +7,23 @@ output:
     smaller: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+##  What is a Plant? A Traditional View
+<hr>
+<br/>
 
-## Plant Taxonomy
+<div style="float: left; width: 50%;">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/botany.jpg">
-    
-    
+* **Plants are characterized by their characters & character states**
+    + green
+    + non-motile
+    + eukaryotic & multi-cellular
+    + cell walls of cellulose
+    + alternation of generations
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:300px; HEIGHT:500px" SRC="images/indian.jpg">
+
 ##  What is a Plant? A Traditional View
 <hr>
 <br/>
@@ -46,7 +54,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Classification is putting organisms into groups**  
     + requires naming, describing, and identifying species
-    + some groups have standardized endings (-ales for 'order')
 
 <br/>
 
@@ -59,7 +66,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Kingdom is the most inclusive group, species is the least inclusive** 
     + traditionally, placement into a taxon was determined by character traits
-    + now, these hierarchies are being defined via molecular markers
+    + now, these taxa are being defined via molecular markers
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:725px; WIDTH:325px; HEIGHT:300px" SRC="images/taxlevels.jpg">
 
@@ -83,7 +90,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:815px; WIDTH:225px; HEIGHT:425px" SRC="images/yew.jpg">
 
-## Nomenclature
+## Nomenclature should have value to the reader...
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:600px; HEIGHT:400px" SRC="images/alice2.jpg">
@@ -125,7 +132,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Genus names are nouns that may commemorate a place, person, person, habitat, culture**
-* **Epithets are adjectives that can also be commemorative (except for you!)**
+* **Epithets are adjectives that can also be commemorative (except for the name of the discoverer)**
 
 <br/>
     
@@ -207,6 +214,7 @@ knitr::opts_chunk$set(echo = FALSE)
     + annuals have small slender taproots, while biennials/perennials are larger. 
     + biennials & perennials often have storage structures (bulbs)
     + plants with woody stems are perennials
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:520px; HEIGHT:400px" SRC="images/lifecycle.jpg">
@@ -249,13 +257,14 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Petiole - a botany term for the stalk of the leaf**
-    + presence, lenght, shape, surfaces are all character states
+    + presence, length, shape, surfaces are all character states
     
 <br/>
 
 * **Stipules - appendage at base of petiole in some leaves**
-    + Stipules can be glandular, leafy, spiny, or scale-like
-    + Often,  stipules fall off  after the leaf expands
+    + protects young leaves
+    + stipules can be glandular, leafy, spiny, or scale-like
+    + often,  stipules fall off  after the leaf expands
  
 </div>
  
@@ -263,6 +272,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##  Leaf structure (add to botanical codex)
 <hr>
+
+<div style="float: left; width: 60%;">
 
 * **Simple - One blade attached to a single petiole**
 
@@ -274,17 +285,17 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Rachis - stalk that supports leaflets in a compound leaf**
-    + continuation of the petiole into the blade of a compound leaf
+    + continuation of the petiole into the blade
 
 <br/>
 
 * **Pinnately compound - Leaflets arranged along both sides of a rachis**
-    + like a feather
 
 <br/>
 
 * **Palmately compound - leaflets attached at one point at the end of the petiole**
-    + like the fingers on your hand
+
+</div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:670px; WIDTH:400px; HEIGHT:450px" SRC="images/compund.jpg">
 
@@ -301,7 +312,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 <br/>
 
-* **Leaves are attached to the stem at nodes:**
+* **Leaves are attached to the stem at *nodes*:**
 1. alternate - one leaf per node
 2. opposite - two leaves per node
 3. whorled - more than two leaves per node; not common in temperate woody plants
