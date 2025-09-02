@@ -7,6 +7,38 @@ output:
     smaller: true
 ---
 
+## Form & function: the prime directive of biology
+<hr>
+
+<div style="float: left; width: 40%;">
+
+* **Core idea: Natural selection matches structure to task**
+    + tunes the fit between the 'form" and the 'job'
+    + always a cost/benefit
+
+<br/>
+
+* **Form and function emerge across scales**
+    + molecules to cells to tissues, etc. 
+
+<br/>
+
+</div>
+
+<br/>
+
+<div style="float: left; width: 99%;">
+
+* **Form and Function Pocket Test:**
+    + Purpose: What is it for?
+    + Pressures: What pushes on it (energy, predators, mating, breathing, etc.)?
+    + Proof: Which feature makes sense for that 'job'?
+    + Price: What was given up for it?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/bear.jpg">
+
 ##  Plant form and function is ruled by cells
 <hr>
 
@@ -38,9 +70,8 @@ output:
 
 <IMG STYLE="position:absolute; TOP:425px; LEFT:225px; WIDTH:700px; HEIGHT:325px" SRC="images/cellsize.jpg">
 
-## Plant cell walls
+## Plant cell walls resist the internal water pressure
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:5px; WIDTH:600px; HEIGHT:400px" SRC="images/fibrils.jpg">
 
@@ -48,7 +79,7 @@ output:
 
 * **Mostly made of cellulose**
     + strength and protection of *protoplast*
-    + chains of cellulose molecules = *fibrils*
+    + chains of cellulose molecules (*microfibrils*) form 'molecular rebar'
 
 <br/>
 
@@ -57,12 +88,12 @@ output:
 <br/>
 
 * **Consists or 1 *or* 2 layers**
-    + primary wall (1^st^ layer) = cellulose fibers
-    + secondary wall (internal) = lignin
+    + primary (1^st^ layer) = cellulose fibers
+    + secondary (internal) = lignin + cellulose
 
 <br/>
 
-* **Sticky layer (*lamella*) between walls**
+* **Sticky layer (*lamella*) connects adjacent cells**
     + made of pectin (jelly!)
     
 </div>
@@ -74,67 +105,91 @@ output:
 
 ## Cellulose and lignin extremely abudant on Earth
 <hr>
+**Lignin is super tough, prevents pathogens,is hard for insects to digest, and for fungi to break down.**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/lignin.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/lignin.png">
 
 ## Why dont plants have strong bones made of Calcium?
 <hr>
 <br/>
 
 * **Animals with shells use calcium carbonate**
-    + carbonate comes from seawater, so pH not affected
+    + ion comes from seawater not from inside of the cell
+    + cell pH not affected
 
 <br/>
 
 * **Animals with internal skeleton use calcium phosphate**
-    + cant handle carbonate
+    + can't handle calcium carbonate (see above)
     + phosphate has little effect on cell acidity
+    + if phosphate gets released, is a useful metabolite
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:250px; HEIGHT:450px" SRC="images/bones.jpg">
+
+## Why dont plants have strong bones made of Calcium?
+<hr>
+<br/>
+
+* **Plants must also be careful with Calcium and it's salts**
+    + extracting calcium from seawater not really an option
+    + plants need phosphate badly (bones would require too much)
+    + roots may block excess Ca^2+^ uptake to regulate cell pH
 
 <br/>
 
-* **Plants must also be careful with Calcium and its salts**
-    + plants need phosphate badly
-    + lignin and cellulose are inert
-    + lignin and cellulose carbs from photosynthesis
+* **Plants internally synthesize cell wall ingredients**
+    + lignin and cellulose are inert (no pH problems)
+    + lignin and cellulose produced from the products of photosynthesis
     
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="images/bones.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:250px; HEIGHT:450px" SRC="images/bones.jpg">
 
 ## Plant cells are not solid structures (cytoplasm channels)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/pits.jpg">
+**Cellular interactions are vital for complex organisms to exist, otherwise what is the point of being multicellular....**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/pits.jpg">
 
 ## Plant cells are not quite individuals
 <hr>
-<br/>
+**The protoplasm of all plant cells function as part of one interconnected unit!**
+
 <br/>
 <br/>
 
+<div style="float: left; width: 53%;">
+
 * **Plasmodesmata diminish individuality of cells**
-    + *symplast*: interconnections of protoplasm
+    + <span style="color: purple;">*symplast*: interconnections of protoplasm via plasmodesmata</span>
     + living region, transport & communication
     
 <br/>
 
 * **Cell walls do separate cells, just not cleanly**
     + lots of intercellular air spaces (@ corners)
-    + *apoplast*: cells walls + intercellular spaces
+    + <span style="color: purple;">*apoplast*: cells walls + intercellular spaces</span>
     + gas diffusion occurs via apoplast
     + water through cell wall via capillary action
-    
+
+</div>
+
 <IMG STYLE="position:absolute; TOP:250px; LEFT:540px; WIDTH:575px; HEIGHT:300px" SRC="images/apoplast.png">
 
 ## Plant cell membrane structure fits *fluid mosaic model*
 <hr>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 <div style="float: right; width: 45%;">
 
 * **Membrane covers the surface of the protoplasm**
-    + Molecular pumps transport molecules in and out
+
+<br/>
+
+* **Embedded transport proteins move molecules in and out**
+    + passive transport moves substances down a concentration gradient (no energy)
+    + active transport moves substances against their gradients (needs ATP)
     
 <br/>
 
@@ -150,7 +205,7 @@ output:
 
 * **Virtually all plant cells, although diverse, have conserved organelles**
     + roots, wood, barks, leaves, flowers
-    + certain organelles can become modified
+    + certain organelles get modified
 
 <br/>
 
@@ -167,7 +222,7 @@ output:
 <br/>
 
 * **Peroxisomes: organelle that produces or uses peroxide**
-    + detoxify product of photosynthesis
+    + detoxify byproducts of photosynthesis
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:735px; WIDTH:300px; HEIGHT:300px" SRC="images/basic.jpg">
 
@@ -203,9 +258,11 @@ output:
 ## Central vacuole makes up most volume in mature cells
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:450px; HEIGHT:425px" SRC="images/sac.jpg">
+**Plant cells only need to increase the amount of water in the vacuole to 'grow', while animal cells must synthesize protoplasm. That is how shorter lived cells, like flower buds, can grow so quickly**
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:475px; WIDTH:625px; HEIGHT:250px" SRC="images/acidic.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:5px; WIDTH:450px; HEIGHT:425px" SRC="images/sac.jpg">
+
+<IMG STYLE="position:absolute; TOP:295px; LEFT:475px; WIDTH:625px; HEIGHT:250px" SRC="images/acidic.png">
 
 ## Water is the most essential resource for plant cells
 <hr>
@@ -259,8 +316,8 @@ output:
 <br/>
 
 * **Lateral meristems: secondary growth**
-    + cell division adds diameter
-    + support, xylem, phloem cells
+    + cell division adds diameter (support)
+    + growth is xylem & phloem cells
     + tissues called 'cambium'
 
 </div>
@@ -269,7 +326,6 @@ output:
 
 ## Cancerous growth in plants?
 <hr>
-<br/>
 <br/>
 
 <div style="float: right; width: 65%;">
@@ -281,12 +337,17 @@ output:
 <br/>
 
 * **Galls: abnormal growth causes by reaction to insects/microbes**
+    + rapid mitosis triggered by invader organism to form a 'tumor'
+    + hijack cell growth to create food or home
+    
 
 <br/>
 
 * **Irregular cell growth in plants not a big deal**
-    + cells cannot migrate in plants
-    + no single plant organ is indispensable
+    + cells cannot migrate in plants because of cell walls
+    + cells cannot 'detach' and travel through the body
+    + 'cancer-like' growths will be localized
+    
 </div>
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:225px; HEIGHT:450px" SRC="images/gall.jpg">
