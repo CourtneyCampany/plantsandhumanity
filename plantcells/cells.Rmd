@@ -10,15 +10,15 @@ output:
 ## Form & function: the prime directive of biology
 <hr>
 
-<div style="float: left; width: 40%;">
+<div style="float: left; width: 44%;">
 
-* **Core idea: Natural selection matches structure to task**
+* **<span style="color: purple;">Core idea: Natural selection matches structure to task</span>**
     + tunes the fit between the 'form" and the 'job'
-    + always a cost/benefit
+    + often a cost/benefit
 
 <br/>
 
-* **Form and function emerge across scales**
+* **Form and function emerges across scales**
     + molecules to cells to tissues, etc. 
 
 <br/>
@@ -32,12 +32,12 @@ output:
 * **Form and Function Pocket Test:**
     + Purpose: What is it for?
     + Pressures: What pushes on it (energy, predators, mating, breathing, etc.)?
-    + Proof: Which feature makes sense for that 'job'?
+    + Proof: Which feature/s makes sense for that 'job'?
     + Price: What was given up for it?
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/bear.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:530px; WIDTH:520px; HEIGHT:350px" SRC="images/bear.jpg">
 
 ##  Plant form and function is ruled by cells
 <hr>
@@ -72,6 +72,7 @@ output:
 
 ## Plant cell walls resist the internal water pressure
 <hr>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:5px; WIDTH:600px; HEIGHT:400px" SRC="images/fibrils.jpg">
 
@@ -83,17 +84,13 @@ output:
 
 <br/>
 
-* **Metabolism does occur (not inert)**
-
-<br/>
-
 * **Consists or 1 *or* 2 layers**
     + primary (1^st^ layer) = cellulose fibers
     + secondary (internal) = lignin + cellulose
 
 <br/>
 
-* **Sticky layer (*lamella*) connects adjacent cells**
+* **Sticky layer (*lamella*) connects adjacent cells together**
     + made of pectin (jelly!)
     
 </div>
@@ -103,7 +100,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/lamella.jpg">
 
-## Cellulose and lignin extremely abudant on Earth
+## Cellulose and lignin extremely abundant on Earth
 <hr>
 **Lignin is super tough, prevents pathogens,is hard for insects to digest, and for fungi to break down.**
 
@@ -114,15 +111,19 @@ output:
 <br/>
 
 * **Animals with shells use calcium carbonate**
-    + ion comes from seawater not from inside of the cell
+    + ion extracted from seawater not from inside of the cell
     + cell pH not affected
 
 <br/>
 
-* **Animals with internal skeleton use calcium phosphate**
+* **Animals with internal skeletons use calcium phosphate**
     + can't handle calcium carbonate (see above)
-    + phosphate has little effect on cell acidity
+    + phosphate ion has little effect on cell acidity
     + if phosphate gets released, is a useful metabolite
+    
+<br/>
+
+* **Why are plant cell walls not also made of calcium?**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:250px; HEIGHT:450px" SRC="images/bones.jpg">
 
@@ -132,7 +133,7 @@ output:
 
 * **Plants must also be careful with Calcium and it's salts**
     + extracting calcium from seawater not really an option
-    + plants need phosphate badly (bones would require too much)
+    + plants need phosphate badly ('bones' would require too much)
     + roots may block excess Ca^2+^ uptake to regulate cell pH
 
 <br/>
@@ -178,13 +179,12 @@ output:
 ## Plant cell membrane structure fits *fluid mosaic model*
 <hr>
 <br/>
-<br/>
-
 
 <div style="float: right; width: 45%;">
 
 * **Membrane covers the surface of the protoplasm**
-
+    + inside of cell walls
+    
 <br/>
 
 * **Embedded transport proteins move molecules in and out**
@@ -193,19 +193,19 @@ output:
     
 <br/>
 
-* **Impermeable to bad stuff, permeable to beneficial stuff**
+* **Molecules moving through plasmodesmata still have to cross cell membranes**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:5px; WIDTH:600px; HEIGHT:350px" SRC="images/fluidmos.jpg">
 
-## Anatomy of a plant cell
+## Anatomy of a plant cell (cell as a 'city' analogy still applies)
 <hr>
 <br/>
 
 * **Virtually all plant cells, although diverse, have conserved organelles**
     + roots, wood, barks, leaves, flowers
-    + certain organelles get modified
+    + certain organelles do get modified
 
 <br/>
 
@@ -243,7 +243,8 @@ output:
 <br/>
 
 * **Leucoplast: colorless organelles storing starch**
-
+    + products of photosynthesis need to be stored
+    
 <br/>
 
 * **Chromoplasts: organelles making and storing pigments for colored plant parts**
@@ -258,7 +259,7 @@ output:
 ## Central vacuole makes up most volume in mature cells
 <hr>
 
-**Plant cells only need to increase the amount of water in the vacuole to 'grow', while animal cells must synthesize protoplasm. That is how shorter lived cells, like flower buds, can grow so quickly**
+**Plant cells only need to increase the amount of water in the vacuole to 'grow', while animal cells must synthesize new protoplasm. That is how shorter lived cells, like flower buds, can grow so quickly**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:5px; WIDTH:450px; HEIGHT:425px" SRC="images/sac.jpg">
 
@@ -343,7 +344,7 @@ output:
 
 <br/>
 
-* **Irregular cell growth in plants not a big deal**
+* **Irregular cell growth in plants less of a big deal**
     + cells cannot migrate in plants because of cell walls
     + cells cannot 'detach' and travel through the body
     + 'cancer-like' growths will be localized
