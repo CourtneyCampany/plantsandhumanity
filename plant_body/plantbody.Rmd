@@ -46,16 +46,22 @@ output:
 <br/> 
 
 * **Above and belowground body plan**
-  
+
+
+</div>
+
 <br/> 
+
+<div style="float: left; width: 99%;">
 
 * **Plants exhibit indeterminate growth**
     * "foragers"
     * diversity of size & shape
+    * add rigid support to expanding tissues
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/raunkiaer.jpg">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/raunkiaer.jpg">
 
 ## Plants do all this without moving!
 <hr>
@@ -99,10 +105,11 @@ output:
 
 <br/>
 
-* **Woody plants epidermis cracks and is replaced**
-    + occurs from ____________
+* **Woody plants epidermis cracks because of *vascular cambium* growth and must be replaced**
+    + repaired by *cork cambium*
     + new layer is called *periderm*
-    + whole thing called 'bark'
+    + whole thing called 'cork'
+        + non botany = bark
 
 </div>
 
@@ -117,7 +124,6 @@ output:
     
 ## Epidermal cells secrete 'cutin'
 <hr>
-<br/>
 <br/>
 <br/>
 
@@ -149,13 +155,16 @@ output:
 
 <br/>
 
-* **Often thick enough to make leaf shiny**
-    + succulents & tropical plants
-
-<br/>
-
 * **Trichomes may also be present on epidermis**
     + hairs (sometimes glandular)
+    
+ <br/>
+ 
+* **Trichomes have lots of roles:**
+    + protection from herbivores and pathogens
+    + regulation of water loss
+    + reflection of UV radiation
+    + production of chemical compounds like oils, resins, and cannabinoids
 
 </div>
 
@@ -164,15 +173,12 @@ output:
 ## Stomata are scattered within leaf epidermis
 <hr>
 <br/>
-<br/>
-<br/>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/stomata_scope.png">
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 54%;">
 
-* **Pores that allow gas exchange**
+* **Stoma (Stomata = plural) are pores that allow gas exchange**
     + CO~2~, O~2~, water vapor
 
 <br/>
@@ -181,37 +187,43 @@ output:
 
 <br/>
 
-* **Pair of guard cells shrink/swell to open/close**
+* **Pair of guard cells shrink/swell to open/close (create stoma)**
+    + guard cells are specialized epidermal cells
     + *much more later...*
+    
+<br/>
+
+* **In microscope images, you can often see stoma embedded in the waxy cuticle**
 
 </div>
 
-## How stomata work...
+## Physiology preview: Opening stomata is a delicate balance
 <hr>
+**Evolution preview: Stomatal behavior/control a key factor in seed plant dominance**
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/stomata4b.jpg">
 
-## Ground (2) Tissues make up bulk of plant organs
+## Ground (2) Tissues make up bulk of non-woody plant organs
 <hr>
-<br/>
 
 * **Parenchyma = thin walled & most versatile**
+    + metabolically active cells
     + photosynthetic cells in green tissues
-    + storage cells in other organs
+    + storage cells (water, starch) in other organs
 
 <br/>
 
 * **Collencyhma = primary support cells**
-    + elongated & thick
-    + living
-    + 'strings' in celery
+    + elongated & thick cell walls
+    + living cells below epidermis
+    + flexible
 
 <br/>
 
 * **Schlerenchyma = mechanical support & protection**
-    + elongate & very thick
+    + rigid & very thick cell walls
     + dead @ maturity
     + used to make cloth and rope
 
@@ -237,44 +249,54 @@ output:
 
 <br/>
 
-* **Two tissues systems allow unrestricted movement of materials**
+* **Two tissues systems allow movement of materials**
     + created from apical and lateral meristems
 
 <br/>
 
-* **Xylem = water and minerals from roots upward**
+* **Xylem cells = water and minerals from roots upward**
 
 <br/>
 
-* **Phloem = organic materials from source leaf to rest of plant**
+* **Phloem cells = organic materials from leaf to rest of plant**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:695px; WIDTH:375px; HEIGHT:450px" SRC="images/vascular.jpg">
 
 ## Pipe Theory works to visual continuum
 <hr>
+**Pipe theory = simple model that treats plant vascular tissues like bundles of pipes**
+<br/>
+**Allows us to model how plant form and function are constrained by transport efficiency**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/pipe2.jpg">
 
 ## Tracheids and vessels are conducting xylem cells
 <hr>
-<br/>
-<br/>
 
-* **Both are dead at maturity, with just cell walls**
+<div style="float: left; width: 63%;">
+
+
+* **Both are dead at maturity, with just cell walls (bulk of 'wood')**
 
 <br/>
 
 * **Tracheids = long, thin & tapered**
-    + many pits in cell walls
-    + pits are not holes
+    + many pits in cell walls that connect to other tracheids
+    + have thin membranes (pits) that allow water movement but not air bubbles/pathogens
+    + found in all vascular plants
 
 <br/>
 
 * **Vessels = short, wide & end to end**
-    + made pits in cells walls
+    + pits have thinner borders than in tracheids (only on sides)
+        + allows faster water movement but more vulnerable to air bubbles
+    + perforation plates exists at ends of cell walls
+        + membrane breaks down, so water freely flows vertically
     + unique to angiosperms
-  
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/xylem.jpg">
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:720px; WIDTH:350px; HEIGHT:450px" SRC="images/xylem.jpg">
 
 ## Sieve tube members make up phloem
 <hr>   
@@ -294,16 +316,16 @@ output:
 * **Each seive tube has a companion cell**
     + developmentally tied together
     + lots of plasmodesmata connect 2 cells
-    + loads and unloads
+    + loads and unloads sugars
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/phloem.jpg">
 
-## Vascular tissues often wrapped in *bundle sheath* cells
+## Vascular tissues sometimes wrapped in *bundle sheath* cells
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/bundle.jpg">
 
-## Plant organs are so easy: Stems, roots & leaves
+## Plant organs are easy: Stems, roots & leaves
 <hr>
 
 * **Roots: tap and fibrous root systems**
