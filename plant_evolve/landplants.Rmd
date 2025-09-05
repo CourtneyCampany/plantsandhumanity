@@ -25,7 +25,7 @@ output:
 <br/>
 
 * **Plants support all life on earth**
-    + Oxygen to breath
+    + oxygen to breath
     + food to eat
     + new habitats
     
@@ -43,19 +43,19 @@ output:
 * **Sister group to land plants**
     + marine and freshwater
     + single and multi-cellular
-    + broad, thick filaments
-    + some have AoG
+    + broad, thick filaments resembling plant structures
+    + some have *Alternations of Generations*
     + evolved around ~750mya
     
 <br/>
 
-* **Reproductive features:**
+* **Key reproductive features:**
     + *Oogonia* = egg containing cell
     + *Antheridium* = sperm containing cell
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:575px; WIDTH:350px; HEIGHT:300px" SRC="images/sister.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:600px; WIDTH:350px; HEIGHT:300px" SRC="images/sister.jpg">
 
 <IMG STYLE="position:absolute; TOP:470px; LEFT:700px; WIDTH:250px; HEIGHT:200px" SRC="images/greenalgae.jpg">
 
@@ -75,7 +75,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:460px" SRC="images/phlyo.jpg"> 
 
-## All land plants are embryophytes
+## All land plants are *Embryophytes*
 <hr>
 <br/>
 <br/>
@@ -145,8 +145,8 @@ output:
 
 <br/>
 
-* **Produce cells walls in unique way**
-    + at end of mitosis
+* **Produce cells walls uniquely**
+    + dividing wall at end of mitosis
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/cellwall.jpg">
 
@@ -217,7 +217,7 @@ output:
 
 * **Developed a vascular system**
     + grow taller = get light
-    + xylem and phlome conduct
+    + xylem and phloem cells
 
 <br/>
 
