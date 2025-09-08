@@ -14,13 +14,14 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Cyanobacteria & protist made landfall ~1.2 bya**
-    + plants, fungi and animals ~500 mya
+    + plants, and fungi ~500 mya
     + first forests 385 mya
 
 <br/>
 
 * **Plants evolved from green algae**
-    + Several key *'derived shared traits'*
+    + algal ancestors made slow transition to land
+    + Several *'derived shared traits'* with plants
 
 <br/>
 
@@ -41,8 +42,8 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Sister group to land plants**
-    + marine and freshwater
-    + single and multi-cellular
+    + marine and *freshwater*
+    + single and *multi-cellular*
     + broad, thick filaments resembling plant structures
     + some have *Alternations of Generations*
     + evolved around ~750mya
@@ -217,7 +218,7 @@ output:
 
 * **Developed a vascular system**
     + grow taller = get light
-    + xylem and phloem cells
+    + *xylem* and *phloem cells*
 
 <br/>
 
@@ -258,8 +259,8 @@ output:
     
 <br/>
 
-* **Lycophyte forests (30m) once existed**
-    + gives us coal!
+* **Lycophyte forests once existed**
+    + now gives us coal
 
 </div>
 
@@ -278,7 +279,9 @@ output:
 
 <br/> 
 
-* **Best plants ever!**
+* **Dominant sporophyte**
+<br/> 
+* **Free-living gametophyte**
 
 <br/> 
 
@@ -308,7 +311,7 @@ output:
 
 <br/>
 
-* **Derived Trait - remember how a moss looks!**
+* **Derived Trait - compare to moss**
 
 <br/>
 
@@ -320,20 +323,23 @@ output:
 
 ## Seed plants were the next evolutionary step
 <hr>
+
+* **Seeds changed the course of plant evolution**
+    + Seed plants show up ~360 mya when climate became drier
+    
 <br/>
 
 <div style="float: left; width: 50%;">
 
-* **Seeds changed the course of plant evolution**
-    + Seed plants show up ~360 mya
-    + climate became drier
-    
-<br/>
-
 * **Seeds consists of embryo & nutrients**
     + surrounded by protective coat
-    + seeds can be dispersed long distances
-    + less dependence on water
+
+<br/>
+
+* **Several other derived traits evolved:**
+    + gametophytes reduced and protected
+    + internal fertilization
+    + sexed spores (heterospory)
 
 <br/>
 
@@ -350,17 +356,17 @@ output:
 <br/>
 
 * **Before seeds, spore was only protective structure** 
-    + super small so spread all over Earth
 
 <br/>
 
 * **Seeds are multicellular**
-    + what can this add?
+    + lots of cells become food (endosperm)
 
 <br/>
 
 * **Seeds can remain dormant for a long time**
-
+    + seeds can be dispersed long distances
+    
 <br/>
 
 * **Gymnosperms: seeds exposed on sporophylls, form cones**
@@ -418,9 +424,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:310px; LEFT:200px; WIDTH:700px; HEIGHT:375px" SRC="images/angios.jpg">
 
-## Angiosperm evolution: Bugs and animals
+## Angiosperm evolution: Flowers and animal pollinators
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/butterfly.jpg">
+**Angiosperm and animal evolution have been intimately linked through coevolution, where the development of flowers and fruits provided a new food source for animals, which in turn helped pollinate the plants and disperse their seeds.**
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/ants.jpg">
+<IMG STYLE="position:absolute; TOP:270px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/butterfly.jpg">
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/ants.jpg">
