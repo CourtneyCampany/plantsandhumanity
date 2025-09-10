@@ -1,5 +1,5 @@
 ---
-title: "Plant nutrition"
+title: "Plant Nutrition"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -14,7 +14,7 @@ output:
 * **Plants are capable of making all necessary organic compounds from inorganic compounds and elements in the environment**
     + aka 'autotrophic'
     + mineral: an inorganic element (e.g. inorganic ion from soil)
-    + must obtain minerals from air, water, soil
+    + must obtain minerals from soil and water
 
 <br/>
 
@@ -22,7 +22,7 @@ output:
 
 * **Minerals often have multiple functions in the plant**
     + metabolic, biochemical, structure, etc
-    + amount required or present varies
+    + amount required varies
 
 <br/>
 
@@ -33,9 +33,7 @@ output:
  
 <IMG STYLE="position:absolute; TOP:260px; LEFT:695px; WIDTH:350px; HEIGHT:400px" SRC="images/body.png">
 
- SRC="images/equation.png"> -->
-
-## Major nutriental elements for plant growth
+## Major elements for plant growth
 <hr>
 <br/>
 
@@ -89,12 +87,20 @@ output:
 
 ## Nutrient Abundance ≠ Nutrient Availability
 <hr>
+<br/>
+
+<div style="float: left; width: 99%;">
 
 * **Nutrients may be abundant in soil but chemically or physically inaccessible**
     + Example: Phosphorus is often abundant but <1% is plant-available
-
- <br/>
  
+  <br/>
+  
+ </div> 
+
+
+ <div style="float: left; width: 65%;">
+
 * **Key barriers to availability:**
     + Soil pH affects solubility (e.g., P become insoluble at high pH)
     + Strong binding to soil particles (e.g., P binds to iron/aluminum oxides)
@@ -103,7 +109,12 @@ output:
 
  <br/>
  
-* **Responses: plants may exude organic acids (stimulate microbes) or increase root surface area to overcome these limits** 
+* **Plants may exude organic acids (stimulate microbes) or increase root surface area to overcome these limits** 
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:290px; LEFT:700px; WIDTH:425px; HEIGHT:400px" SRC="images/root.png">
+
 
 ## What is the most essential resource for plants?
 <hr>
