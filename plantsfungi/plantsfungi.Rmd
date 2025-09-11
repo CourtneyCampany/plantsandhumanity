@@ -1,5 +1,5 @@
 ---
-title: "Plants Nutrient Uptake and Fungal Mutualisms"
+title: "Plants Nutrient Uptake and the Soil Community"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -66,12 +66,12 @@ output:
 <br/>
 
 * **Root cells use energy to pump out hydrogen ions (H⁺) into the soil**
-    + creates a gradient that helps pull anions like nitrate and phosphate into the root
+    + creates a gradient that helps pull *anions* (negatively charged) like nitrate and phosphate into roots
 
 <br/>
 
 * **Soil particles are negatively charged, holding cations (i.e. Ca^2+^)**
-    + hydrogen ions also causes the cations to be swapped out into the soil water
+    + hydrogen ions also cause cations to be swapped out into soil water
     
 ## Active Uptake of Nutrients via Roots
 <hr>
@@ -85,7 +85,7 @@ output:
 
 <br/>
 
-**<span style="color:orange"> Apoplastic pathway: movement through cell walls and intercellular spaces</span>**
+**<span style="color:darkorange"> Apoplastic pathway: movement through cell walls and intercellular spaces</span>**
 
 <br/>
 
@@ -101,7 +101,7 @@ output:
 
 <div style="float: right; width: 55%;">
 
-**Casparian strips are located in the cell walls of the layer of cells that surround the vascular cylinder in plant roots (xylem + phloem)**
+**<span style="color:darkred">Casparian strips are located in the cell walls of the layer of cells that surround the vascular cylinder in plant roots (xylem + phloem)</span>**
 
 <br/>
 
@@ -109,11 +109,11 @@ output:
 
 <br/>
 
-**Symplast pathways uses plasmodesmata - small channels that are lined with plasma membrane (selectively permeable!)**
+**<span style="color:blue">Symplast pathways</span> uses plasmodesmata - small channels that are lined with plasma membrane (selectively permeable!)**
 
 <br/>
 
-**Allows regulation of molecule movement, prevents back flow, and prevents entry of pathogens into vascular system**
+**<span style="color:darkred">Allows regulation of molecule movement, prevents back flow, and prevents entry of pathogens into vascular system</span>**
 
 </div>
 
@@ -132,7 +132,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **~80-90% of plants have association with fungus**
-    + fungi grown in/around plant roots
+    + fungi grow in/around plant roots
     + share resources
     + one of the most widespread mutualisms
 
@@ -229,12 +229,12 @@ output:
 
 <br/>
 
-* **Ectomycorrhizal fungi sheath cell walls**
+* **Ectomycorrhizal fungi form 'sheath' around cell walls**
     + *Hartig net* surrounds epidermal cells
 
 <br/>
 
-* **Endomycorrhizal fungi invade cell walls**
+* **Endomycorrhizal fungi penetrate cell walls**
     + *Arbuscules*: highly branched hyphae inside cells
     + often called 'arbuscular' mycorrhizae
 
@@ -244,7 +244,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/fungiroot.png">
 
-## Nutrient Exchange: Sharing is caring
+## Nutrient Exchange: Sharing benefits both species
 <hr>
 <br/>
 <br/>
@@ -288,7 +288,7 @@ output:
 
 * **Fungi are great at uptake and transport**
     + decomposers of *some* things
-    + carbon limited
+    + also carbon limited
  
  </div>
  
@@ -306,12 +306,11 @@ output:
     
 <br/>
 
-* **What was the land like for first plants?**
-* **What were early plants like?**
+* **Early plant groups (bryophytes) do not have roots and maintain limited/no association with fungi**
 
 <br/>
 
-* **Plant land colonization likely facilitated by interactions with symbiotic fungi**
+* **Vascular plant land colonization likely facilitated by interactions with symbiotic fungi**
     + fossil evidence shows similarity in timing
     + needs of both groups still relevant
 
@@ -357,13 +356,13 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 51%;">
-
 * **Dramatic &uarr; in crop productivity last century**
     + development of pesticides, fertilizers
     + plant breeding and genetic technologies
 
 <br/>
+
+<div style="float: left; width: 51%;">
 
 * **Now, crop yields have plateaued & fertilizer production unsustainable**
     + climate change
@@ -381,7 +380,7 @@ output:
 
  </div>
  
- <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/fert.jpg">
+ <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/fert.jpg">
  
 <!-- ##  -->
 
