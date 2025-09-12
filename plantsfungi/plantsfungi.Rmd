@@ -254,7 +254,7 @@ output:
 
 <div style="float: right; width: 35%;">
 
-* **Inorganic nutrients imported to plant**
+* **Nutrients imported to plant**
     + N, P and amino acids
     
 <br/>
@@ -276,7 +276,7 @@ output:
 
 * **Free-living microbial communities in soils breakdown organic matter**
     + plants cannot uptake organic compounds
-    + fungi lost breakdown enzymes via evolution
+    + fungi lost some breakdown enzymes via evolution
 
 <br/>
 
@@ -324,63 +324,33 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/landliver.jpg"> -->
 
-## Timing matters: Fossil forests and fungi
-<hr>
-<br/>
+<!-- ## Timing matters: Fossil forests and fungi -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<div style="float: right; width: 75%;">
+<!-- <div style="float: right; width: 75%;"> -->
 
-* **Vascular plants evolved secondary growth (wood), with lots of lignin**
-    + lignin is hard to break down
+<!-- * **Vascular plants evolved secondary growth (wood), with lots of lignin** -->
+<!--     + lignin is hard to break down -->
 
-<br/>
+<!-- <br/> -->
 
-* **~100 million years of trees sinking into swamps and not decaying**
-    + carboniferous period = coal deposits
+<!-- * **~100 million years of trees sinking into swamps and not decaying** -->
+<!--     + carboniferous period = coal deposits -->
 
-<br/>
+<!-- <br/> -->
 
-* **Specialized phyla of fungi evolved as wood decay specialist**
-    + ~295 mya (aka 'white rot' fungus)
-    + lignin and cellulose
+<!-- * **Specialized phyla of fungi evolved as wood decay specialist** -->
+<!--     + ~295 mya (aka 'white rot' fungus) -->
+<!--     + lignin and cellulose -->
 
-<br/>
+<!-- <br/> -->
 
-* **What would the world look like today, without these evolutionary steps?**
+<!-- * **What would the world look like today, without these evolutionary steps?** -->
 
- </div>
- 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:300px; HEIGHT:450px" SRC="images/coalswamp.jpg">
+<!--  </div> -->
 
-## The current state of agriculture: Role of fungi
-<hr>
-<br/>
-
-* **Dramatic &uarr; in crop productivity last century**
-    + development of pesticides, fertilizers
-    + plant breeding and genetic technologies
-
-<br/>
-
-<div style="float: left; width: 51%;">
-
-* **Now, crop yields have plateaued & fertilizer production unsustainable**
-    + climate change
-    + over population
-    + nutrient depletion
-    + energy prices
-
-<br/>
-
-* **High levels of fertilizer reduces fungal-root association**
-
-<br/>
-
-* **Big challenges to global food security**
-
- </div>
- 
- <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/fert.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:300px; HEIGHT:450px" SRC="images/coalswamp.jpg"> -->
  
 <!-- ##  -->
 
@@ -463,7 +433,36 @@ output:
     + stores more carbon
     + reduces  erosion & leaching
     + improves microbial biodiversity
-    
+
+## The current state of agriculture: Role of fungi
+<hr>
+<br/>
+
+* **Dramatic &uarr; in crop productivity last century**
+    + development of pesticides, fertilizers
+    + plant breeding and genetic technologies
+
+<br/>
+
+<div style="float: left; width: 51%;">
+
+* **Now, crop yields have plateaued & fertilizer production unsustainable**
+    + climate change
+    + over population
+    + nutrient depletion
+    + energy prices
+
+<br/>
+
+* **High levels of fertilizer reduces fungal-root associations**
+
+<br/>
+
+* **Big challenges to global food security**
+
+ </div>
+ 
+ <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/fert.jpg">    
 <!-- ## Should we also innoculate crops? -->
 <!-- <hr> -->
 <!-- <br/> -->
@@ -505,7 +504,7 @@ output:
 <br/>    
 
 * **Dependency on mycorrhizae varies greatly**
-    +  wheat and corn varieties
+    +  wheat vs corn
 
 <br/>
 
