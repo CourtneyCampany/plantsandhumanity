@@ -36,9 +36,8 @@ output:
 
 ## Angiosperm reproduction: Flowers
 <hr>
-<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 54%;">
 
 * **Flower is a modified stem for reproduction**
     + 4 types of modified leaves
@@ -47,7 +46,7 @@ output:
 <br/>
 
 * **Sepals: leaves at base which enclose flower**
-    + *calyx* = all sepals together
+    + enclose/shield the developing flower bud from damage, drying out, or herbivory before it opens
 
 <br/>
 
@@ -57,12 +56,12 @@ output:
 <br/>
 
 * **Two types of fertile organs, stamen and carpel**
-    + *androcieum*  = male whorl
-    + *gynociem* = female whorl
+    + stamen - male reproductive organ
+    + carpel - female reproductive organ
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/whorl.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/whorl.png">
 
 ## 
 
@@ -70,19 +69,19 @@ output:
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/lilly2.jpg">
 
-## Flowers - Male structures - *androcieum*
+## Flowers - Male structures = *Stamen*
 <hr>
-<br/>
 
 <div style="float: left; width: 55%;">
 
 * **Whorl composed of *stamens* **
-    + anther + stalk
+    + 1 stamen = anther + stalk
     
 <br/>    
 
 * **Anther: where pollen produced**
     + each anther has 4 chambers
+    + 1,000 - 100,000 pollen grains/anther
 
 <br/>
     
@@ -90,7 +89,7 @@ output:
 
 <br/>
 
-* **Pollen: make gametophyte**
+* **Pollen: produce male gametophyte**
     + 15-200um
     + generally oval or spherical 
 
@@ -100,7 +99,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:425px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/pollen_grain.jpg">
 
-## Flowers - Female structures - *gynociem*
+## Flowers - Female structures = *Carpel*
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:5px; WIDTH:375px; HEIGHT:450px" SRC="images/flower4.jpg">
@@ -126,16 +125,16 @@ output:
 <br/>
 
 * **Ovary: contains ovules**
-    + *ovules becomes seeds*
+    + ovules contain female gametophyte
     + 1 &rarr; many
 
 </div>
 
-## Flowers - Female structures - *gynociem*
+## Flowers - Female structures - *Carpel*
 <hr>
 <br/>
 
-* **Pistil also refers to 1 unit**
+* **Pistil refers to 1 complete visible unit**
     + carpels can be separate or fused
 
 <br/>
@@ -185,7 +184,7 @@ output:
 
 <div style="float: right; width: 50%;">
 
-* **Photoperiod: long days trigger flowering genes**
+* **Photoperiod: day length triggers flowering genes**
     + photoreceptor pigments
     
 <br/>
@@ -216,11 +215,11 @@ output:
 
 <br/>
 
-* **Longer darkness cause hormonal change**
+* **Longer darkness induces hormonal change**
     + triggered by 2 photocrome pigments
     + PR (660-700nm) & PFR (760-800nm)
     + darkness switches PFR to PR
-    + tipping point of PFR:PR
+    + tipping point of PFR:PR ratio
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:560px; WIDTH:525px; HEIGHT:425px" SRC="images/cannabis.jpg">
 
