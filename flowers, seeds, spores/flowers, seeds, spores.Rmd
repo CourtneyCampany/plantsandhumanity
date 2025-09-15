@@ -1,5 +1,5 @@
 ---
-title: "Flowers & Seeds "
+title: "Flowers, Seeds & Fruit "
 output: 
   ioslides_presentation:
     css: custom.css
@@ -13,7 +13,7 @@ output:
 <div style="float: left; width: 58%;">
 
 * **Sites of sexual reproduction**
-    + double fertilization
+    + *double fertilization* unique to angiosperms
 
 <br/>
 
@@ -26,7 +26,7 @@ output:
 <br/>
 
 * **Flower production is coordinated with the environment**
-    + necessary for pollination
+    + necessary for pollinators to be present
 
 <br/>
 
@@ -45,19 +45,19 @@ output:
 
 <br/>
 
-* **Sepals: leaves at base which enclose flower**
+* **<span style="color:blue">Sepals</span>: leaves at base which enclose flower**
     + enclose/shield the developing flower bud from damage, drying out, or herbivory before it opens
 
 <br/>
 
-* **Petals: colored leaves to attract pollinators**
+* **<span style="color:blue">Petals</span>: colored leaves to attract pollinators**
     + *corolla* = all petals together
     
 <br/>
 
 * **Two types of fertile organs, stamen and carpel**
-    + stamen - male reproductive organ
-    + carpel - female reproductive organ
+    + <span style="color:blue">Stamen</span> - male reproductive organ
+    + <span style="color:blue">Carpel</span> - female reproductive organ
     
 </div>
 
@@ -75,7 +75,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Whorl composed of *stamens* **
-    + 1 stamen = anther + stalk
+    + 1 stamen = anther + filament
     
 <br/>    
 
@@ -89,7 +89,7 @@ output:
 
 <br/>
 
-* **Pollen: produce male gametophyte**
+* **Pollen: produce male gametophyte w/ sperm**
     + 15-200um
     + generally oval or spherical 
 
@@ -125,7 +125,7 @@ output:
 <br/>
 
 * **Ovary: contains ovules**
-    + ovules contain female gametophyte
+    + ovules contain female gametophyte w/ egg
     + 1 &rarr; many
 
 </div>
@@ -185,7 +185,7 @@ output:
 <div style="float: right; width: 50%;">
 
 * **Photoperiod: day length triggers flowering genes**
-    + photoreceptor pigments
+    + photoreceptor pigments on leaves
     
 <br/>
 
@@ -237,7 +237,7 @@ output:
 
 <br/>
 
-* **Pollination = transfer of pollen from anther to stigma**
+* **<span style="color:blue">Pollination</span> = transfer of pollen from anther to stigma**
     + not fertilization!
     
 <br/>
@@ -245,18 +245,18 @@ output:
 * **Some flowering plants can self-pollinate**
     + stamen & carpel mature @ same time
     + large genetic consequences
-    + no nectar necessary
+    + but...no nectar necessary
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:450px; HEIGHT:450px" SRC="images/pollen.jpg">
 
-## Mechanisnms against self-pollination
+## Mechanisms against self-pollination
 <hr>
 <br/>
 
 <div style="float: left; width: 55%;">
 
-* **Many flowers have both male & female structures**
-    + diecious plant
+* **Most flowers have both male & female structures**
+    + only ~5% of angiosperms are *diecious* (single sex)
 
 <br/>
 
@@ -279,13 +279,12 @@ output:
 
 ## Evolution of flower color and smell
 <hr>
+**Attraction traits shift with pollinator type**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/colorsmell.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/colorsmell.jpg">
 
 ## Alternation of generations: Where is the gametophyte?
 <hr>
-<br/>
-<br/>
 <div style="float: left; width: 45%;">
 
 * **Male: microspore inside pollen grain**
@@ -296,14 +295,20 @@ output:
 <br/>
 
 * **Female: 7 cell embryo sac, inside ovule**
-    + megaspore develops into megagametophyte
-    + mitosis 3x
-    + one cell has 2 nuclei
-    + one cell = egg
-    
+    + ovule = tiny 'pre-seed'
+        + contains protective coat
+    + tiny doorway for pollen tube to enter
+    + megagametophyte = 1 egg, 2 helper cells, a central cell that becomes the food (*endosperm*) after fertilization
+    + central cell has two nuclei!
+
 <br/>
 
-* **Internal fertilization!!!**
+</div>
+
+<div style="float: left; width: 99%;">
+
+* **Internal fertilization = pollen grain lands on stigma, cells grow pollen tube to ovule, sperm relased down tube to female gametophyte**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/megaspores.png">
@@ -343,7 +348,7 @@ output:
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:300px; HEIGHT:450px" SRC="images/fruit4.png">
 
-## Type of *gynociem* determines fruit type    
+## Type of *pistils/carpels* determines fruit type    
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:950px; HEIGHT:450px" SRC="images/fruits2.jpg">
