@@ -33,7 +33,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:750px; WIDTH:300px; HEIGHT:400px" SRC="images/forensic1.jpg">
 
-## Locard’s Exchange Principle
+## NEW THEORY: Locard’s Exchange Principle
 <hr>
 
 - **“Every contact leaves a trace” – foundational forensic concept**
@@ -137,17 +137,17 @@ output:
 <hr>
 
 - **In two different marijuana seizures in California and Texas, pollen analysis revealed a unique sagebrush pollen marker**
-    + sagebrush species was known to grow in only a few isolated regions of Mexico            + pinpointed the likely area where the marijuana was cultivated
+    + sagebrush species was known to grow in only a few isolated regions of Mexico, pinpointing the area of cultivation cultivated
 
 <br/>
 
-- **A truck carrying cocaine was seized at the Canadian border after attempting to enter from Detroit. Pollen analysis of the truck's air filter revealed a pattern of pollen grains indicating the shipment originated in California and took a circuitous route across the United States instead of a direct path to Canada**
+- **A truck carrying cocaine was seized at the Canadian border after trying to enter from Detroit. Pollen analysis of the truck's air filter revealed the shipment originated in California and took a circuitous route across the United States instead of a direct path to Canada**
 
 <br/>
 
-- **Pollen analysis also has helped CBP trace the routes of marijuana and cocaine bundles that wash up onshore along the coasts of Florida and Texas**
+- **Pollen analysis also has helped trace the routes of marijuana and cocaine bundles that wash up onshore along the coasts of Florida and Texas**
     + samples were loaded with fern spores, more than would be typical of an area where fern plants grow
-    + There are only a few areas that have that many ferns and one of them is Fern Gully, a winding, scenic stretch of road in Jamaica
+    + there are only a few areas that have that many ferns and one of them is Fern Gully, a winding, scenic stretch of road in Jamaica
     
 ## Botanical Evidence Basics: Diatoms and Aquatic Evidence 
 <hr>
@@ -162,7 +162,7 @@ output:
 
 <div style="float: left; width: 58%;">
 
-- **Comparing the types and quantities of diatoms in a victim's body with samples from potential drowning locations (like lakes, rivers, or oceans) can help establish where the drowning occurred**
+- **Comparing the types and quantities of diatoms in a victim's body with samples from potential drowning locations can establish where the drowning occurred**
 
 <br/>
 
@@ -196,9 +196,9 @@ output:
 <hr>
 
 - **Plants can cause injury or death: - Ricin from castor bean - Digitalis from foxglove - Coniine from hemlock**
-    + Socrates who was sentenced to drink hemlock
-    + Abraham Lincoln's mother due to white snakeroot 
-    + Juan Ponce de León died after being wounded by an arrow poisoned with the manchineel tree's sap
+    + Socrates was sentenced to drink hemlock
+    + Abraham Lincoln's mother dies from white snakeroot 
+    + Juan Ponce de León died after wounding from an arrow poisoned with the manchineel tree's sap
 
 <br/>
 
@@ -219,16 +219,16 @@ output:
 <hr>
 
 - **Stable Isotope Analysis - Measuring ratios of isotopes (C, N, O) in plants reflects regional climate or water and soil composition**
-    +can identify the source of illicit drugs or trace the origins of plants involved
+    + can identify the source of illicit drugs or trace the origins of plants involved
 
 <br/>
 
-- **Example - Local climate controls stomatal openings. When stomata are forced to close (drought) they stop discriminating against heavy isotope (13C)**
-    + Samples become more enriched in 13C compared to same species in an different climate
+- **Example - Local climate controls stomatal openings. When stomata are forced to close (drought) they stop discriminating against heavy isotope (^13^C)**
+    + Samples become more enriched in ^13^C compared to same species in an different climate
 
 <IMG STYLE="position:absolute; TOP:390px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/waterisotope.jpg">
 
 ## Its Time For A.........
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:350px; WIDTH:425px; HEIGHT:400px" SRC="images/sidequest.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:350px; WIDTH:425px; HEIGHT:400px" SRC="images/storyquest.png">
