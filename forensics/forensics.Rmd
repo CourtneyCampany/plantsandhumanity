@@ -176,7 +176,7 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 52%;">
 - **Tree rings are used to date wood**
     + determine the age of wooden objects found at a crime scene
     + growth over time around buried objects indicates timeline of burial
@@ -218,17 +218,17 @@ output:
 ## Botanical Evidence Basics: Modern Technologies 
 <hr>
 
-- **Stable Isotope Analysis - Measuring ratios of isotopes (C, N, O) in plants reflects regional climate or water and soil composition**
+- **Stable Isotope Analysis - Measuring ratios of elemental isotopes in plants reflects regional climate or water and soil composition**
     + can identify the source of illicit drugs or trace the origins of plants involved
 
 <br/>
 
-- **Example - Local climate controls stomatal openings. When stomata are forced to close (drought) they stop discriminating against heavy isotope (^13^C)**
-    + Samples become more enriched in ^13^C compared to same species in an different climate
+- **Scienitsts use strontium-87 of local soils for geological fingerprinting of poached endangered Cycads in S. Africa**
+    + cycads incorporate the specific isotope signature when they absorb water/nutrients
 
-<IMG STYLE="position:absolute; TOP:390px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/waterisotope.jpg">
+<IMG STYLE="position:absolute; TOP:390px; LEFT:200px; WIDTH:700px; HEIGHT:290px" SRC="images/cycads.png">
 
 ## Its Time For A.........
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:350px; WIDTH:425px; HEIGHT:400px" SRC="images/storyquest.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:550px; HEIGHT:500px" SRC="images/storyquest.png">
