@@ -29,22 +29,25 @@ output:
 
 ## Leaves exchange gases via stomata
 <hr>
+**Stomatal opening is a balance between photosynthesis & drying out**
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/stomata.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:35px; WIDTH:350px; HEIGHT:350px" SRC="images/stomata.png">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/stomata4b.jpg">
+
+## Leaf gas exchange impacts the composition of our atmosphere
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/maunaloa.png">
 
 ## Active vs Passive stomatal control
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/aba.jpg">
+**Abscisic acid (ABA) keeps stomata from opening by signaling guard cells to lose water pressure, which closes the pore. Known to be used by **
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:20px; WIDTH:430px; HEIGHT:450px" SRC="images/aba.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:375px" SRC="images/active.jpg">
-
-## Leaf gas exchange impacts global ecology
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/maunaloa.png">
 
 ## Vascular tissues in leaves are confined to veins
 <hr>
@@ -64,18 +67,19 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:395px; WIDTH:600px; HEIGHT:300px" SRC="images/venation.jpg">
 
-## How leaf veins changed the world....
+## How leaf veins changed altered plant evolution...
 <hr>
+**The density of veins has increased 3-5x in angiosperms vs non-angiosperms**
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
 
-## Photosynthesis is complicated....
-<hr>
-<br/>
+<!-- ## Photosynthesis is complicated.... -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:185px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/photo2020.png">
+<!-- <IMG STYLE="position:absolute; TOP:185px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/photo2020.png"> -->
 
-## What do plants do when they are hungry?
+## Plants are autotrophic...what does that really mean?
 <hr>
     
 <IMG STYLE="position:absolute; TOP:185px; LEFT:75px; WIDTH:950px; HEIGHT:350px" SRC="images/candy.png">
@@ -88,7 +92,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 45%;">
+<div style="float: left; width: 42%;">
 
 * **Greek = “building with light”**
 * **Autotroph = “self nourishing”**
@@ -97,14 +101,14 @@ output:
 <br/>
 
 * **Photosynthesis is an energy pathway**
-    + 2 linked reactions
+    + 2 linked reactions inside the chloroplast organelles
     + light reaction + Calvin cycle
 
  </div>
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/reactions.jpg">
 
-## Chloroplasts: Where the magic happens
+## Chloroplasts: Where photosynthesis takes place
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/chlroplasts4.jpg">
@@ -126,10 +130,11 @@ output:
 
 ## When pigments absorb photons an election gets excited
 <hr>
+**The antenna complex (pigments bound together) acts like a solar panel, gathering light and passing the energy to the reaction center to power photosynthesis**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/excite.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/excite.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/resonance.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/resonance.jpg">
 
 ## Photosystems (2) convert light energy to chemical energy
 <hr>
@@ -177,7 +182,7 @@ output:
 
 * **3. Some 3C sugars recycled to make RUBP (5C)**
     + one 3C sugar leaves to make glucose
-    + recycling needs ATP
+    + recycling step also needs ATP
     
  </div>
 
