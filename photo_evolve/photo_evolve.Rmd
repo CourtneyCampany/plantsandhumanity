@@ -7,9 +7,9 @@ output:
     smaller: true
 ---
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:125px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/bacteria_phylo.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:125px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/bacteria_phylo.jpg"> -->
 
 ## Review: location for photosynthesis
 <hr>
@@ -104,7 +104,7 @@ output:
 
 <br/>
 
-* **O~2~ reaction called Photorespiration**
+* **Reaction with O~2~ called <span style="color: red;">Photorespiration</span>**
     + uses ATP and NADPH to make CO~2~
     + totally wasteful!!!
 
@@ -116,6 +116,7 @@ output:
 
 ## Cyanobacteria evolved around 2.7 BYA
 <hr>
+**The affinity for O~2~ was always around but became a bigger problem because of photosynthesis**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:500px; HEIGHT:450px" SRC="images/earlyatmos.jpg">
 
@@ -146,7 +147,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:275px; HEIGHT:380px" SRC="images/atmosphere.png">
 
-## Rubisco substrate choice
+## Rubisco substrate choice changes with temperature..uhoh
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:700px; HEIGHT:350px" SRC="images/rubisco_temp.png">
@@ -166,12 +167,12 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Consumes 32% of ATP and 28% of NADPH in C3 leaves**
+* **Consumes 32% of ATP and 28% of NADPH in leaves of plants with C3 photosynthesis**
     + under current conditions
 
 <br/>
 
-* **Crop productivity improvement not sufficient to meet 2x food production by 2050**
+* **Current crop productivity improvement not sufficient to meet 2x food production by 2050**
 
 <br/>
 
