@@ -10,17 +10,16 @@ output:
 ## Atmospheric CO~2~ varies across geologic time
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:500px; HEIGHT:450px" SRC="images/co2_atmos.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:545px; HEIGHT:450px" SRC="images/co2_atmos.png">
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 48%;">
 
 * **CO~2~ ranged 180 - 4000 ppm in last 500 million years**
 
 <br/>
 
-* **CO~2~ changes impact living things via photosynthesis**
-    + primary source of energy in food chain
-    + large evolutionary selection pressure
+* **The photorespiration problem was not as bad 500mya when life comes on to land**
+    + the drawdown of CO~2~ starting when land plants evolve is pretty clear
 
 <br/>
 
@@ -29,13 +28,13 @@ output:
 <br/>
 
 * **O~2~ levels started increasing (from 10%) starting 500 mya**
-    + What does this mean for the current efficiency of C3 photosynthesis?**
+    + What does this mean for the current efficiency of C3 photosynthesis?
 
-## New photosynthetic pathways evolved recently (~30 MYA)
+## New photosynthetic pathways evolved recently (~30 mya)
 <hr>
 <br/>
 
-* **Rubisco has existed for billions of years, and virtually no structural mutations have survived**
+* **Rubisco has existed for billions of years**
     + evolved when O~2~ was negligible in the atmosphere
     + mutations have yet to produce a superior version of the enzyme for the environment to select
 
@@ -67,7 +66,7 @@ output:
 
 * **Calvin cycle moved to *Bundle Sheath Cells* surrounding leaf veins**
     * some chloroplasts moved inside bundle sheath cells
-    * **Brainstorm**: How would mutations/genes be involved?
+    * **Brainstorm**: How/When would mutations/genes be involved?
 
 <br/>
 
@@ -97,9 +96,9 @@ output:
 
 <br/>
 
-* **C4 pathway: New enzyme, phosphoenolpyruvate carboxlylase (PEPC) fixes CO~2~ to PEP (0 affinity for O~2~)**
+* **C4 pathway: New enzyme, phosphoenolpyruvate carboxlylase (PEPC) fixes CO~2~ to PEP (0 affinity for O~2~) to make malate (4C)**
     + C4 pathway occurs in mesophyll cell chloroplasts
-    + new 4C malate created and pumped to bundle sheath cells
+    + malate sent to bundle sheath cells via plasmodesmata
 
 <br/>
 
@@ -110,7 +109,7 @@ output:
 <br/>
 
 * **Hyper efficient with use of CO~2~**
-    * How does this impact stomata behavior?
+    * BRAINSTORM: How does this impact stomatal behavior?
 
 </div>
 
@@ -125,7 +124,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Most productive C4 plants have rates ~50% higher than C3 plants**
-    + evolved independently ~70 times
+    + C4 evolved independently ~70 times
 
 <br/>
     
@@ -144,6 +143,8 @@ output:
 ## Why is C4 photosynthesis not dominant?
 <hr>
 <br/>
+<br/>
+<br/>
 
 <div style="float: right; width: 50%;">
 
@@ -153,16 +154,17 @@ output:
 <br/>
  
 * **Where is needed ATP generated?**
+    + high light requirements also means hotter/drier
 
 <br/>
 
-* **Where should C4 plants live**
-    * efficiency vs dehydration
+* **Where should C4 plants live??**
+    + efficiency vs dehydration for stomata
+    + should be able to outcompete C3 plants
 
+<!-- <br/> -->
 
-<br/>
-
-* **Brainstorm: Why is C4 non-existent in trees?**
+<!-- * **Brainstorm: Why is C4 non-existent in trees?** -->
     
 </div>
 
