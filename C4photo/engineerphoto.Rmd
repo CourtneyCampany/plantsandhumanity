@@ -61,6 +61,7 @@ output:
 <hr>
 <br/>
 <br/>
+<br/>
 
 * **Any improvement = huge gains in crop yield**
 
@@ -72,11 +73,13 @@ output:
     + $540 million value (Walker et al. 2016)
  
 <br/>
+<br/>
+<br/>
  
 * **C3 crops can lose 10-40% of yield due to water related stress**
     + water is transpired at a rate of hundreds of molecules per one CO~2~ fixed
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/yield_loss.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:535px; WIDTH:550px; HEIGHT:400px" SRC="images/yield_loss.jpg">
 
 ## Approaches to Photosynthesis Engineering are Complex
 <hr>
@@ -109,9 +112,8 @@ output:
 
 ## Is C4 Photosynthesis the Cure?
 <hr>
-<br/>
 
-<div style="float: left; width: 65%;">
+<div style="float: left; width: 55%;">
 
 - **C4 plants (e.g., maize, sugarcane) spatially separate CO~2~ fixation and the Calvin cycle**
 
@@ -128,13 +130,13 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:610px; WIDTH:550px; HEIGHT:400px" SRC="images/c4khan.png">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:610px; WIDTH:550px; HEIGHT:500px" SRC="images/c4khan.png">
 
 ## The C4 Rice Project
 <hr>
 <br/>
 
-<div style="float: left; width: 52%;">
+<div style="float: left; width: 48%;">
 
 - **C4 rice is a flagship project, with potential for higher yields and reduced water use**
     + https://c4rice.com/
@@ -151,12 +153,12 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:575px; HEIGHT:500px" SRC="images/c4rice.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:530px; WIDTH:575px; HEIGHT:500px" SRC="images/c4rice.jpg">
 
 
 ## It Is Time For A...
 <hr>
 **Understanding photosynthetic anatomy and genetics is key to the next breakthroughs.**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:350px; WIDTH:425px; HEIGHT:400px" SRC="images/sidequest.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:350px; WIDTH:425px; HEIGHT:400px" SRC="images/storyquest4.png">
 
