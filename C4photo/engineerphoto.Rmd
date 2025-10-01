@@ -11,7 +11,7 @@ output:
 <hr>
 
 - **Growing global population and climate change threaten food security**
-    + there is limited land to grow more groups
+    + there IS limited land to grow more crops
 
 <br/>
 
@@ -20,10 +20,11 @@ output:
 
 <br/>
 <br/>
+<br/>
 
 <div style="float: left; width: 48%;">
 
-- **Improving photosynthesis is a promising strategy for increasing crop yield and resilience**
+- **Improving photosynthesis is a key strategy for increasing crop yield and resilience**
     + Bioengineering photosynthesis is a frontier for sustainable agriculture
 
 </div>
@@ -45,7 +46,7 @@ output:
 
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 50%;">
 
 - **C3 plants lack mechanisms to concentrate CO~2~ around Rubisco**
 
@@ -55,7 +56,7 @@ output:
     + but can we *tweak* Rubisco or other processes?
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:400px; HEIGHT:440px" SRC="images/c3.png">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:400px; HEIGHT:440px" SRC="images/c3.png">
 
 ## Why Bioengineer Photosynthesis?
 <hr>
@@ -154,7 +155,6 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:530px; WIDTH:575px; HEIGHT:500px" SRC="images/c4rice.jpg">
-
 
 ## It Is Time For A...
 <hr>
