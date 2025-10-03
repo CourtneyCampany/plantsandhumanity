@@ -25,12 +25,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:500px; LEFT:50px; WIDTH:1000px; HEIGHT:180px" SRC="images/les.png">
 
-## 
-<span style="color:purple">**What Are Functional Traits?**</span>
-
-<IMG STYLE="position:absolute; TOP:120px; LEFT:300px; WIDTH:600px; HEIGHT:550px" SRC="images/planttraits.png">
-
-## What Are Functional Traits?
+## What are functional traits?
 <hr>
 
 * **Morphological, physiological, or phenological features measurable at the individual level**
@@ -56,7 +51,40 @@ output:
 
 <IMG STYLE="position:absolute; TOP:330px; LEFT:525px; WIDTH:450px; HEIGHT:350px" SRC="images/animaltraits.png">
 
-## Why Does the LES Matter?
+## 
+
+<span style="color:purple">**What are the main plant functional traits?**</span>
+
+<IMG STYLE="position:absolute; TOP:120px; LEFT:300px; WIDTH:600px; HEIGHT:550px" SRC="images/planttraits.png">
+
+## LES: The Story of 4 Traits
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Function of a leaf can be explored across key traits**
+1. Leaf thickness
+2. Nitrogen content
+4. Leaf lifespan 
+3. Photosynthetic rate (umols CO~2~ m^-2^ s^-1^)
+
+
+<br/>
+
+* **Traits are responsible for fixing carbon that contributes to growth, reproduction and survival**
+    + total gain (lifespan), not instantaneous
+
+<br/>
+
+* **Interplay between physiology, morphology and chemistry**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:225px; HEIGHT:300px" SRC="images/leaf.jpg">
+
+
+## Why does the LES matter?
 <hr>
 
 * **Functional traits are comparable and predictive, more than species identity alone**
@@ -82,37 +110,18 @@ output:
 <IMG STYLE="position:absolute; TOP:350px; LEFT:545px; WIDTH:450px; HEIGHT:375px" SRC="images/triangle">
 
 
-## LES: The Story of 4 Traits
-<hr>
-<br/>
-
-<div style="float: left; width: 60%;">
-
-* **Function of a leaf can be explored across key traits**
-1. Leaf thickness
-2. Nitrogen content
-4. Leaf lifespan 
-3. Photosynthetic rate (umols CO^2^ m^-2^ s^-1^)
-
-
-<br/>
-
-* **Traits are responsible for fixing carbon that contributes to growth, reproduction and survival**
-    + total gain (lifespan), not instantaneous
-
-<br/>
-
-* **Interplay between physiology, morphology and chemistry**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:225px; HEIGHT:300px" SRC="images/leaf.jpg">
 
 ## Leaf Thickness = Leaf Mass / Leaf Area (LMA)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:0px; WIDTH:600px; HEIGHT:350px" SRC="images/leaf_thickness.jpg">
+<IMG STYLE="position:absolute; TOP:245px; LEFT:0px; WIDTH:600px; HEIGHT:350px" SRC="images/leaf_thickness.jpg">
 
+<div style="float: left; width: 42%;">
+
+* **Leaf mass represents investment into construction**
+    + photosynthetic machinery, water supply, etc. 
+    
+</div>
 
 <div style="float: right; width: 55%;">
 
@@ -136,7 +145,7 @@ output:
 
 </div>
 
-## Leaves Need a Lot of Nitrogen (N)...
+## Leaves need a lot of nitrogen (N)...
 <hr>
 <br/>
 
@@ -161,7 +170,7 @@ output:
     
 <IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="images/leafnitro.png">
 
-## Leaf Lifespan is More Than Just Eergreen or Deciduous
+## Leaf Lifespan is more than just evergreen or deciduous
 <hr>
 
 <div style="float: left; width: 60%;">
@@ -178,7 +187,7 @@ output:
 <br/>
 
 * **Photosynthesis decreases with leaf age**
-    + continually gets worse
+    + photosynthetic machinery slowly breaks down
 
 <br/>
 
@@ -190,7 +199,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:450px; HEIGHT:450px" SRC="images/lifespan.png">
 
-## What Rate of Photosynthesis Can Plants Achieve?
+## What rate of photosynthesis can plants achieve?
 <hr>
 <br/>
 
@@ -208,7 +217,7 @@ output:
     + ferns = 1 umols m^-2^ sec^-1^
     + wheat = 25 umols m^-2^ sec^-1^
     + both ferns and wheat use C3 pathway
-    + often differ within a canopy
+    + often rates differ within a tree canopy
     
 <br/>
 
@@ -219,19 +228,19 @@ output:
 <IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/photorate.png">
 
 
-## Correlations Among LES Traits Ahared Across Plants
+## Correlations among LES traits shared across plants
 <hr>
 <br/>
 <br/>
 
-* **Vascular plants display patterns in relationships between traits**
+* **Vascular plants display patterns in relationships between LES traits**
     + all over the world
     + every habitat
 
 <br/>
 <br/>
 
-* **Traits are multi-dimensional**
+* **Patterns are multi-dimensional**
     + LL vs LMA vs N vs Photo
 
 <br/>
@@ -239,12 +248,12 @@ output:
 <br/>
 <br/>
 
-**Example: A simple relationship between N and photosynthesis would ignore how old the leaves are**
+**Example: A simple relationship between N and photosynthesis would ignore leaf lifespan**
 
 
  <IMG STYLE="position:absolute; TOP:280px; LEFT:400px; WIDTH:600px; HEIGHT:300px" SRC="images/les_pic.jpg">
  
-## Economic Theory Applied to Plants
+## Economic theory applied to plants
 <hr>
 <br/>
 <br/>
@@ -273,8 +282,9 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:620px; WIDTH:350px; HEIGHT:200px" SRC="images/roi3.jpg"> -->
 
-## Leaf Nitrogen and Thickness Negatively Correlated
+## Leaf nitrogen and thickness negatively correlated
 <hr>
+<br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:645px; WIDTH:400px; HEIGHT:400px" SRC="images/nitro_thick.png">
@@ -295,7 +305,6 @@ output:
 * **Low leaf N  = reduced function**
     + more invested in structural components (↑ thick)
     + slow R.O.I, durability higher
-    + why?
     
 </div>
 
@@ -342,7 +351,7 @@ output:
 
 * **Environment plays a role:**
     + high N leaves are yummy to herbivores
-    + leaf lifespan shorter when rainfall lower
+    + leaf lifespan decreases during drought
 
 <br/>
 
@@ -382,7 +391,7 @@ output:
 3. Woody to non-woody
 4. Thick to thin leaves
 5. Leaf area: fingernail to car hood
-6. Leaf nitrogen investment
+6. Leaf nitrogen investment across the canopy
 
 <br/>
 
