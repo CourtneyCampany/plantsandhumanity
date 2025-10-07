@@ -1,106 +1,38 @@
 ---
-title: "Plant Hydraulic Transport Part 2"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
+title: "Plant Hydraulic Transport"
 output: 
   ioslides_presentation:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
-<!-- ## Plant Transport: The big picture -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
+## Moving water through the plant is vital
+<hr>
+<br/>
 
-<!-- <div style="float: left; width: 50%;"> -->
+<div style="float: right; width: 50%;">
 
-<!-- * **Moving substances to target sites is fundamental** -->
-<!--     + often against diffusion gradient -->
-<!--     + processes consume energy (ATP) -->
+* **Most transport materials dissolve in H~2~0**
 
+<br/>
 
-<!-- <br/> -->
+* **Water is component of photosynthesis**
 
-<!-- * **Diffusion processes also occur** -->
-<!--     + proceed far slower -->
+<br/>
 
-<!-- <br/> -->
+* **Water keeps cells turgid**
+    + manipulated in guard cells
 
-<!-- * **Can plants sense the environment?** -->
-<!--     + does this impact transport processes -->
+<br/>
 
-<!--   </div> -->
+* **Water is weird and cool**
+    + heavy
+    + viscous (thick & *sticky*)
 
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/transport.jpg"> -->
+ </div>
 
-<!-- <!-- ## Basic transport processes --> -->
-<!-- <!-- <hr> --> -->
-<!-- <!-- <br/> --> -->
-
-<!-- <!-- * **Short distance: few cell diameters (or less)** --> -->
-<!-- <!--     + interior cells no in contact with environment --> -->
-<!-- <!--     + involves transfer of basic nutrients --> -->
-<!-- <!--     + outside &rarr; inside neighbor cells --> -->
-
-<!-- <!-- <br/> --> -->
-
-<!-- <!-- * **Long distance: between cells that are now close neighbors** --> -->
-<!-- <!--     + adaptive for large land plants --> -->
-<!-- <!--     + evolution of vascular tissues --> -->
-<!-- <!--     + can be target-specific --> -->
-<!-- <!--     + results in non-transport advantages --> -->
-
-<!-- ## Moving water through the plant is vital -->
-<!-- <hr> -->
-<!-- <br/> -->
-
-<!-- <div style="float: right; width: 50%;"> -->
-
-<!-- * **Most transport materials dissolve in H~2~0** -->
-
-<!-- <br/> -->
-
-<!-- * **Water is component of photosynthesis**   -->
-
-<!-- <br/> -->
-
-<!-- * **Water keeps cells turgid** -->
-<!--     + manipulated in guard cells -->
-
-<!-- <br/> -->
-
-<!-- * **Water is weird and cool** -->
-<!--     + heavy -->
-<!--     + viscous (thick & *sticky*) -->
-
-<!--  </div> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/water.jpg"> -->
-
-<!-- ## Plants also need mechanisms to inhibit movement -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/cutin.jpg"> -->
-
-<!-- <div style="float: left; width: 45%;"> -->
-
-<!-- * **Cutin-lined epidermis** -->
-<!--     + keeps water in -->
-
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-
-<!-- * **Casparian strip in roots** -->
-<!--     + surround cells circling vascular bundle -->
-<!--     + forces selective diffusion through root cells -->
-
-<!-- </div> -->
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/water.jpg">
 
 <!-- ## Simple Transport: Diffusion through a membrane -->
 <!-- <hr> -->
@@ -121,171 +53,230 @@ runtime: shiny
 
 <!-- <br/> -->
 
-<!-- * **Water enters roots through osmosis** -->
+<!-- * **Water enters root hairs through osmosis** -->
 <!--     + often as nutrient solution -->
 
 <!-- </div> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/aquaporin.jpg"> -->
 
-<!-- ## Water has the capacity to do work: Water Potential -->
-<!-- <hr> -->
+## Water has the capacity to do work: Water Potential
+<hr>
 
-<!-- <div style="float: left; width: 58%;"> -->
+* **Water has free energy (chemical potential) = ability to do work or move**
+    + in botany = water potential ($\psi$)
+    + $\psi$ of pure water = 0 (no solutes)
+    + $\psi$ is generally negative, closer to 0 (higher) = more available energy
 
-<!-- * **Water has free energy (chemical potential)** -->
-<!--     + in botany = water potential($\psi$) -->
-<!--     + $\psi$ of pure water = 0 (no solutes) -->
+<br/>
 
-<!-- <br/> -->
+* **$\psi$ determined by pressure, solutes & stickiness**
+    + adding things to water (solutes) lowers water potential = -$\psi$
+    + turgor in cells puts pressure on water (push) = higher $\psi$
+    + tension on water in xylem (pull) = lower $\psi$
 
-<!-- * **Water potential can be increased/decreased** -->
-<!--     + heated -->
-<!--     + pressure -->
-<!--     + elevated -->
+<br/>
 
-<!-- <br/> -->
-
-
-<!-- * **$\psi$ determined by pressure, solutes & stickiness** -->
-
-<!-- <br/> -->
-
-<!-- * **Movement of water is related to water potential** -->
-<!--     + moves towards more negative $\psi$ (more solutes) -->
-<!--     + cells interconnected = plant one big pond -->
+* **Movement of water is related to water potential**
+    + water moves towards more negative $\psi$ (more solutes)
+    + cells interconnected = plant one big pond
+    + $\psi$ gradient drives water into roots, transport through xylem, and movement between cells
 
 <!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/beaker.jpg"> -->
 
-<!-- ## Plant cell walls will never burst! -->
-<!-- <hr> -->
-<!-- <div style="float: left; width: 62%;"> -->
+## Plant cell walls will never burst!
+<hr>
 
-<!-- * **Example: Plant cells (-.3 mPa) placed in pure water** -->
-<!--     + water will move in to cell -->
+* **Example: Plant cells (-0.3 mPa) placed in pure water**
+    + water will move in to cell
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Example: Plant cells (-.15 mPa) placed in -0.3 solution** -->
-<!--     + water will move our of cell -->
+* **In plant cells, pressure builds up as the central vacuole fills with water**
+    + The rigid cell wall resists expansion, creating turgor pressure (positive $\psi$).
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Both these changes would need drastic adjustments of H~2~O or solutes** -->
-<!--     + each cause cell death -->
+<div style="float: left; width: 39%;">
 
-<!-- <br/> -->
+* **This pressure raises the overall water potential (Ψ), often offsetting negative Ψs from solutes**
+    + without the balancing pressure, water flow into cells until the burst
 
-<!-- * **Cell walls push or pull against change = pressure potential** -->
-<!--     + part of water potential calculation -->
-<!--     + more 'flexibility' to reach equilibrium -->
+</div>
 
-<!-- </div> -->
+<IMG STYLE="position:absolute; TOP:340px; LEFT:450px; WIDTH:600px; HEIGHT:380px" SRC="images/cellpressure.png">
 
-<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:700px; WIDTH:300px; HEIGHT:450px" SRC="images/turgid2.jpg"> -->
+</div>
 
-<!-- ## Phloem: uses active transport & water potential -->
-<!-- <hr> -->
-<!-- <br/> -->
+## Phloem: uses active transport & water potential
+<hr>
+<br/>
 
-<!-- * **Source: sites where sugars are exported** -->
-<!--     + active leaves or storage tissues -->
+* **Source: sites where sugars are exported**
+    + active leaves or storage tissues
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Sinks: sites that receive phloem sap** -->
-<!--     + all parts of plant -->
+* **Sinks: sites that receive phloem sap**
+    + all parts of plant
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Sugars actively loaded/unloaded into sieve elements** -->
-<!--     + at source and sink -->
-<!--     + changes water potential (both ends)  -->
-<!--     + water diffuses in/out driving sap -->
-<!--     + phloem under high pressure -->
+* **Sugars actively loaded/unloaded into sieve elements**
+    + at source and sink
+    + changes water potential (both ends)
+    + water diffuses in/out driving sap
+    + phloem under high pressure
 
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/phloem.jpg"> -->
+<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/phloem.jpg">
 
 ## Xylem Transport: Soil - Root - Stem - Leaf - **Air**
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/spad_water.jpg">
+<div style="float: right; width: 50%;">
+**Water potential gradients are the driving force of how water moves through a plant**
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
+<br/>
 
-<!-- ## Are there limits to moving water? -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
+**Transpiration = loss of water through evaporation at the leaf surface**
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/vessels.jpg"> -->
+<br/>
 
-<!-- <div style="float: left; width: 45%;"> -->
+**The atmosphere to which the leaf is exposed drives transpiration because air has a really negative Ψ**
 
-<!-- * **Large trees move hundreds of gallons of water a day** -->
+<br/>
 
-<!-- <br/> -->
+**Creates negative pressure (tension) at the leaf surface, pulling water up**
+</div>
 
-<!-- * **Gravity** -->
-<!--     + harder and harder to move water -->
-<!--     + xylem less efficient @ top -->
-<!--     + theoretically, limits growth to 122-130 m -->
+<IMG STYLE="position:absolute; TOP:175px; LEFT:20px; WIDTH:500px; HEIGHT:500px" SRC="images/spac.png">
 
-<!-- <br/> -->
+## Xylem Transport: Soil - Root - Stem - Leaf - **Air**
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<!-- * **Drying soil adds more tension** -->
+<div style="float: left; width: 47%;">
 
-<!-- </div>  -->
+**Air controls transpiration by changing the water potential difference between the leaf and atmosphere, essentially sucking water vapor out of the plant when stomata are open**
 
-<!-- ## How long a xylem straw could Superman use? -->
-<!-- <hr> -->
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:400px; WIDTH:300px; HEIGHT:450px" SRC="images/straw.jpg"> -->
- 
-<!-- ## How can redwood trees grow so tall? Hyperion = 116m -->
-<!-- <hr> -->
-<!-- <br/> -->
+**Uptake: water moves towards more negative $\psi$**
+</div>
 
-<!-- <div style="float: left; width: 55%;"> -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:500px; HEIGHT:500px" SRC="images/stemwater.jpg">
 
-<!-- * **Cohesion-tension theory** -->
-<!--     + plants use water properties to cheat gravity -->
-
-<!-- <br/> -->
-
-<!-- * **Cohesion: H~2~0 stick to other H~2~0 molecules** -->
-<!--     + via H bonds -->
-
-<!-- <br/> -->
-
-<!-- * **Adhesion: water sticks to non water molecules** -->
-<!--     + stick to sides of xylem tissues -->
-<!--     + is not pulled straight up! -->
-
-<!-- <br/> -->
-
-<!-- * **Transpiration pulls water under tension** -->
-<!-- </div>  -->
-
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg"> -->
-
-## Cohesion-tension: Water drop vs Xylem
+## Opening of stomata with sunlight creates the Ψ gradient
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:550px; HEIGHT:400px" SRC="images/cohesion2.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:525px; HEIGHT:500px" SRC="images/stomata2.png">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/cohesion.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/predawn.png">
 
-## How can redwood trees grow so tall?
+## Cohesion-tension theory: Capillary action moves water upward
+<hr>
+<br/>
+
+<div style="float: left; width: 42%;">
+
+**Cohesion= water molecules sticking together via hydrogen bonding**
+
+<br/>
+
+**Adhesion=water molecules sticking to the walls of xylem vessels**
+
+<br/>
+
+**Combined create *capillary action (flow of liquid within narrow spaces)***
+
+<br/>
+
+**Allows water to rise through the narrow tubes of the xylem, against the push of gravity, as an unbroken column**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:530px; WIDTH:550px; HEIGHT:400px" SRC="images/cohesion2.png">
+
+## Capillary action + transpiration move water through plant
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Evaporation of water at leaves creates the transpiration pull (gradient of negative $\psi$)** 
+
+<br/>
+
+**This tension is transmitted down the whole water column due to cohesion**
+
+<br/>
+
+**This stickiness of water also keeps the column of water from pulling apart**
+
+<br/>
+
+**When stomata are closed at night, cohesion/ahdesion hold water in place**
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/cohesion-.png">
+
+
+## Water pulled through root cells towards the xylem
+<hr>
+
+**Pull of water under tension in vascular tissues means xylem have a more negative $\psi$ than root cells**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/apoplast_symplast.png">
+
+## Ψ gradient in roots cells drives osmosis
+<hr>
+
+**Due to the $\psi$ gradient in cells, the surrounding soil has a higher $\psi$, driving diffusion into root hairs**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/rootwater.jpg">
+
+
+## Are there limits to moving water through plants?
 <hr>
 <br/>
 <br/>
 
-<div style="float: left; width: 55%;">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/vessels.jpg">
+
+<div style="float: left; width: 52%;">
+
+* **Really large trees (redwoods) can move hundreds of gallons of water a day**
+
+<br/>
+
+* **Gravity**
+    + gets harder to move water vertically
+    + xylem less efficient @ top
+    + theoretically, limits growth to 122-130 m
+
+<br/>
+
+* **Drying soil adds more tension**
+    + $\psi$ gets more negative, reducing the water potential gradient with the plant
+
+</div>
+
+## How can trees grow over 100 meters tall?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 40%;">
 
 * **H~2~O also pulled in zig zag motion**
-    + pits and perforations
+    + pits in vessels/tracheids
     + tracheids are twisted
 
 <br/>
@@ -296,52 +287,56 @@ runtime: shiny
   
 <br/>
 
-* **Hyperion tree near theoretical limit!** 
+* **Coastal redwood tree nears theoretical limit!** 
   
 </div> 
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:475px; WIDTH:600px; HEIGHT:450px" SRC="images/vessels_pits.jpg">
 
-##
+## Issue: When the column of water breaks, embolisms form
+<hr>
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/heart_attack.png">
+**Cavitation is the formation of air bubbles inside xylem vessels or tracheids, blocking water transport**
+<br/>
+**Occurs when tension (from transpiration pull) becomes too great, overpowering cohesion**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:5px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism.jpg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/embolism2.jpg">
 
 ## The sound of water stress....
+<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWL0EoZh09w?start=102" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Issue: When water breaks (cavitation)
+
+## Fix: Can plants repair embolisms?
 <hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/embolism2.jpg">
-
-## Fix: Repair embolisms?
-<hr>
+**A stem would need to create a new $\psi$ with surrounding cells (via adding solutes) to refill while also compressing the air bubble until it dissolves into solution. If/how they do it is a huge matter of debate**
 
 <IMG STYLE="position:absolute; TOP:270px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/bubble.jpg">
 
-## Fix: Build new xylem 
+## Fix: Building new xylem cells works but slow and expensive
 <hr>
 
 <IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism3.jpg">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/xylemdead.jpg">
 
-## Fix: Grow tall and make xylem skinny
+## Avoidance: Taper xylem (make skinny) as tree gets taller
 <hr>
+**Decreasing xylem diameter as plant gets taller reduces cohesion tension and promotes adhesion**
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/pittermann.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/pittermann.png">
 
 ## Issues: Leaves (stomata) are sensitive to VPD
 <hr>
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 40%;">
 
 * **Vapor Pressure Deficit: difference between moisture in air and how much moisture air can hold**
     + if *high* then the air is 'drier'
@@ -349,11 +344,11 @@ runtime: shiny
     
 <br/>
 
-* **High VPD pulls has large impact on transpiration**
+* **High VPD creates massive pulling effect for transpiration**
 
 <br/>
 
-* **If stressful, stomata should close**
+* **If stressful, stomata *should* close**
     + stop excessive water loss
 
 </div> 
@@ -388,7 +383,9 @@ runtime: shiny
 <br/>
 
 * **How is this sustainable?**
+
 </div>
+
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/predawn.png">
 
 ## Fix: Soils will refill without rain
@@ -416,7 +413,7 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/soil2.png">
 
 
-## Brainstorm: Will climate change impact water transport?
+## Brainstorm: Will climate change impact plant water transport?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/vpd3.jpg">

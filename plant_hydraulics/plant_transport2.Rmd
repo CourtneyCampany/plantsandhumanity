@@ -1,13 +1,105 @@
 ---
-title: "Plant Hydraulic Transport Part 2"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
+title: "Plant Hydraulic Transport"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
+
+
+## Plants also need mechanisms to inhibit movement
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/cutin.jpg">
+
+<div style="float: left; width: 45%;">
+
+* **Cutin-lined epidermis**
+    + keeps water in
+
+<br/>
+<br/>
+<br/>
+
+* **Casparian strip in roots**
+    + surround cells circling vascular bundle
+    + forces selective diffusion through root cells
+
+</div>
+
+<!-- ## Plant Transport: The big picture -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+
+<!-- <div style="float: left; width: 50%;"> -->
+
+<!-- * **Moving substances to target sites is fundamental** -->
+<!--     + often against diffusion gradient -->
+<!--     + processes consume energy (ATP) -->
+
+
+<!-- <br/> -->
+
+<!-- * **Diffusion processes also occur** -->
+<!--     + proceed far slower -->
+
+<!-- <br/> -->
+
+<!-- * **Can plants sense the environment?** -->
+<!--     + does this impact transport processes -->
+
+<!--   </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/transport.jpg"> -->
+
+<!-- ## Basic transport processes -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- * **Short distance: few cell diameters (or less)** -->
+<!--     + interior cells no in contact with environment -->
+<!--     + involves transfer of basic nutrients -->
+<!--     + outside &rarr; inside neighbor cells -->
+
+<!-- <br/> -->
+
+<!-- * **Long distance: between cells that are now close neighbors** -->
+<!--     + adaptive for large land plants -->
+<!--     + evolution of vascular tissues -->
+<!--     + can be target-specific -->
+<!--     + results in non-transport advantages -->
+
+## Moving water through the plant is vital
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Most transport materials dissolve in H~2~0**
+
+<br/>
+
+* **Water is component of photosynthesis**
+
+<br/>
+
+* **Water keeps cells turgid**
+    + manipulated in guard cells
+
+<br/>
+
+* **Water is weird and cool**
+    + heavy
+    + viscous (thick & *sticky*)
+
+ </div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/water.jpg">
 
 
 ## Xylem Transport: Soil - Root - Stem - Leaf - **Air**
@@ -16,6 +108,8 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/spad_water.jpg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
+
+
 
 ## Cohesion-tension: Water drop vs Xylem
 <hr>
