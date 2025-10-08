@@ -66,7 +66,7 @@ output:
 * **Water has free energy (chemical potential) = ability to do work or move**
     + in botany = water potential ($\psi$)
     + $\psi$ of pure water = 0 (no solutes)
-    + $\psi$ is generally negative, closer to 0 (higher) = more available energy
+    + $\psi$ is generally negative but closer to 0 (higher) = more available energy
 
 <br/>
 
@@ -87,7 +87,7 @@ output:
 ## Plant cell walls will never burst!
 <hr>
 
-* **Example: Plant cells (-0.3 mPa) placed in pure water**
+* **Example: Plant cells (-0.3 mPa $\psi$) placed in pure water**
     + water will move in to cell
 
 <br/>
@@ -104,7 +104,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:340px; LEFT:450px; WIDTH:600px; HEIGHT:380px" SRC="images/cellpressure.png">
+<IMG STYLE="position:absolute; TOP:340px; LEFT:450px; WIDTH:600px; HEIGHT:350px" SRC="images/cellpressure.png">
 
 </div>
 
@@ -123,9 +123,9 @@ output:
 <br/>
 
 * **Sugars actively loaded/unloaded into sieve elements**
-    + at source and sink
-    + changes water potential (both ends)
-    + water diffuses in/out driving sap
+    + at source and sink (often using ATP)
+    + changes water potential (Ψ at both ends)
+    + water diffuses in/out driving sap flow
     + phloem under high pressure
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/phloem.jpg">
@@ -147,12 +147,12 @@ output:
 
 <br/>
 
-**Creates negative pressure (tension) at the leaf surface, pulling water up**
+**Creates a powerful negative pressure (tension) at the leaf surface, pulling water up**
 </div>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:20px; WIDTH:500px; HEIGHT:500px" SRC="images/spac.png">
 
-## Xylem Transport: Soil - Root - Stem - Leaf - **Air**
+## Plant H~2~O transport: Soil - Root - Stem - Leaf - **Air**
 <hr>
 <br/>
 <br/>
@@ -178,7 +178,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/predawn.png">
 
-## Cohesion-tension theory: Capillary action moves water upward
+## Cohesion-tension: Capillary action aids upward movement
 <hr>
 <br/>
 
@@ -216,11 +216,11 @@ output:
 
 <br/>
 
-**This stickiness of water also keeps the column of water from pulling apart**
+**This stickiness of water keeps the column of water from pulling apart**
 
 <br/>
 
-**When stomata are closed at night, cohesion/ahdesion hold water in place**
+**When stomata are closed at night, cohesion/adhesion hold water in place**
 
 </div>
 
