@@ -1,5 +1,5 @@
 ---
-title: "Human manipuation of plants"
+title: "Plants and Climate Change"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -7,37 +7,46 @@ output:
     smaller: true
 ---
 
-## Plant Biotechnology timeline
+## Is climate change making the biosphere greener?
 <hr>
-<br/>
-<br/>
 
-<div style="float: right; width: 63%;">
+<div style="float: right; width: 65%;">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:350px; HEIGHT:450px" SRC="images/greener.jpg">
 
-* **Humans have manipulated genes since the ‘dawn of civilization’**
-    + populous and developing countries
-    + regions far removed from human reach
+* **During the last ice ages, vegetation was limited by cold and ice coverage. Warmer interglacial periods allowed forests and grasslands to expand**
 
 <br/>
 
-* **Svalbard, in the high-arctic, 30% &#8593; greenness**
-    + concurrent with &#8593; in summer temperature from 2.9 to 4.7C
+* **Pre-Industrial Era: Plant growth was controlled by natural cycles of temperature, rainfall, and nutrient availability. Human influence was largely local.**
+
+<br/>
+
+* **Since the 1980s, satellite imagery has shown a significant “greening” of Earth, with more leaf area and vegetation productivity in many regions.**
+    + Svalbard, in the high-arctic, 30% &#8593; greenness, concurrent with &#8593; in summer temperature from 2.9 to 4.7C
     
 <br/>
 
-* **What is the role of plants in global change?**
-    + question is a matter of scale
+* **Will the CO~2~ fertilization effect continue into the future?**
 
 </div>
 
 ## Leaf area index: What it means to be greener
 <hr>
+**Leaf Area Index (LAI) = the amount of leaf area present relative to the horizontal ground area**
+<br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/lai2.jpg">
+**Normalized Difference Vegetation Index (NDVI) is a satellite-derived measurement that assesses the "greenness" and density of vegetation by measuring the difference between reflectance**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="images/lai.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/lai2.jpg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:710px; WIDTH:250px; HEIGHT:450px" SRC="images/lai.jpg">
+
+##
+**NDVI - July 22nd 2025**
+
+<IMG STYLE="position:absolute; TOP:00px; LEFT:0px; WIDTH:1000px; HEIGHT:600px" SRC="images/ndvi.png">
+
 
 ## Why are plants producing more leaf area?
 <hr>
@@ -71,33 +80,33 @@ output:
 
 ## A carbon *imbalance* exists between surfaces and air
 <hr>
+**Human activities have created more carbon sources than natural carbon sinks can absorb**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/budget.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/sourcesink.png">
 
-## Plants represent a large carbon sink
+## Plants DO represent a large carbon sink
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/sink.png">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/sink.png">
 
 ## The role of vegetation change
 <hr>
 <br/>
 <br/>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:550px; HEIGHT:450px" SRC="images/seesaw.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:530px; HEIGHT:450px" SRC="images/seesaw.png">
 
 <div style="float: right; width: 53%;">
 
 * **Ability to immediately fix carbon from atmosphere**
-    + photosynthesis - respiration
+    + photosynthesis vs respiration
     + keeping pace with human emissions?
-
+    
 <br/>
 
 * **Sequestrating carbon in wood**
     + prevents fast cycling of carbon
-    
+
 <br/> 
 
 * **Transpiration adds H~2~O into atmosphere**
@@ -108,9 +117,11 @@ output:
 ## Plant carbon uptake is multi-layered
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/photosyn.png">
+**Growing seasons have become longer over time, primarily due to climate change causing earlier springs and later autumns (~2 additionally week in the US since early 1900's)**
 
-## Vegetation change is not new!
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/photosyn.png">
+
+## Vegetation changing with climate is not new!
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/eocene.png">
@@ -126,8 +137,6 @@ output:
 
 ## Just plant tons of trees, problem solved...
 <hr>
-<br/>
-<br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:75px; WIDTH:325px; HEIGHT:475px" SRC="images/trilliontrees.png">
@@ -148,6 +157,10 @@ output:
 * **Are all forests equal?**
     + forest plantation = rain forest?
     
+<br/>
+
+* **What happens when forests gets older?**
+    
 </div>
 
 ## How sustainable is the  CO~2~ fertilization effect
@@ -159,6 +172,7 @@ output:
 
 ## Global plant C sink: Nutrient limitation
 <hr>
+**Question: When will Liebig's Law of the Minimum take alter global greening?**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:20px; WIDTH:700px; HEIGHT:400px" SRC="images/nutrient.jpg">
 
@@ -166,6 +180,7 @@ output:
   
 ## Global plant C sink: Climate warming
 <hr>
+**Question: What is the role of climate warming on the plant carbon sink?**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:400px" SRC="images/surfacetemp.jpg">
 
@@ -176,7 +191,7 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/tempresponse.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/tempresponse.png">
 
 * **Plants like higher temperatures to a degree**
     + faster rate of photosynthesis (limited)
@@ -191,10 +206,12 @@ output:
 * **Dependent on stomatal behavior**
 
 <br/>
+<br/>
+<br/>
 
-* **Warming may also mean &#8595; precipitation**
+* **Warming may also mean &#8595; precipitation, ↑ droughts, ↑ wildfires, ↑ heatwaves**
 
-## Global plant C sink: Respiration
+## Global plant C source: Respiration
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/respiration.png">
@@ -226,11 +243,11 @@ output:
 
 <br/>
 
-* **Why might plants struggle in new precipitation regime**
+* **Why might plants struggle in new precipitation regimes?**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:725px; WIDTH:300px; HEIGHT:450px" SRC="images/acclimation.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:725px; WIDTH:330px; HEIGHT:450px" SRC="images/acclimation.png">
 
 ## Climate changes are just part of global change
 <hr>
@@ -263,8 +280,6 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 60%;">
-
 * **Greening since 1980's reduced warming ~0.2C**
 
 <br/>
@@ -283,8 +298,8 @@ output:
 
 <br/>
 
-* **Plant carbon sink does not fix global carbon imbalance**
+* **Plant carbon sink alone CAN not fix global carbon imbalance**
 
-</div>
+
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/green.jpg">
