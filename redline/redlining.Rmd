@@ -37,10 +37,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:310px; LEFT:560px; WIDTH:450px; HEIGHT:350px" SRC="images/uhi.png">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/uhi2.png">
-
 ## Who Gets the Green?
 <hr>
 
@@ -118,10 +114,13 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:500px" SRC="images/rowhome.jpeg">
 
+## 
 
-## Its time for: Side Quest
-<hr>
+<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/uhi2.png">
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/baltimore.png">
+<!-- ## Its time for: Story Quest -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/baltimore.png"> -->
 
 
