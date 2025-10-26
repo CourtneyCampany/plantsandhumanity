@@ -22,9 +22,9 @@ output:
 <br/>
 
 * **Classical Biotechnology (1800-1945)**
-    + crossbreeding of cotton (100 of varieties)
+    + crossbreeding of cotton (100s of varieties)
     + first corn hybrid invented, then commercialized
-    + Haber Bosch process
+    + Haber Bosch process (commerical fertilizer)
 
 </div>
 
@@ -40,36 +40,39 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:385px; LEFT:645px; WIDTH:300px; HEIGHT:300px" SRC="images/apple.jpg">
+<IMG STYLE="position:absolute; TOP:395px; LEFT:645px; WIDTH:280px; HEIGHT:280px" SRC="images/apple.jpg">
 
 ## Intent Behind Plant Biotechnology
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 55%;">
 
-* **Identify promising traits and breed/engineer into crop plants**
+* **Identify promising traits and breed/engineer them into crop plants**
+    + intent the same for traditional plant breeding
 
 <br/>
 
-* **Intent the same for traditional plant breeding**
+* **Introduce herbicide resistance into crop varieties with large yields or vice-versa**
 
 <br/>
 
-* **Introduce herbicide resistance into wheat variety with large grain size or vice- versa**
+* **Speed matters! Current biotechnology works faster than traditional breeding**
 
 <br/>
 
-* **Speed matters! Current biotechnology works faster**
 </div>
 
-<IMG STYLE="position:absolute; TOP:230px; LEFT:585px; WIDTH:500px; HEIGHT:350px" SRC="images/corn.jpg">
+<div style="float: left; width: 99%;">
+
+<span style="color: red;">**70-40 million people are expected to be added to the world's population each year for the next 30 years. Without biotechnology, will we be able to increase the availability of affordable basic food?**</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:585px; WIDTH:500px; HEIGHT:350px" SRC="images/corn.jpg">
 
 ## Cell and Tissue Culture
 <hr>
-<br/>
-<br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:35px; WIDTH:400px; HEIGHT:400px" SRC="images/tissue.jpg">
@@ -81,13 +84,18 @@ output:
 
 <br/>
 
+
+* **Plants are easy to clone from single cells because many cells can revert to a flexible starter state and then grow into an entire new plant with simple hormone cues**
+
+<br/>
+
 * **Viruses are less common in stem tissues...**
 
 <br/>
 
 * **Rates of mutations appear greater in cell cultures**
     + study: 13 unique traits from 240 tomato plantlets
-    + avenue to test for resistance
+    + avenue to screen for new traits
 
  </div>   
     
@@ -103,13 +111,14 @@ output:
  
  <br/>
  
-* **Marker-assisted selection: screening seedlings for DNA sequence**
+* **Marker-assisted selection: screening young seedlings for a specific DNA sequence**
     + large fruit size
     + disease resistance
 
 <br/>
 
-* **Are possible because of the &#8593; # of plant genomes**
+* **Possible because of the &#8593; # of plant genomes**
+    + high throughput growth environments
     + gene editing and genetic engineering
 
 </div>
@@ -132,25 +141,30 @@ output:
 
 <br/>
 
-* **Foreign genes inserted with Ti plasmid**
-    + useful in dicots
+</div>
+
+
+
+<div style="float: left; width: 99%;">
+
+* **Foreign genes inserted with bacterial plasmid**
+    + T1 plasmid causes tumor growth, tumor genes suppressed, plasmid enters cell nucleus safely and incorporates new target genes
 
 <br/>
 
 * **75% of processed foods in US contain ingredients from GM plants**
+    + ~90% of GM staple crops are transgenic
+    
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/transgenic.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/transgenic.jpg">
 
 <!-- ## -->
 
 <!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/transgenic2.jpg"> -->
 
-## Herbicide Resistance 
+## Case Study: Herbicide resistance 
 <hr>
-<br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 51%;">
 
@@ -160,7 +174,11 @@ output:
 
 <br/>
 
-* **Sustainable no-till agriculture needs herbicides**
+* **Sustainable no-till agriculture may still need herbicides (at larger scales)**
+
+<br/>
+
+* **Glyphosate is the most widely used herbicide in agriculture, globally**
 
 <br/>
 
@@ -177,21 +195,21 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/wheat.jpg">
 
-## Insect Resistance
+## Case study: Insect resistance
 <hr>
 <br/>
 
 <div style="float: left; width: 55%;">
 
 * **Bacillus thuringiensis = soil bacterium that produces proteins with insecticide properties**
-    + >1,000 strains isolated
-    + 200 different proteins
+    + 1,000+ strains isolated
+    + 200 different useful proteins
 
 <br/>
 
 * **Bt crops commercially planted in 1996**
     + corn, cotton & potatoes
-    + >60% of US corn now express Bt toxins
+    + 85+% of US corn acres now express Bt toxins
 
 <br/>
 
@@ -243,14 +261,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:745px; WIDTH:325px; HEIGHT:225px" SRC="images/apple2.jpg">
 
-## Disease Resistance
+## Case study: Disease resistance
 <hr>
 
 <div style="float: left; width: 55%;">
 
 * **Viral genes have been inserted into various plants**
-    + viral coat proteins turned off
-    + mechanism unknown
+    + insert a fragment of the virus’s genome
+    + plant’s immune machinery “patrols” for matching viral RNA.
  
  <br/>
  
@@ -264,7 +282,7 @@ output:
 
 <br/>
 
-* **Research now underway to engineer blight resistance in wheat**
+* **Research ongoing to engineer blight resistance in wheat**
 
 </div>
 
@@ -314,7 +332,7 @@ output:
  <br/>
  
 * **Do we really know the impacts of transferring genes?**
-    + some countries only use GM crops from animal feed
+    + some countries only use GM crops for animal feed
  
   <br/>
   
@@ -323,35 +341,52 @@ output:
  <br/>
  
 * **What happens when weeds become resistant to glyphosate?**
-    + 38 already have (2014)
+    + 59 already have
 
 ## Gene Editing: CRISPR/Cas9
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/fungi2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/fungi2.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mushroom.jpg">
+<IMG STYLE="position:absolute; TOP:290px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/mushroom.jpg">
 
-<!-- ## Cons of genetic engineering -->
-<!-- <hr> -->
+<div style="float: left; width: 99%;">
 
-<!-- * **Herbicide-resistance or insect-resistance genes could spread** -->
-<!--     + from  engineered crops to wild relatives -->
-<!--     + create weeds that are difficult to control -->
+**Consumer gene-edited foods are on shelves: Japan’s high-GABA tomato was the first CRISPR food sold to the public (2021), showing a path for nutrition-oriented edits**
 
-<!-- * **Does the USDA require sufficient precautions to prevent the spread of genes from engineered plants to their wild relatives?** -->
+</div>
 
-<!-- <br/> -->
+<div style="float: left; width: 55%;">
 
-<!-- * **Bioengineered products could wipe out the major exports of developing nations** -->
-<!--     + bacterium under development to produces vanilla flavoring -->
-<!--     + could eliminate markets for Madagascar vanilla beans -->
+<br/>
+<br/>
 
+**Disease-resistant citrus moves forward in the U.S.: USDA said a CRISPR-edited orange with tolerance to citrus greening (HLB) isn’t subject to biotech regs—clearing the way for commercialization**
 
-<!-- 4. Biological control may solve the problem, cheaper and more effectively, as shown with the work on the cassava mealybug by Dr. Hans Herren, winner of the 1995 World Food Prize -->
+<br/>
 
-<!-- ## Pros of genetic engineering -->
-<!-- <hr> -->
+**Climate-smart edits: Tweaking stomatal density preserves photosynthesis while improving drought water-use efficiency in rice**
 
-<!-- Almost 100 million people are expected to be added to the world's population each year for the next 30 years -->
-<!-- a. some believe that without biotechnology, we won't be able to increase the availability of affordable basic food. -->
+</div>
+
+## Cons of genetic engineering
+<hr>
+
+* **Herbicide-resistance or insect-resistance genes could spread**
+    + from  engineered crops to wild relatives
+    + create weeds that are difficult to control
+
+<br/>
+
+* **Does the USDA require sufficient precautions to prevent the spread of genes from engineered plants to their wild relatives?**
+
+<br/>
+
+* **Bioengineered products could wipe out the major exports of developing nations**
+    + bacterium under development to produces vanilla flavoring
+    + could eliminate markets for Madagascar vanilla beans
+
+<br/>
+
+* **Biological control may solve the problem, cheaper and more effectively, as shown with the work on the cassava mealybug by Dr. Hans Herren, winner of the 1995 World Food Prize**
