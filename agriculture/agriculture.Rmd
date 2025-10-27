@@ -35,7 +35,7 @@ output:
  
  </div>
  
-## Foraging Societies
+## Foraging societies
 <hr>
 <br/>
 
@@ -47,7 +47,7 @@ output:
     
 <br/>
 
-* **In Homo spp, smarter, cooperative foraging for high-calorie, high-quality foods fed more energy to the body, which made it possible to afford and then favor bigger, more expensive brains!!**
+* **In Homo spp; smarter, cooperative foraging for high-calorie, high-quality foods fed more energy to the body, which made it possible to afford and then favor bigger, more expensive brains!!**
 
 <br/>
 
@@ -60,12 +60,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/gather.jpg">
 
-## How Native Americans are fighting a food crisis
-<hr>
+<!-- ## How Native Americans are fighting a food crisis -->
+<!-- <hr> -->
 
-https://gather.film/
+<!-- https://gather.film/ -->
 
-## Early Foragers
+## Early foragers
 <hr>
 <br/>
 
@@ -95,7 +95,7 @@ https://gather.film/
 
 </div>
 
-## Modern Foragers
+## Modern foragers
 <hr>
 <br/>
 
@@ -124,10 +124,10 @@ https://gather.film/
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:475px; HEIGHT:375px" SRC="images/kung.jpg">
 
-## Paleo Diet (Caveman's diet)
+## Paleo diet (Caveman's diet)
 <hr>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 50%;">
 
 * **Recent diet trends relate to foraging past**
     + similar to hunter-gatherer periods
@@ -152,7 +152,7 @@ https://gather.film/
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/paleo.jpg">
 
-## Agriculture: Revolution of Evolution?
+## Agriculture: Revolution of evolution?
 <hr>
 <br/>
 <br/>
@@ -160,7 +160,7 @@ https://gather.film/
 
 <div style="float: right; width: 63%;">
 
-* **Archaeology shows plant cultivation started 10,000 years ago**
+* **Archaeology shows plant cultivation started ~10,000 years ago**
  
 <br/>
  
@@ -178,76 +178,39 @@ https://gather.film/
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:350px; HEIGHT:450px" SRC="images/revolution.jpg">
 
-## European Stone Age
+## End of an ice age....Neolithic Revolution
 <hr>
 <br/>
 
-<div style="float: left; width: 59%;">
+**Around 10,000 to 12,000 years ago, the Earth's climate began to warm significantly, marking the end of the last glacial period**
 
-* **Farming spread from Near East**
-    + first to Turkey, Greece and Bulgaria
-    + ~7500 years ago farming spread to rest of Europe
-    
-<br/>
- 
-* **DNA from ancient European foragers compared to earliest farmers**
-    + 15,000 - 4,300 years ago
-    + *not related*!!!
-    
 <br/>
 
-* **DNA also compared to modern Europeans**
-    + modern Europeans related to farmers, not foragers
-    + first farmers were immigrants, that spread agriculture
-    
+<div style="float: right; width: 52%;">
+
+**Created a more stable environment with a longer growing season and more varied plant life**
+
+<br/>
+
+**Climate shifts led to wildfires and soil erosion, which may have created fertile valley basins**
+
+<br/>
+
+**Allowed humans to stay in one area and develop farming/animal husbandry instead of relying on foraging**
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:635px; WIDTH:425px; HEIGHT:375px" SRC="images/europe.jpeg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:40px; WIDTH:440px; HEIGHT:400px" SRC="images/dryas.png">
 
-## Theory of Latitudinal Spread (Jared Diamond)
+## Early sites of agriculture
 <hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:570px; WIDTH:500px; HEIGHT:300px" SRC="images/latspread.jpg">
-
-<div style="float: left; width: 55%;">
-
-* **Theory of development & spread of agriculture**
-    + certain areas of the world & not it others
-    + 0.7 miles per year
-    
-<br/>
- 
-* **East-West orientation in Eurasia**
-    + crops & livestock outward from fertile crescent
-    
 <br/>
 
-* **North-South orientation in Americas**
-    + crops from Mexico to US (.5 miles/year)
-    + llama spread Peru to Ecuador (.2 miles/year)
+* **Farming didn’t appear in one place and spread everywhere**
 
-<br/>
-
-* **Direction of domestication interacts with climate!**
-    + moving the agricultural knowledge N-S includes big climate shifts, which slowed spread
-    
-</div>
-
-## Global Population tied to Agriculture
-<hr>
-**The human population increased from  ~5 million to 50 million during and shortly after the first agricultural revolution. This increase was due to a more stable and abundant food supply from farming, which allowed for a larger, settled population that could also support higher birth rates. **
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/humanpop.jpg">
-
-## Early Sites of Agriculture
-<hr>
 <br/>
 
 <div style="float: left; width: 50%;">
-
-* **Farming didn’t “appear in one place and spread everywhere.”**
-
-<br/>
 
 * **Started independently multiple times:**
     + Fertile Crescent (wheat/barley) 
@@ -260,11 +223,11 @@ https://gather.film/
 
 <br/>
 
-* **Then those cores radiated outward and mixed.**
+* **Those cores radiated outward and mixed**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:510px; WIDTH:600px; HEIGHT:400px" SRC="images/map.png">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:510px; WIDTH:600px; HEIGHT:400px" SRC="images/map.png">
 
 ## The Near East: Fertile Crescent (~11,500 years ago)
 <hr>
@@ -279,7 +242,7 @@ https://gather.film/
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/fertile.png">
 
-## The Near East: Fertile Crescent
+## The Near East: Fertile Crescent (~11,500 years ago)
 <hr>
 <br/>
 
@@ -291,18 +254,17 @@ https://gather.film/
 <br/>
 
 * **Animals domesticated first**
-    + sheep, cattle and goats
+    + sheep, cattle, goats, and cats!
+
+<br/>
+
+* **Plants: Cereals einkorn and emmer wheat, barley, legumes like lentil, pea, and chickpea**
 
 <br/>
 
 * **Jarmo site: 24 houses with ~150 people**
     + 9,000 years ago
     + domesticated grains + foraging
-
-<br/>
-
-* **Fun fact: Cats domesticated 4,000 years ago**
-    + evidence from C4 plants!
 
 </div>
 
@@ -373,14 +335,14 @@ https://gather.film/
 ## The role of Appalachia in the history of agriculture
 <hr>
 
-* **Long before European colonization — and even before corn became dominant — Indigenous peoples in and around the Appalachian region were farming and domesticating their own plants**
+* **Indigenous peoples in and around the Appalachian region were farming and domesticating their own plants**
     + called the Eastern Agricultural Complex.
 
 <br/>
 
 * **Key native plants were managed, tended, and selectively bred in river valleys that cut through the Appalachian region**
     + Ohio River, Tennessee River, Cumberland River
-    + goosefoot seeds, sumpweed oily seeds, 
+    + goosefoot seeds, sumpweed seeds (oil), 
     + sunflower (seeds and oil), squash, barley (starch)
     
 <br/>
@@ -391,14 +353,78 @@ https://gather.film/
 
 <br/>
 
-* **Maize, beans, and squash (“Three Sisters”) do become staples**
+* **Maize, beans, and squash (“Three Sisters”) became staples later**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:330px; LEFT:620px; WIDTH:400px; HEIGHT:350px" SRC="images/eac.png">
 
+## Theory of Latitudinal Spread (Jared Diamond)
+<hr>
 
-## Characteristics of Domesticated Plants
+<IMG STYLE="position:absolute; TOP:225px; LEFT:570px; WIDTH:500px; HEIGHT:300px" SRC="images/latspread.jpg">
+
+<div style="float: left; width: 55%;">
+
+* **Theory of development & spread of agriculture**
+    + certain areas of the world & not it others
+    + 0.7 miles per year
+    
+<br/>
+ 
+* **East-West orientation in Eurasia**
+    + crops & livestock outward from fertile crescent
+    
+<br/>
+
+* **North-South orientation in Americas**
+    + crops from Mexico to US (.5 miles/year)
+    + llama spread Peru to Ecuador (.2 miles/year)
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 99%;">
+
+* **Direction of domestication interacts with climate!**
+    + moving the agricultural knowledge N-S includes big climate shifts, which slowed spread
+    
+</div>
+
+## European Stone Age
+<hr>
+<br/>
+
+<div style="float: left; width: 59%;">
+
+* **Farming spread from Near East**
+    + first to Turkey, Greece and Bulgaria
+    + ~7500 years ago farming spread to rest of Europe
+    
+<br/>
+ 
+* **DNA from ancient European foragers compared to earliest farmers**
+    + 15,000 - 4,300 years ago
+    + *not related*!!!
+    
+<br/>
+
+* **DNA also compared to modern Europeans**
+    + modern Europeans related to farmers, not foragers
+    + first farmers were immigrants, that spread agriculture
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:635px; WIDTH:425px; HEIGHT:375px" SRC="images/europe.jpeg">
+
+## Global population tied to agriculture
+<hr>
+**The human population increased from  ~5 million to 50 million during and shortly after the first agricultural revolution. This increase was due to a more stable and abundant food supply from farming, which allowed for a larger, settled population that could also support higher birth rates. **
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/humanpop.jpg">
+
+## Characteristics of domesticated plants
 <hr>
 <br/>
 
@@ -419,20 +445,20 @@ https://gather.film/
     
 <br/>
 
-* **Example: Ensheating husks or non-shattering heads in corn and wheat**
+* **Example: Ensheathing husks in corn or non-shattering heads wheat**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:560px; WIDTH:450px; HEIGHT:450px" SRC="images/sheath.png">
 
-## Centers of Plant Domestication
+## Origins of key domesticated plants
 <hr>
 <br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:600px; HEIGHT:400px" SRC="images/croporigins.png">
 
-<div style="float: right; width: 45%;">
+<div style="float: right; width: 41%;">
 
 * **Vavilov (Russian botanist) proposed 8 centers of crop domestication**
     + highest diversity = origin
