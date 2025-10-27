@@ -21,22 +21,25 @@ output:
     
 <br/>
 
-* **10,000 years ago: foraging to farming**
+* **~10,000 years ago: foraging to farming**
     
 <br/>
 
 * **Agriculture arose in several places**
+    + the notion that the fertile cresent was the start of agriculture is now quite true
 
 <br/>
 
 * **Farming = basis of advanced civilizations**
     + old and new worlds
-    
+ 
+ </div>
+ 
 ## Foraging Societies
 <hr>
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 52%;">
 
 * **Foragers gather food provided by nature**
     + still practiced by indigenous cultures
@@ -44,8 +47,7 @@ output:
     
 <br/>
 
-* **Selected for bipedalism in the *Homo* genus?**
-    + or brain size increases?
+* **In Homo spp, smarter, cooperative foraging for high-calorie, high-quality foods fed more energy to the body, which made it possible to afford and then favor bigger, more expensive brains!!**
 
 <br/>
 
@@ -78,7 +80,7 @@ https://gather.film/
 <br/>
     
 * **Coprolites: fossilized poop!**
-    + pollen forensics
+    + pollen forensics helps recreate diets
 
 <br/>
 
@@ -127,13 +129,13 @@ https://gather.film/
 
 <div style="float: left; width: 55%;">
 
-* **Recent diet trend returning to foraging past**
+* **Recent diet trends relate to foraging past**
     + similar to hunter-gatherer periods
 
 <br/>
     
 * **No dairy, refined grains or sugars or legumes**
-    + no available for past foragers
+    + none available for past foragers
     
 <br/>
 
@@ -227,22 +229,45 @@ https://gather.film/
 <br/>
 
 * **Direction of domestication interacts with climate!**
+    + moving the agricultural knowledge N-S includes big climate shifts, which slowed spread
     
 </div>
 
 ## Global Population tied to Agriculture
 <hr>
+**The human population increased from  ~5 million to 50 million during and shortly after the first agricultural revolution. This increase was due to a more stable and abundant food supply from farming, which allowed for a larger, settled population that could also support higher birth rates. **
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/humanpop.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/humanpop.jpg">
 
-## Early Sites of Agriculture (Far East ~11,500 years ago)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/map.png">
-
-## The Near East: Fertile Crescent
+## Early Sites of Agriculture
 <hr>
 <br/>
+
+<div style="float: left; width: 50%;">
+
+* **Farming didn’t “appear in one place and spread everywhere.”**
+
+<br/>
+
+* **Started independently multiple times:**
+    + Fertile Crescent (wheat/barley) 
+    + China (millet/rice)
+    + New Guinea (taro/bananas)
+    + Africa (sorghum/millet/rice)
+    + Mesoamerica (maize/beans/squash)
+    + Andes (potato/quinoa/llama)
+    + Eastern N. America (native seed crops)
+
+<br/>
+
+* **Then those cores radiated outward and mixed.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:510px; WIDTH:600px; HEIGHT:400px" SRC="images/map.png">
+
+## The Near East: Fertile Crescent (~11,500 years ago)
+<hr>
 <br/>
 
 <div style="float: left; width: 48%;">
@@ -313,7 +338,7 @@ https://gather.film/
 ## The New World: Mexico and Peru
 <hr>
 
-<div style="float: left; width: 48%;">
+<div style="float: left; width: 99%;">
 
 * **Timing of plant domestication matches Fertile Crescent and Far East**
 
@@ -323,6 +348,10 @@ https://gather.film/
     + squash, corn, peppers, beans, avocado & potatoes
 
 <br/>
+
+</div>
+
+<div style="float: left; width: 48%;">
 
 * **Fewer animals domesticated**
     + dogs, turkeys, alpacas & guinea pigs
@@ -339,7 +368,35 @@ https://gather.film/
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/corn.jpg">
+<IMG STYLE="position:absolute; TOP:295px; LEFT:580px; WIDTH:500px; HEIGHT:385px" SRC="images/corn.jpg">
+
+## The role of Appalachia in the history of agriculture
+<hr>
+
+* **Long before European colonization — and even before corn became dominant — Indigenous peoples in and around the Appalachian region were farming and domesticating their own plants**
+    + called the Eastern Agricultural Complex.
+
+<br/>
+
+* **Key native plants were managed, tended, and selectively bred in river valleys that cut through the Appalachian region**
+    + Ohio River, Tennessee River, Cumberland River
+    + goosefoot seeds, sumpweed oily seeds, 
+    + sunflower (seeds and oil), squash, barley (starch)
+    
+<br/>
+
+<div style="float: left; width: 51%;">
+
+* **Patchy geography supported lots of parallel small-scale domestication experiments**
+
+<br/>
+
+* **Maize, beans, and squash (“Three Sisters”) do become staples**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:330px; LEFT:620px; WIDTH:400px; HEIGHT:350px" SRC="images/eac.png">
+
 
 ## Characteristics of Domesticated Plants
 <hr>
