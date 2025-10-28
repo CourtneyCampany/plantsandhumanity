@@ -118,6 +118,38 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:610px; WIDTH:450px; HEIGHT:450px" SRC="images/proteins.jpg">
 
+## Complementary Proteins and Food Culture
+<hr>
+
+<div style="float: left; width: 60%;">
+
+* **Humans need 9 essential amino acids from diet. Plants often have “incomplete” amino acid profiles alone**
+
+<br/>
+
+* **Traditional cuisines solve this by pairing crops:**
+    + Corn + beans (Mesoamerica)
+    + Rice + soy/leafy greens (East Asia)
+    + Lentils + wheat flatbread (South Asia / Middle East)
+
+<br/>
+
+* **This is agricultural engineering through culture**
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 99%;">
+
+* **People didn’t “accidentally” invent tortillas + beans, dal + roti, rice + tofu/greens. These pairings systematically close amino acid gaps**
+    + traditional agricultural societies have been doing complete-amino-acid engineering for thousands of years
+    + cuisine is just applied plant biochemistry
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:675px; WIDTH:350px; HEIGHT:350px" SRC="images/dal.jpg">
+
 ## Gluten and Celiac Disease
 <hr>
 
@@ -155,6 +187,38 @@ output:
 
 </div>
 
+## Vegetable Oils and Global Cooking
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Humans need certain fatty acids we cannot make ourselves**
+    + Linoleic, linolenic, arachidonic acids
+    + oils are more than just a cooking medium
+
+<br/>
+
+* **Plant oils deliver these:**
+    + soybean oil, corn oil, sunflower oil
+    + olive oil, palm oil, coconut oil
+
+<br/>
+
+* **Unsaturated fats: generally linked to better cardiovascular health than animal saturated fats**
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 99%;">
+
+* **BUT: source matters → palm oil expansion = tropical deforestation**
+    + many fast food resturants use a mix of oils (with palm oil) for frying
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/palmoil.jpg">
+
 ## Micro-Nutrients from Plants
 <hr>
 <br/>
@@ -186,7 +250,6 @@ output:
 
 <div style="float: left; width: 58%;">
 
-
 * **Minerals (inorganic) components of complex molecules**
     + at least 18 minerals needed
 
@@ -205,6 +268,40 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:500px; HEIGHT:350px" SRC="images/heme.jpg">
+
+## Plant Secondary Metabolites = Flavor, Medicine, Addiction
+<hr>
+
+<div style="float: left; width: 58%;">
+
+* **Plants play biochemical chess. They make bitter, spicy, numbing, stimulant molecules to defend themselves.**
+
+<br/>
+
+* **Many familiar flavors are plant defense compounds:**
+    + Caffeine (coffee, tea)
+    + Capsaicin (chile peppers)
+    + Menthol (mint)
+    + Vanillin (vanilla pods)
+
+<br/>
+
+* **Humans turned these “don’t eat me” chemicals into:**
+    + Medicine
+    + Spice/flavor
+    + Ritual / daily habits (coffee, tea)
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 99%;">
+
+* **Humans said, “Cool, I will now build an economy and a daily routine around that molecule.”**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/coffee.png">
 
 ## Plant-Based Diets
 <hr>
@@ -229,6 +326,66 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/vegan.jpg">
+
+## Plant Foods and Health Messaging
+<hr>
+
+<div style="float: right; width: 57%;">
+
+* **Diets rich in whole plant foods:**
+    + Lower heart disease & cholesterol
+    + Lower diabetes risk (fiber slows sugar spikes)
+    + Lower risk of some cancers via fiber fermentation in the gut. 
+
+<br/>
+
+* **BUT: Plant-based” can = ultra-processed**
+
+<br/>
+
+* **Food industry can take a plant, remove the bran and fiber (lots of micronutrients and fiber), and leave you with mostly starch**
+    + White flour, white rice, corn syrup = mostly refined starch/endosperm with fiber removed. 
+
+<br/>
+
+* **Question: Is this still “plant healthy,” or did we just strip the plant down to sugar?**
+    + what is in your: Mcdonald's sweet tea, white bread, or granola bar?
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:20px; WIDTH:400px; HEIGHT:500px" SRC="images/uncrust.jpg">
+
+## Luxury Crops vs Staple Crops
+<hr>
+
+<div style="float: right; width: 57%;">
+
+* **Staple crops = survival calories that are the foundations of diet (and economies)**
+    + Wheat, maize (corn), rice are the main cereal grains
+
+<br/>
+
+* **Massive starch reserves in seeds/endosperm feed billions of people daily**
+    + dominate global calorie intake
+
+<br/>
+
+* **Luxury crops = high value, social power**
+    + Sugarcane, cacao, coffee, tea, tobacco, black pepper
+
+<br/>
+
+* **Luxury crops don’t keep you alive, but do control trade**
+    + historically, luxury crops drove colonization, slavery, plantations, and global shipping routes
+
+<br/>
+
+* **Plants don’t just shape ecosystems, they shape economics and geopolitics**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:440px; HEIGHT:500px" SRC="images/trans.png">
 
 ## The Staple Crops (Wheat, Maize & Rice)
 <hr>
@@ -349,3 +506,59 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:655px; WIDTH:400px; HEIGHT:400px" SRC="images/rice.jpg">
+
+## Rice as Engineered Ecology
+<hr>
+
+* **Rice feeds ~2 billion people globally. Thousands of varieties bred from flood-tolerant ancestors**
+
+<br/>
+
+* **Rice plants have air spaces in stems (aerenchyma) → O₂ from leaves can diffuse down to submerged roots**
+
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Flooded paddies: Suppress many weeds + support Azolla, a tiny floating fern that hosts N-fixing cyanobacteria = natural fertilizer**
+    +  act like little engineered wetlands
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:525px; WIDTH:550px; HEIGHT:350px" SRC="images/ricepaddy.png">
+
+## Food Security vs Monoculture Risk
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Staple crops are normally grown in huge monocultures**
+    + cultivation of a single crop in a given area
+    + we are very dependent on a tiny group of grasses to not starve
+
+<br/>
+
+* **Growing in single-crop fields over huge areas, is efficient — until its not**  
+    + Disease / pests
+    + Climate extremes
+    + Political instability in trade
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 99%;">
+
+* **One new pathogen, one mega-drought, one supply-chain shock, and millions of people are at risk**
+
+<br/>
+
+* **Crop genetic diversity = global insurance**
+    + Wheat has many cultivars bred for different protein content and climate tolerances
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/monoculture.jpg">
+
+    
