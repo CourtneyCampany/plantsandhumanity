@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## Plants Furnish Society with More Than Food
+## Plants furnish society with more than food
 <hr>
 <br/>
 <br/>
@@ -30,7 +30,7 @@ output:
     
 </div>
 
-## The Most Vintage Crafts: Basket Weaving
+## The most vintage crafts: Basket weaving
 <hr>
 
 <div style="float: left; width: 55%;">
@@ -60,7 +60,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/baskets.jpg">
     
-## Plant Fibers
+## Plant fibers
 <hr>
 
 <div style="float: left; width: 60%;">
@@ -89,7 +89,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:375px; HEIGHT:450px" SRC="images/fibercell.png">
 
-## RSW1 Gene Breakthrough
+## RSW1 gene breakthrough
 <hr>
 <br/>
 <br/>
@@ -107,15 +107,16 @@ output:
 <br/>
 
 * **Can scientists manipulate cellulose content of plants used for fibers?**
+    + recent cotton work shows proteins can thicken secondary walls and improve fiber traits
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/cellulose.jpg">
 
-## Fiber Types
+## Fiber types
 <hr>
 
-* **Natural fibers are plant or animals based**
+* **Natural fibers are plant or animal based**
     + synthetics may still use natural sources
     + rayon still has cellulose from wood pulp
 
@@ -137,7 +138,27 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:300px; HEIGHT:450px" SRC="images/fiber.jpg">
 
-## Extracting fibers and Spinning Yarn
+## Natural rubber & latex: From trees to tires
+<hr>
+
+**Natural rubber is extracted from latex, a white milky liquid that can be found in approximately 10 per cent of all plants**
+    + Rubber tree, dandelions and lettuces
+
+<br/>
+
+**Latex properties: long, coiled, and flexible chains are held together by weak forces. Structure allows the material to be stretched easily (uncoiling the chains) and then return to its original shape**
+
+<br/>
+
+**Vulcanization = chemical process that heats rubber with a curing agent (sulfur() to create cross-links between polymer chains**
+    + makes it stronger, more durable, and more elastic
+    +  discovered by Charles Goodyear and creates increased tensile strength, resistance to tearing, and better temperature tolerance. 
+
+<br/>
+
+**Applications beyond tires: medical gloves, elastic bands, vibration isolators**
+
+## Extracting fibers and spinning yarn
 <hr>
 <br/>
 
@@ -152,7 +173,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/ginning.png">
 
-## Extracting Fibers and Spinning Yarn
+## Extracting fibers and spinning yarn
 <hr>
 <br/>
 
@@ -209,7 +230,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:570px; WIDTH:500px; HEIGHT:275px" SRC="images/peru.jpg">
 
-## Cotton Plant
+##
+**Genetic and archaeological evidence suggests that the 4 commercially grown species of cotton—and possibly a few others—were domesticated independently by at least 4 groups of people around the world**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/cottonmap.jpg">
+
+## Cotton plant
 <hr>
 <br/>
 
@@ -236,7 +262,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/cotton.png">
 
-## Bioengineered Cotton
+## Bioengineered cotton
 <hr>
 
 <div style="float: left; width: 57%;">
@@ -269,7 +295,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:385px; LEFT:565px; WIDTH:500px; HEIGHT:300px" SRC="images/bollgard.jpg">
 
-## Linen: An Ancient Fabric
+## Linen: An ancient fabric
 <hr>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/flax.jpg">
@@ -298,12 +324,12 @@ output:
 
 </div>
 
-## Plant Fibers Vary by Region and Culture
+## Plant fibers vary by region and culture
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:460px" SRC="images/fiberplants.png">
 
-## Wood and Wood Products
+## Wood and wood products
 <hr>
 
 <div style="float: left; width: 59%;">
@@ -332,12 +358,35 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/trillion.png">
 
-## Billion to Trillion Tree Campaigns
+## Resins, gums & tannins: Sticky, film-forming & astringent plant chemistries
+<hr>
+
+**Resins (terpenoid-rich): pine rosin & turpentine → varnishes, adhesives, inks, fragrances**
+
+<br/>
+
+**Gums (polysaccharides): gum arabic (Acacia), tragacanth → stabilizers/emulsifiers in inks, paints, and food; printing & watercolor media**
+
+<br/>
+
+<div style="float: left; width: 55%;">
+
+**Tannins (polyphenols): leather tanning, natural mordants for dyeing; historical bark/leaf sources (oak, sumac, chestnut)**
+
+<br/>
+
+**Industrial relevance: viscosity control, film formation, adhesion, crosslinking.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/gumarabic.jpg">
+
+## Billion to trillion tree campaigns
 <hr>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:75px; WIDTH:1000px; HEIGHT:400px" SRC="images/billiontrees.jpg">
 
-## Hardwoods vs Softwoods
+## Hardwoods vs softwoods
 <hr>
 <br/>
 
@@ -363,7 +412,29 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:450px; HEIGHT:450px" SRC="images/hardness.jpg">
 
-## Wood for Fuel
+## Engineered wood & bio-composites
+<hr>
+<br/>
+
+**Engineered wood—like plywood is strong for its weight, easy to prefabricate, and locks up carbon.**
+
+<br/>
+
+**Bio-composites mix plant fibers (flax/hemp) or wood with plastics for things like decking and furniture**
+
+<br/>
+
+**Newer lignin and soy/corn adhesives reduce formaldehyde, improving indoor air. Key caveats: moisture, creep over time, connection design, and how to recycle at the end**
+
+<br/>
+
+**Performance trade-offs: moisture uptake (warping/sag), connecting pieces, recyclability**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:440px; HEIGHT:500px" SRC="images/hardness.jpg">
+
+## Wood for fuel
 <hr>
 <br/>
 
@@ -382,9 +453,13 @@ output:
     + burns at higher temperatures
     + caused the decimation of European forests
 
+<br/>
+
+* **Charcoal today: ~70 Mt/yr, Africa-led production; vital for household cooking, crude iron production**
+
 <IMG STYLE="position:absolute; TOP:180px; LEFT:625px; WIDTH:425px; HEIGHT:450px" SRC="images/charcoal2.jpg">
 
-## Pulp and Paper
+## Pulp and paper
 <hr>
 
 <div style="float: left; width: 55%;">
@@ -414,9 +489,34 @@ output:
  
 <IMG STYLE="position:absolute; TOP:175px; LEFT:560px; WIDTH:500px; HEIGHT:340px" SRC="images/paper.jpg">
 
-## The Future of Paper: Hemp? Again?
+## The future of paper: Hemp? again?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hemp2.jpg">
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/hemp3.png">
+
+## Cellulosics & Bioplastics
+<hr>
+<br/>
+
+* **Wood pulp products: dissolving-grade cellulose from trees like eucalyptus, beech, spruce, pine**
+    + Rayon and lyocell are man-made cellulose fibers 
+    + Cellulose acetate is used for film, eyeglass frames, and tool handles.**
+
+<br/>
+
+* **Bioplastics are plastics made from biological sources or designed to biodegrade**
+    + Common types include PLA and PHAs—great for packaging and fibers
+    + limited by low heat resistance and the need for industrial composting
+    
+<br/>
+
+ </div>
+ 
+* **Environmental nuance: “bio-based” ≠ “biodegradable"**
+    + bio-based = made from biological sources (e.g., corn, sugarcane, wood pulp).
+    + biodegradable = can be broken down by microbes into CO₂, water, biomass under specific conditions 
+    + plastic can be bio-based but not biodegradable or biodegradable but fossil-based
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/bioplastic.png">
