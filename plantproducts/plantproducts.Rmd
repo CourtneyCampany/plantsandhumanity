@@ -32,7 +32,9 @@ output:
 
 * **Health advocates & advertisers promote diets based on these requirements**
     + plants can satisfy most of these resource needs
-    
+
+</div>
+
 ## Complex Carbohydrates from Plants
 <hr>
 
@@ -92,6 +94,7 @@ output:
 
 ## Plant-Based Proteins
 <hr>
+<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -109,10 +112,6 @@ output:
 * **Plant-based proteins are 'incomplete'**
     + do not contain all 9
     + varied plant diet needed
-
-<br/>
-
-* **Traditional people of Mexico eat corn and beans**
 
 </div>
 
@@ -143,8 +142,7 @@ output:
 <div style="float: left; width: 99%;">
 
 * **People didn’t “accidentally” invent tortillas + beans, dal + roti, rice + tofu/greens. These pairings systematically close amino acid gaps**
-    + traditional agricultural societies have been doing complete-amino-acid engineering for thousands of years
-    + cuisine is just applied plant biochemistry
+    + traditional agricultural societies have been doing complete-amino-acid engineering for thousands of years based of simple knowledge of what makes people healthy
 
 </div>
 
@@ -152,6 +150,7 @@ output:
 
 ## Gluten and Celiac Disease
 <hr>
+**Gluten is a group of storage proteins (mostly from wheat, also barley and rye)**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:750px; HEIGHT:400px" SRC="images/celiac.jpg">
 
@@ -222,17 +221,18 @@ output:
 ## Micro-Nutrients from Plants
 <hr>
 <br/>
-<br/>
 
-<div style="float: left; width: 53%;">
 
-* **Vitamins (organic) play a role as co-enzymes**
+<div style="float: left; width: 59%;">
+
+* **Vitamins (organic molecules) play a role as co-enzymes**
     + required for enzyme function
+    + only need milligrams or micrograms, but without them, metabolism falls apart
 
 <br/>
 
 * **Vitamin A (vision pigments) from yellow, orange and dark green vegetables and fruits**
-    + beta-carotene
+    + beta-carotene from plants converted to vitamin A
   
 <br/>
   
@@ -242,7 +242,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/scurvey.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:670px; WIDTH:350px; HEIGHT:450px" SRC="images/scurvey.jpg">
 
 ## Micro-Nutrients from Plants
 <hr>
@@ -251,13 +251,13 @@ output:
 <div style="float: left; width: 58%;">
 
 * **Minerals (inorganic) components of complex molecules**
-    + at least 18 minerals needed
+    + at least 18 minerals needed (iron, calcium, etc. )
 
 <br/>
     
 * **Iron deficiency is common in women and children**
     + only 10% of dietary iron absorbed
-    + Leafy greens, grains, legumes and dried fruits
+    + leafy greens, grains, legumes and dried fruits
     
 <br/>
 
@@ -267,10 +267,11 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:500px; HEIGHT:350px" SRC="images/heme.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:500px; HEIGHT:350px" SRC="images/heme.jpg">
 
 ## Plant Secondary Metabolites = Flavor, Medicine, Addiction
 <hr>
+<br/>
 
 <div style="float: left; width: 58%;">
 
@@ -295,18 +296,11 @@ output:
 
 </div>
 
-<div style="float: left; width: 99%;">
-
-* **Humans said, “Cool, I will now build an economy and a daily routine around that molecule.”**
-
-</div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/coffee.png">
 
 ## Plant-Based Diets
 <hr>
-<br/>
-<br/>
 <br/>
 
 <div style="float: right; width: 57%;">
@@ -322,7 +316,11 @@ output:
 * **Plant-based diets must be aware of deficiencies**
     + iron, Vitamin B & D, calcium
     + complementary plants for amino acids
-    
+
+<br/>
+
+* **Plant-based is not just moral branding — it’s a nutritional design challenge**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/vegan.jpg">
@@ -389,10 +387,11 @@ output:
 
 ## The Staple Crops (Wheat, Maize & Rice)
 <hr>
+**Civilizations, empires, and modern global trade networks have literally been built around stabilizing a reliable supply of these grains**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/staple.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/staple.png">
 
-## Grass Family Most Important to Humans
+## Grass Family (Poaceae) Most Important to Humans
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/grain2.png">
@@ -433,7 +432,7 @@ output:
 <br/>
  
 * **Einkorn wheat one of first cultivated species**
-    + domesticate from is 'non-shattering'
+    + domesticated form is 'non-shattering'
     + hybridized with 'goat grass' to create 'emmer wheat'
     + 'emmer wheat' crossed with another 'goat grass'
     + diploid &#8594; tetraploid &#8594; hexaploid
@@ -490,7 +489,7 @@ output:
  <br/>
  
 * **Originated from wild ancestor in flooded tropical lowlands**
-    + current: breed to grow any where 
+    + current: breed to grow anywhere 
  
  <br/>
  
