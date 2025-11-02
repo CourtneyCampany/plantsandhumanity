@@ -9,42 +9,38 @@ output:
 
 ## Plants furnish society with more than food
 <hr>
-<br/>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:575px; WIDTH:475px; HEIGHT:375px" SRC="images/plantbottle.jpg">
 
-<div style="float: left; width: 53%;">
+<div style="float: left; width: 51%;">
 
 * **Plants provided early societies with shelter, clothing and fuel**
     + humans have used biomass energy from plants (as fuels) for millenia
     
 <br/>
 
-* **Modern civilizations: plants provide various media for written communications**
-    
+* **Modern civilizations: plant-based products are key for our daily lives**
+    + housing: Wood and engineered timber 
+    + clothing & goods: Cotton, linen, hemp, fibers
+    + key products based off rubber, pulp & paper, adhesives* 
+
 <br/>
 
-* **Future civilizations: Are plant based products to answer to some of societies biggest problems**
-    + bioplastics?
+* **Future civilizations: Are plant-based products to answer to some of societies biggest problems**
+    + improvements in these products (e.g. bioplastics) will create sustainable solutions
     
 </div>
 
 ## The most vintage crafts: Basket weaving
 <hr>
 
-<div style="float: left; width: 55%;">
-
-* **Basketry present in every human culture**
+* **Basketry present in every human culture and oftern predates pottery**
     + tough to date, because perishable
-    + Egyption baskest = 10,000 years old
-    + predates pottery!!!
-    
-<br/>
-
-* **Early humans may have used bird's nests**
+    + Egyptian baskests = 10,000 years old
 
 <br/>
+
+<div style="float: left; width: 55%;">
 
 * **Basket making does cross gender barriers**
     + Pomo tribe in California 
@@ -55,10 +51,14 @@ output:
     + palm and coconut in tropics
     + tree parts in temperate regions
     + grasses in prairies
-    
+
+<br/>
+
+* **Connection to today: keeping cultural livelihoods wtih fair-trade income, and cultural history**  
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/baskets.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/baskets.jpg">
     
 ## Plant fibers
 <hr>
@@ -66,9 +66,8 @@ output:
 <div style="float: left; width: 60%;">
 
 * **Fiber: long tapering plant cells with cellulose**
-    + ground tissues: sclerenchyma cells
-    + thick cells walls
-    + lignin, tannin, pectin
+    + ground tissues: sclerenchyma cells (flexible)
+    + thick cells walls with lignin, tannin, pectin
     
 <br/>
 
@@ -77,23 +76,28 @@ output:
 
 <br/>
 
-* **Commercial fibers are elongate masses of plant material**
-    + not individual cells
+* **Provide cloth, rope, paper, etc for millennia**
+    + rope from flax 30,000 years ago
+    
+<br/>
+
+* **Commercial fibers = elongated cells processed together**
     + limited # of plant species
     
 <br/>
 
-* **Provide cloth, rope, paper, etc for millennia**
-    + rope from flax 30,000 years ago
+</div>
+
+<div style="float: left; width: 99%;">
+
+* **Now: across the entire supply chain, employees 200-300 million people**
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:375px; HEIGHT:450px" SRC="images/fibercell.png">
 
 ## RSW1 gene breakthrough
 <hr>
-<br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 45%;">
 
@@ -109,9 +113,18 @@ output:
 * **Can scientists manipulate cellulose content of plants used for fibers?**
     + recent cotton work shows proteins can thicken secondary walls and improve fiber traits
 
+<br/>
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/cellulose.jpg">
+<div style="float: left; width: 99%;">
+
+* **From discovery → products: guides today’s cotton fiber engineering**
+    + understanding RSW1 underpins stronger fibers + better processing
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:500px; WIDTH:600px; HEIGHT:440px" SRC="images/cellulose.jpg">
 
 ## Fiber types
 <hr>
@@ -136,27 +149,7 @@ output:
 2. soft fibers: clusters of phloem fibers
 3. hard/leaf fibers: veins of leaves
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:300px; HEIGHT:450px" SRC="images/fiber.jpg">
-
-## Natural rubber & latex: From trees to tires
-<hr>
-
-**Natural rubber is extracted from latex, a white milky liquid that can be found in approximately 10 per cent of all plants**
-    + Rubber tree, dandelions and lettuces
-
-<br/>
-
-**Latex properties: long, coiled, and flexible chains are held together by weak forces. Structure allows the material to be stretched easily (uncoiling the chains) and then return to its original shape**
-
-<br/>
-
-**Vulcanization = chemical process that heats rubber with a curing agent (sulfur() to create cross-links between polymer chains**
-    + makes it stronger, more durable, and more elastic
-    +  discovered by Charles Goodyear and creates increased tensile strength, resistance to tearing, and better temperature tolerance. 
-
-<br/>
-
-**Applications beyond tires: medical gloves, elastic bands, vibration isolators**
+<IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:400px; HEIGHT:500px" SRC="images/fiber.jpg">
 
 ## Extracting fibers and spinning yarn
 <hr>
@@ -175,7 +168,6 @@ output:
 
 ## Extracting fibers and spinning yarn
 <hr>
-<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -192,15 +184,22 @@ output:
 * **Hard fibers scraped away by hand or machine**
     + *decortication*
 
-    
 <br/>
 
 * **First spinning wheel in India ~750 a.d**
     + big advancements during industrial revolution
-    
+  
+<br/>
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/hemp.jpg">
+<div style="float: left; width: 99%;">
+
+* **Now: These steps differ in labor and water use: retting can impact water quality, while decortication is mostly mechanical**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/hemp.jpg">
 
 ## King Cotton
 <hr>
@@ -237,7 +236,6 @@ output:
 
 ## Cotton plant
 <hr>
-<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -258,6 +256,10 @@ output:
     + 20,000 hairs per seed
     + hairs naturally twisted
 
+<br/>
+
+* **Now: 1 in ~2 garments contains cotton; price swings shape rural livelihoods**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/cotton.png">
@@ -269,7 +271,6 @@ output:
 
 * **Bollgard = Bt cotton created by Monsanto**
     + effective against many cotton pests
-    + bollworms and budworms
     + one of most planted transgenic crops
 
 <br/>
@@ -327,7 +328,58 @@ output:
 ## Plant fibers vary by region and culture
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:460px" SRC="images/fiberplants.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/fiberplants.png">
+
+## Natural rubber & latex: From trees to tires
+<hr>
+
+* **Natural rubber is extracted from latex, a white milky liquid that can be found in approximately 10 per cent of all plants**
+    + Rubber tree, dandelions and lettuces
+
+<br/>
+
+<div style="float: right; width: 52%;">
+
+* **Latex properties: long, coiled, and flexible chains held together by weak forces. Allows material to be stretched easily (uncoiling the chains) and then return to its original shape**
+
+<br/>
+
+* **Vulcanization = chemical process that heats rubber with a curing agent (sulfur) to create cross-links between polymer chains (Goodyear)**
+    + creates increased tensile strength, resistance to tearing, and better temperature tolerance. 
+
+<br/>
+
+* **Applications beyond tires: medical gloves, elastic bands, vibration reduction**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:20px; WIDTH:500px; HEIGHT:400px" SRC="images/vulcan.jpg">
+
+</div>
+
+## Sticky, film-forming & astringent plant chemistries
+<hr>
+<br/>
+
+* **Resins: pine rosin & turpentine → varnishes, adhesives, inks, fragrances**
+
+<br/>
+
+* **Gums: gum arabic (Acacia) are stabilizers/emulsifiers in inks, paints, and food**
+    + also printing & watercolor media
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Tannins: leather tanning, natural mordants for dyeing**
+    + historical bark/leaf sources (oak, sumac, chestnut)
+
+<br/>
+
+* **Industrial relevance: viscosity control, film formation, adhesion, crosslinking.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:575px; WIDTH:400px; HEIGHT:350px" SRC="images/gumarabic.jpg">
 
 ## Wood and wood products
 <hr>
@@ -341,12 +393,12 @@ output:
 <br/>
  
 * **1/3 of land surfaces covered by forests**
-    + 7.5 million hectares removed a year
+    + ~10 million hectares removed a year
     + long history: humans w/ fire
 
 <br/>
 
-* **Usage rate exceeds regeneration**
+* **Even with improvements, usage rate exceeds regeneration**
     + most forests unmanaged
     
 <br/>
@@ -358,31 +410,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/trillion.png">
 
-## Resins, gums & tannins: Sticky, film-forming & astringent plant chemistries
-<hr>
-
-**Resins (terpenoid-rich): pine rosin & turpentine → varnishes, adhesives, inks, fragrances**
-
-<br/>
-
-**Gums (polysaccharides): gum arabic (Acacia), tragacanth → stabilizers/emulsifiers in inks, paints, and food; printing & watercolor media**
-
-<br/>
-
-<div style="float: left; width: 55%;">
-
-**Tannins (polyphenols): leather tanning, natural mordants for dyeing; historical bark/leaf sources (oak, sumac, chestnut)**
-
-<br/>
-
-**Industrial relevance: viscosity control, film formation, adhesion, crosslinking.**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:300px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/gumarabic.jpg">
-
 ## Billion to trillion tree campaigns
 <hr>
+
+**Paradox: trees for timber vs trees for carbon—how should communities choose?**
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:75px; WIDTH:1000px; HEIGHT:400px" SRC="images/billiontrees.jpg">
 
@@ -407,6 +438,7 @@ output:
  <br/>
  
 * **Generally angiosperm lumber is more dense**
+    + now: species choice affects local mills & job types
     
 </div>
 
@@ -416,27 +448,29 @@ output:
 <hr>
 <br/>
 
-**Engineered wood—like plywood is strong for its weight, easy to prefabricate, and locks up carbon.**
-
+* **Engineered wood—like plywood is strong for its weight, easy to prefabricate, and locks up carbon.**
+    + often more environmentally friendly than solid wood
+    
 <br/>
 
-**Bio-composites mix plant fibers (flax/hemp) or wood with plastics for things like decking and furniture**
+<div style="float: left; width: 55%;">
 
+* **Bio-composites mix plant fibers (flax/hemp) or wood with plastics for things like decking and furniture**
+    + example: newer lignin and soy/corn adhesives
+    + faster prefab builds, quieter sites, inside air quality
+    
 <br/>
 
-**Newer lignin and soy/corn adhesives reduce formaldehyde, improving indoor air. Key caveats: moisture, creep over time, connection design, and how to recycle at the end**
-
-<br/>
-
-**Performance trade-offs: moisture uptake (warping/sag), connecting pieces, recyclability**
+* **Performance trade-offs:**
+    + plywood: moisture uptake (warping/sag), connectability, recyclability issues
+    + composites: cost, fading, difficult to repair
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:440px; HEIGHT:500px" SRC="images/hardness.jpg">
+<IMG STYLE="position:absolute; TOP:270px; LEFT:645px; WIDTH:400px; HEIGHT:350px" SRC="images/composite.jpg">
 
 ## Wood for fuel
 <hr>
-<br/>
 
 * **Chief source of fuel until recent times**
 
@@ -445,6 +479,7 @@ output:
 * **Developing nations still depend on wood for fuel**
     + 2 billion people use for heating/cooking
     + prominent in the tropics
+    + household air pollution is a health risk
     
 <br/>
 
@@ -457,7 +492,7 @@ output:
 
 * **Charcoal today: ~70 Mt/yr, Africa-led production; vital for household cooking, crude iron production**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:625px; WIDTH:425px; HEIGHT:450px" SRC="images/charcoal2.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:625px; WIDTH:425px; HEIGHT:450px" SRC="images/charcoal2.jpg">
 
 ## Pulp and paper
 <hr>
@@ -481,42 +516,68 @@ output:
 
 <br/>
 
-* **Each American uses 700 lbs of paper**
-    + despite the internet
+ </div>
+ 
+ <div style="float: left; width: 99%;">
+ 
+* **Americans consume about 30% of the world's paper, despite making up only 5% of the global population**
+    + each American uses 700 lbs of paper, despite the internet
     + 1 billion trees harvested a year
  
  </div>
  
 <IMG STYLE="position:absolute; TOP:175px; LEFT:560px; WIDTH:500px; HEIGHT:340px" SRC="images/paper.jpg">
 
-## The future of paper: Hemp? again?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hemp2.jpg">
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/hemp3.png">
-
-## Cellulosics & Bioplastics
+## Hemp now: paper, fiber & policy
 <hr>
 <br/>
 
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hemp2.jpg">
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/hemp3.png"> -->
+
+<div style="float: right; width: 50%;">
+ 
+* **Policy: 2018 Farm Bill legalized hemp (<0.3% THC); program extended through FY2025...**
+
+<br/>
+
+* **Markets: fiber (paper/biocomposites) vs floral/cannabinoids; acreage/value modest but growing**
+    + hemp matures way faster than trees
+    + yields 4x fibre/acre than trees
+    + can be recycled more than wood pulp paper
+ 
+ <br/>
+ 
+* **Cons: processing challenges, regulatory issues, no designed herbicides**
+
+ </div>
+ 
+## Cellulosics & Bioplastics
+<hr>
+
+<div style="float: left; width: 50%;">
+
 * **Wood pulp products: dissolving-grade cellulose from trees like eucalyptus, beech, spruce, pine**
-    + Rayon and lyocell are man-made cellulose fibers 
-    + Cellulose acetate is used for film, eyeglass frames, and tool handles.**
+    + Cellulose acetate is used for film, eyeglass frames, and tool handles
 
 <br/>
 
 * **Bioplastics are plastics made from biological sources or designed to biodegrade**
-    + Common types include PLA and PHAs—great for packaging and fibers
-    + limited by low heat resistance and the need for industrial composting
+    + include PLA & PHAs for packaging/fibers
+    + low heat resistance and need industrial composting
     
 <br/>
 
  </div>
  
+ <div style="float: right; width: 99%;">
+ 
 * **Environmental nuance: “bio-based” ≠ “biodegradable"**
     + bio-based = made from biological sources (e.g., corn, sugarcane, wood pulp).
-    + biodegradable = can be broken down by microbes into CO₂, water, biomass under specific conditions 
+    + biodegradable = can be broken down by microbes under specific conditions 
     + plastic can be bio-based but not biodegradable or biodegradable but fossil-based
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/bioplastic.png">
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/bioplastic.jpg">
