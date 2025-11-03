@@ -20,14 +20,14 @@ output:
 <br/>
 
 * **Modern civilizations: plant-based products are key for our daily lives**
-    + housing: Wood and engineered timber 
-    + clothing & goods: Cotton, linen, hemp, fibers
-    + key products based off rubber, pulp & paper, adhesives* 
+    + housing: wood and engineered timber 
+    + clothing & goods: cotton, linen, hemp, fibers
+    + key products based off rubber, pulp & paper, adhesives 
 
 <br/>
 
-* **Future civilizations: Are plant-based products to answer to some of societies biggest problems**
-    + improvements in these products (e.g. bioplastics) will create sustainable solutions
+* **Future civilizations: Are plant-based products to answer to some of societies biggest problems?**
+    + new products (e.g. bioplastics) may create sustainable solutions
     
 </div>
 
@@ -50,11 +50,11 @@ output:
 * **Plants used for baskets region dependent**
     + palm and coconut in tropics
     + tree parts in temperate regions
-    + grasses in prairies
+    + grasses in prairies or marshes
 
 <br/>
 
-* **Connection to today: keeping cultural livelihoods wtih fair-trade income, and cultural history**  
+* **Connection to today: keeping cultural livelihoods wtih fair-trade income, and living history**  
 
 </div>
 
@@ -72,12 +72,12 @@ output:
 <br/>
 
 * **Most valuable fibers are mostly cellulose and white**
-    + cellulose has tensile strength of steel
+    + some cellulose has tensile strength of steel
 
 <br/>
 
 * **Provide cloth, rope, paper, etc for millennia**
-    + rope from flax 30,000 years ago
+    + rope from flax plant dated 30,000 years old
     
 <br/>
 
@@ -98,6 +98,7 @@ output:
 
 ## RSW1 gene breakthrough
 <hr>
+<br/>
 
 <div style="float: left; width: 45%;">
 
@@ -130,8 +131,8 @@ output:
 <hr>
 
 * **Natural fibers are plant or animal based**
-    + synthetics may still use natural sources
-    + rayon still has cellulose from wood pulp
+    + synthetics may still mix in natural sources
+    + e.g., rayon still has cellulose from wood pulp
 
 <br/>
 
@@ -155,34 +156,30 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 55%;">
-
-* **Surface fibers separated from plants mechanically**
-    + *ginning*
+* **Surface fibers separated from plants (e.g., seeds) mechanically**
+    + termed: *ginning*
+    + has scaled up and automated easily
     
-</div>
-
 <IMG STYLE="position:absolute; TOP:300px; LEFT:25px; WIDTH:400px; HEIGHT:350px" SRC="images/cottongin.jpg">
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/ginning.png">
 
 ## Extracting fibers and spinning yarn
 <hr>
+<br/>
+<br/>
 
 <div style="float: left; width: 55%;">
 
-* **Surface fibers separated from plants mechanically**
-    + *ginning*
-
-<br/>
 
 * **Soft fibers extracted using microbial degradation**
-    + *retting*, removes soft tissues
+    + *retting* process loosens fibers from woody core 
+    + breaks down pectin
     
 <br/>
 
 * **Hard fibers scraped away by hand or machine**
-    + *decortication*
+    + this *decortication* occurs after *retting*
 
 <br/>
 
@@ -201,15 +198,15 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/hemp.jpg">
 
-## King Cotton
+## Cotton
 <hr>
 <br/>
-
-<div style="float: left; width: 55%;">
 
 * **Rendering cotton into cloth was discovered independently in new & old worlds**
 
 <br/>
+
+<div style="float: left; width: 55%;">
 
 * **Harvested from wild plant in coastal Peru 10,000 years ago**
     + domesticated 4,500 years ago
@@ -223,14 +220,14 @@ output:
 <br/>
 
 * **Cotton brought to Florida in 1556**
-    + commercial crop from southern colonies
+    + commercial crop for southern colonies
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:570px; WIDTH:500px; HEIGHT:275px" SRC="images/peru.jpg">
+<IMG STYLE="position:absolute; TOP:290px; LEFT:570px; WIDTH:500px; HEIGHT:275px" SRC="images/peru.jpg">
 
 ##
-**Genetic and archaeological evidence suggests that the 4 commercially grown species of cotton—and possibly a few others—were domesticated independently by at least 4 groups of people around the world**
+**Genetic and archaeological evidence suggests that the 4 commercially grown species of cotton—and possibly a few others—were domesticated independently by at least 4 groups around the world**
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/cottonmap.jpg">
 
@@ -258,7 +255,7 @@ output:
 
 <br/>
 
-* **Now: 1 in ~2 garments contains cotton; price swings shape rural livelihoods**
+* **Now: 1 in ~2 garments contains cotton; price swings shape rural farm livelihoods**
 
 </div>
 
@@ -333,7 +330,7 @@ output:
 ## Natural rubber & latex: From trees to tires
 <hr>
 
-* **Natural rubber is extracted from latex, a white milky liquid that can be found in approximately 10 per cent of all plants**
+* **Natural rubber is extracted from latex, a white milky liquid that can be found in approximately 10% of  plants**
     + Rubber tree, dandelions and lettuces
 
 <br/>
@@ -394,7 +391,6 @@ output:
  
 * **1/3 of land surfaces covered by forests**
     + ~10 million hectares removed a year
-    + long history: humans w/ fire
 
 <br/>
 
@@ -413,9 +409,9 @@ output:
 ## Billion to trillion tree campaigns
 <hr>
 
-**Paradox: trees for timber vs trees for carbon—how should communities choose?**
+**Paradox: trees for timber vs trees for carbon—how should society choose?**
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:75px; WIDTH:1000px; HEIGHT:400px" SRC="images/billiontrees.jpg">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:75px; WIDTH:1000px; HEIGHT:400px" SRC="images/billiontrees.jpg">
 
 ## Hardwoods vs softwoods
 <hr>
@@ -456,7 +452,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Bio-composites mix plant fibers (flax/hemp) or wood with plastics for things like decking and furniture**
-    + example: newer lignin and soy/corn adhesives
+    + example: soy/corn adhesives
     + faster prefab builds, quieter sites, inside air quality
     
 <br/>
@@ -478,7 +474,7 @@ output:
 
 * **Developing nations still depend on wood for fuel**
     + 2 billion people use for heating/cooking
-    + prominent in the tropics
+    + most prominent in the tropics
     + household air pollution is a health risk
     
 <br/>
@@ -507,8 +503,8 @@ output:
 <br/>
 
 * **Traditional processing (chlorine) harmful to environment**
-    + utilization of wood-rotting fungi
-    + transgenic *Eucalyptus* w/ low lignin
+    + now: utilization of wood-rotting fungi
+    + now: transgenic *Eucalyptus* w/ low lignin
 
 <br/>
 
@@ -558,7 +554,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Wood pulp products: dissolving-grade cellulose from trees like eucalyptus, beech, spruce, pine**
+* **Wood pulp products: purified cellulose from trees like eucalyptus, beech, spruce, pine**
     + Cellulose acetate is used for film, eyeglass frames, and tool handles
 
 <br/>
