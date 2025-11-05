@@ -7,11 +7,30 @@ output:
     smaller: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+## Why does traditional plant medicine exist?
+<hr>
+<br/>
 
-## Histories of Plants in Medicine
+<div style="float: left; width: 55%;">
+
+* **Humans have always searched for substances that relieve suffering and provide cures for loved ones**
+
+<br/>
+
+* **Mystical agents underlying the natural world were thought to cause illness, thus cures were sought from animals and plants**  
+    + likely involved a painful process of trial and error
+
+<br/>
+
+* **Communication among early populations was poor...**
+    + slowed accumulation/spread of medical knowledge
+    + remedies discovered independently several times
+
+ </div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:500px" SRC="images/witch.jpg">
+
+## Histories of plants in medicine eventually recorded
 <hr>
 <br/>
 
@@ -34,14 +53,14 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Aztecs gifted Badianus manuscript to king of Spain**
-    + herbal remedies for 100 afflictions
+    + mesoamerican herbal remedies for 100 afflictions
 
  </div>
 
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/ebers.jpg">
 
-## Ancient Greeks are the Foundation of Western Medicine
+## Ancient Greeks are the foundation of western medicine
 <hr>
 <br/>
 
@@ -54,9 +73,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **Dioscorides, Roman military physician, wrote 'De Materia Medica'**
+* **Dioscorides, Roman military physician, wrote 'De Materia Medica' describing preparation of 1000 simple drugs**
     + 600 species of plants with medicinal value
-    + recorded while on 'military travel'
+    + very inaccurate but became a prototype
 
 <br/>
 
@@ -68,7 +87,7 @@ knitr::opts_chunk$set(echo = FALSE)
  
 <IMG STYLE="position:absolute; TOP:190px; LEFT:725px; WIDTH:325px; HEIGHT:450px" SRC="images/roman.jpg">
 
-## Age of Herbals: Doctrine of Signatures
+## Age of herbals: Doctrine of Signatures
 <hr>
 <br/>
 
@@ -103,10 +122,33 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:775px; WIDTH:300px; HEIGHT:500px" SRC="images/doc4.jpg">
 
-## Modern Prescription Drugs
+## 17-18th century added experimental approaches
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+* **Science and philosophy advanced to hypotheses testing stage**
+    + helped discredit many previous approaches
+
+<br/>
+
+* **Improved understanding of human physiology led to more careful testing of medicines**
+
+<br/>
+
+* **Led to the discovery of vaccinations and documented experiments on plant medicines for heart problems (e.g., foxglove for dropsy)**
+    + start of 'pharamacology'
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:375px; HEIGHT:500px" SRC="images/foxglove3.jpg">
+
+## Modern era prescription drugs
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:635px; WIDTH:400px; HEIGHT:400px" SRC="images/opium.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:645px; WIDTH:400px; HEIGHT:400px" SRC="images/opium.jpg">
 
 <div style="float: left; width: 58%;">
 
@@ -117,31 +159,127 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **Purifying active extracts started in 19^th^ century**
+* **Purifying active extracts/synthetics started in 19^th^ century**
     + morphine from poppy in 1806
-    + synthetic drugs based on natural products ~1850s
-    
-<br/>
-
-* **Salicyclic acid (many plants) synthesized for pain relief**
-    + led to development of aspirin
+    + Salicyclic acid (many plants) synthesized for pain relief
 
 <br/>
+
+</div>
+
+<div style="float: left; width: 99%;">
 
 * **25% of prescriptions today contain plant-derived active ingredients**
     + research still investigating new active compounds
     + e.g. studying ingredients in Native America remedies
 
- </div> 
+</div> 
  
-## Herbal Medicine Today
+## Modern era plant-based medicine
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **First half of 20th century was a period of tremendous advancement as the causes of diseases were uncovered**
+
+<br/>
+
+* **Initially, many modern medicines were isolated, purified products from traditional plant-derived extracts**
+    + morphine, quinine, ephedrine
+
+<br/>
+
+* **Chemists begin to determine the structures of these active compounds**
+    + eventually leads to synthetic synthesis
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:630px; WIDTH:380px; HEIGHT:500px" SRC="images/morphine.jpg">
+
+## Reduction in natural remedies post 1950's
+<hr>
+<br/>   
+
+<div style="float: left; width: 45%;">
+
+* **Health care workers developed disdain for 'folk' based medicine**
+    + belief that humans have 'tested-out' plants for medicinal value
+
+<br/>   
+
+* **Pharmaceutical companies are now reluctant to undertake massive screening and testing programs to explore for new plant drugs**
+    + low ROI
+
+<br/>
+
+* **Advances in understanding the biochemistry of disease favor design of novel synthetic drugs**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:575px; HEIGHT:450px" SRC="images/trail.jpg">
+
+## Is the philosophy of Western medicine a barrier?
+<hr>
+<br/>
+
+* **Western medicine philosophy: emphasis on diagnosis of explicit disease and treatment with with one/few specific compounds**
+
+<br/>
+
+* **Different practices of medicine treat illnesses more holistically**
+    + ailments are manifestations of an imbalance
+    
+<br/>
+
+* **In these alternate practices, plant-based medicine is far more common**
+    + in recent decades these approaches have increased in the US/Europe
+
+<br/>    
+    
+* **Across approaches to medicine, the role of plant biodiversity remain vital**
+    + emerging diseases/strains vs compounds discovered from plants
+
+## National Cancer Institute: Natural Products Discovery Program
+<hr>
+<br/> 
+
+**Since 1986, the Developmental Therapeutics Program at NCI has empowered the program to acquire plants and marine organisms through collection contracts**
+
+<br/> 
+
+<div style="float: left; width: 55%;">
+
+**Encompasses >25 tropical and subtropical countries worldwide**
+
+<br/> 
+
+* **80k plant samples (green)**
+    + 5K unique genera
+<br/> 
+
+* **25K marine invertebrates and algae (blue)**
+    + 4K unique genera
+<br/> 
+
+* **25K microbial samples (brownish)**
+    + 1K unique genera
+<br/> 
+
+* **over 230,000 unique extracts**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:590px; WIDTH:520px; HEIGHT:400px" SRC="images/samples.png">
+ 
+## Herbal medicine today
 <hr>
 
 <div style="float: left; width: 64%;">
 
 * **Rural populations still rely on herbal medicine**
-    + China, India, S. America & Africa
-    + projected to reach $1.3 Billion by 2023
+    + China, India, S. America, Africa, & Appalachia
+    + medicine + supplements industry value = ~250 million
 
 <br/>
 
@@ -164,7 +302,7 @@ knitr::opts_chunk$set(echo = FALSE)
  
 <IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:375px; HEIGHT:450px" SRC="images/plotkin.jpg">
 
-## Active Principals in Plants
+## Active principals in plants
 <hr>
 <br/>
 <br/>
@@ -177,7 +315,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **Compounds called 'secondary products' as they do not directly impact metabolism**
+* **Compounds called 'secondary products' as they do not directly impact metabolism (growth)**
     + alkaloids, glycosides, terpenes & phenolics
 
 <br/>
@@ -195,26 +333,24 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: right; width: 55%;">
 
 * **Alkaloids: diverse compounds found in dicots**
-    + contain nitrogen
-    + bitter
-    + impact animal nervous systems
+    + analegstics - pain reduction
+    + impact animal nervous/muscle systems
     + medicinal, poisonous, hallucinogenic
-    + caffeine, nicotine, cocaine, morphine, quinine
+    + *caffeine, nicotine, cocaine, morphine, quinine*
 
 <br/>
 
 * **Glycosides: widespread compounds with glucose**
     + cyanogenic or cardioactive glycosides, saponins
     + steroid molecules as active component
-    + treat heart failure
-    + precursors for sex hormones
-    + can be very toxic
+    + treat heart failure, can be toxic
+    + digitalis, lily of the valley, oleander
     
  </div>
  
 <IMG STYLE="position:absolute; TOP:210px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/alkaloids2.jpg">
 
-## Medicinal Plants: Foxglove
+## Medicinal plant case study: Foxglove
 <hr>
 <br/>
 
@@ -227,7 +363,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **Millions of USA heart patients rely on *digitalis* as primary treatment**
+* **Digitoxin no longer a front-line drug today but still used on hundreds of thousands of patients**
+    + thin line between theraputic and toxic
 
 <br/>
 
@@ -244,7 +381,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/foxglove.png">
 
-## Medicinal Plants: Willow to Aspirin
+## Medicinal plant case study: Willow to aspirin
 <hr
 <br/>
 <br/>
@@ -271,7 +408,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:185px; LEFT:640px; WIDTH:525px; HEIGHT:450px" SRC="images/aspirin.jpg">
 
-## Medicinal Plants: Fever Bark Tree
+## Medicinal plant case study: Fever Bark Tree
 <hr>
 <br/>
 
@@ -305,7 +442,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/otherplants.png"> -->
 
-## Medicinal Plants: Ephedra
+## Medicinal plant case study: Ephedra
 <hr>
 
 * **Ephedrine is a plant alkaloid produced by genu *Ephedra* **
@@ -320,19 +457,18 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Ephedrine still found in modern drugs**
-    + relaxes bronchial muscles
-    + CNS stimulant
+    + relaxes bronchial muscles & a CNS stimulant
 
 <br/>
 
 * **Large scale abuse of herbal *Ephedra* products**
     + herbal ecstasy, similar to amphetamines
     + activates thermogenesis, calorie burning
-    + supplements illegal, medications ?
+    + supplements illegal, medications?
 
 <IMG STYLE="position:absolute; TOP:230px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/epedra.jpg">
 
-## Medicinal Plants and Cancer
+## Medicinal plants and cancer
 <hr>
 <br/>
 
@@ -359,7 +495,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:745px; WIDTH:200px; HEIGHT:300px" SRC="images/taxol.jpg">
 
-## Herbal Remedies: Promises and Problems
+## Herbal remedies: promises and problems
 <hr>
 <br/>
 
@@ -367,7 +503,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Plants and plant extracts feature prominently in alternative medicines**
     + considered dietary supplements by FDA
-    + $7 billion  a year industry
+    + multi-billion  a year industry
 
 <br/>
 
