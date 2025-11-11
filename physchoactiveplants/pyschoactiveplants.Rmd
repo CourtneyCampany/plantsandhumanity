@@ -553,6 +553,8 @@ output:
 ## Modern Public Health & Policy: Same Plants, New Problems
 <hr>
 
+<div style="float: left; width: 52%;">
+
 * **Opioid crisis (opium’s legacy)**
     + Morphine → heroin → modern semi-synthetic & synthetic opioids
     + plant-derived alkaloids inspired drugs now driving overdose epidemics
@@ -565,12 +567,15 @@ output:
 
 <br/>
 
+ </div>
+ 
+ <div style="float: left; width: 99%;">
 * **Cannabis is being re-imagined**
     + shifting laws (medical & recreational)
     + ongoing debates over benefits (pain, nausea, seizures) vs. risks (dependence, cognition, mental health)
 
-<br/>
-
-* **The same plant compounds can be medicines, spiritual tools, or public health crises depending on culture, technology, and policy.**
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/aipic.png">
 
 
