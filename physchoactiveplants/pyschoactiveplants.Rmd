@@ -36,7 +36,6 @@ output:
 
 * **DMT from *Acacia* used in many cultures**
     + ‘Golden Wattle’ is botanical emblem of Australia
-
     
 </div>
 
@@ -73,7 +72,7 @@ output:
 
 <div style="float: left; width: 60%;">
 
-* **Narcotics depression central nervous system**
+* **Narcotics depress central nervous system**
     + also defined as addictive
     
 <br/>
@@ -93,6 +92,33 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:645px; WIDTH:400px; HEIGHT:400px" SRC="images/kratom.jpg">
+
+## Why Do Plants Make Mind-Altering Compounds?
+<hr>
+
+<div style="float: left; width: 53%;">
+
+* **Psychoactive compounds are secondary metabolites**
+    + not for growth but costly to produce
+
+<br/>
+
+* **Defense against herbivores & pathogens**
+    + bitter, toxic alkaloids deter insects and mammals
+    + nicotine, morphine, cocaine all reduce herbivory
+
+<br/>
+
+* **Manipulating animal behavior**
+    + low doses can reward (mild stimulation → animals come back)
+    + can alter behaviors or memory
+    + WHY? may reduce herbivore life span, promote seed dispersal or pollination
+    + PA alkaloids (picture) are stored by male moths to make pheromones
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:450px; HEIGHT:500px" SRC="images/pa_drug.jpg">
+
 
 ##
 
@@ -124,16 +150,25 @@ output:
     + dissolved in alcohol (*laudanum*)
     + eaten & smoked
 
-</div>
-
 <IMG STYLE="position:absolute; TOP:180px; LEFT:640px; WIDTH:450px; HEIGHT:450px" SRC="images/opiumpoppy.jpg">
 
 ## The Lure of Laudanum
 <hr>
 
+<div style="float: right; width: 53%;">
+
+* **Marketed as a respectable household remedy—cheap, legal, and widely prescribed for pain, coughs, “nervous disorders,” women’s ailments, and even infant colic**
+    + addiction could grow quietly behind a medical veneer.
+
+<br/>
+
+* **Mix of opium, alcohol, and sweet flavor brought rapid relief and mild euphoria, making it especially alluring as a socially acceptable medicine**
+
+</div>
+
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/Laudanum2.jpg">
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:575px; WIDTH:350px; HEIGHT:250px" SRC="images/Laudanum.jpg">
+<IMG STYLE="position:absolute; TOP:440px; LEFT:585px; WIDTH:350px; HEIGHT:250px" SRC="images/Laudanum.jpg">
 
 ## Opium Wars
 <hr>
@@ -164,6 +199,37 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:280px; LEFT:625px; WIDTH:400px; HEIGHT:350px" SRC="images/opiumfactory.jpg">
+
+## Psychoactive Plants, Empire & Global Trade
+<hr>
+
+<div style="float: right; width: 62%;">
+
+* **Opium & colonialism: British Empire used Indian-grown opium to force open Chinese markets**
+    + addiction as a tool of economic control
+
+<br/>
+
+* **Tobacco & enslaved labor: Plantation economies in the Americas built around Nicotiana**
+    + links between psychoactive demand, land use change, and slavery
+
+<br/>
+
+* **Coca & Andean economies: Traditional coca chewing vs. global cocaine trade**
+    + from sacred plant to illicit commodity
+
+<br/>
+
+* **Psychoactive plants helped shape borders, wars, labor systems, and wealth**
+    + botany” and “world history” are deeply intertwined
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:375px; HEIGHT:500px" SRC="images/tobocca.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/cocaineflows.jpg">
 
 ## Opium Alkaloids
 <hr>
@@ -483,4 +549,28 @@ output:
  </div>
  
 <IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/nicotine.png">
+
+## Modern Public Health & Policy: Same Plants, New Problems
+<hr>
+
+* **Opioid crisis (opium’s legacy)**
+    + Morphine → heroin → modern semi-synthetic & synthetic opioids
+    + plant-derived alkaloids inspired drugs now driving overdose epidemics
+
+<br/>
+
+* **Tobacco & nicotine**
+    + cigarettes and vapes deliver a plant toxin in highly engineered forms
+    + huge global burden of disease (cancer, heart disease, stroke)
+
+<br/>
+
+* **Cannabis is being re-imagined**
+    + shifting laws (medical & recreational)
+    + ongoing debates over benefits (pain, nausea, seizures) vs. risks (dependence, cognition, mental health)
+
+<br/>
+
+* **The same plant compounds can be medicines, spiritual tools, or public health crises depending on culture, technology, and policy.**
+
 
