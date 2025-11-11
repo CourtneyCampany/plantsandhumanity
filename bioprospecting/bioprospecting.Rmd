@@ -43,7 +43,7 @@ output:
 
 <br/>
 
-* **~25 of modern pharmaceuticals are derived directly or indirectly from plant compounds**
+* **~25% of modern pharmaceuticals are derived directly or indirectly from plant compounds**
     + pain relief → morphine (poppy), aspirin (willow)
     + cardiovascular health → digoxin (foxglove)
     + infectious disease → quinine for antimalarial
@@ -110,4 +110,4 @@ output:
 ## Its Time For A.....
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:350px; WIDTH:425px; HEIGHT:400px" SRC="images/sidequest.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:350px; WIDTH:425px; HEIGHT:400px" SRC="images/storyquest4.png">
