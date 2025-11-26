@@ -30,11 +30,12 @@ output:
 
 * **'Spirit Molecule' in indigenous tribes of the Amazon**
     + Ayahuasca vine and Chacruna shrub
-    + molecule 'DMT' powerful hallucinogen
+
 
 <br/>
 
 * **DMT from *Acacia* used in many cultures**
+    + molecule 'DMT' powerful hallucinogen
     + ‘Golden Wattle’ is botanical emblem of Australia
     
 </div>
@@ -68,7 +69,6 @@ output:
     
 ## Psychoactive Drugs: Narcotics
 <hr>
-<br/>
 
 <div style="float: left; width: 60%;">
 
@@ -77,7 +77,8 @@ output:
     
 <br/>
 
-* **Psychoactive plants fall into both categories**
+* **Addiction occurs when the molecule overstimulates the dopamine (neurotransmitter) reward pathway**
+    + brain “learns” the drug as a powerful source of pleasure and reinforcement, leading to dependence
 
 <br/>
 
@@ -113,20 +114,19 @@ output:
     + low doses can reward (mild stimulation → animals come back)
     + can alter behaviors or memory
     + WHY? may reduce herbivore life span, promote seed dispersal or pollination
-    + PA alkaloids (picture) are stored by male moths to make pheromones
+    + PA alkaloids (picture) are stored by male moths to make reproducive pheromones
     
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:450px; HEIGHT:500px" SRC="images/pa_drug.jpg">
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/region.jpg">
 
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/alkaloids.jpg">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/region.jpg">
 
 ## Opium Poppy: An Ancient Curse
 <hr>
@@ -181,7 +181,7 @@ output:
     
 <br/>
 
-* **Addiction fueled by trade with British!**
+* **Addiction fueled by trade deficit with British!**
     + Chinese had no interest in European goods
     + wanted silver or Opium
     
@@ -258,8 +258,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/opiumalkaloids.png">
 
-## Soldiers Disease: Did Civil War Start Opiod Epidemic?
+## Soldiers Disease: Did Civil War Start First Opiod Epidemic?
 <hr>
+**Morphine, newly available from the opium poppy, was widely used to treat pain, wounds, and dysentery during the war**
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/civilwar.jpg">
 
@@ -267,14 +268,14 @@ output:
 
 ## Heroin
 <hr>
-<br/>
 
 <div style="float: left; width: 58%;">
 
 * **In 1898, BAYER introduced heroin**
     + believed was a nonaddictive opiate
-    + semi-synthetic used widely over-the-counter
-    + Americans could order from Sears
+    + semi-synthetic morphine derivative
+    + used widely over-the-counter
+    + *Americans could order from Sears*
     
 <br/>
 
@@ -284,124 +285,128 @@ output:
   
 <br/>
   
-* **India still produces heroin for medicine**
+* **A few European countries still allow medical-grade heroin in hospitals**
 
 <br/>
-
-* **Middle east and Asian countries large illegal production**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/bayer2.jpg">
+<div style="float: left; width: 99%;">
 
-## Marijuana: One of the Oldest Cultivated Plants
-<hr>
-<br/>
-<br/>
-
-<div style="float: left; width: 58%;">
-
-* **Cannabis sativa is a dioecious plant, with resin production on trichomes**
-    + resin is source of psychoactive compounds
-    + native to central Asia, grown globally
-
-<br/>
-
-* **Marijuana is highly variable is size and growth**
-    + potentially 3 separate species
-
-<br/>
-
-* **Used for various purposes in many cultures**
-    + hallucinogen, fiber, oil
+* **Illegal heroin is produced in 3 regions: the Golden Crescent (Afghanistan-Pakistan-Iran), the Golden Triangle (Myanmar-Laos-Thailand), and Mexico**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/maryjane.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/bayer2.jpg">
 
-## Early history of *Cannabis*
-<hr>
-<br/>
+<!-- ## Marijuana: One of the Oldest Cultivated Plants -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 60%;">
+<!-- <div style="float: left; width: 58%;"> -->
 
-* **Use of *Cannabis* traced to ancient China**
-    + valued from fiber and medicine
-    + Emperor Nung (5,000 years ago) recommended for medicine
+<!-- * **Cannabis sativa is a dioecious plant, with resin production on trichomes** -->
+<!--     + resin is source of psychoactive compounds -->
+<!--     + native to central Asia, grown globally -->
 
-<br/>
+<!-- <br/> -->
 
-* **Ancient nomadic Asian horsemen first records of smoking**
-    + ritual ceremonies ~500 B.C.
-    
-<br/>    
-   
-* **Spread from Asian to India ~600 B.C.**
-    + folk medicines use extensively
-    + 1 of 5 sacred plants
-    + bhang (variety) sold outside Hindu temples
-    
-</div>
+<!-- * **Marijuana is highly variable is size and growth** -->
+<!--     + potentially 3 separate species -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:660px; WIDTH:400px; HEIGHT:400px" SRC="images/indiatemple.jpg">
+<!-- <br/> -->
 
-## Introduction of *Cannabis* to the West
-<hr>
+<!-- * **Used for various purposes in many cultures** -->
+<!--     + hallucinogen, fiber, oil -->
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:590px; WIDTH:500px; HEIGHT:400px" SRC="images/stamp.jpg">
+<!-- </div> -->
 
-<div style="float: left; width: 60%;">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/maryjane.jpg"> -->
 
-* **Europeans cultivated hemp fibers for centuries**
-    + use as psychoactive around 19^th^ century
+<!-- ## Early history of *Cannabis* -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<br/>
+<!-- <div style="float: left; width: 60%;"> -->
 
-* **Rumored Napoleon's armies popularized smoking**
-    + popular in Paris (1850's) among intellectuals
+<!-- * **Use of *Cannabis* traced to ancient China** -->
+<!--     + valued from fiber and medicine -->
+<!--     + Emperor Nung (5,000 years ago) recommended for medicine -->
 
-<br/>
+<!-- <br/> -->
 
-* **US from Mexico or Caribbean (~1900)**
-    + recreational and over-the-counter medicine
-    + eliminated medicinal use
-    
-<br/>
+<!-- * **Ancient nomadic Asian horsemen first records of smoking** -->
+<!--     + ritual ceremonies ~500 B.C. -->
 
-* **Federal Marijuana Tax Act (1937)**
-    + gov't 'educational campaigns'
-    
-</div>
+<!-- <br/>     -->
 
-## Pyschoactive Effects of THC
-<hr>
-<br/>
+<!-- * **Spread from Asian to India ~600 B.C.** -->
+<!--     + folk medicines use extensively -->
+<!--     + 1 of 5 sacred plants -->
+<!--     + bhang (variety) sold outside Hindu temples -->
 
-<div style="float: left; width: 58%;">
+<!-- </div> -->
 
-* **Chemistry of *Cannabis* is unique phenolic compounds**
-    + cannabinoids not alkaloids
-    + THC (psychoactive) identified in 1964
-    
-<br/>
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:660px; WIDTH:400px; HEIGHT:400px" SRC="images/indiatemple.jpg"> -->
 
-* **THC concentration varies by strain, sex, climate & growing conditions**
-    + effects include euphoria and calmness
-    
-<br/>
+<!-- ## Introduction of *Cannabis* to the West -->
+<!-- <hr> -->
 
-* **Regions of the brain contain cannabinoid receptors**
-    + THC receptors in high densities in several brain areas
-    + THC receptors found in immune system cells
-    + THC mimics naturally produced cells for these receptors
+<!-- <IMG STYLE="position:absolute; TOP:210px; LEFT:590px; WIDTH:500px; HEIGHT:400px" SRC="images/stamp.jpg"> -->
 
-</div>
+<!-- <div style="float: left; width: 60%;"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:620px; WIDTH:450px; HEIGHT:400px" SRC="images/cb1.jpg">
+<!-- * **Europeans cultivated hemp fibers for centuries** -->
+<!--     + use as psychoactive around 19^th^ century -->
 
-##
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/medicalweed.png">
+<!-- * **Rumored Napoleon's armies popularized smoking** -->
+<!--     + popular in Paris (1850's) among intellectuals -->
+
+<!-- <br/> -->
+
+<!-- * **US from Mexico or Caribbean (~1900)** -->
+<!--     + recreational and over-the-counter medicine -->
+<!--     + eliminated medicinal use -->
+
+<!-- <br/> -->
+
+<!-- * **Federal Marijuana Tax Act (1937)** -->
+<!--     + gov't 'educational campaigns' -->
+
+<!-- </div> -->
+
+<!-- ## Pyschoactive Effects of THC -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- <div style="float: left; width: 58%;"> -->
+
+<!-- * **Chemistry of *Cannabis* is unique phenolic compounds** -->
+<!--     + cannabinoids not alkaloids -->
+<!--     + THC (psychoactive) identified in 1964 -->
+
+<!-- <br/> -->
+
+<!-- * **THC concentration varies by strain, sex, climate & growing conditions** -->
+<!--     + effects include euphoria and calmness -->
+
+<!-- <br/> -->
+
+<!-- * **Regions of the brain contain cannabinoid receptors** -->
+<!--     + THC receptors in high densities in several brain areas -->
+<!--     + THC receptors found in immune system cells -->
+<!--     + THC mimics naturally produced cells for these receptors -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:620px; WIDTH:450px; HEIGHT:400px" SRC="images/cb1.jpg"> -->
+
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:25px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/medicalweed.png"> -->
 
 ## The Origins of Cocaine
 <hr>
@@ -464,14 +469,14 @@ output:
 
 ## Harrison Act (1914): First Anti-narcotic Law
 <hr>
+**Shifted these substances from over‑the‑counter remedies to controlled drugs, setting the stage for later drug scheduling and prohibition policies**
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/harrison.jpg">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/harrison.jpg">
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:350px; HEIGHT:250px" SRC="images/harrison2.jpg">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:600px; WIDTH:350px; HEIGHT:250px" SRC="images/harrison2.jpg">
 
 ## Medical Uses of Cocaine
 <hr>
-<br/>
 <br/>
 <br/>
 
@@ -482,11 +487,12 @@ output:
 
 * **Common synthetic local anesthics similar to cocaine**
     + Novocain, lidocaine, xylocaine
+    + safer and more controllable
     
 <br/>
 
 * **Constricts blood vessels, reducing blood flow**
-    + popular in many surgeries
+    + sometimes used in ear, nose, and throat surgeries
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:675px; WIDTH:300px; HEIGHT:450px" SRC="images/surgery.jpg">
 
@@ -523,7 +529,6 @@ output:
 
 ## Nicotine Effects
 <hr>
-<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -533,11 +538,11 @@ output:
 
 <br/>    
 
-* **Acts as a stimulant on the CNS**
+* **Acts as a stimulant on the CNS in low dosages**
 
 <br/>
 
-* **Acts on the peripheral nervous system**
+* **Also acts on the peripheral nervous system**
     + blocks heat, pain & hunger signals
     + increases heart rate
 
