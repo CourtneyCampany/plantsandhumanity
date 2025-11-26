@@ -7,11 +7,6 @@ output:
     smaller: true
 ---
 
-## Poisonous and Allergy Plants
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/jurassicpark.jpg">
-
 ## Cultural History of Poisonous Plants
 <hr>
 <br/>
@@ -40,6 +35,37 @@ output:
     + many in our backyards!
     
 </div>
+
+## What Makes a Plant “Poisonous”?
+<hr>
+<div style="float: right; width: 60%;"
+
+* **A poisonous plant contains chemicals that can cause harm**
+    + Damage may be to cells, organs, or whole-body systems
+
+<br/>
+
+* **Routes of exposure**
+    + Ingestion (eating seeds, leaves, roots)
+    + Skin contact (sap, spines, hairs)
+    + Inhalation (smoke, dust, pollen)
+    + Injection (spines, thorns, needles, darts)
+
+<br/>
+
+* **“The dose makes the poison”**
+    + Small dose: sometimes harmless or even medicinal
+    + Large dose: toxic or lethal
+
+<br/>
+
+* **Poisons vs allergens (preview)**
+    + Poisons: direct damage
+    + Allergens: immune system overreaction
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:20px; WIDTH:300px; HEIGHT:500px" SRC="images/cats.png">
 
 ## Poisonous Plants in the Wild: Curare
 <hr>
@@ -70,6 +96,65 @@ output:
 
 https://www.youtube.com/watch?v=uzpXZX39Eb4
     
+## From Rainforest Darts to Operating Rooms
+<hr>
+<br/>
+
+* **Tubocurarine is a plant-derived alkaloid found in the bark and stems of the South American vine Chondrodendron tomentosum**
+
+<br/>
+
+* **Traditionally used in the arrow poison known as curare and was later isolated for use as a neuromuscular blocking agent in surgery**
+    + Is one of the main active ingredients in the arrow poison curare, which is used for hunting
+
+<br/>
+
+<div style="float: lefy; width: 50%;"
+
+* **After being isolated in the mid-1900s, tubocurarine was used clinically as a muscle relaxant during anesthesia**         + now replaced by safer synthetic alternatives.
+
+<br/>
+
+* **Commercial development of tubocurarine is a prominent historical example often cited in discussions of biopiracy**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:395px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/tubocar.jpg">
+
+## Poisonous Plants Around Home, Pets, and Campus
+<hr>
+
+<div style="float: left; width: 58%;">
+
+* **Common toxic ornamentals & houseplants**
+    + Philodendron: burning, edema of mouth/airways
+    + Foxglove: abnormal heart rhythm
+    + Oleander: highly potent cardiotoxin
+    + Sago palm: liver failure in dogs
+    + Lilies (cats): acute kidney injury
+
+<br/>
+
+* **Why species differ in sensitivity...**
+    + detoxification enzymes differ among mammals
+    + toxic dose depends on mg toxin per kg body mass
+
+<br/>
+
+* **Mechanisms of harm**
+    + GI irritation: damage to gut lining
+    + cardiotoxicity: disrupts ion transport in heart muscle
+    + Hepato/nephrotoxicity: injury to liver or kidneys
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:500px" SRC="images/toxic.jpg">
+
+## Home Depot has them all!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/homedepot.png">
+
 ## Backyard Poisonous Plants 
 <hr>
 
@@ -184,6 +269,35 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 <IMG STYLE="position:absolute; TOP:430px; LEFT:25px; WIDTH:250px; HEIGHT:230px" SRC="images/cacti.jpg">
 <IMG STYLE="position:absolute; TOP:250px; LEFT:310px; WIDTH:275px; HEIGHT:300px" SRC="images/nettle2.jpg">
 
+## Plant Defenses: Spines, Stings, and Chemistry
+<hr>
+
+<div style="float: left; width: 52%;">
+
+* **Plants can’t run → they defend themselves**
+
+<br/>
+
+* **Physical defenses:**
+    + spines, thorns, prickles (cacti, roses)
+    + stinging hairs/trichomes (nettles)
+
+<br/>
+
+* **Chemical defenses**
+    + bitter or toxic compounds (e.g., alkaloids)
+    + latex or milky sap 
+    + volatiles that attract predators of herbivores
+    
+<br/>
+
+* **Traits evolved against herbivores, not specifically to poison people**
+    + Humans are just “collateral damage”
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:580px; WIDTH:480px; HEIGHT:500px" SRC="images/latex.png">
+
 ## Insecticides from Plants
 <hr>
 
@@ -214,10 +328,43 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/flea.jpg">
 
-## Allergy Plants
+## Poisons vs Allergens: Two Different Kinds of Trouble
 <hr>
 <br/>
 
+<div style="float: left; width: 50%;">
+
+* **Poison/Toxin: chemical substance that is harmful when ingested**
+    + directly damages cells/organs, not an immune response
+    + anyone can be affected above a threshold dose
+
+<br/>
+
+* **Examples:**
+    + Ricin (castor bean) → shuts down protein synthesis
+    + Oleander → affects heart function
+    + White snakeroot → toxic milk sickness
+
+</div>
+
+<div style="float: left; width: 50%;">
+
+* **Allergen: an immune response triggered by specific plant proteins, like pollen**
+    + immune system identifies a substance as a threat and releases antibodies to fight it
+    + affects sensitized individuals
+
+<br/>
+
+* **Examples:**
+    + Ragweed pollen → hay fever
+    + Poison ivy urushiol → contact dermatitis
+    + Peanut or tree nut proteins → systemic allergy/anaphylaxis
+    
+</div>
+
+## Allergy Plants
+<hr>
+<br/>
 
 * **Certain plants or plant parts are capable of causing allergic conditions to sensitive individuals**
 
@@ -298,12 +445,11 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:640px; WIDTH:400px; HEIGHT:450px" SRC="images/ragweed.jpg">
 
-
 ## Climate Change and Hay Fever Plants
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:500px; HEIGHT:300px" SRC="images/pollen.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:425px; HEIGHT:500px" SRC="images/ragweed2.png">
 
 <div style="float: left; width: 52%;">
 
@@ -323,6 +469,14 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
     + later frost dates increase ragweed season
 
 </div>
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/pollen.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/pollendays.jpg">
 
 ## Contact Dermatitis
 <hr>
