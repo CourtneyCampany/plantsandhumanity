@@ -9,14 +9,13 @@ output:
 
 ## Cultural History of Poisonous Plants
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/catherine.jpg">
 
 <div style="float: left; width: 55%;">
 
 * **Identifying poisonous plants accompanies finding edible plants in ancient foraging societies**
-    + utilized to capture prey
+    + also utilized to capture prey
     + 'toxic' from Greek 'toxikon' = arrow poison
     
 <br/>
@@ -38,6 +37,8 @@ output:
 
 ## What Makes a Plant “Poisonous”?
 <hr>
+<br/>
+
 <div style="float: right; width: 60%;"
 
 * **A poisonous plant contains chemicals that can cause harm**
@@ -53,7 +54,7 @@ output:
 
 <br/>
 
-* **“The dose makes the poison”**
+* **“The dose makes the poison” Swiss physician Paracelsus**
     + Small dose: sometimes harmless or even medicinal
     + Large dose: toxic or lethal
 
@@ -65,7 +66,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:20px; WIDTH:300px; HEIGHT:500px" SRC="images/cats.png">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:80px; WIDTH:300px; HEIGHT:500px" SRC="images/cats.png">
 
 ## Poisonous Plants in the Wild: Curare
 <hr>
@@ -82,8 +83,7 @@ output:
 <br/>
 
 * **Blocks nerve impulses at the junction of nerve and muscle**
-    + turbocurarine eventually isolated
-    + used in surgery because effects reversible
+    + muscles stop contracting
 
 </div>
 
@@ -98,20 +98,19 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
     
 ## From Rainforest Darts to Operating Rooms
 <hr>
-<br/>
 
-* **Tubocurarine is a plant-derived alkaloid found in the bark and stems of the South American vine Chondrodendron tomentosum**
+* **Tubocurarine is a plant-derived alkaloid found in the bark and stems of the South American vine *Chondrodendron tomentosum***
 
 <br/>
 
 * **Traditionally used in the arrow poison known as curare and was later isolated for use as a neuromuscular blocking agent in surgery**
-    + Is one of the main active ingredients in the arrow poison curare, which is used for hunting
+    + relaxes skeletal muscles so surgeons can operate more safely
 
 <br/>
 
-<div style="float: lefy; width: 50%;"
+<div style="float: left; width: 50%;">
 
-* **After being isolated in the mid-1900s, tubocurarine was used clinically as a muscle relaxant during anesthesia**         + now replaced by safer synthetic alternatives.
+* **After being isolated in the mid-1900s, tubocurarine is now replaced by safer synthetic alternatives**
 
 <br/>
 
@@ -121,7 +120,7 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 
 <IMG STYLE="position:absolute; TOP:395px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/tubocar.jpg">
 
-## Poisonous Plants Around Home, Pets, and Campus
+## Poisonous Plants Around the Home and Yard
 <hr>
 
 <div style="float: left; width: 58%;">
@@ -220,7 +219,7 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 
 <div style="float: left; width: 68%;">
 
-* **Numerous plants poisonous to sheep and cattle**
+* **Numerous rangeland plants poisonous to livestock**
     + can be passed to humans (milk)
 
 <br/>
@@ -316,7 +315,6 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 * **Pyrethrum = made from *Chrysanthemum* flower**
     + nerve poison for household insects
     + common in flea medications
-    + may bioaccumulate in streams
 
 <br/>
 
@@ -335,8 +333,8 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 <div style="float: left; width: 50%;">
 
 * **Poison/Toxin: chemical substance that is harmful when ingested**
-    + directly damages cells/organs, not an immune response
-    + anyone can be affected above a threshold dose
+    + directly damages cells/organs
+    + anyone can be affected above a certain dose
 
 <br/>
 
@@ -374,7 +372,7 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 
 * **Reactions considered hypersensitive reactions**
     + immune systems differentiates 'non-self'
-    + produce immune response
+    + produce immune responses
   
 <br/>
   
@@ -401,7 +399,7 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 
 * **Hay fever: respiratory reactions to pollen**
     + mild symptoms but long lasting
-    + 17 million visits to physician each year
+    + millions of visits to physicians each year
 
 <br/>
 
@@ -451,7 +449,7 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:425px; HEIGHT:500px" SRC="images/ragweed2.png">
 
-<div style="float: left; width: 52%;">
+<div style="float: left; width: 50%;">
 
 * **Increasing temperatures alter growing seasons for plants**
     + spring-flowering plants most sensitive
@@ -532,7 +530,7 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 
 * **Can GMO's have hidden allergens?**
     + soybean w/ gene from Brazil nut
-    + StarLink corn
+    + StarLink corn with allergen insecticide protein
     
 </div>
 
@@ -549,14 +547,14 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 <br/>
 
     
-* **Natural source of rubber, Hevea brasiliensis**
+* **Natural source of rubber, *Hevea brasiliensis***
     + hydrocarbons w/ elastic properites
 
 <br/>
 
     
 * **Natural rubber latex found in gloves, tubing & medical supplies**
-    + 70% of rubber synthetic but natural superior
+    + 70% of rubber synthetic but natural is superior
 
 <br/>
 
@@ -566,5 +564,5 @@ https://www.youtube.com/watch?v=uzpXZX39Eb4
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:565px; WIDTH:500px; HEIGHT:400px" SRC="images/guayule.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/guayule.jpg">
 
