@@ -222,7 +222,6 @@ output:
 <hr>
 <br/>
 
-
 <div style="float: left; width: 59%;">
 
 * **Vitamins (organic molecules) play a role as co-enzymes**
@@ -399,7 +398,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Edible grains of cultivated grasses basic food of human civilization**
-    + wheat, core, rice
+    + wheat, corn, rice
     + barely, oats, millet & rye
     
 <br/>

@@ -152,7 +152,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/paleo.jpg">
 
-## Agriculture: Revolution of evolution?
+## Agriculture: Revolution or evolution?
 <hr>
 <br/>
 <br/>
